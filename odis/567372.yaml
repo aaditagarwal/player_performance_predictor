@@ -1,0 +1,4784 @@
+---
+meta:
+  data_version: 0.9
+  created: 2013-03-25
+  revision: 1
+info:
+  city: Benoni
+  dates:
+    - 2013-03-24
+  gender: male
+  match_type: ODI
+  outcome:
+    by:
+      wickets: 6
+    winner: South Africa
+  overs: 50
+  player_of_match:
+    - AB de Villiers
+  teams:
+    - South Africa
+    - Pakistan
+  toss:
+    decision: bat
+    winner: Pakistan
+  umpires:
+    - BF Bowden
+    - JD Cloete
+  venue: Willowmoore Park
+innings:
+  - 1st innings:
+      team: Pakistan
+      deliveries:
+        - 0.1:
+            batsman: Imran Farhat
+            bowler: DW Steyn
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: Imran Farhat
+            bowler: DW Steyn
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: Imran Farhat
+            bowler: DW Steyn
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.4:
+            batsman: Imran Farhat
+            bowler: DW Steyn
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: Imran Farhat
+            bowler: DW Steyn
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: Imran Farhat
+            bowler: DW Steyn
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: Mohammad Hafeez
+            bowler: LL Tsotsobe
+            non_striker: Imran Farhat
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.2:
+            batsman: Mohammad Hafeez
+            bowler: LL Tsotsobe
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: Mohammad Hafeez
+            bowler: LL Tsotsobe
+            non_striker: Imran Farhat
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.4:
+            batsman: Imran Farhat
+            bowler: LL Tsotsobe
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.5:
+            batsman: Mohammad Hafeez
+            bowler: LL Tsotsobe
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: Mohammad Hafeez
+            bowler: LL Tsotsobe
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: Imran Farhat
+            bowler: DW Steyn
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.2:
+            batsman: Mohammad Hafeez
+            bowler: DW Steyn
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: Mohammad Hafeez
+            bowler: DW Steyn
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: Mohammad Hafeez
+            bowler: DW Steyn
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: Mohammad Hafeez
+            bowler: DW Steyn
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - CA Ingram
+              kind: caught
+              player_out: Mohammad Hafeez
+        - 2.6:
+            batsman: Kamran Akmal
+            bowler: DW Steyn
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: Imran Farhat
+            bowler: LL Tsotsobe
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: Imran Farhat
+            bowler: LL Tsotsobe
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: Imran Farhat
+            bowler: LL Tsotsobe
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: Imran Farhat
+            bowler: LL Tsotsobe
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: Imran Farhat
+            bowler: LL Tsotsobe
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: Imran Farhat
+            bowler: LL Tsotsobe
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: Kamran Akmal
+            bowler: DW Steyn
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: Kamran Akmal
+            bowler: DW Steyn
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: Kamran Akmal
+            bowler: DW Steyn
+            non_striker: Imran Farhat
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.4:
+            batsman: Kamran Akmal
+            bowler: DW Steyn
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: Kamran Akmal
+            bowler: DW Steyn
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: Kamran Akmal
+            bowler: DW Steyn
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: Imran Farhat
+            bowler: LL Tsotsobe
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 5.2:
+            batsman: Kamran Akmal
+            bowler: LL Tsotsobe
+            non_striker: Imran Farhat
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.3:
+            batsman: Imran Farhat
+            bowler: LL Tsotsobe
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: Imran Farhat
+            bowler: LL Tsotsobe
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.5:
+            batsman: Kamran Akmal
+            bowler: LL Tsotsobe
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: Kamran Akmal
+            bowler: LL Tsotsobe
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: Imran Farhat
+            bowler: M Morkel
+            extras:
+              wides: 1
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 6.2:
+            batsman: Imran Farhat
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: Imran Farhat
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.4:
+            batsman: Imran Farhat
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: Imran Farhat
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: Imran Farhat
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.7:
+            batsman: Imran Farhat
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.1:
+            batsman: Kamran Akmal
+            bowler: LL Tsotsobe
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: Kamran Akmal
+            bowler: LL Tsotsobe
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: Kamran Akmal
+            bowler: LL Tsotsobe
+            non_striker: Imran Farhat
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.4:
+            batsman: Kamran Akmal
+            bowler: LL Tsotsobe
+            non_striker: Imran Farhat
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: Imran Farhat
+            bowler: LL Tsotsobe
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: Imran Farhat
+            bowler: LL Tsotsobe
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.1:
+            batsman: Kamran Akmal
+            bowler: M Morkel
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: Kamran Akmal
+            bowler: M Morkel
+            non_striker: Imran Farhat
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.3:
+            batsman: Imran Farhat
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: Imran Farhat
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: Imran Farhat
+            bowler: M Morkel
+            extras:
+              wides: 1
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 8.6:
+            batsman: Imran Farhat
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.7:
+            batsman: Imran Farhat
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.1:
+            batsman: Imran Farhat
+            bowler: LL Tsotsobe
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - AB de Villiers
+              kind: caught
+              player_out: Imran Farhat
+        - 9.2:
+            batsman: Younis Khan
+            bowler: LL Tsotsobe
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: Younis Khan
+            bowler: LL Tsotsobe
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: Younis Khan
+            bowler: LL Tsotsobe
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: Younis Khan
+            bowler: LL Tsotsobe
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.6:
+            batsman: Younis Khan
+            bowler: LL Tsotsobe
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: Kamran Akmal
+            bowler: M Morkel
+            non_striker: Younis Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: Younis Khan
+            bowler: M Morkel
+            extras:
+              wides: 1
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 10.3:
+            batsman: Younis Khan
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: Younis Khan
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: Younis Khan
+            bowler: M Morkel
+            extras:
+              noballs: 1
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 1
+              total: 2
+        - 10.6:
+            batsman: Kamran Akmal
+            bowler: M Morkel
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.7:
+            batsman: Kamran Akmal
+            bowler: M Morkel
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.8:
+            batsman: Kamran Akmal
+            bowler: M Morkel
+            non_striker: Younis Khan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 11.1:
+            batsman: Younis Khan
+            bowler: R McLaren
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: Younis Khan
+            bowler: R McLaren
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.3:
+            batsman: Kamran Akmal
+            bowler: R McLaren
+            extras:
+              legbyes: 1
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 11.4:
+            batsman: Younis Khan
+            bowler: R McLaren
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 11.5:
+            batsman: Younis Khan
+            bowler: R McLaren
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: Younis Khan
+            bowler: R McLaren
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: Kamran Akmal
+            bowler: M Morkel
+            extras:
+              wides: 1
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 12.2:
+            batsman: Kamran Akmal
+            bowler: M Morkel
+            non_striker: Younis Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.3:
+            batsman: Younis Khan
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.4:
+            batsman: Younis Khan
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.5:
+            batsman: Younis Khan
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.6:
+            batsman: Younis Khan
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.7:
+            batsman: Younis Khan
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 13.1:
+            batsman: Kamran Akmal
+            bowler: R McLaren
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.2:
+            batsman: Kamran Akmal
+            bowler: R McLaren
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: Kamran Akmal
+            bowler: R McLaren
+            non_striker: Younis Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.4:
+            batsman: Younis Khan
+            bowler: R McLaren
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: Kamran Akmal
+            bowler: R McLaren
+            extras:
+              legbyes: 1
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 13.6:
+            batsman: Younis Khan
+            bowler: R McLaren
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 14.1:
+            batsman: Kamran Akmal
+            bowler: RJ Peterson
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.2:
+            batsman: Kamran Akmal
+            bowler: RJ Peterson
+            non_striker: Younis Khan
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 14.3:
+            batsman: Kamran Akmal
+            bowler: RJ Peterson
+            non_striker: Younis Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.4:
+            batsman: Younis Khan
+            bowler: RJ Peterson
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.5:
+            batsman: Kamran Akmal
+            bowler: RJ Peterson
+            non_striker: Younis Khan
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 14.6:
+            batsman: Kamran Akmal
+            bowler: RJ Peterson
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.1:
+            batsman: Younis Khan
+            bowler: R McLaren
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.2:
+            batsman: Younis Khan
+            bowler: R McLaren
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.3:
+            batsman: Younis Khan
+            bowler: R McLaren
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.4:
+            batsman: Younis Khan
+            bowler: R McLaren
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: Younis Khan
+            bowler: R McLaren
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.6:
+            batsman: Younis Khan
+            bowler: R McLaren
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.1:
+            batsman: Younis Khan
+            bowler: RJ Peterson
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.2:
+            batsman: Younis Khan
+            bowler: RJ Peterson
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.3:
+            batsman: Kamran Akmal
+            bowler: RJ Peterson
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.4:
+            batsman: Kamran Akmal
+            bowler: RJ Peterson
+            non_striker: Younis Khan
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 16.5:
+            batsman: Kamran Akmal
+            bowler: RJ Peterson
+            non_striker: Younis Khan
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 16.6:
+            batsman: Younis Khan
+            bowler: RJ Peterson
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: Younis Khan
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.2:
+            batsman: Younis Khan
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.3:
+            batsman: Younis Khan
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.4:
+            batsman: Younis Khan
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.5:
+            batsman: Younis Khan
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.6:
+            batsman: Kamran Akmal
+            bowler: M Morkel
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.1:
+            batsman: Younis Khan
+            bowler: DW Steyn
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.2:
+            batsman: Younis Khan
+            bowler: DW Steyn
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.3:
+            batsman: Younis Khan
+            bowler: DW Steyn
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: Younis Khan
+            bowler: DW Steyn
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.5:
+            batsman: Kamran Akmal
+            bowler: DW Steyn
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.6:
+            batsman: Kamran Akmal
+            bowler: DW Steyn
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.1:
+            batsman: Younis Khan
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.2:
+            batsman: Younis Khan
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.3:
+            batsman: Younis Khan
+            bowler: M Morkel
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.4:
+            batsman: Kamran Akmal
+            bowler: M Morkel
+            non_striker: Younis Khan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 19.5:
+            batsman: Kamran Akmal
+            bowler: M Morkel
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.6:
+            batsman: Kamran Akmal
+            bowler: M Morkel
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.1:
+            batsman: Younis Khan
+            bowler: DW Steyn
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.2:
+            batsman: Younis Khan
+            bowler: DW Steyn
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.3:
+            batsman: Younis Khan
+            bowler: DW Steyn
+            extras:
+              wides: 1
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 20.4:
+            batsman: Younis Khan
+            bowler: DW Steyn
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.5:
+            batsman: Younis Khan
+            bowler: DW Steyn
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.6:
+            batsman: Younis Khan
+            bowler: DW Steyn
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.7:
+            batsman: Younis Khan
+            bowler: DW Steyn
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.1:
+            batsman: Kamran Akmal
+            bowler: RJ Peterson
+            non_striker: Younis Khan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 21.2:
+            batsman: Kamran Akmal
+            bowler: RJ Peterson
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.3:
+            batsman: Kamran Akmal
+            bowler: RJ Peterson
+            non_striker: Younis Khan
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 21.4:
+            batsman: Kamran Akmal
+            bowler: RJ Peterson
+            non_striker: Younis Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.5:
+            batsman: Younis Khan
+            bowler: RJ Peterson
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.6:
+            batsman: Younis Khan
+            bowler: RJ Peterson
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.1:
+            batsman: Kamran Akmal
+            bowler: LL Tsotsobe
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.2:
+            batsman: Kamran Akmal
+            bowler: LL Tsotsobe
+            non_striker: Younis Khan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 22.3:
+            batsman: Kamran Akmal
+            bowler: LL Tsotsobe
+            non_striker: Younis Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.4:
+            batsman: Younis Khan
+            bowler: LL Tsotsobe
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.5:
+            batsman: Younis Khan
+            bowler: LL Tsotsobe
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.6:
+            batsman: Younis Khan
+            bowler: LL Tsotsobe
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.1:
+            batsman: Kamran Akmal
+            bowler: RJ Peterson
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.2:
+            batsman: Kamran Akmal
+            bowler: RJ Peterson
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.3:
+            batsman: Kamran Akmal
+            bowler: RJ Peterson
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.4:
+            batsman: Kamran Akmal
+            bowler: RJ Peterson
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - R McLaren
+              kind: caught
+              player_out: Kamran Akmal
+        - 23.5:
+            batsman: Misbah-ul-Haq
+            bowler: RJ Peterson
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.6:
+            batsman: Misbah-ul-Haq
+            bowler: RJ Peterson
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.1:
+            batsman: Younis Khan
+            bowler: LL Tsotsobe
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 24.2:
+            batsman: Younis Khan
+            bowler: LL Tsotsobe
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.3:
+            batsman: Younis Khan
+            bowler: LL Tsotsobe
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.4:
+            batsman: Misbah-ul-Haq
+            bowler: LL Tsotsobe
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.5:
+            batsman: Misbah-ul-Haq
+            bowler: LL Tsotsobe
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.6:
+            batsman: Misbah-ul-Haq
+            bowler: LL Tsotsobe
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.1:
+            batsman: Younis Khan
+            bowler: F Behardien
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.2:
+            batsman: Misbah-ul-Haq
+            bowler: F Behardien
+            non_striker: Younis Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.3:
+            batsman: Misbah-ul-Haq
+            bowler: F Behardien
+            non_striker: Younis Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.4:
+            batsman: Younis Khan
+            bowler: F Behardien
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - HM Amla
+              kind: caught
+              player_out: Younis Khan
+        - 25.5:
+            batsman: Shoaib Malik
+            bowler: F Behardien
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.6:
+            batsman: Shoaib Malik
+            bowler: F Behardien
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.1:
+            batsman: Shoaib Malik
+            bowler: R McLaren
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 26.2:
+            batsman: Shoaib Malik
+            bowler: R McLaren
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.3:
+            batsman: Shoaib Malik
+            bowler: R McLaren
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.4:
+            batsman: Shoaib Malik
+            bowler: R McLaren
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.5:
+            batsman: Shoaib Malik
+            bowler: R McLaren
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.6:
+            batsman: Shoaib Malik
+            bowler: R McLaren
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.1:
+            batsman: Shoaib Malik
+            bowler: F Behardien
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.2:
+            batsman: Shoaib Malik
+            bowler: F Behardien
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.3:
+            batsman: Misbah-ul-Haq
+            bowler: F Behardien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.4:
+            batsman: Shoaib Malik
+            bowler: F Behardien
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.5:
+            batsman: Misbah-ul-Haq
+            bowler: F Behardien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.6:
+            batsman: Misbah-ul-Haq
+            bowler: F Behardien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.1:
+            batsman: Shoaib Malik
+            bowler: R McLaren
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.2:
+            batsman: Shoaib Malik
+            bowler: R McLaren
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 28.3:
+            batsman: Shoaib Malik
+            bowler: R McLaren
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.4:
+            batsman: Shoaib Malik
+            bowler: R McLaren
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.5:
+            batsman: Shoaib Malik
+            bowler: R McLaren
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.6:
+            batsman: Misbah-ul-Haq
+            bowler: R McLaren
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.1:
+            batsman: Shoaib Malik
+            bowler: RJ Peterson
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 29.2:
+            batsman: Shoaib Malik
+            bowler: RJ Peterson
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 29.3:
+            batsman: Shoaib Malik
+            bowler: RJ Peterson
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.4:
+            batsman: Misbah-ul-Haq
+            bowler: RJ Peterson
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.5:
+            batsman: Shoaib Malik
+            bowler: RJ Peterson
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.6:
+            batsman: Misbah-ul-Haq
+            bowler: RJ Peterson
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.1:
+            batsman: Misbah-ul-Haq
+            bowler: DW Steyn
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.2:
+            batsman: Shoaib Malik
+            bowler: DW Steyn
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.3:
+            batsman: Shoaib Malik
+            bowler: DW Steyn
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.4:
+            batsman: Misbah-ul-Haq
+            bowler: DW Steyn
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.5:
+            batsman: Shoaib Malik
+            bowler: DW Steyn
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.6:
+            batsman: Misbah-ul-Haq
+            bowler: DW Steyn
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.1:
+            batsman: Shoaib Malik
+            bowler: F Behardien
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.2:
+            batsman: Misbah-ul-Haq
+            bowler: F Behardien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.3:
+            batsman: Shoaib Malik
+            bowler: F Behardien
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.4:
+            batsman: Misbah-ul-Haq
+            bowler: F Behardien
+            extras:
+              legbyes: 1
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 31.5:
+            batsman: Shoaib Malik
+            bowler: F Behardien
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.6:
+            batsman: Misbah-ul-Haq
+            bowler: F Behardien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.1:
+            batsman: Shoaib Malik
+            bowler: DW Steyn
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.2:
+            batsman: Misbah-ul-Haq
+            bowler: DW Steyn
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.3:
+            batsman: Misbah-ul-Haq
+            bowler: DW Steyn
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.4:
+            batsman: Misbah-ul-Haq
+            bowler: DW Steyn
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.5:
+            batsman: Misbah-ul-Haq
+            bowler: DW Steyn
+            extras:
+              wides: 1
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 32.6:
+            batsman: Misbah-ul-Haq
+            bowler: DW Steyn
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 32.7:
+            batsman: Misbah-ul-Haq
+            bowler: DW Steyn
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.1:
+            batsman: Shoaib Malik
+            bowler: LL Tsotsobe
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.2:
+            batsman: Shoaib Malik
+            bowler: LL Tsotsobe
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.3:
+            batsman: Misbah-ul-Haq
+            bowler: LL Tsotsobe
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.4:
+            batsman: Misbah-ul-Haq
+            bowler: LL Tsotsobe
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 33.5:
+            batsman: Misbah-ul-Haq
+            bowler: LL Tsotsobe
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.6:
+            batsman: Misbah-ul-Haq
+            bowler: LL Tsotsobe
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.1:
+            batsman: Misbah-ul-Haq
+            bowler: R McLaren
+            extras:
+              wides: 1
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 34.2:
+            batsman: Misbah-ul-Haq
+            bowler: R McLaren
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.3:
+            batsman: Shoaib Malik
+            bowler: R McLaren
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.4:
+            batsman: Shoaib Malik
+            bowler: R McLaren
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - F Behardien
+              kind: caught
+              player_out: Shoaib Malik
+        - 34.5:
+            batsman: Shahid Afridi
+            bowler: R McLaren
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.6:
+            batsman: Shahid Afridi
+            bowler: R McLaren
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.7:
+            batsman: Shahid Afridi
+            bowler: R McLaren
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - CA Ingram
+              kind: caught
+              player_out: Shahid Afridi
+        - 35.1:
+            batsman: Misbah-ul-Haq
+            bowler: LL Tsotsobe
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.2:
+            batsman: Misbah-ul-Haq
+            bowler: LL Tsotsobe
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 35.3:
+            batsman: Misbah-ul-Haq
+            bowler: LL Tsotsobe
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.4:
+            batsman: Misbah-ul-Haq
+            bowler: LL Tsotsobe
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.5:
+            batsman: Misbah-ul-Haq
+            bowler: LL Tsotsobe
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.6:
+            batsman: Misbah-ul-Haq
+            bowler: LL Tsotsobe
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.1:
+            batsman: Misbah-ul-Haq
+            bowler: R McLaren
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.2:
+            batsman: Misbah-ul-Haq
+            bowler: R McLaren
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.3:
+            batsman: Misbah-ul-Haq
+            bowler: R McLaren
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.4:
+            batsman: Misbah-ul-Haq
+            bowler: R McLaren
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.5:
+            batsman: Wahab Riaz
+            bowler: R McLaren
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.6:
+            batsman: Misbah-ul-Haq
+            bowler: R McLaren
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.1:
+            batsman: Wahab Riaz
+            bowler: LL Tsotsobe
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.2:
+            batsman: Misbah-ul-Haq
+            bowler: LL Tsotsobe
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 37.3:
+            batsman: Misbah-ul-Haq
+            bowler: LL Tsotsobe
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.4:
+            batsman: Misbah-ul-Haq
+            bowler: LL Tsotsobe
+            extras:
+              wides: 1
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 37.5:
+            batsman: Misbah-ul-Haq
+            bowler: LL Tsotsobe
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.6:
+            batsman: Wahab Riaz
+            bowler: LL Tsotsobe
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.7:
+            batsman: Wahab Riaz
+            bowler: LL Tsotsobe
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.1:
+            batsman: Misbah-ul-Haq
+            bowler: R McLaren
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.2:
+            batsman: Misbah-ul-Haq
+            bowler: R McLaren
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.3:
+            batsman: Misbah-ul-Haq
+            bowler: R McLaren
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - AB de Villiers
+              kind: caught
+              player_out: Misbah-ul-Haq
+        - 38.4:
+            batsman: Saeed Ajmal
+            bowler: R McLaren
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.5:
+            batsman: Saeed Ajmal
+            bowler: R McLaren
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.6:
+            batsman: Wahab Riaz
+            bowler: R McLaren
+            non_striker: Saeed Ajmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.1:
+            batsman: Saeed Ajmal
+            bowler: M Morkel
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.2:
+            batsman: Saeed Ajmal
+            bowler: M Morkel
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.3:
+            batsman: Saeed Ajmal
+            bowler: M Morkel
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: Saeed Ajmal
+        - 39.4:
+            batsman: Junaid Khan
+            bowler: M Morkel
+            extras:
+              wides: 1
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 39.5:
+            batsman: Junaid Khan
+            bowler: M Morkel
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.6:
+            batsman: Junaid Khan
+            bowler: M Morkel
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.7:
+            batsman: Junaid Khan
+            bowler: M Morkel
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 40.1:
+            batsman: Wahab Riaz
+            bowler: DW Steyn
+            non_striker: Junaid Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.2:
+            batsman: Wahab Riaz
+            bowler: DW Steyn
+            non_striker: Junaid Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.3:
+            batsman: Junaid Khan
+            bowler: DW Steyn
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.4:
+            batsman: Junaid Khan
+            bowler: DW Steyn
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.5:
+            batsman: Junaid Khan
+            bowler: DW Steyn
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.6:
+            batsman: Junaid Khan
+            bowler: DW Steyn
+            extras:
+              wides: 1
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 40.7:
+            batsman: Junaid Khan
+            bowler: DW Steyn
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 41.1:
+            batsman: Wahab Riaz
+            bowler: M Morkel
+            non_striker: Junaid Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.2:
+            batsman: Wahab Riaz
+            bowler: M Morkel
+            non_striker: Junaid Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.3:
+            batsman: Wahab Riaz
+            bowler: M Morkel
+            non_striker: Junaid Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.4:
+            batsman: Wahab Riaz
+            bowler: M Morkel
+            non_striker: Junaid Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.5:
+            batsman: Junaid Khan
+            bowler: M Morkel
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.6:
+            batsman: Junaid Khan
+            bowler: M Morkel
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 42.1:
+            batsman: Wahab Riaz
+            bowler: DW Steyn
+            non_striker: Junaid Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.2:
+            batsman: Wahab Riaz
+            bowler: DW Steyn
+            non_striker: Junaid Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.3:
+            batsman: Wahab Riaz
+            bowler: DW Steyn
+            non_striker: Junaid Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.4:
+            batsman: Wahab Riaz
+            bowler: DW Steyn
+            non_striker: Junaid Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.5:
+            batsman: Wahab Riaz
+            bowler: DW Steyn
+            non_striker: Junaid Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.6:
+            batsman: Junaid Khan
+            bowler: DW Steyn
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.1:
+            batsman: Wahab Riaz
+            bowler: R McLaren
+            non_striker: Junaid Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.2:
+            batsman: Wahab Riaz
+            bowler: R McLaren
+            non_striker: Junaid Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.3:
+            batsman: Wahab Riaz
+            bowler: R McLaren
+            non_striker: Junaid Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.4:
+            batsman: Junaid Khan
+            bowler: R McLaren
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.5:
+            batsman: Junaid Khan
+            bowler: R McLaren
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.6:
+            batsman: Wahab Riaz
+            bowler: R McLaren
+            non_striker: Junaid Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.1:
+            batsman: Wahab Riaz
+            bowler: RJ Peterson
+            non_striker: Junaid Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.2:
+            batsman: Junaid Khan
+            bowler: RJ Peterson
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.3:
+            batsman: Wahab Riaz
+            bowler: RJ Peterson
+            non_striker: Junaid Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.4:
+            batsman: Wahab Riaz
+            bowler: RJ Peterson
+            non_striker: Junaid Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.5:
+            batsman: Junaid Khan
+            bowler: RJ Peterson
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.6:
+            batsman: Wahab Riaz
+            bowler: RJ Peterson
+            non_striker: Junaid Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.1:
+            batsman: Wahab Riaz
+            bowler: R McLaren
+            non_striker: Junaid Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.2:
+            batsman: Wahab Riaz
+            bowler: R McLaren
+            non_striker: Junaid Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.3:
+            batsman: Wahab Riaz
+            bowler: R McLaren
+            non_striker: Junaid Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.4:
+            batsman: Junaid Khan
+            bowler: R McLaren
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.5:
+            batsman: Wahab Riaz
+            bowler: R McLaren
+            non_striker: Junaid Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.6:
+            batsman: Junaid Khan
+            bowler: R McLaren
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.1:
+            batsman: Junaid Khan
+            bowler: RJ Peterson
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - R McLaren
+                - RJ Peterson
+              kind: run out
+              player_out: Wahab Riaz
+        - 46.2:
+            batsman: Junaid Khan
+            bowler: RJ Peterson
+            non_striker: Mohammad Irfan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.3:
+            batsman: Junaid Khan
+            bowler: RJ Peterson
+            non_striker: Mohammad Irfan
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 46.4:
+            batsman: Junaid Khan
+            bowler: RJ Peterson
+            non_striker: Mohammad Irfan
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 46.5:
+            batsman: Junaid Khan
+            bowler: RJ Peterson
+            non_striker: Mohammad Irfan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.6:
+            batsman: Junaid Khan
+            bowler: RJ Peterson
+            non_striker: Mohammad Irfan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 47.1:
+            batsman: Junaid Khan
+            bowler: M Morkel
+            non_striker: Mohammad Irfan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.2:
+            batsman: Junaid Khan
+            bowler: M Morkel
+            non_striker: Mohammad Irfan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.3:
+            batsman: Junaid Khan
+            bowler: M Morkel
+            non_striker: Mohammad Irfan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.4:
+            batsman: Junaid Khan
+            bowler: M Morkel
+            non_striker: Mohammad Irfan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.5:
+            batsman: Junaid Khan
+            bowler: M Morkel
+            non_striker: Mohammad Irfan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 47.6:
+            batsman: Mohammad Irfan
+            bowler: M Morkel
+            non_striker: Junaid Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 48.1:
+            batsman: Junaid Khan
+            bowler: DW Steyn
+            extras:
+              wides: 1
+            non_striker: Mohammad Irfan
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 48.2:
+            batsman: Junaid Khan
+            bowler: DW Steyn
+            extras:
+              legbyes: 1
+            non_striker: Mohammad Irfan
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 48.3:
+            batsman: Mohammad Irfan
+            bowler: DW Steyn
+            non_striker: Junaid Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 48.4:
+            batsman: Mohammad Irfan
+            bowler: DW Steyn
+            non_striker: Junaid Khan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 48.5:
+            batsman: Mohammad Irfan
+            bowler: DW Steyn
+            non_striker: Junaid Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 48.6:
+            batsman: Mohammad Irfan
+            bowler: DW Steyn
+            non_striker: Junaid Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 48.7:
+            batsman: Mohammad Irfan
+            bowler: DW Steyn
+            non_striker: Junaid Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 49.1:
+            batsman: Junaid Khan
+            bowler: M Morkel
+            non_striker: Mohammad Irfan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: Junaid Khan
+  - 2nd innings:
+      team: South Africa
+      deliveries:
+        - 0.1:
+            batsman: HM Amla
+            bowler: Mohammad Irfan
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: HM Amla
+            bowler: Mohammad Irfan
+            extras:
+              byes: 1
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.3:
+            batsman: Q de Kock
+            bowler: Mohammad Irfan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: Q de Kock
+            bowler: Mohammad Irfan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: Q de Kock
+            bowler: Mohammad Irfan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: Q de Kock
+            bowler: Mohammad Irfan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: HM Amla
+            bowler: Junaid Khan
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: HM Amla
+            bowler: Junaid Khan
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: HM Amla
+            bowler: Junaid Khan
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: HM Amla
+            bowler: Junaid Khan
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: HM Amla
+            bowler: Junaid Khan
+            extras:
+              legbyes: 1
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 1.6:
+            batsman: Q de Kock
+            bowler: Junaid Khan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: HM Amla
+            bowler: Mohammad Irfan
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: HM Amla
+            bowler: Mohammad Irfan
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: HM Amla
+            bowler: Mohammad Irfan
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: HM Amla
+            bowler: Mohammad Irfan
+            non_striker: Q de Kock
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.5:
+            batsman: Q de Kock
+            bowler: Mohammad Irfan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: Q de Kock
+            bowler: Mohammad Irfan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: HM Amla
+            bowler: Junaid Khan
+            non_striker: Q de Kock
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.2:
+            batsman: HM Amla
+            bowler: Junaid Khan
+            non_striker: Q de Kock
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 3.3:
+            batsman: HM Amla
+            bowler: Junaid Khan
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: HM Amla
+            bowler: Junaid Khan
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: HM Amla
+            bowler: Junaid Khan
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: HM Amla
+            bowler: Junaid Khan
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: Q de Kock
+            bowler: Mohammad Irfan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: Q de Kock
+            bowler: Mohammad Irfan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: Q de Kock
+            bowler: Mohammad Irfan
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.4:
+            batsman: HM Amla
+            bowler: Mohammad Irfan
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: HM Amla
+            bowler: Mohammad Irfan
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: HM Amla
+            bowler: Mohammad Irfan
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: Q de Kock
+            bowler: Junaid Khan
+            non_striker: HM Amla
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.2:
+            batsman: Q de Kock
+            bowler: Junaid Khan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: Q de Kock
+        - 5.3:
+            batsman: CA Ingram
+            bowler: Junaid Khan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: CA Ingram
+            bowler: Junaid Khan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: CA Ingram
+            bowler: Junaid Khan
+            non_striker: HM Amla
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.6:
+            batsman: CA Ingram
+            bowler: Junaid Khan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: HM Amla
+            bowler: Mohammad Irfan
+            non_striker: CA Ingram
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: HM Amla
+            bowler: Mohammad Irfan
+            non_striker: CA Ingram
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: HM Amla
+            bowler: Mohammad Irfan
+            non_striker: CA Ingram
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.4:
+            batsman: HM Amla
+            bowler: Mohammad Irfan
+            non_striker: CA Ingram
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.5:
+            batsman: HM Amla
+            bowler: Mohammad Irfan
+            non_striker: CA Ingram
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: HM Amla
+            bowler: Mohammad Irfan
+            non_striker: CA Ingram
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.1:
+            batsman: CA Ingram
+            bowler: Junaid Khan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: CA Ingram
+            bowler: Junaid Khan
+            non_striker: HM Amla
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 7.3:
+            batsman: CA Ingram
+            bowler: Junaid Khan
+            non_striker: HM Amla
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 7.4:
+            batsman: CA Ingram
+            bowler: Junaid Khan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: CA Ingram
+            bowler: Junaid Khan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: CA Ingram
+            bowler: Junaid Khan
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: CA Ingram
+            bowler: Mohammad Irfan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: CA Ingram
+            bowler: Mohammad Irfan
+            non_striker: HM Amla
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.3:
+            batsman: CA Ingram
+            bowler: Mohammad Irfan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: CA Ingram
+            bowler: Mohammad Irfan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: CA Ingram
+            bowler: Mohammad Irfan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: CA Ingram
+            bowler: Mohammad Irfan
+            non_striker: HM Amla
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.1:
+            batsman: HM Amla
+            bowler: Junaid Khan
+            non_striker: CA Ingram
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.2:
+            batsman: HM Amla
+            bowler: Junaid Khan
+            non_striker: CA Ingram
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: HM Amla
+            bowler: Junaid Khan
+            extras:
+              wides: 1
+            non_striker: CA Ingram
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 9.4:
+            batsman: HM Amla
+            bowler: Junaid Khan
+            non_striker: CA Ingram
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: HM Amla
+            bowler: Junaid Khan
+            non_striker: CA Ingram
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.6:
+            batsman: HM Amla
+            bowler: Junaid Khan
+            non_striker: CA Ingram
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.7:
+            batsman: CA Ingram
+            bowler: Junaid Khan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: HM Amla
+            bowler: Mohammad Hafeez
+            non_striker: CA Ingram
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.2:
+            batsman: HM Amla
+            bowler: Mohammad Hafeez
+            non_striker: CA Ingram
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.3:
+            batsman: CA Ingram
+            bowler: Mohammad Hafeez
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: CA Ingram
+            bowler: Mohammad Hafeez
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: CA Ingram
+            bowler: Mohammad Hafeez
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: CA Ingram
+        - 10.6:
+            batsman: AB de Villiers
+            bowler: Mohammad Hafeez
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: AB de Villiers
+            bowler: Junaid Khan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: AB de Villiers
+            bowler: Junaid Khan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.3:
+            batsman: AB de Villiers
+            bowler: Junaid Khan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.4:
+            batsman: AB de Villiers
+            bowler: Junaid Khan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: AB de Villiers
+            bowler: Junaid Khan
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: AB de Villiers
+            bowler: Junaid Khan
+            non_striker: HM Amla
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.1:
+            batsman: HM Amla
+            bowler: Wahab Riaz
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.2:
+            batsman: HM Amla
+            bowler: Wahab Riaz
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.3:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.4:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.5:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.6:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.2:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.3:
+            batsman: HM Amla
+            bowler: Saeed Ajmal
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.4:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.5:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.6:
+            batsman: HM Amla
+            bowler: Saeed Ajmal
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.2:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: HM Amla
+            bowler: Wahab Riaz
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: HM Amla
+            bowler: Wahab Riaz
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.5:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.6:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.2:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            extras:
+              wides: 1
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 15.3:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: HM Amla
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 15.4:
+            batsman: HM Amla
+            bowler: Saeed Ajmal
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: HM Amla
+            bowler: Saeed Ajmal
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.6:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.7:
+            batsman: HM Amla
+            bowler: Saeed Ajmal
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.1:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.2:
+            batsman: HM Amla
+            bowler: Wahab Riaz
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.3:
+            batsman: HM Amla
+            bowler: Wahab Riaz
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.4:
+            batsman: HM Amla
+            bowler: Wahab Riaz
+            extras:
+              legbyes: 1
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 16.5:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: HM Amla
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 16.6:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: HM Amla
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.2:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.3:
+            batsman: HM Amla
+            bowler: Saeed Ajmal
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.4:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.5:
+            batsman: HM Amla
+            bowler: Saeed Ajmal
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.6:
+            batsman: HM Amla
+            bowler: Saeed Ajmal
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.1:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.2:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.3:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.5:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            extras:
+              wides: 1
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 18.6:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.7:
+            batsman: HM Amla
+            bowler: Wahab Riaz
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.1:
+            batsman: HM Amla
+            bowler: Shahid Afridi
+            extras:
+              legbyes: 1
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 19.2:
+            batsman: AB de Villiers
+            bowler: Shahid Afridi
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.3:
+            batsman: HM Amla
+            bowler: Shahid Afridi
+            extras:
+              byes: 4
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 19.4:
+            batsman: HM Amla
+            bowler: Shahid Afridi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.5:
+            batsman: HM Amla
+            bowler: Shahid Afridi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.6:
+            batsman: HM Amla
+            bowler: Shahid Afridi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.1:
+            batsman: AB de Villiers
+            bowler: Mohammad Irfan
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.2:
+            batsman: HM Amla
+            bowler: Mohammad Irfan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.3:
+            batsman: HM Amla
+            bowler: Mohammad Irfan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.4:
+            batsman: HM Amla
+            bowler: Mohammad Irfan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.5:
+            batsman: AB de Villiers
+            bowler: Mohammad Irfan
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.6:
+            batsman: HM Amla
+            bowler: Mohammad Irfan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.1:
+            batsman: AB de Villiers
+            bowler: Shahid Afridi
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.2:
+            batsman: HM Amla
+            bowler: Shahid Afridi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.3:
+            batsman: AB de Villiers
+            bowler: Shahid Afridi
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.4:
+            batsman: HM Amla
+            bowler: Shahid Afridi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.5:
+            batsman: HM Amla
+            bowler: Shahid Afridi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.6:
+            batsman: AB de Villiers
+            bowler: Shahid Afridi
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.1:
+            batsman: HM Amla
+            bowler: Mohammad Irfan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.2:
+            batsman: HM Amla
+            bowler: Mohammad Irfan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.3:
+            batsman: HM Amla
+            bowler: Mohammad Irfan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.4:
+            batsman: HM Amla
+            bowler: Mohammad Irfan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Shoaib Malik
+              kind: caught
+              player_out: HM Amla
+        - 22.5:
+            batsman: AB de Villiers
+            bowler: Mohammad Irfan
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.6:
+            batsman: AB de Villiers
+            bowler: Mohammad Irfan
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.1:
+            batsman: AB de Villiers
+            bowler: Shahid Afridi
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.2:
+            batsman: AB de Villiers
+            bowler: Shahid Afridi
+            non_striker: F Behardien
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 23.3:
+            batsman: AB de Villiers
+            bowler: Shahid Afridi
+            non_striker: F Behardien
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 23.4:
+            batsman: AB de Villiers
+            bowler: Shahid Afridi
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.5:
+            batsman: AB de Villiers
+            bowler: Shahid Afridi
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.6:
+            batsman: F Behardien
+            bowler: Shahid Afridi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.1:
+            batsman: AB de Villiers
+            bowler: Mohammad Irfan
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.2:
+            batsman: AB de Villiers
+            bowler: Mohammad Irfan
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.3:
+            batsman: F Behardien
+            bowler: Mohammad Irfan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.4:
+            batsman: AB de Villiers
+            bowler: Mohammad Irfan
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.5:
+            batsman: F Behardien
+            bowler: Mohammad Irfan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.6:
+            batsman: F Behardien
+            bowler: Mohammad Irfan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 25.1:
+            batsman: AB de Villiers
+            bowler: Shahid Afridi
+            non_striker: F Behardien
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 25.2:
+            batsman: AB de Villiers
+            bowler: Shahid Afridi
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.3:
+            batsman: AB de Villiers
+            bowler: Shahid Afridi
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.4:
+            batsman: F Behardien
+            bowler: Shahid Afridi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.5:
+            batsman: AB de Villiers
+            bowler: Shahid Afridi
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.6:
+            batsman: F Behardien
+            bowler: Shahid Afridi
+            extras:
+              legbyes: 1
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 26.1:
+            batsman: F Behardien
+            bowler: Junaid Khan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 26.2:
+            batsman: AB de Villiers
+            bowler: Junaid Khan
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.3:
+            batsman: F Behardien
+            bowler: Junaid Khan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 26.4:
+            batsman: AB de Villiers
+            bowler: Junaid Khan
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.5:
+            batsman: AB de Villiers
+            bowler: Junaid Khan
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.6:
+            batsman: F Behardien
+            bowler: Junaid Khan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.1:
+            batsman: F Behardien
+            bowler: Saeed Ajmal
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.2:
+            batsman: F Behardien
+            bowler: Saeed Ajmal
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.3:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.4:
+            batsman: F Behardien
+            bowler: Saeed Ajmal
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.5:
+            batsman: F Behardien
+            bowler: Saeed Ajmal
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.6:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.1:
+            batsman: F Behardien
+            bowler: Wahab Riaz
+            non_striker: AB de Villiers
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 28.2:
+            batsman: F Behardien
+            bowler: Wahab Riaz
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.3:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.4:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            extras:
+              wides: 1
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 28.5:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.6:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.7:
+            batsman: F Behardien
+            bowler: Wahab Riaz
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.1:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.2:
+            batsman: F Behardien
+            bowler: Saeed Ajmal
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.3:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.4:
+            batsman: F Behardien
+            bowler: Saeed Ajmal
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.5:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.6:
+            batsman: F Behardien
+            bowler: Saeed Ajmal
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.1:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.2:
+            batsman: F Behardien
+            bowler: Wahab Riaz
+            non_striker: AB de Villiers
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 30.3:
+            batsman: F Behardien
+            bowler: Wahab Riaz
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.4:
+            batsman: F Behardien
+            bowler: Wahab Riaz
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.5:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: F Behardien
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 30.6:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.1:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.2:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            extras:
+              wides: 1
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 31.3:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.4:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.5:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.6:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.7:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.1:
+            batsman: F Behardien
+            bowler: Shahid Afridi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.2:
+            batsman: F Behardien
+            bowler: Shahid Afridi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.3:
+            batsman: F Behardien
+            bowler: Shahid Afridi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.4:
+            batsman: F Behardien
+            bowler: Shahid Afridi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.5:
+            batsman: AB de Villiers
+            bowler: Shahid Afridi
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.6:
+            batsman: F Behardien
+            bowler: Shahid Afridi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.1:
+            batsman: AB de Villiers
+            bowler: Mohammad Hafeez
+            non_striker: F Behardien
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 33.2:
+            batsman: AB de Villiers
+            bowler: Mohammad Hafeez
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.3:
+            batsman: F Behardien
+            bowler: Mohammad Hafeez
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.4:
+            batsman: AB de Villiers
+            bowler: Mohammad Hafeez
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.5:
+            batsman: F Behardien
+            bowler: Mohammad Hafeez
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.6:
+            batsman: F Behardien
+            bowler: Mohammad Hafeez
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.1:
+            batsman: AB de Villiers
+            bowler: Shahid Afridi
+            non_striker: F Behardien
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 34.2:
+            batsman: AB de Villiers
+            bowler: Shahid Afridi
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.3:
+            batsman: AB de Villiers
+            bowler: Shahid Afridi
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.4:
+            batsman: F Behardien
+            bowler: Shahid Afridi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.5:
+            batsman: AB de Villiers
+            bowler: Shahid Afridi
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.6:
+            batsman: AB de Villiers
+            bowler: Shahid Afridi
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.1:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.2:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.3:
+            batsman: F Behardien
+            bowler: Saeed Ajmal
+            non_striker: AB de Villiers
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 35.4:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            extras:
+              legbyes: 1
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 35.5:
+            batsman: F Behardien
+            bowler: Saeed Ajmal
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.6:
+            batsman: F Behardien
+            bowler: Saeed Ajmal
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.1:
+            batsman: AB de Villiers
+            bowler: Mohammad Irfan
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.2:
+            batsman: AB de Villiers
+            bowler: Mohammad Irfan
+            non_striker: F Behardien
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 36.3:
+            batsman: AB de Villiers
+            bowler: Mohammad Irfan
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.4:
+            batsman: AB de Villiers
+            bowler: Mohammad Irfan
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.5:
+            batsman: F Behardien
+            bowler: Mohammad Irfan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 36.6:
+            batsman: F Behardien
+            bowler: Mohammad Irfan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Saeed Ajmal
+              kind: caught
+              player_out: F Behardien
+        - 37.1:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.2:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.3:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.4:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.5:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.6:
+            batsman: DA Miller
+            bowler: Saeed Ajmal
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.1:
+            batsman: DA Miller
+            bowler: Mohammad Irfan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.2:
+            batsman: AB de Villiers
+            bowler: Mohammad Irfan
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.3:
+            batsman: DA Miller
+            bowler: Mohammad Irfan
+            extras:
+              wides: 1
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 38.4:
+            batsman: DA Miller
+            bowler: Mohammad Irfan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.5:
+            batsman: DA Miller
+            bowler: Mohammad Irfan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.6:
+            batsman: DA Miller
+            bowler: Mohammad Irfan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.7:
+            batsman: AB de Villiers
+            bowler: Mohammad Irfan
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.1:
+            batsman: DA Miller
+            bowler: Saeed Ajmal
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.2:
+            batsman: DA Miller
+            bowler: Saeed Ajmal
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.3:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.4:
+            batsman: DA Miller
+            bowler: Saeed Ajmal
+            extras:
+              byes: 1
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 39.5:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.6:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            extras:
+              wides: 1
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 39.7:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.1:
+            batsman: DA Miller
+            bowler: Mohammad Hafeez
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.2:
+            batsman: DA Miller
+            bowler: Mohammad Hafeez
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.3:
+            batsman: DA Miller
+            bowler: Mohammad Hafeez
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.4:
+            batsman: DA Miller
+            bowler: Mohammad Hafeez
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.5:
+            batsman: AB de Villiers
+            bowler: Mohammad Hafeez
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.6:
+            batsman: DA Miller
+            bowler: Mohammad Hafeez
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.1:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.2:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.3:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.4:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.5:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.6:
+            batsman: AB de Villiers
+            bowler: Saeed Ajmal
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.1:
+            batsman: DA Miller
+            bowler: Mohammad Hafeez
+            non_striker: AB de Villiers
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 42.2:
+            batsman: DA Miller
+            bowler: Mohammad Hafeez
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.3:
+            batsman: DA Miller
+            bowler: Mohammad Hafeez
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.4:
+            batsman: DA Miller
+            bowler: Mohammad Hafeez
+            non_striker: AB de Villiers
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 42.5:
+            batsman: DA Miller
+            bowler: Mohammad Hafeez
+            non_striker: AB de Villiers
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 42.6:
+            batsman: DA Miller
+            bowler: Mohammad Hafeez
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.1:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.2:
+            batsman: DA Miller
+            bowler: Wahab Riaz
+            non_striker: AB de Villiers
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 43.3:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: DA Miller
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 43.4:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.5:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: DA Miller
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 43.6:
+            batsman: AB de Villiers
+            bowler: Wahab Riaz
+            non_striker: DA Miller
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4

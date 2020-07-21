@@ -1,0 +1,2811 @@
+---
+meta:
+  data_version: 0.9
+  created: 2013-03-05
+  revision: 2
+info:
+  city: Mirpur
+  dates:
+    - 2009-01-14
+  gender: male
+  match_type: ODI
+  outcome:
+    by:
+      wickets: 5
+    winner: Bangladesh
+  overs: 50
+  player_of_match:
+    - Shakib Al Hasan
+  teams:
+    - Bangladesh
+    - Sri Lanka
+  toss:
+    decision: field
+    winner: Bangladesh
+  umpires:
+    - BR Doctrove
+    - Nadir Shah
+  venue: Shere Bangla National Stadium
+innings:
+  - 1st innings:
+      team: Sri Lanka
+      deliveries:
+        - 0.1:
+            batsman: WU Tharanga
+            bowler: Mashrafe Mortaza
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: WU Tharanga
+            bowler: Mashrafe Mortaza
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: WU Tharanga
+            bowler: Mashrafe Mortaza
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: WU Tharanga
+        - 0.4:
+            batsman: KC Sangakkara
+            bowler: Mashrafe Mortaza
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: KC Sangakkara
+            bowler: Mashrafe Mortaza
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: KC Sangakkara
+            bowler: Mashrafe Mortaza
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: ST Jayasuriya
+            bowler: Mahbubul Alam
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: ST Jayasuriya
+            bowler: Mahbubul Alam
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: ST Jayasuriya
+            bowler: Mahbubul Alam
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: ST Jayasuriya
+            bowler: Mahbubul Alam
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.5:
+            batsman: ST Jayasuriya
+            bowler: Mahbubul Alam
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: ST Jayasuriya
+            bowler: Mahbubul Alam
+            non_striker: KC Sangakkara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: KC Sangakkara
+            bowler: Mashrafe Mortaza
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: KC Sangakkara
+            bowler: Mashrafe Mortaza
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: KC Sangakkara
+        - 2.3:
+            batsman: DPMD Jayawardene
+            bowler: Mashrafe Mortaza
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.4:
+            batsman: ST Jayasuriya
+            bowler: Mashrafe Mortaza
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: ST Jayasuriya
+            bowler: Mashrafe Mortaza
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.6:
+            batsman: DPMD Jayawardene
+            bowler: Mashrafe Mortaza
+            extras:
+              wides: 1
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.7:
+            batsman: DPMD Jayawardene
+            bowler: Mashrafe Mortaza
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.1:
+            batsman: DPMD Jayawardene
+            bowler: Mahbubul Alam
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: DPMD Jayawardene
+            bowler: Mahbubul Alam
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 3.3:
+            batsman: DPMD Jayawardene
+            bowler: Mahbubul Alam
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.4:
+            batsman: ST Jayasuriya
+            bowler: Mahbubul Alam
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: ST Jayasuriya
+            bowler: Mahbubul Alam
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.6:
+            batsman: ST Jayasuriya
+            bowler: Mahbubul Alam
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: DPMD Jayawardene
+            bowler: Mashrafe Mortaza
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.2:
+            batsman: ST Jayasuriya
+            bowler: Mashrafe Mortaza
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: ST Jayasuriya
+            bowler: Mashrafe Mortaza
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: ST Jayasuriya
+            bowler: Mashrafe Mortaza
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: ST Jayasuriya
+            bowler: Mashrafe Mortaza
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: ST Jayasuriya
+            bowler: Mashrafe Mortaza
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: DPMD Jayawardene
+            bowler: Mahbubul Alam
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.2:
+            batsman: ST Jayasuriya
+            bowler: Mahbubul Alam
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: ST Jayasuriya
+            bowler: Mahbubul Alam
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.4:
+            batsman: ST Jayasuriya
+            bowler: Mahbubul Alam
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: ST Jayasuriya
+            bowler: Mahbubul Alam
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.6:
+            batsman: ST Jayasuriya
+            bowler: Mahbubul Alam
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.1:
+            batsman: DPMD Jayawardene
+            bowler: Mashrafe Mortaza
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: DPMD Jayawardene
+            bowler: Mashrafe Mortaza
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.3:
+            batsman: ST Jayasuriya
+            bowler: Mashrafe Mortaza
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.4:
+            batsman: DPMD Jayawardene
+            bowler: Mashrafe Mortaza
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.5:
+            batsman: ST Jayasuriya
+            bowler: Mashrafe Mortaza
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: ST Jayasuriya
+            bowler: Mashrafe Mortaza
+            extras:
+              wides: 2
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 2
+              total: 2
+        - 6.7:
+            batsman: DPMD Jayawardene
+            bowler: Mashrafe Mortaza
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.1:
+            batsman: ST Jayasuriya
+            bowler: Rubel Hossain
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: ST Jayasuriya
+            bowler: Rubel Hossain
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.3:
+            batsman: ST Jayasuriya
+            bowler: Rubel Hossain
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: ST Jayasuriya
+            bowler: Rubel Hossain
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: ST Jayasuriya
+            bowler: Rubel Hossain
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.6:
+            batsman: ST Jayasuriya
+            bowler: Rubel Hossain
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.1:
+            batsman: DPMD Jayawardene
+            bowler: Mashrafe Mortaza
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.2:
+            batsman: ST Jayasuriya
+            bowler: Mashrafe Mortaza
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.3:
+            batsman: DPMD Jayawardene
+            bowler: Mashrafe Mortaza
+            extras:
+              legbyes: 1
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 8.4:
+            batsman: ST Jayasuriya
+            bowler: Mashrafe Mortaza
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.5:
+            batsman: DPMD Jayawardene
+            bowler: Mashrafe Mortaza
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.6:
+            batsman: ST Jayasuriya
+            bowler: Mashrafe Mortaza
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: DPMD Jayawardene
+            bowler: Rubel Hossain
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: ST Jayasuriya
+            bowler: Rubel Hossain
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.3:
+            batsman: DPMD Jayawardene
+            bowler: Rubel Hossain
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 9.4:
+            batsman: DPMD Jayawardene
+            bowler: Rubel Hossain
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: DPMD Jayawardene
+            bowler: Rubel Hossain
+            extras:
+              legbyes: 1
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 9.6:
+            batsman: ST Jayasuriya
+            bowler: Rubel Hossain
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: DPMD Jayawardene
+            bowler: Shakib Al Hasan
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.2:
+            batsman: DPMD Jayawardene
+            bowler: Shakib Al Hasan
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: DPMD Jayawardene
+            bowler: Shakib Al Hasan
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: DPMD Jayawardene
+            bowler: Shakib Al Hasan
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: DPMD Jayawardene
+            bowler: Shakib Al Hasan
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.6:
+            batsman: DPMD Jayawardene
+            bowler: Shakib Al Hasan
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: DPMD Jayawardene
+            bowler: Naeem Islam
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: ST Jayasuriya
+            bowler: Naeem Islam
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.3:
+            batsman: DPMD Jayawardene
+            bowler: Naeem Islam
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: ST Jayasuriya
+            bowler: Naeem Islam
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.5:
+            batsman: DPMD Jayawardene
+            bowler: Naeem Islam
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: DPMD Jayawardene
+            bowler: Naeem Islam
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.1:
+            batsman: DPMD Jayawardene
+            bowler: Shakib Al Hasan
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: ST Jayasuriya
+            bowler: Shakib Al Hasan
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.3:
+            batsman: ST Jayasuriya
+            bowler: Shakib Al Hasan
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.4:
+            batsman: ST Jayasuriya
+            bowler: Shakib Al Hasan
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.5:
+            batsman: ST Jayasuriya
+            bowler: Shakib Al Hasan
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.6:
+            batsman: DPMD Jayawardene
+            bowler: Shakib Al Hasan
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: DPMD Jayawardene
+            bowler: Naeem Islam
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.2:
+            batsman: ST Jayasuriya
+            bowler: Naeem Islam
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.3:
+            batsman: DPMD Jayawardene
+            bowler: Naeem Islam
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.4:
+            batsman: ST Jayasuriya
+            bowler: Naeem Islam
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.5:
+            batsman: ST Jayasuriya
+            bowler: Naeem Islam
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.6:
+            batsman: DPMD Jayawardene
+            bowler: Naeem Islam
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: ST Jayasuriya
+            bowler: Shakib Al Hasan
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.2:
+            batsman: DPMD Jayawardene
+            bowler: Shakib Al Hasan
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: DPMD Jayawardene
+            bowler: Shakib Al Hasan
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.4:
+            batsman: ST Jayasuriya
+            bowler: Shakib Al Hasan
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.5:
+            batsman: DPMD Jayawardene
+            bowler: Shakib Al Hasan
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.6:
+            batsman: ST Jayasuriya
+            bowler: Shakib Al Hasan
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.1:
+            batsman: DPMD Jayawardene
+            bowler: Naeem Islam
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.2:
+            batsman: ST Jayasuriya
+            bowler: Naeem Islam
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.3:
+            batsman: DPMD Jayawardene
+            bowler: Naeem Islam
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.4:
+            batsman: DPMD Jayawardene
+            bowler: Naeem Islam
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 15.5:
+            batsman: DPMD Jayawardene
+            bowler: Naeem Islam
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.6:
+            batsman: DPMD Jayawardene
+            bowler: Naeem Islam
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.1:
+            batsman: ST Jayasuriya
+            bowler: Shakib Al Hasan
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.2:
+            batsman: ST Jayasuriya
+            bowler: Shakib Al Hasan
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.3:
+            batsman: DPMD Jayawardene
+            bowler: Shakib Al Hasan
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.4:
+            batsman: ST Jayasuriya
+            bowler: Shakib Al Hasan
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.5:
+            batsman: ST Jayasuriya
+            bowler: Shakib Al Hasan
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.6:
+            batsman: DPMD Jayawardene
+            bowler: Shakib Al Hasan
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.1:
+            batsman: ST Jayasuriya
+            bowler: Naeem Islam
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.2:
+            batsman: ST Jayasuriya
+            bowler: Naeem Islam
+            non_striker: DPMD Jayawardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.3:
+            batsman: DPMD Jayawardene
+            bowler: Naeem Islam
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Rubel Hossain
+              kind: caught
+              player_out: DPMD Jayawardene
+        - 17.4:
+            batsman: CK Kapugedera
+            bowler: Naeem Islam
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.5:
+            batsman: ST Jayasuriya
+            bowler: Naeem Islam
+            extras:
+              wides: 1
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 17.6:
+            batsman: ST Jayasuriya
+            bowler: Naeem Islam
+            extras:
+              wides: 1
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 17.7:
+            batsman: ST Jayasuriya
+            bowler: Naeem Islam
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 17.8:
+            batsman: ST Jayasuriya
+            bowler: Naeem Islam
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.1:
+            batsman: CK Kapugedera
+            bowler: Shakib Al Hasan
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.2:
+            batsman: CK Kapugedera
+            bowler: Shakib Al Hasan
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.3:
+            batsman: CK Kapugedera
+            bowler: Shakib Al Hasan
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.4:
+            batsman: ST Jayasuriya
+            bowler: Shakib Al Hasan
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.5:
+            batsman: ST Jayasuriya
+            bowler: Shakib Al Hasan
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.6:
+            batsman: ST Jayasuriya
+            bowler: Shakib Al Hasan
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.1:
+            batsman: ST Jayasuriya
+            bowler: Naeem Islam
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.2:
+            batsman: CK Kapugedera
+            bowler: Naeem Islam
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.3:
+            batsman: CK Kapugedera
+            bowler: Naeem Islam
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.4:
+            batsman: CK Kapugedera
+            bowler: Naeem Islam
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.5:
+            batsman: CK Kapugedera
+            bowler: Naeem Islam
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.6:
+            batsman: CK Kapugedera
+            bowler: Naeem Islam
+            non_striker: ST Jayasuriya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.1:
+            batsman: ST Jayasuriya
+            bowler: Mashrafe Mortaza
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.2:
+            batsman: ST Jayasuriya
+            bowler: Mashrafe Mortaza
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 20.3:
+            batsman: ST Jayasuriya
+            bowler: Mashrafe Mortaza
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.4:
+            batsman: ST Jayasuriya
+            bowler: Mashrafe Mortaza
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 20.5:
+            batsman: ST Jayasuriya
+            bowler: Mashrafe Mortaza
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: caught and bowled
+              player_out: ST Jayasuriya
+        - 20.6:
+            batsman: J Mubarak
+            bowler: Mashrafe Mortaza
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.1:
+            batsman: J Mubarak
+            bowler: Naeem Islam
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.2:
+            batsman: CK Kapugedera
+            bowler: Naeem Islam
+            non_striker: J Mubarak
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.3:
+            batsman: CK Kapugedera
+            bowler: Naeem Islam
+            non_striker: J Mubarak
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.4:
+            batsman: J Mubarak
+            bowler: Naeem Islam
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.5:
+            batsman: J Mubarak
+            bowler: Naeem Islam
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 21.6:
+            batsman: J Mubarak
+            bowler: Naeem Islam
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.1:
+            batsman: CK Kapugedera
+            bowler: Mashrafe Mortaza
+            non_striker: J Mubarak
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.2:
+            batsman: J Mubarak
+            bowler: Mashrafe Mortaza
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.3:
+            batsman: CK Kapugedera
+            bowler: Mashrafe Mortaza
+            non_striker: J Mubarak
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.4:
+            batsman: CK Kapugedera
+            bowler: Mashrafe Mortaza
+            extras:
+              legbyes: 1
+            non_striker: J Mubarak
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 22.5:
+            batsman: J Mubarak
+            bowler: Mashrafe Mortaza
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.6:
+            batsman: CK Kapugedera
+            bowler: Mashrafe Mortaza
+            non_striker: J Mubarak
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.1:
+            batsman: CK Kapugedera
+            bowler: Mahmudullah
+            non_striker: J Mubarak
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.2:
+            batsman: J Mubarak
+            bowler: Mahmudullah
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.3:
+            batsman: J Mubarak
+            bowler: Mahmudullah
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.4:
+            batsman: J Mubarak
+            bowler: Mahmudullah
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.5:
+            batsman: CK Kapugedera
+            bowler: Mahmudullah
+            non_striker: J Mubarak
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.6:
+            batsman: CK Kapugedera
+            bowler: Mahmudullah
+            non_striker: J Mubarak
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.1:
+            batsman: CK Kapugedera
+            bowler: Rubel Hossain
+            non_striker: J Mubarak
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.2:
+            batsman: CK Kapugedera
+            bowler: Rubel Hossain
+            non_striker: J Mubarak
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.3:
+            batsman: J Mubarak
+            bowler: Rubel Hossain
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.4:
+            batsman: CK Kapugedera
+            bowler: Rubel Hossain
+            non_striker: J Mubarak
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 24.5:
+            batsman: CK Kapugedera
+            bowler: Rubel Hossain
+            non_striker: J Mubarak
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.6:
+            batsman: J Mubarak
+            bowler: Rubel Hossain
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.1:
+            batsman: J Mubarak
+            bowler: Mahmudullah
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.2:
+            batsman: CK Kapugedera
+            bowler: Mahmudullah
+            non_striker: J Mubarak
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 25.3:
+            batsman: CK Kapugedera
+            bowler: Mahmudullah
+            non_striker: J Mubarak
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.4:
+            batsman: J Mubarak
+            bowler: Mahmudullah
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Raqibul Hasan
+                - Mahmudullah
+              kind: run out
+              player_out: J Mubarak
+        - 25.5:
+            batsman: CK Kapugedera
+            bowler: Mahmudullah
+            non_striker: AD Mathews
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.6:
+            batsman: AD Mathews
+            bowler: Mahmudullah
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.1:
+            batsman: AD Mathews
+            bowler: Rubel Hossain
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.2:
+            batsman: CK Kapugedera
+            bowler: Rubel Hossain
+            non_striker: AD Mathews
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.3:
+            batsman: CK Kapugedera
+            bowler: Rubel Hossain
+            non_striker: AD Mathews
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.4:
+            batsman: AD Mathews
+            bowler: Rubel Hossain
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.5:
+            batsman: AD Mathews
+            bowler: Rubel Hossain
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.6:
+            batsman: AD Mathews
+            bowler: Rubel Hossain
+            non_striker: CK Kapugedera
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Mashrafe Mortaza
+              kind: caught
+              player_out: AD Mathews
+        - 27.1:
+            batsman: CK Kapugedera
+            bowler: Mahbubul Alam
+            non_striker: T Thushara
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 27.2:
+            batsman: CK Kapugedera
+            bowler: Mahbubul Alam
+            non_striker: T Thushara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.3:
+            batsman: CK Kapugedera
+            bowler: Mahbubul Alam
+            non_striker: T Thushara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: CK Kapugedera
+        - 27.4:
+            batsman: KMDN Kulasekara
+            bowler: Mahbubul Alam
+            non_striker: T Thushara
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.5:
+            batsman: T Thushara
+            bowler: Mahbubul Alam
+            non_striker: KMDN Kulasekara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.6:
+            batsman: T Thushara
+            bowler: Mahbubul Alam
+            non_striker: KMDN Kulasekara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.1:
+            batsman: KMDN Kulasekara
+            bowler: Rubel Hossain
+            non_striker: T Thushara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.2:
+            batsman: KMDN Kulasekara
+            bowler: Rubel Hossain
+            non_striker: T Thushara
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 28.3:
+            batsman: KMDN Kulasekara
+            bowler: Rubel Hossain
+            non_striker: T Thushara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.4:
+            batsman: KMDN Kulasekara
+            bowler: Rubel Hossain
+            non_striker: T Thushara
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Naeem Islam
+              kind: caught
+              player_out: KMDN Kulasekara
+        - 28.5:
+            batsman: T Thushara
+            bowler: Rubel Hossain
+            extras:
+              wides: 5
+            non_striker: M Muralitharan
+            runs:
+              batsman: 0
+              extras: 5
+              total: 5
+        - 28.6:
+            batsman: T Thushara
+            bowler: Rubel Hossain
+            extras:
+              noballs: 1
+            non_striker: M Muralitharan
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 28.7:
+            batsman: T Thushara
+            bowler: Rubel Hossain
+            non_striker: M Muralitharan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.8:
+            batsman: T Thushara
+            bowler: Rubel Hossain
+            non_striker: M Muralitharan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Mushfiqur Rahim
+              kind: caught
+              player_out: T Thushara
+        - 29.1:
+            batsman: M Muralitharan
+            bowler: Shakib Al Hasan
+            non_striker: BAW Mendis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.2:
+            batsman: M Muralitharan
+            bowler: Shakib Al Hasan
+            non_striker: BAW Mendis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.3:
+            batsman: M Muralitharan
+            bowler: Shakib Al Hasan
+            non_striker: BAW Mendis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.4:
+            batsman: M Muralitharan
+            bowler: Shakib Al Hasan
+            non_striker: BAW Mendis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.5:
+            batsman: M Muralitharan
+            bowler: Shakib Al Hasan
+            non_striker: BAW Mendis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 29.6:
+            batsman: M Muralitharan
+            bowler: Shakib Al Hasan
+            non_striker: BAW Mendis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.1:
+            batsman: M Muralitharan
+            bowler: Rubel Hossain
+            non_striker: BAW Mendis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.2:
+            batsman: M Muralitharan
+            bowler: Rubel Hossain
+            non_striker: BAW Mendis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.3:
+            batsman: BAW Mendis
+            bowler: Rubel Hossain
+            non_striker: M Muralitharan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Mohammad Ashraful
+              kind: caught
+              player_out: BAW Mendis
+  - 2nd innings:
+      team: Bangladesh
+      deliveries:
+        - 0.1:
+            batsman: Tamim Iqbal
+            bowler: KMDN Kulasekara
+            non_striker: Junaid Siddique
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: Tamim Iqbal
+            bowler: KMDN Kulasekara
+            non_striker: Junaid Siddique
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: Tamim Iqbal
+            bowler: KMDN Kulasekara
+            non_striker: Junaid Siddique
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: Tamim Iqbal
+            bowler: KMDN Kulasekara
+            non_striker: Junaid Siddique
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: Tamim Iqbal
+            bowler: KMDN Kulasekara
+            non_striker: Junaid Siddique
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: Tamim Iqbal
+            bowler: KMDN Kulasekara
+            non_striker: Junaid Siddique
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - J Mubarak
+              kind: run out
+              player_out: Junaid Siddique
+        - 1.1:
+            batsman: Mushfiqur Rahim
+            bowler: T Thushara
+            non_striker: Tamim Iqbal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: Mushfiqur Rahim
+            bowler: T Thushara
+            non_striker: Tamim Iqbal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: Mushfiqur Rahim
+            bowler: T Thushara
+            non_striker: Tamim Iqbal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: Mushfiqur Rahim
+            bowler: T Thushara
+            non_striker: Tamim Iqbal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: Mushfiqur Rahim
+            bowler: T Thushara
+            non_striker: Tamim Iqbal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: Mushfiqur Rahim
+            bowler: T Thushara
+            non_striker: Tamim Iqbal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: Tamim Iqbal
+            bowler: KMDN Kulasekara
+            non_striker: Mushfiqur Rahim
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.2:
+            batsman: Tamim Iqbal
+            bowler: KMDN Kulasekara
+            non_striker: Mushfiqur Rahim
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.3:
+            batsman: Tamim Iqbal
+            bowler: KMDN Kulasekara
+            non_striker: Mushfiqur Rahim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: Tamim Iqbal
+            bowler: KMDN Kulasekara
+            non_striker: Mushfiqur Rahim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.5:
+            batsman: Mushfiqur Rahim
+            bowler: KMDN Kulasekara
+            non_striker: Tamim Iqbal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.6:
+            batsman: Tamim Iqbal
+            bowler: KMDN Kulasekara
+            non_striker: Mushfiqur Rahim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: Mushfiqur Rahim
+            bowler: T Thushara
+            non_striker: Tamim Iqbal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - KC Sangakkara
+              kind: caught
+              player_out: Mushfiqur Rahim
+        - 3.2:
+            batsman: Mohammad Ashraful
+            bowler: T Thushara
+            non_striker: Tamim Iqbal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: Mohammad Ashraful
+            bowler: T Thushara
+            non_striker: Tamim Iqbal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.4:
+            batsman: Tamim Iqbal
+            bowler: T Thushara
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: Tamim Iqbal
+            bowler: T Thushara
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - CK Kapugedera
+              kind: run out
+              player_out: Tamim Iqbal
+        - 3.6:
+            batsman: Shakib Al Hasan
+            bowler: T Thushara
+            extras:
+              legbyes: 1
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 4.1:
+            batsman: Shakib Al Hasan
+            bowler: KMDN Kulasekara
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: Shakib Al Hasan
+            bowler: KMDN Kulasekara
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: Shakib Al Hasan
+            bowler: KMDN Kulasekara
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: Shakib Al Hasan
+            bowler: KMDN Kulasekara
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: Shakib Al Hasan
+            bowler: KMDN Kulasekara
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.6:
+            batsman: Shakib Al Hasan
+            bowler: KMDN Kulasekara
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 5.1:
+            batsman: Shakib Al Hasan
+            bowler: T Thushara
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.2:
+            batsman: Mohammad Ashraful
+            bowler: T Thushara
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.3:
+            batsman: Shakib Al Hasan
+            bowler: T Thushara
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: Shakib Al Hasan
+            bowler: T Thushara
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: Shakib Al Hasan
+            bowler: T Thushara
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.6:
+            batsman: Shakib Al Hasan
+            bowler: T Thushara
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.1:
+            batsman: Mohammad Ashraful
+            bowler: KMDN Kulasekara
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: Shakib Al Hasan
+            bowler: KMDN Kulasekara
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: Shakib Al Hasan
+            bowler: KMDN Kulasekara
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.4:
+            batsman: Shakib Al Hasan
+            bowler: KMDN Kulasekara
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.5:
+            batsman: Shakib Al Hasan
+            bowler: KMDN Kulasekara
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.6:
+            batsman: Shakib Al Hasan
+            bowler: KMDN Kulasekara
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.1:
+            batsman: Mohammad Ashraful
+            bowler: T Thushara
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: Mohammad Ashraful
+            bowler: T Thushara
+            extras:
+              legbyes: 4
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 7.3:
+            batsman: Mohammad Ashraful
+            bowler: T Thushara
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: Mohammad Ashraful
+            bowler: T Thushara
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: Mohammad Ashraful
+            bowler: T Thushara
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: Shakib Al Hasan
+            bowler: T Thushara
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.1:
+            batsman: Mohammad Ashraful
+            bowler: BAW Mendis
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: Mohammad Ashraful
+            bowler: BAW Mendis
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: Mohammad Ashraful
+            bowler: BAW Mendis
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: Shakib Al Hasan
+            bowler: BAW Mendis
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: Shakib Al Hasan
+            bowler: BAW Mendis
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.6:
+            batsman: Mohammad Ashraful
+            bowler: BAW Mendis
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: Shakib Al Hasan
+            bowler: AD Mathews
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.2:
+            batsman: Shakib Al Hasan
+            bowler: AD Mathews
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: Shakib Al Hasan
+            bowler: AD Mathews
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: Shakib Al Hasan
+            bowler: AD Mathews
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 9.5:
+            batsman: Shakib Al Hasan
+            bowler: AD Mathews
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: Mohammad Ashraful
+            bowler: AD Mathews
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.1:
+            batsman: Mohammad Ashraful
+            bowler: BAW Mendis
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: Shakib Al Hasan
+            bowler: BAW Mendis
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.3:
+            batsman: Mohammad Ashraful
+            bowler: BAW Mendis
+            extras:
+              wides: 1
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 10.4:
+            batsman: Mohammad Ashraful
+            bowler: BAW Mendis
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: Mohammad Ashraful
+            bowler: BAW Mendis
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.6:
+            batsman: Shakib Al Hasan
+            bowler: BAW Mendis
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.7:
+            batsman: Shakib Al Hasan
+            bowler: BAW Mendis
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.1:
+            batsman: Mohammad Ashraful
+            bowler: M Muralitharan
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: Shakib Al Hasan
+            bowler: M Muralitharan
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.3:
+            batsman: Mohammad Ashraful
+            bowler: M Muralitharan
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: Shakib Al Hasan
+            bowler: M Muralitharan
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: Shakib Al Hasan
+            bowler: M Muralitharan
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.6:
+            batsman: Mohammad Ashraful
+            bowler: M Muralitharan
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.1:
+            batsman: Mohammad Ashraful
+            bowler: BAW Mendis
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: Shakib Al Hasan
+            bowler: BAW Mendis
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.3:
+            batsman: Shakib Al Hasan
+            bowler: BAW Mendis
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.4:
+            batsman: Shakib Al Hasan
+            bowler: BAW Mendis
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 12.5:
+            batsman: Shakib Al Hasan
+            bowler: BAW Mendis
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.6:
+            batsman: Shakib Al Hasan
+            bowler: BAW Mendis
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: Shakib Al Hasan
+            bowler: M Muralitharan
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.2:
+            batsman: Mohammad Ashraful
+            bowler: M Muralitharan
+            extras:
+              wides: 1
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 13.3:
+            batsman: Mohammad Ashraful
+            bowler: M Muralitharan
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.4:
+            batsman: Shakib Al Hasan
+            bowler: M Muralitharan
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.5:
+            batsman: Shakib Al Hasan
+            bowler: M Muralitharan
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.6:
+            batsman: Mohammad Ashraful
+            bowler: M Muralitharan
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.7:
+            batsman: Shakib Al Hasan
+            bowler: M Muralitharan
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: Mohammad Ashraful
+            bowler: BAW Mendis
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.2:
+            batsman: Mohammad Ashraful
+            bowler: BAW Mendis
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: Shakib Al Hasan
+            bowler: BAW Mendis
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.4:
+            batsman: Mohammad Ashraful
+            bowler: BAW Mendis
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.5:
+            batsman: Mohammad Ashraful
+            bowler: BAW Mendis
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.6:
+            batsman: Shakib Al Hasan
+            bowler: BAW Mendis
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: Shakib Al Hasan
+            bowler: M Muralitharan
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.2:
+            batsman: Shakib Al Hasan
+            bowler: M Muralitharan
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.3:
+            batsman: Mohammad Ashraful
+            bowler: M Muralitharan
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.4:
+            batsman: Mohammad Ashraful
+            bowler: M Muralitharan
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: Mohammad Ashraful
+            bowler: M Muralitharan
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.6:
+            batsman: Shakib Al Hasan
+            bowler: M Muralitharan
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.1:
+            batsman: Shakib Al Hasan
+            bowler: BAW Mendis
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 16.2:
+            batsman: Shakib Al Hasan
+            bowler: BAW Mendis
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.3:
+            batsman: Mohammad Ashraful
+            bowler: BAW Mendis
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.4:
+            batsman: Mohammad Ashraful
+            bowler: BAW Mendis
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.5:
+            batsman: Shakib Al Hasan
+            bowler: BAW Mendis
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.6:
+            batsman: Mohammad Ashraful
+            bowler: BAW Mendis
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: Mohammad Ashraful
+            bowler: M Muralitharan
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.2:
+            batsman: Mohammad Ashraful
+            bowler: M Muralitharan
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.3:
+            batsman: Mohammad Ashraful
+            bowler: M Muralitharan
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.4:
+            batsman: Shakib Al Hasan
+            bowler: M Muralitharan
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.5:
+            batsman: Shakib Al Hasan
+            bowler: M Muralitharan
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.6:
+            batsman: Mohammad Ashraful
+            bowler: M Muralitharan
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.1:
+            batsman: Shakib Al Hasan
+            bowler: KMDN Kulasekara
+            extras:
+              wides: 1
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 18.2:
+            batsman: Shakib Al Hasan
+            bowler: KMDN Kulasekara
+            non_striker: Mohammad Ashraful
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.3:
+            batsman: Mohammad Ashraful
+            bowler: KMDN Kulasekara
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: Mohammad Ashraful
+            bowler: KMDN Kulasekara
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.5:
+            batsman: Mohammad Ashraful
+            bowler: KMDN Kulasekara
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.6:
+            batsman: Mohammad Ashraful
+            bowler: KMDN Kulasekara
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - ST Jayasuriya
+              kind: caught
+              player_out: Mohammad Ashraful
+        - 18.7:
+            batsman: Shakib Al Hasan
+            bowler: KMDN Kulasekara
+            non_striker: Raqibul Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.1:
+            batsman: Shakib Al Hasan
+            bowler: M Muralitharan
+            non_striker: Raqibul Hasan
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 19.2:
+            batsman: Shakib Al Hasan
+            bowler: M Muralitharan
+            non_striker: Raqibul Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.3:
+            batsman: Raqibul Hasan
+            bowler: M Muralitharan
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.4:
+            batsman: Shakib Al Hasan
+            bowler: M Muralitharan
+            non_striker: Raqibul Hasan
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 19.5:
+            batsman: Raqibul Hasan
+            bowler: M Muralitharan
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.6:
+            batsman: Shakib Al Hasan
+            bowler: M Muralitharan
+            non_striker: Raqibul Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.1:
+            batsman: Shakib Al Hasan
+            bowler: KMDN Kulasekara
+            non_striker: Raqibul Hasan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 20.2:
+            batsman: Shakib Al Hasan
+            bowler: KMDN Kulasekara
+            non_striker: Raqibul Hasan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.3:
+            batsman: Shakib Al Hasan
+            bowler: KMDN Kulasekara
+            non_striker: Raqibul Hasan
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 20.4:
+            batsman: Shakib Al Hasan
+            bowler: KMDN Kulasekara
+            non_striker: Raqibul Hasan
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 20.5:
+            batsman: Shakib Al Hasan
+            bowler: KMDN Kulasekara
+            non_striker: Raqibul Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.6:
+            batsman: Raqibul Hasan
+            bowler: KMDN Kulasekara
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.1:
+            batsman: Raqibul Hasan
+            bowler: BAW Mendis
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.2:
+            batsman: Raqibul Hasan
+            bowler: BAW Mendis
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.3:
+            batsman: Raqibul Hasan
+            bowler: BAW Mendis
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - M Muralitharan
+              kind: caught
+              player_out: Raqibul Hasan
+        - 21.4:
+            batsman: Shakib Al Hasan
+            bowler: BAW Mendis
+            non_striker: Naeem Islam
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.5:
+            batsman: Naeem Islam
+            bowler: BAW Mendis
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.6:
+            batsman: Naeem Islam
+            bowler: BAW Mendis
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.1:
+            batsman: Shakib Al Hasan
+            bowler: M Muralitharan
+            non_striker: Naeem Islam
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 22.2:
+            batsman: Shakib Al Hasan
+            bowler: M Muralitharan
+            non_striker: Naeem Islam
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.3:
+            batsman: Shakib Al Hasan
+            bowler: M Muralitharan
+            non_striker: Naeem Islam
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.4:
+            batsman: Naeem Islam
+            bowler: M Muralitharan
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.5:
+            batsman: Shakib Al Hasan
+            bowler: M Muralitharan
+            non_striker: Naeem Islam
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 22.6:
+            batsman: Shakib Al Hasan
+            bowler: M Muralitharan
+            non_striker: Naeem Islam
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.1:
+            batsman: Naeem Islam
+            bowler: BAW Mendis
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.2:
+            batsman: Shakib Al Hasan
+            bowler: BAW Mendis
+            non_striker: Naeem Islam
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 23.3:
+            batsman: Shakib Al Hasan
+            bowler: BAW Mendis
+            non_striker: Naeem Islam
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.4:
+            batsman: Naeem Islam
+            bowler: BAW Mendis
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 23.5:
+            batsman: Naeem Islam
+            bowler: BAW Mendis
+            non_striker: Shakib Al Hasan
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6

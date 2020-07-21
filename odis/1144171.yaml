@@ -1,0 +1,3980 @@
+---
+meta:
+  data_version: 0.9
+  created: '2020-01-04'
+  revision: 1
+info:
+  city: Cape Town
+  dates:
+  - '2019-03-16'
+  gender: male
+  match_type: ODI
+  match_type_number: 4115
+  outcome:
+    winner: South Africa
+    by:
+      runs: 41
+    method: D/L
+  overs: 50
+  player_of_match:
+  - AK Markram
+  teams:
+  - South Africa
+  - Sri Lanka
+  toss:
+    decision: bat
+    winner: Sri Lanka
+  umpires:
+  - RA Kettleborough
+  - S George
+  venue: Newlands
+innings:
+- 1st innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        non_striker: WU Tharanga
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 0.2:
+        non_striker: WU Tharanga
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: WIA Fernando
+    - 0.3:
+        non_striker: WU Tharanga
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 0.4:
+        non_striker: WU Tharanga
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 0.5:
+        non_striker: WU Tharanga
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WIA Fernando
+    - 0.6:
+        non_striker: WU Tharanga
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 0.7:
+        non_striker: WU Tharanga
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WIA Fernando
+    - 0.8:
+        non_striker: WU Tharanga
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 0.9:
+        non_striker: WU Tharanga
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 1.1:
+        non_striker: WIA Fernando
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WU Tharanga
+    - 1.2:
+        non_striker: WIA Fernando
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WU Tharanga
+    - 1.3:
+        non_striker: WIA Fernando
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WU Tharanga
+    - 1.4:
+        non_striker: WIA Fernando
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WU Tharanga
+    - 1.5:
+        non_striker: WIA Fernando
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WU Tharanga
+    - 1.6:
+        non_striker: WU Tharanga
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 2.1:
+        non_striker: WIA Fernando
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WU Tharanga
+    - 2.2:
+        non_striker: WU Tharanga
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 2.3:
+        non_striker: WU Tharanga
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 2.4:
+        non_striker: WU Tharanga
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 2.5:
+        non_striker: WU Tharanga
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 2.6:
+        non_striker: WIA Fernando
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WU Tharanga
+    - 3.1:
+        non_striker: WU Tharanga
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 3.2:
+        non_striker: WU Tharanga
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 3.3:
+        non_striker: WU Tharanga
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+        wicket:
+          player_out: WIA Fernando
+          fielders:
+          - AK Markram
+          kind: caught
+    - 3.4:
+        non_striker: WU Tharanga
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 3.5:
+        non_striker: WU Tharanga
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 3.6:
+        non_striker: WU Tharanga
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 4.1:
+        non_striker: BOP Fernando
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WU Tharanga
+        wicket:
+          player_out: WU Tharanga
+          fielders:
+          - Q de Kock
+          kind: caught
+    - 4.2:
+        non_striker: BOP Fernando
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 4.3:
+        non_striker: BOP Fernando
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: BKG Mendis
+    - 4.4:
+        non_striker: BKG Mendis
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BOP Fernando
+    - 4.5:
+        non_striker: BKG Mendis
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 4.6:
+        non_striker: BKG Mendis
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 4.7:
+        non_striker: BKG Mendis
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 5.1:
+        non_striker: BOP Fernando
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 5.2:
+        non_striker: BOP Fernando
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 5.3:
+        non_striker: BOP Fernando
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 5.4:
+        non_striker: BOP Fernando
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 5.5:
+        non_striker: BOP Fernando
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 5.6:
+        non_striker: BKG Mendis
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 6.1:
+        non_striker: BOP Fernando
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 6.2:
+        non_striker: BOP Fernando
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 6.3:
+        non_striker: BOP Fernando
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 6.4:
+        non_striker: BOP Fernando
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 6.5:
+        non_striker: BOP Fernando
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 6.6:
+        non_striker: BOP Fernando
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 7.1:
+        non_striker: BKG Mendis
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 7.2:
+        non_striker: BKG Mendis
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 7.3:
+        non_striker: BKG Mendis
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 7.4:
+        non_striker: BKG Mendis
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 7.5:
+        non_striker: BKG Mendis
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 7.6:
+        non_striker: BKG Mendis
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 8.1:
+        non_striker: BOP Fernando
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 8.2:
+        non_striker: BOP Fernando
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 8.3:
+        non_striker: BOP Fernando
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 8.4:
+        non_striker: BKG Mendis
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 8.5:
+        non_striker: BKG Mendis
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BOP Fernando
+    - 8.6:
+        non_striker: BKG Mendis
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 9.1:
+        non_striker: BOP Fernando
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 9.2:
+        non_striker: BOP Fernando
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 9.3:
+        non_striker: BOP Fernando
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 9.4:
+        non_striker: BOP Fernando
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 9.5:
+        non_striker: BOP Fernando
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          non_boundary: 1
+          batsman: 4
+        batsman: BKG Mendis
+    - 9.6:
+        non_striker: BOP Fernando
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 10.1:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 10.2:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BOP Fernando
+    - 10.3:
+        non_striker: BOP Fernando
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 10.4:
+        non_striker: BOP Fernando
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 10.5:
+        non_striker: BOP Fernando
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 10.6:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BOP Fernando
+    - 11.1:
+        non_striker: BOP Fernando
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 11.2:
+        non_striker: BKG Mendis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BOP Fernando
+    - 11.3:
+        non_striker: BOP Fernando
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 11.4:
+        non_striker: BKG Mendis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 11.5:
+        non_striker: BKG Mendis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 11.6:
+        non_striker: BKG Mendis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 12.1:
+        non_striker: BOP Fernando
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 12.2:
+        non_striker: BOP Fernando
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 12.3:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 12.4:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BOP Fernando
+    - 12.5:
+        non_striker: BOP Fernando
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 12.6:
+        non_striker: BOP Fernando
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 13.1:
+        non_striker: BKG Mendis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 13.2:
+        non_striker: BKG Mendis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 13.3:
+        non_striker: BKG Mendis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 13.4:
+        non_striker: BKG Mendis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 13.5:
+        non_striker: BKG Mendis
+        bowler: A Nortje
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BOP Fernando
+    - 13.6:
+        non_striker: BKG Mendis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BOP Fernando
+    - 13.7:
+        non_striker: BOP Fernando
+        bowler: A Nortje
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BKG Mendis
+    - 13.8:
+        non_striker: BOP Fernando
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 14.1:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BOP Fernando
+    - 14.2:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 14.3:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 14.4:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 14.5:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: BOP Fernando
+    - 14.6:
+        non_striker: BOP Fernando
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 14.7:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 15.1:
+        non_striker: BOP Fernando
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 15.2:
+        non_striker: BOP Fernando
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 15.3:
+        non_striker: BOP Fernando
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 15.4:
+        non_striker: BOP Fernando
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 15.5:
+        non_striker: BOP Fernando
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 15.6:
+        non_striker: BKG Mendis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 16.1:
+        non_striker: BOP Fernando
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BKG Mendis
+    - 16.2:
+        non_striker: BOP Fernando
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 16.3:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BOP Fernando
+    - 16.4:
+        non_striker: BOP Fernando
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 16.5:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 16.6:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 16.7:
+        non_striker: BKG Mendis
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BOP Fernando
+    - 17.1:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 17.2:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 17.3:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 17.4:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 17.5:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+    - 17.6:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BOP Fernando
+        wicket:
+          player_out: BOP Fernando
+          fielders:
+          - F du Plessis
+          kind: caught
+    - 18.1:
+        non_striker: AK Perera
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 18.2:
+        non_striker: AK Perera
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 18.3:
+        non_striker: AK Perera
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 18.4:
+        non_striker: AK Perera
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 18.5:
+        non_striker: AK Perera
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 18.6:
+        non_striker: BKG Mendis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 19.1:
+        non_striker: AK Perera
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 19.2:
+        non_striker: AK Perera
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 19.3:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 19.4:
+        non_striker: AK Perera
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 19.5:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 19.6:
+        non_striker: AK Perera
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 20.1:
+        non_striker: BKG Mendis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 20.2:
+        non_striker: BKG Mendis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 20.3:
+        non_striker: BKG Mendis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 20.4:
+        non_striker: BKG Mendis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 20.5:
+        non_striker: AK Perera
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 20.6:
+        non_striker: AK Perera
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 21.1:
+        non_striker: AK Perera
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 21.2:
+        non_striker: AK Perera
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 21.3:
+        non_striker: AK Perera
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 21.4:
+        non_striker: AK Perera
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 21.5:
+        non_striker: AK Perera
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 21.6:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 22.1:
+        non_striker: BKG Mendis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 22.2:
+        non_striker: BKG Mendis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Perera
+    - 22.3:
+        non_striker: BKG Mendis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Perera
+    - 22.4:
+        non_striker: BKG Mendis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 22.5:
+        non_striker: BKG Mendis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 22.6:
+        non_striker: BKG Mendis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 23.1:
+        non_striker: AK Perera
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 23.2:
+        non_striker: AK Perera
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 23.3:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 23.4:
+        non_striker: AK Perera
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 23.5:
+        non_striker: AK Perera
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 23.6:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 24.1:
+        non_striker: AK Perera
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 24.2:
+        non_striker: BKG Mendis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 24.3:
+        non_striker: AK Perera
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 24.4:
+        non_striker: BKG Mendis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 24.5:
+        non_striker: BKG Mendis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AK Perera
+    - 24.6:
+        non_striker: AK Perera
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 25.1:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Perera
+    - 25.2:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 25.3:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 25.4:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 25.5:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 25.6:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 26.1:
+        non_striker: BKG Mendis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 26.2:
+        non_striker: AK Perera
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 26.3:
+        non_striker: AK Perera
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 26.4:
+        non_striker: AK Perera
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 26.5:
+        non_striker: AK Perera
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 26.6:
+        non_striker: BKG Mendis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 27.1:
+        non_striker: AK Perera
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 27.2:
+        non_striker: AK Perera
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 27.3:
+        non_striker: AK Perera
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 27.4:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 27.5:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 27.6:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Perera
+    - 28.1:
+        non_striker: AK Perera
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 28.2:
+        non_striker: BKG Mendis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Perera
+    - 28.3:
+        non_striker: BKG Mendis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 28.4:
+        non_striker: AK Perera
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 28.5:
+        non_striker: BKG Mendis
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Perera
+    - 28.6:
+        non_striker: AK Perera
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 29.1:
+        non_striker: AK Perera
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 29.2:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 29.3:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Perera
+    - 29.4:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+    - 29.5:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Perera
+        wicket:
+          player_out: AK Perera
+          fielders:
+          - F du Plessis
+          kind: caught
+    - 29.6:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 30.1:
+        non_striker: PARP Perera
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: BKG Mendis
+    - 30.2:
+        non_striker: PARP Perera
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 30.3:
+        non_striker: PARP Perera
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 30.4:
+        non_striker: PARP Perera
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 30.5:
+        non_striker: BKG Mendis
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 30.6:
+        non_striker: BKG Mendis
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 30.7:
+        non_striker: BKG Mendis
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 31.1:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 31.2:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 31.3:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PARP Perera
+    - 31.4:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 31.5:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 31.6:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 31.7:
+        non_striker: BKG Mendis
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 32.1:
+        non_striker: PARP Perera
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 32.2:
+        non_striker: PARP Perera
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 32.3:
+        non_striker: PARP Perera
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 32.4:
+        non_striker: BKG Mendis
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 32.5:
+        non_striker: BKG Mendis
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 32.6:
+        non_striker: BKG Mendis
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 33.1:
+        non_striker: BKG Mendis
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 33.2:
+        non_striker: PARP Perera
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 33.3:
+        non_striker: BKG Mendis
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 33.4:
+        non_striker: BKG Mendis
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 33.5:
+        non_striker: BKG Mendis
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 33.6:
+        non_striker: PARP Perera
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 34.1:
+        non_striker: BKG Mendis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 34.2:
+        non_striker: BKG Mendis
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 34.3:
+        non_striker: PARP Perera
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+        wicket:
+          player_out: BKG Mendis
+          kind: run out
+    - 34.4:
+        non_striker: NLTC Perera
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 34.5:
+        non_striker: NLTC Perera
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 34.6:
+        non_striker: PARP Perera
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLTC Perera
+    - 35.1:
+        non_striker: PARP Perera
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLTC Perera
+    - 35.2:
+        non_striker: PARP Perera
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLTC Perera
+    - 35.3:
+        non_striker: PARP Perera
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLTC Perera
+    - 35.4:
+        non_striker: NLTC Perera
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 35.5:
+        non_striker: PARP Perera
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLTC Perera
+    - 35.6:
+        non_striker: PARP Perera
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLTC Perera
+    - 36.1:
+        non_striker: NLTC Perera
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 36.2:
+        non_striker: NLTC Perera
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 36.3:
+        non_striker: PARP Perera
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLTC Perera
+        wicket:
+          player_out: NLTC Perera
+          fielders:
+          - Imran Tahir
+          kind: caught
+    - 36.4:
+        non_striker: DM de Silva
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 36.5:
+        non_striker: DM de Silva
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 36.6:
+        non_striker: DM de Silva
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 37.1:
+        non_striker: PARP Perera
+        bowler: JP Duminy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DM de Silva
+    - 37.2:
+        non_striker: PARP Perera
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DM de Silva
+    - 37.3:
+        non_striker: PARP Perera
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 37.4:
+        non_striker: PARP Perera
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 37.5:
+        non_striker: DM de Silva
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 37.6:
+        non_striker: PARP Perera
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DM de Silva
+    - 37.7:
+        non_striker: PARP Perera
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 38.1:
+        non_striker: DM de Silva
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 38.2:
+        non_striker: PARP Perera
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 38.3:
+        non_striker: PARP Perera
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 38.4:
+        non_striker: PARP Perera
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 38.5:
+        non_striker: DM de Silva
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 38.6:
+        non_striker: DM de Silva
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 39.1:
+        non_striker: PARP Perera
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 39.2:
+        non_striker: DM de Silva
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PARP Perera
+    - 39.3:
+        non_striker: DM de Silva
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 39.4:
+        non_striker: DM de Silva
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 39.5:
+        non_striker: DM de Silva
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 39.6:
+        non_striker: PARP Perera
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 40.1:
+        non_striker: PARP Perera
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 40.2:
+        non_striker: PARP Perera
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+        wicket:
+          player_out: DM de Silva
+          fielders:
+          - JP Duminy
+          kind: caught
+    - 40.3:
+        non_striker: PARP Perera
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 40.4:
+        non_striker: I Udana
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PARP Perera
+    - 40.5:
+        non_striker: I Udana
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 40.6:
+        non_striker: PARP Perera
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Udana
+    - 40.7:
+        non_striker: PARP Perera
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 40.8:
+        non_striker: PARP Perera
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 41.1:
+        non_striker: I Udana
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 41.2:
+        non_striker: I Udana
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 41.3:
+        non_striker: PARP Perera
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 41.4:
+        non_striker: I Udana
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 41.5:
+        non_striker: PARP Perera
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 41.6:
+        non_striker: PARP Perera
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 42.1:
+        non_striker: I Udana
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 42.2:
+        non_striker: PARP Perera
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 42.3:
+        non_striker: PARP Perera
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 42.4:
+        non_striker: PARP Perera
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Udana
+    - 42.5:
+        non_striker: PARP Perera
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 42.6:
+        non_striker: I Udana
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 43.1:
+        non_striker: I Udana
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 43.2:
+        non_striker: PARP Perera
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 43.3:
+        non_striker: PARP Perera
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 43.4:
+        non_striker: PARP Perera
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Udana
+    - 43.5:
+        non_striker: PARP Perera
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 43.6:
+        non_striker: PARP Perera
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 44.1:
+        non_striker: PARP Perera
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: I Udana
+    - 44.2:
+        non_striker: PARP Perera
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 44.3:
+        non_striker: I Udana
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 44.4:
+        non_striker: I Udana
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PARP Perera
+    - 44.5:
+        non_striker: I Udana
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 44.6:
+        non_striker: I Udana
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 44.7:
+        non_striker: I Udana
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 45.1:
+        non_striker: PARP Perera
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Udana
+    - 45.2:
+        non_striker: PARP Perera
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 45.3:
+        non_striker: I Udana
+        bowler: K Rabada
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: PARP Perera
+    - 45.4:
+        non_striker: I Udana
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 45.5:
+        non_striker: PARP Perera
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 45.6:
+        non_striker: I Udana
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 46.1:
+        non_striker: I Udana
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PARP Perera
+    - 46.2:
+        non_striker: I Udana
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PARP Perera
+    - 46.3:
+        non_striker: I Udana
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 46.4:
+        non_striker: PARP Perera
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 46.5:
+        non_striker: I Udana
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 46.6:
+        non_striker: PARP Perera
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 47.1:
+        non_striker: I Udana
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 47.2:
+        non_striker: PARP Perera
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Udana
+    - 47.3:
+        non_striker: PARP Perera
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 47.4:
+        non_striker: I Udana
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+    - 47.5:
+        non_striker: I Udana
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PARP Perera
+    - 47.6:
+        non_striker: PARP Perera
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 48.1:
+        non_striker: PARP Perera
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: I Udana
+    - 48.2:
+        non_striker: PARP Perera
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 48.3:
+        non_striker: PARP Perera
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Udana
+    - 48.4:
+        non_striker: PARP Perera
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+        wicket:
+          player_out: I Udana
+          fielders:
+          - Imran Tahir
+          kind: caught
+    - 48.5:
+        non_striker: A Dananjaya
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PARP Perera
+        wicket:
+          player_out: PARP Perera
+          kind: caught and bowled
+    - 48.6:
+        non_striker: SL Malinga
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dananjaya
+    - 49.1:
+        non_striker: SL Malinga
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Dananjaya
+    - 49.2:
+        non_striker: SL Malinga
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dananjaya
+    - 49.3:
+        non_striker: SL Malinga
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dananjaya
+        wicket:
+          player_out: A Dananjaya
+          fielders:
+          - JP Duminy
+          kind: caught
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.2:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 0.3:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.4:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.5:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.6:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.1:
+        non_striker: Q de Kock
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 1.2:
+        non_striker: AK Markram
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.3:
+        non_striker: AK Markram
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 1.4:
+        non_striker: AK Markram
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.5:
+        non_striker: AK Markram
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.6:
+        non_striker: AK Markram
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.1:
+        non_striker: Q de Kock
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 2.2:
+        non_striker: Q de Kock
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 2.3:
+        non_striker: Q de Kock
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 2.4:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.5:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.6:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          fielders:
+          - WIA Fernando
+          kind: caught
+    - 3.1:
+        non_striker: F du Plessis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 3.2:
+        non_striker: F du Plessis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 3.3:
+        non_striker: F du Plessis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 3.4:
+        non_striker: F du Plessis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 3.5:
+        non_striker: F du Plessis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 3.6:
+        non_striker: F du Plessis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 4.1:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: F du Plessis
+    - 4.2:
+        non_striker: F du Plessis
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 4.3:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: F du Plessis
+    - 4.4:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 4.5:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 4.6:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 4.7:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 5.1:
+        non_striker: F du Plessis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 5.2:
+        non_striker: F du Plessis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 5.3:
+        non_striker: AK Markram
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 5.4:
+        non_striker: AK Markram
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 5.5:
+        non_striker: AK Markram
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 5.6:
+        non_striker: AK Markram
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 6.1:
+        non_striker: F du Plessis
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 6.2:
+        non_striker: F du Plessis
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 6.3:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: F du Plessis
+    - 6.4:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 6.5:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 6.6:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 7.1:
+        non_striker: F du Plessis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 7.2:
+        non_striker: F du Plessis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 7.3:
+        non_striker: F du Plessis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 7.4:
+        non_striker: F du Plessis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 7.5:
+        non_striker: F du Plessis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 7.6:
+        non_striker: F du Plessis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 8.1:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 8.2:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 8.3:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 8.4:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 8.5:
+        non_striker: F du Plessis
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 8.6:
+        non_striker: F du Plessis
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 9.1:
+        non_striker: AK Markram
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: F du Plessis
+    - 9.2:
+        non_striker: F du Plessis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 9.3:
+        non_striker: F du Plessis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 9.4:
+        non_striker: F du Plessis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 9.5:
+        non_striker: F du Plessis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 9.6:
+        non_striker: AK Markram
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 10.1:
+        non_striker: F du Plessis
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 10.2:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 10.3:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 10.4:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 10.5:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 10.6:
+        non_striker: F du Plessis
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 11.1:
+        non_striker: AK Markram
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 11.2:
+        non_striker: AK Markram
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 11.3:
+        non_striker: F du Plessis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 11.4:
+        non_striker: F du Plessis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 11.5:
+        non_striker: F du Plessis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 11.6:
+        non_striker: F du Plessis
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 12.1:
+        non_striker: F du Plessis
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 12.2:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 12.3:
+        non_striker: F du Plessis
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 12.4:
+        non_striker: F du Plessis
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 12.5:
+        non_striker: F du Plessis
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 12.6:
+        non_striker: F du Plessis
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 13.1:
+        non_striker: AK Markram
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 13.2:
+        non_striker: F du Plessis
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 13.3:
+        non_striker: AK Markram
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 13.4:
+        non_striker: F du Plessis
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 13.5:
+        non_striker: F du Plessis
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 13.6:
+        non_striker: F du Plessis
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 14.1:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 14.2:
+        non_striker: F du Plessis
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 14.3:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 14.4:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 14.5:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 14.6:
+        non_striker: F du Plessis
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 15.1:
+        non_striker: AK Markram
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 15.2:
+        non_striker: F du Plessis
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 15.3:
+        non_striker: F du Plessis
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 15.4:
+        non_striker: AK Markram
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 15.5:
+        non_striker: AK Markram
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 15.6:
+        non_striker: AK Markram
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 16.1:
+        non_striker: F du Plessis
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 16.2:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 16.3:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 16.4:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 16.5:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 16.6:
+        non_striker: F du Plessis
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 17.1:
+        non_striker: AK Markram
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 17.2:
+        non_striker: AK Markram
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+        wicket:
+          player_out: F du Plessis
+          fielders:
+          - BKG Mendis
+          kind: caught
+    - 17.3:
+        non_striker: AK Markram
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 17.4:
+        non_striker: AK Markram
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 17.5:
+        non_striker: AK Markram
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 17.6:
+        non_striker: AK Markram
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 18.1:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 18.2:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 18.3:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 18.4:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 18.5:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 18.6:
+        non_striker: HE van der Dussen
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 19.1:
+        non_striker: HE van der Dussen
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 19.2:
+        non_striker: AK Markram
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 19.3:
+        non_striker: HE van der Dussen
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 19.4:
+        non_striker: HE van der Dussen
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 19.5:
+        non_striker: AK Markram
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 19.6:
+        non_striker: HE van der Dussen
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 20.1:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 20.2:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 20.3:
+        non_striker: HE van der Dussen
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 20.4:
+        non_striker: HE van der Dussen
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 20.5:
+        non_striker: HE van der Dussen
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 20.6:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 21.1:
+        non_striker: HE van der Dussen
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 21.2:
+        non_striker: HE van der Dussen
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 21.3:
+        non_striker: AK Markram
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 21.4:
+        non_striker: AK Markram
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 21.5:
+        non_striker: AK Markram
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 21.6:
+        non_striker: HE van der Dussen
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 22.1:
+        non_striker: AK Markram
+        bowler: AK Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 22.2:
+        non_striker: HE van der Dussen
+        bowler: AK Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 22.3:
+        non_striker: HE van der Dussen
+        bowler: AK Perera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Markram
+    - 22.4:
+        non_striker: HE van der Dussen
+        bowler: AK Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 22.5:
+        non_striker: AK Markram
+        bowler: AK Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 22.6:
+        non_striker: HE van der Dussen
+        bowler: AK Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 23.1:
+        non_striker: AK Markram
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 23.2:
+        non_striker: HE van der Dussen
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 23.3:
+        non_striker: AK Markram
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 23.4:
+        non_striker: HE van der Dussen
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 23.5:
+        non_striker: HE van der Dussen
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 23.6:
+        non_striker: HE van der Dussen
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 24.1:
+        non_striker: HE van der Dussen
+        bowler: AK Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 24.2:
+        non_striker: AK Markram
+        bowler: AK Perera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 24.3:
+        non_striker: AK Markram
+        bowler: AK Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 24.4:
+        non_striker: AK Markram
+        bowler: AK Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 24.5:
+        non_striker: AK Markram
+        bowler: AK Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 24.6:
+        non_striker: AK Markram
+        bowler: AK Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 25.1:
+        non_striker: AK Markram
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 25.2:
+        non_striker: HE van der Dussen
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 25.3:
+        non_striker: AK Markram
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 25.4:
+        non_striker: HE van der Dussen
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 25.5:
+        non_striker: AK Markram
+        bowler: I Udana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HE van der Dussen
+    - 25.6:
+        non_striker: AK Markram
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 25.7:
+        non_striker: HE van der Dussen
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 26.1:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE van der Dussen
+    - 26.2:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 26.3:
+        non_striker: HE van der Dussen
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 26.4:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 26.5:
+        non_striker: AK Markram
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 26.6:
+        non_striker: HE van der Dussen
+        bowler: A Dananjaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 27.1:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 27.2:
+        non_striker: HE van der Dussen
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 27.3:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 27.4:
+        non_striker: HE van der Dussen
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 27.5:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 27.6:
+        non_striker: AK Markram
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen

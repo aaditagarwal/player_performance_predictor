@@ -1,0 +1,5094 @@
+---
+meta:
+  data_version: 0.9
+  created: 2013-05-29
+  revision: 1
+info:
+  city: Dublin
+  dates:
+    - 2013-05-26
+  gender: male
+  match_type: ODI
+  outcome:
+    by:
+      wickets: 2
+    winner: Pakistan
+  overs: 50
+  player_of_match:
+    - Kamran Akmal
+  teams:
+    - Ireland
+    - Pakistan
+  toss:
+    decision: field
+    winner: Pakistan
+  umpires:
+    - IJ Gould
+    - RP Smith
+  venue: Clontarf Cricket Club Ground
+innings:
+  - 1st innings:
+      team: Ireland
+      deliveries:
+        - 0.1:
+            batsman: WTS Porterfield
+            bowler: Junaid Khan
+            non_striker: PR Stirling
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: WTS Porterfield
+            bowler: Junaid Khan
+            extras:
+              wides: 1
+            non_striker: PR Stirling
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.3:
+            batsman: WTS Porterfield
+            bowler: Junaid Khan
+            extras:
+              legbyes: 1
+            non_striker: PR Stirling
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.4:
+            batsman: PR Stirling
+            bowler: Junaid Khan
+            non_striker: WTS Porterfield
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: PR Stirling
+            bowler: Junaid Khan
+            non_striker: WTS Porterfield
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: PR Stirling
+            bowler: Junaid Khan
+            non_striker: WTS Porterfield
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Asad Shafiq
+              kind: caught
+              player_out: PR Stirling
+        - 0.7:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: WTS Porterfield
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: WTS Porterfield
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: WTS Porterfield
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: WTS Porterfield
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: WTS Porterfield
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: WTS Porterfield
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: WTS Porterfield
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: WTS Porterfield
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: WTS Porterfield
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.3:
+            batsman: WTS Porterfield
+            bowler: Junaid Khan
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: WTS Porterfield
+            bowler: Junaid Khan
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: WTS Porterfield
+            bowler: Junaid Khan
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.6:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: WTS Porterfield
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: WTS Porterfield
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: WTS Porterfield
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Kamran Akmal
+              kind: caught
+              player_out: WTS Porterfield
+        - 3.3:
+            batsman: NJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: NJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: NJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: NJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 4.3:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.5:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.6:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: NJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: NJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: NJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: NJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: NJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: NJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.4:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 7.1:
+            batsman: NJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: NJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: NJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.4:
+            batsman: EC Joyce
+            bowler: Asad Ali
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: EC Joyce
+            bowler: Asad Ali
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: EC Joyce
+            bowler: Asad Ali
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.1:
+            batsman: NJ O'Brien
+            bowler: Junaid Khan
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: NJ O'Brien
+            bowler: Junaid Khan
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: NJ O'Brien
+            bowler: Junaid Khan
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: NJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: EC Joyce
+            bowler: Asad Ali
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.3:
+            batsman: NJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: NJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: NJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: EC Joyce
+            bowler: Asad Ali
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: NJ O'Brien
+            bowler: Junaid Khan
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.2:
+            batsman: NJ O'Brien
+            bowler: Junaid Khan
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: NJ O'Brien
+            bowler: Junaid Khan
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: NJ O'Brien
+            bowler: Junaid Khan
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: NJ O'Brien
+            bowler: Junaid Khan
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.6:
+            batsman: NJ O'Brien
+            bowler: Junaid Khan
+            non_striker: EC Joyce
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 11.1:
+            batsman: NJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: NJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.3:
+            batsman: NJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.4:
+            batsman: NJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: NJ O'Brien
+            bowler: Asad Ali
+            extras:
+              legbyes: 1
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 11.6:
+            batsman: EC Joyce
+            bowler: Asad Ali
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: NJ O'Brien
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.2:
+            batsman: NJ O'Brien
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.3:
+            batsman: NJ O'Brien
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.4:
+            batsman: NJ O'Brien
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: EC Joyce
+            bowler: Wahab Riaz
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.6:
+            batsman: EC Joyce
+            bowler: Wahab Riaz
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.1:
+            batsman: NJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.2:
+            batsman: NJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.3:
+            batsman: EC Joyce
+            bowler: Asad Ali
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.4:
+            batsman: EC Joyce
+            bowler: Asad Ali
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.5:
+            batsman: EC Joyce
+            bowler: Asad Ali
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: EC Joyce
+            bowler: Asad Ali
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.1:
+            batsman: NJ O'Brien
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.2:
+            batsman: EC Joyce
+            bowler: Wahab Riaz
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: NJ O'Brien
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.4:
+            batsman: EC Joyce
+            bowler: Wahab Riaz
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.5:
+            batsman: NJ O'Brien
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.6:
+            batsman: NJ O'Brien
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: NJ O'Brien
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.2:
+            batsman: NJ O'Brien
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.3:
+            batsman: NJ O'Brien
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.4:
+            batsman: NJ O'Brien
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: NJ O'Brien
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.6:
+            batsman: NJ O'Brien
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.1:
+            batsman: NJ O'Brien
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.2:
+            batsman: NJ O'Brien
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.3:
+            batsman: EC Joyce
+            bowler: Wahab Riaz
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.4:
+            batsman: NJ O'Brien
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.5:
+            batsman: NJ O'Brien
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.6:
+            batsman: EC Joyce
+            bowler: Wahab Riaz
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.2:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.3:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.4:
+            batsman: NJ O'Brien
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.5:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.6:
+            batsman: NJ O'Brien
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.1:
+            batsman: NJ O'Brien
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.2:
+            batsman: EC Joyce
+            bowler: Wahab Riaz
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.3:
+            batsman: NJ O'Brien
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: NJ O'Brien
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.5:
+            batsman: NJ O'Brien
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.6:
+            batsman: NJ O'Brien
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.1:
+            batsman: NJ O'Brien
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.2:
+            batsman: NJ O'Brien
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.3:
+            batsman: NJ O'Brien
+            bowler: Mohammad Hafeez
+            extras:
+              wides: 2
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 2
+              total: 2
+        - 19.4:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.5:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.6:
+            batsman: NJ O'Brien
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.7:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.1:
+            batsman: EC Joyce
+            bowler: Wahab Riaz
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.2:
+            batsman: NJ O'Brien
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.3:
+            batsman: EC Joyce
+            bowler: Wahab Riaz
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 20.4:
+            batsman: EC Joyce
+            bowler: Wahab Riaz
+            non_striker: NJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.5:
+            batsman: NJ O'Brien
+            bowler: Wahab Riaz
+            extras:
+              wides: 1
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 20.6:
+            batsman: NJ O'Brien
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 20.7:
+            batsman: NJ O'Brien
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Kamran Akmal
+              kind: caught
+              player_out: NJ O'Brien
+        - 21.1:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: GC Wilson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.2:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: GC Wilson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.3:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: GC Wilson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.4:
+            batsman: GC Wilson
+            bowler: Mohammad Hafeez
+            extras:
+              wides: 5
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 5
+              total: 5
+        - 21.5:
+            batsman: GC Wilson
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.6:
+            batsman: GC Wilson
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.7:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: GC Wilson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.1:
+            batsman: GC Wilson
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 22.2:
+            batsman: GC Wilson
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.3:
+            batsman: GC Wilson
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.4:
+            batsman: GC Wilson
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.5:
+            batsman: EC Joyce
+            bowler: Wahab Riaz
+            extras:
+              wides: 1
+            non_striker: GC Wilson
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 22.6:
+            batsman: EC Joyce
+            bowler: Wahab Riaz
+            extras:
+              wides: 1
+            non_striker: GC Wilson
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 22.7:
+            batsman: EC Joyce
+            bowler: Wahab Riaz
+            non_striker: GC Wilson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.8:
+            batsman: EC Joyce
+            bowler: Wahab Riaz
+            non_striker: GC Wilson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.1:
+            batsman: GC Wilson
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.2:
+            batsman: GC Wilson
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.3:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: GC Wilson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.4:
+            batsman: GC Wilson
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.5:
+            batsman: GC Wilson
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.6:
+            batsman: GC Wilson
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.1:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: GC Wilson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.2:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: GC Wilson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.3:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: GC Wilson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.4:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            extras:
+              legbyes: 1
+            non_striker: GC Wilson
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 24.5:
+            batsman: GC Wilson
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.6:
+            batsman: GC Wilson
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Mohammad Hafeez
+              kind: caught
+              player_out: GC Wilson
+        - 25.1:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.2:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.3:
+            batsman: KJ O'Brien
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.4:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.5:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.6:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.1:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.2:
+            batsman: KJ O'Brien
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.3:
+            batsman: KJ O'Brien
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.4:
+            batsman: KJ O'Brien
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.5:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.6:
+            batsman: KJ O'Brien
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.1:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.2:
+            batsman: KJ O'Brien
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.3:
+            batsman: KJ O'Brien
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.4:
+            batsman: KJ O'Brien
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.5:
+            batsman: KJ O'Brien
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.6:
+            batsman: KJ O'Brien
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.1:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.2:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.3:
+            batsman: KJ O'Brien
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.4:
+            batsman: KJ O'Brien
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.5:
+            batsman: KJ O'Brien
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.6:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.1:
+            batsman: EC Joyce
+            bowler: Shoaib Malik
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.2:
+            batsman: KJ O'Brien
+            bowler: Shoaib Malik
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.3:
+            batsman: KJ O'Brien
+            bowler: Shoaib Malik
+            extras:
+              wides: 1
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 29.4:
+            batsman: KJ O'Brien
+            bowler: Shoaib Malik
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.5:
+            batsman: KJ O'Brien
+            bowler: Shoaib Malik
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.6:
+            batsman: EC Joyce
+            bowler: Shoaib Malik
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.7:
+            batsman: KJ O'Brien
+            bowler: Shoaib Malik
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.1:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 30.2:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.3:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.4:
+            batsman: KJ O'Brien
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.5:
+            batsman: KJ O'Brien
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.6:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.1:
+            batsman: EC Joyce
+            bowler: Shoaib Malik
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.2:
+            batsman: EC Joyce
+            bowler: Shoaib Malik
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.3:
+            batsman: KJ O'Brien
+            bowler: Shoaib Malik
+            extras:
+              wides: 1
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 31.4:
+            batsman: KJ O'Brien
+            bowler: Shoaib Malik
+            non_striker: EC Joyce
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 31.5:
+            batsman: KJ O'Brien
+            bowler: Shoaib Malik
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.6:
+            batsman: KJ O'Brien
+            bowler: Shoaib Malik
+            non_striker: EC Joyce
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 31.7:
+            batsman: KJ O'Brien
+            bowler: Shoaib Malik
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.1:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 32.2:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 32.3:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.4:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.5:
+            batsman: KJ O'Brien
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.6:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.1:
+            batsman: EC Joyce
+            bowler: Shoaib Malik
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.2:
+            batsman: EC Joyce
+            bowler: Shoaib Malik
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.3:
+            batsman: EC Joyce
+            bowler: Shoaib Malik
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.4:
+            batsman: EC Joyce
+            bowler: Shoaib Malik
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.5:
+            batsman: EC Joyce
+            bowler: Shoaib Malik
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.6:
+            batsman: EC Joyce
+            bowler: Shoaib Malik
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.1:
+            batsman: KJ O'Brien
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 34.2:
+            batsman: KJ O'Brien
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.3:
+            batsman: KJ O'Brien
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 34.4:
+            batsman: KJ O'Brien
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.5:
+            batsman: KJ O'Brien
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 34.6:
+            batsman: KJ O'Brien
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.1:
+            batsman: EC Joyce
+            bowler: Asad Ali
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.2:
+            batsman: EC Joyce
+            bowler: Asad Ali
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.3:
+            batsman: EC Joyce
+            bowler: Asad Ali
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 35.4:
+            batsman: EC Joyce
+            bowler: Asad Ali
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.5:
+            batsman: EC Joyce
+            bowler: Asad Ali
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.6:
+            batsman: KJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.1:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            extras:
+              noballs: 1
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 4
+              extras: 1
+              total: 5
+        - 36.2:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.3:
+            batsman: KJ O'Brien
+            bowler: Junaid Khan
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.4:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 36.5:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.6:
+            batsman: KJ O'Brien
+            bowler: Junaid Khan
+            non_striker: EC Joyce
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 36.7:
+            batsman: KJ O'Brien
+            bowler: Junaid Khan
+            non_striker: EC Joyce
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 37.1:
+            batsman: EC Joyce
+            bowler: Asad Ali
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.2:
+            batsman: EC Joyce
+            bowler: Asad Ali
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.3:
+            batsman: EC Joyce
+            bowler: Asad Ali
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 37.4:
+            batsman: EC Joyce
+            bowler: Asad Ali
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.5:
+            batsman: KJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.6:
+            batsman: KJ O'Brien
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.1:
+            batsman: EC Joyce
+            bowler: Wahab Riaz
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.2:
+            batsman: KJ O'Brien
+            bowler: Wahab Riaz
+            extras:
+              noballs: 1
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 38.3:
+            batsman: KJ O'Brien
+            bowler: Wahab Riaz
+            extras:
+              legbyes: 4
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 38.4:
+            batsman: KJ O'Brien
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 38.5:
+            batsman: KJ O'Brien
+            bowler: Wahab Riaz
+            extras:
+              wides: 1
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 38.6:
+            batsman: KJ O'Brien
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.7:
+            batsman: EC Joyce
+            bowler: Wahab Riaz
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.8:
+            batsman: KJ O'Brien
+            bowler: Wahab Riaz
+            extras:
+              wides: 1
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 38.9:
+            batsman: KJ O'Brien
+            bowler: Wahab Riaz
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.1:
+            batsman: KJ O'Brien
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.2:
+            batsman: KJ O'Brien
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.3:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.4:
+            batsman: KJ O'Brien
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.5:
+            batsman: KJ O'Brien
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.6:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.1:
+            batsman: KJ O'Brien
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.2:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: KJ O'Brien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.3:
+            batsman: KJ O'Brien
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.4:
+            batsman: KJ O'Brien
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Nasir Jamshed
+              kind: caught
+              player_out: KJ O'Brien
+        - 40.5:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: JNK Shannon
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.6:
+            batsman: JNK Shannon
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.1:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: JNK Shannon
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.2:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: JNK Shannon
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.3:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: JNK Shannon
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.4:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: JNK Shannon
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.5:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: JNK Shannon
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.6:
+            batsman: JNK Shannon
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.1:
+            batsman: JNK Shannon
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.2:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: JNK Shannon
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.3:
+            batsman: JNK Shannon
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.4:
+            batsman: JNK Shannon
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.5:
+            batsman: JNK Shannon
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.6:
+            batsman: JNK Shannon
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.1:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: JNK Shannon
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 43.2:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: JNK Shannon
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.3:
+            batsman: JNK Shannon
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: JNK Shannon
+        - 43.4:
+            batsman: DT Johnston
+            bowler: Mohammad Hafeez
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.5:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: DT Johnston
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.6:
+            batsman: EC Joyce
+            bowler: Mohammad Hafeez
+            non_striker: DT Johnston
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.1:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: DT Johnston
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.2:
+            batsman: DT Johnston
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: DT Johnston
+        - 44.3:
+            batsman: AR Cusack
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.4:
+            batsman: AR Cusack
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.5:
+            batsman: AR Cusack
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.6:
+            batsman: AR Cusack
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Asad Shafiq
+              kind: caught
+              player_out: AR Cusack
+        - 45.1:
+            batsman: EC Joyce
+            bowler: Shoaib Malik
+            non_striker: TJ Murtagh
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 45.2:
+            batsman: EC Joyce
+            bowler: Shoaib Malik
+            non_striker: TJ Murtagh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.3:
+            batsman: TJ Murtagh
+            bowler: Shoaib Malik
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.4:
+            batsman: TJ Murtagh
+            bowler: Shoaib Malik
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.5:
+            batsman: TJ Murtagh
+            bowler: Shoaib Malik
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.6:
+            batsman: TJ Murtagh
+            bowler: Shoaib Malik
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.1:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: TJ Murtagh
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 46.2:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: TJ Murtagh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.3:
+            batsman: TJ Murtagh
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.4:
+            batsman: TJ Murtagh
+            bowler: Abdur Rehman
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.5:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            extras:
+              wides: 1
+            non_striker: TJ Murtagh
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 46.6:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: TJ Murtagh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.7:
+            batsman: EC Joyce
+            bowler: Abdur Rehman
+            non_striker: TJ Murtagh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 47.1:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            extras:
+              wides: 1
+            non_striker: TJ Murtagh
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 47.2:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: TJ Murtagh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.3:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: TJ Murtagh
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 47.4:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: TJ Murtagh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 47.5:
+            batsman: TJ Murtagh
+            bowler: Junaid Khan
+            non_striker: EC Joyce
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 47.6:
+            batsman: TJ Murtagh
+            bowler: Junaid Khan
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 47.7:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: TJ Murtagh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.1:
+            batsman: EC Joyce
+            bowler: Asad Ali
+            non_striker: TJ Murtagh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.2:
+            batsman: TJ Murtagh
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 48.3:
+            batsman: TJ Murtagh
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.4:
+            batsman: EC Joyce
+            bowler: Asad Ali
+            non_striker: TJ Murtagh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.5:
+            batsman: TJ Murtagh
+            bowler: Asad Ali
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.6:
+            batsman: EC Joyce
+            bowler: Asad Ali
+            non_striker: TJ Murtagh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 49.1:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: TJ Murtagh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 49.2:
+            batsman: TJ Murtagh
+            bowler: Junaid Khan
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 49.3:
+            batsman: TJ Murtagh
+            bowler: Junaid Khan
+            non_striker: EC Joyce
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Misbah-ul-Haq
+              kind: caught
+              player_out: TJ Murtagh
+        - 49.4:
+            batsman: GH Dockrell
+            bowler: Junaid Khan
+            non_striker: EC Joyce
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 49.5:
+            batsman: GH Dockrell
+            bowler: Junaid Khan
+            non_striker: EC Joyce
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 49.6:
+            batsman: EC Joyce
+            bowler: Junaid Khan
+            non_striker: GH Dockrell
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+  - 2nd innings:
+      team: Pakistan
+      deliveries:
+        - 0.1:
+            batsman: Imran Farhat
+            bowler: TJ Murtagh
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: Imran Farhat
+            bowler: TJ Murtagh
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.3:
+            batsman: Nasir Jamshed
+            bowler: TJ Murtagh
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: Nasir Jamshed
+            bowler: TJ Murtagh
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: Nasir Jamshed
+            bowler: TJ Murtagh
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: Nasir Jamshed
+            bowler: TJ Murtagh
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: Imran Farhat
+            bowler: DT Johnston
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: Imran Farhat
+            bowler: DT Johnston
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: Imran Farhat
+            bowler: DT Johnston
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: Imran Farhat
+            bowler: DT Johnston
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.5:
+            batsman: Nasir Jamshed
+            bowler: DT Johnston
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: Nasir Jamshed
+            bowler: DT Johnston
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: Imran Farhat
+            bowler: TJ Murtagh
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: Imran Farhat
+            bowler: TJ Murtagh
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: Imran Farhat
+            bowler: TJ Murtagh
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: Imran Farhat
+            bowler: TJ Murtagh
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: Imran Farhat
+            bowler: TJ Murtagh
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: Imran Farhat
+            bowler: TJ Murtagh
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.1:
+            batsman: Imran Farhat
+            bowler: DT Johnston
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: Imran Farhat
+            bowler: DT Johnston
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: Imran Farhat
+            bowler: DT Johnston
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: Imran Farhat
+            bowler: DT Johnston
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: Imran Farhat
+            bowler: DT Johnston
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: Imran Farhat
+            bowler: DT Johnston
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.1:
+            batsman: Imran Farhat
+            bowler: TJ Murtagh
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: Imran Farhat
+            bowler: TJ Murtagh
+            extras:
+              legbyes: 2
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 0
+              extras: 2
+              total: 2
+        - 4.3:
+            batsman: Imran Farhat
+            bowler: TJ Murtagh
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: Imran Farhat
+            bowler: TJ Murtagh
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.5:
+            batsman: Nasir Jamshed
+            bowler: TJ Murtagh
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: Nasir Jamshed
+            bowler: TJ Murtagh
+            extras:
+              wides: 1
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 4.7:
+            batsman: Nasir Jamshed
+            bowler: TJ Murtagh
+            non_striker: Imran Farhat
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: Imran Farhat
+            bowler: DT Johnston
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: Imran Farhat
+            bowler: DT Johnston
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - KJ O'Brien
+              kind: caught
+              player_out: Imran Farhat
+        - 5.3:
+            batsman: Mohammad Hafeez
+            bowler: DT Johnston
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: Mohammad Hafeez
+            bowler: DT Johnston
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: Mohammad Hafeez
+            bowler: DT Johnston
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: Mohammad Hafeez
+            bowler: DT Johnston
+            non_striker: Nasir Jamshed
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.1:
+            batsman: Nasir Jamshed
+            bowler: TJ Murtagh
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: Nasir Jamshed
+            bowler: TJ Murtagh
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: Nasir Jamshed
+            bowler: TJ Murtagh
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: Nasir Jamshed
+        - 6.4:
+            batsman: Asad Shafiq
+            bowler: TJ Murtagh
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: Asad Shafiq
+            bowler: TJ Murtagh
+            non_striker: Mohammad Hafeez
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 6.6:
+            batsman: Mohammad Hafeez
+            bowler: TJ Murtagh
+            non_striker: Asad Shafiq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - GC Wilson
+              kind: caught
+              player_out: Mohammad Hafeez
+        - 7.1:
+            batsman: Asad Shafiq
+            bowler: DT Johnston
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: Asad Shafiq
+            bowler: DT Johnston
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.3:
+            batsman: Misbah-ul-Haq
+            bowler: DT Johnston
+            non_striker: Asad Shafiq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: Misbah-ul-Haq
+            bowler: DT Johnston
+            non_striker: Asad Shafiq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: Asad Shafiq
+            bowler: DT Johnston
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: Asad Shafiq
+            bowler: DT Johnston
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.1:
+            batsman: Misbah-ul-Haq
+            bowler: TJ Murtagh
+            non_striker: Asad Shafiq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: Misbah-ul-Haq
+            bowler: TJ Murtagh
+            extras:
+              legbyes: 1
+            non_striker: Asad Shafiq
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 8.3:
+            batsman: Asad Shafiq
+            bowler: TJ Murtagh
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: Asad Shafiq
+            bowler: TJ Murtagh
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: Asad Shafiq
+            bowler: TJ Murtagh
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: Asad Shafiq
+            bowler: TJ Murtagh
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: Misbah-ul-Haq
+            bowler: DT Johnston
+            non_striker: Asad Shafiq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: Asad Shafiq
+            bowler: DT Johnston
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - KJ O'Brien
+              kind: caught
+              player_out: Asad Shafiq
+        - 9.3:
+            batsman: Shoaib Malik
+            bowler: DT Johnston
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.4:
+            batsman: Shoaib Malik
+            bowler: DT Johnston
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: Shoaib Malik
+            bowler: DT Johnston
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.6:
+            batsman: Shoaib Malik
+            bowler: DT Johnston
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: Misbah-ul-Haq
+            bowler: TJ Murtagh
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.2:
+            batsman: Misbah-ul-Haq
+            bowler: TJ Murtagh
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: Misbah-ul-Haq
+            bowler: TJ Murtagh
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: Misbah-ul-Haq
+            bowler: TJ Murtagh
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: Misbah-ul-Haq
+            bowler: TJ Murtagh
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.6:
+            batsman: Misbah-ul-Haq
+            bowler: TJ Murtagh
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.1:
+            batsman: Shoaib Malik
+            bowler: DT Johnston
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: Misbah-ul-Haq
+            bowler: DT Johnston
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.3:
+            batsman: Misbah-ul-Haq
+            bowler: DT Johnston
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.4:
+            batsman: Misbah-ul-Haq
+            bowler: DT Johnston
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.5:
+            batsman: Shoaib Malik
+            bowler: DT Johnston
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: Shoaib Malik
+            bowler: DT Johnston
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: Misbah-ul-Haq
+            bowler: TJ Murtagh
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.2:
+            batsman: Misbah-ul-Haq
+            bowler: TJ Murtagh
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.3:
+            batsman: Misbah-ul-Haq
+            bowler: TJ Murtagh
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.4:
+            batsman: Shoaib Malik
+            bowler: TJ Murtagh
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: Misbah-ul-Haq
+            bowler: TJ Murtagh
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.6:
+            batsman: Misbah-ul-Haq
+            bowler: TJ Murtagh
+            extras:
+              legbyes: 1
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 13.1:
+            batsman: Misbah-ul-Haq
+            bowler: KJ O'Brien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.2:
+            batsman: Misbah-ul-Haq
+            bowler: KJ O'Brien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: Misbah-ul-Haq
+            bowler: KJ O'Brien
+            extras:
+              wides: 1
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 13.4:
+            batsman: Misbah-ul-Haq
+            bowler: KJ O'Brien
+            extras:
+              wides: 1
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 13.5:
+            batsman: Misbah-ul-Haq
+            bowler: KJ O'Brien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: Misbah-ul-Haq
+            bowler: KJ O'Brien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.7:
+            batsman: Shoaib Malik
+            bowler: KJ O'Brien
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.8:
+            batsman: Shoaib Malik
+            bowler: KJ O'Brien
+            extras:
+              wides: 1
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 13.9:
+            batsman: Shoaib Malik
+            bowler: KJ O'Brien
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: Misbah-ul-Haq
+            bowler: AR Cusack
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.2:
+            batsman: Misbah-ul-Haq
+            bowler: AR Cusack
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: Misbah-ul-Haq
+            bowler: AR Cusack
+            extras:
+              wides: 1
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 14.4:
+            batsman: Misbah-ul-Haq
+            bowler: AR Cusack
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.5:
+            batsman: Misbah-ul-Haq
+            bowler: AR Cusack
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.6:
+            batsman: Misbah-ul-Haq
+            bowler: AR Cusack
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.7:
+            batsman: Misbah-ul-Haq
+            bowler: AR Cusack
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.1:
+            batsman: Shoaib Malik
+            bowler: KJ O'Brien
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.2:
+            batsman: Shoaib Malik
+            bowler: KJ O'Brien
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.3:
+            batsman: Shoaib Malik
+            bowler: KJ O'Brien
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.4:
+            batsman: Misbah-ul-Haq
+            bowler: KJ O'Brien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.5:
+            batsman: Shoaib Malik
+            bowler: KJ O'Brien
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.6:
+            batsman: Shoaib Malik
+            bowler: KJ O'Brien
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.1:
+            batsman: Misbah-ul-Haq
+            bowler: AR Cusack
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.2:
+            batsman: Misbah-ul-Haq
+            bowler: AR Cusack
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.3:
+            batsman: Misbah-ul-Haq
+            bowler: AR Cusack
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.4:
+            batsman: Shoaib Malik
+            bowler: AR Cusack
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.5:
+            batsman: Shoaib Malik
+            bowler: AR Cusack
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.6:
+            batsman: Shoaib Malik
+            bowler: AR Cusack
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 17.1:
+            batsman: Shoaib Malik
+            bowler: KJ O'Brien
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.2:
+            batsman: Shoaib Malik
+            bowler: KJ O'Brien
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.3:
+            batsman: Shoaib Malik
+            bowler: KJ O'Brien
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.4:
+            batsman: Misbah-ul-Haq
+            bowler: KJ O'Brien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.5:
+            batsman: Misbah-ul-Haq
+            bowler: KJ O'Brien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.6:
+            batsman: Misbah-ul-Haq
+            bowler: KJ O'Brien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.1:
+            batsman: Shoaib Malik
+            bowler: AR Cusack
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.2:
+            batsman: Shoaib Malik
+            bowler: AR Cusack
+            extras:
+              wides: 1
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 18.3:
+            batsman: Shoaib Malik
+            bowler: AR Cusack
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: Shoaib Malik
+            bowler: AR Cusack
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.5:
+            batsman: Shoaib Malik
+            bowler: AR Cusack
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.6:
+            batsman: Shoaib Malik
+            bowler: AR Cusack
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.7:
+            batsman: Misbah-ul-Haq
+            bowler: AR Cusack
+            extras:
+              byes: 1
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 19.1:
+            batsman: Misbah-ul-Haq
+            bowler: KJ O'Brien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.2:
+            batsman: Misbah-ul-Haq
+            bowler: KJ O'Brien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 19.3:
+            batsman: Misbah-ul-Haq
+            bowler: KJ O'Brien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.4:
+            batsman: Misbah-ul-Haq
+            bowler: KJ O'Brien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.5:
+            batsman: Misbah-ul-Haq
+            bowler: KJ O'Brien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.6:
+            batsman: Shoaib Malik
+            bowler: KJ O'Brien
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.1:
+            batsman: Shoaib Malik
+            bowler: AR Cusack
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.2:
+            batsman: Misbah-ul-Haq
+            bowler: AR Cusack
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.3:
+            batsman: Misbah-ul-Haq
+            bowler: AR Cusack
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.4:
+            batsman: Misbah-ul-Haq
+            bowler: AR Cusack
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.5:
+            batsman: Misbah-ul-Haq
+            bowler: AR Cusack
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: caught and bowled
+              player_out: Misbah-ul-Haq
+        - 20.6:
+            batsman: Kamran Akmal
+            bowler: AR Cusack
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.1:
+            batsman: Shoaib Malik
+            bowler: KJ O'Brien
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.2:
+            batsman: Shoaib Malik
+            bowler: KJ O'Brien
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.3:
+            batsman: Shoaib Malik
+            bowler: KJ O'Brien
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.4:
+            batsman: Kamran Akmal
+            bowler: KJ O'Brien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.5:
+            batsman: Shoaib Malik
+            bowler: KJ O'Brien
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.6:
+            batsman: Shoaib Malik
+            bowler: KJ O'Brien
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.1:
+            batsman: Kamran Akmal
+            bowler: AR Cusack
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.2:
+            batsman: Shoaib Malik
+            bowler: AR Cusack
+            extras:
+              wides: 1
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 22.3:
+            batsman: Shoaib Malik
+            bowler: AR Cusack
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.4:
+            batsman: Shoaib Malik
+            bowler: AR Cusack
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.5:
+            batsman: Shoaib Malik
+            bowler: AR Cusack
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.6:
+            batsman: Shoaib Malik
+            bowler: AR Cusack
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.7:
+            batsman: Shoaib Malik
+            bowler: AR Cusack
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.1:
+            batsman: Kamran Akmal
+            bowler: KJ O'Brien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.2:
+            batsman: Kamran Akmal
+            bowler: KJ O'Brien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.3:
+            batsman: Kamran Akmal
+            bowler: KJ O'Brien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.4:
+            batsman: Shoaib Malik
+            bowler: KJ O'Brien
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.5:
+            batsman: Shoaib Malik
+            bowler: KJ O'Brien
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 23.6:
+            batsman: Shoaib Malik
+            bowler: KJ O'Brien
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 24.1:
+            batsman: Kamran Akmal
+            bowler: AR Cusack
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.2:
+            batsman: Kamran Akmal
+            bowler: AR Cusack
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.3:
+            batsman: Kamran Akmal
+            bowler: AR Cusack
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.4:
+            batsman: Kamran Akmal
+            bowler: AR Cusack
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.5:
+            batsman: Kamran Akmal
+            bowler: AR Cusack
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.6:
+            batsman: Kamran Akmal
+            bowler: AR Cusack
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.1:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.2:
+            batsman: Shoaib Malik
+            bowler: GH Dockrell
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.3:
+            batsman: Shoaib Malik
+            bowler: GH Dockrell
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.4:
+            batsman: Shoaib Malik
+            bowler: GH Dockrell
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.5:
+            batsman: Shoaib Malik
+            bowler: GH Dockrell
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.6:
+            batsman: Shoaib Malik
+            bowler: GH Dockrell
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 26.1:
+            batsman: Kamran Akmal
+            bowler: KJ O'Brien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.2:
+            batsman: Kamran Akmal
+            bowler: KJ O'Brien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.3:
+            batsman: Kamran Akmal
+            bowler: KJ O'Brien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.4:
+            batsman: Kamran Akmal
+            bowler: KJ O'Brien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 26.5:
+            batsman: Kamran Akmal
+            bowler: KJ O'Brien
+            extras:
+              wides: 1
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 26.6:
+            batsman: Kamran Akmal
+            bowler: KJ O'Brien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.7:
+            batsman: Kamran Akmal
+            bowler: KJ O'Brien
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.1:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.2:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.3:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.4:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.5:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.6:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.1:
+            batsman: Shoaib Malik
+            bowler: PR Stirling
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.2:
+            batsman: Kamran Akmal
+            bowler: PR Stirling
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.3:
+            batsman: Kamran Akmal
+            bowler: PR Stirling
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.4:
+            batsman: Shoaib Malik
+            bowler: PR Stirling
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 28.5:
+            batsman: Shoaib Malik
+            bowler: PR Stirling
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.6:
+            batsman: Kamran Akmal
+            bowler: PR Stirling
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.1:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.2:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.3:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.4:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.5:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.6:
+            batsman: Shoaib Malik
+            bowler: GH Dockrell
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.1:
+            batsman: Shoaib Malik
+            bowler: PR Stirling
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.2:
+            batsman: Kamran Akmal
+            bowler: PR Stirling
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 30.3:
+            batsman: Kamran Akmal
+            bowler: PR Stirling
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.4:
+            batsman: Kamran Akmal
+            bowler: PR Stirling
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.5:
+            batsman: Shoaib Malik
+            bowler: PR Stirling
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.6:
+            batsman: Kamran Akmal
+            bowler: PR Stirling
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.1:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.2:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.3:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.4:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.5:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.6:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.1:
+            batsman: Kamran Akmal
+            bowler: DT Johnston
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.2:
+            batsman: Shoaib Malik
+            bowler: DT Johnston
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 32.3:
+            batsman: Shoaib Malik
+            bowler: DT Johnston
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.4:
+            batsman: Shoaib Malik
+            bowler: DT Johnston
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.5:
+            batsman: Shoaib Malik
+            bowler: DT Johnston
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 32.6:
+            batsman: Shoaib Malik
+            bowler: DT Johnston
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.1:
+            batsman: Shoaib Malik
+            bowler: GH Dockrell
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: Shoaib Malik
+        - 33.2:
+            batsman: Abdur Rehman
+            bowler: GH Dockrell
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.3:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Abdur Rehman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.4:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Abdur Rehman
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 33.5:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Abdur Rehman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.6:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Abdur Rehman
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.1:
+            batsman: Kamran Akmal
+            bowler: DT Johnston
+            non_striker: Abdur Rehman
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.2:
+            batsman: Abdur Rehman
+            bowler: DT Johnston
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.3:
+            batsman: Abdur Rehman
+            bowler: DT Johnston
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.4:
+            batsman: Abdur Rehman
+            bowler: DT Johnston
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 34.5:
+            batsman: Abdur Rehman
+            bowler: DT Johnston
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.6:
+            batsman: Abdur Rehman
+            bowler: DT Johnston
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 35.1:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Abdur Rehman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.2:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Abdur Rehman
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.3:
+            batsman: Abdur Rehman
+            bowler: GH Dockrell
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.4:
+            batsman: Abdur Rehman
+            bowler: GH Dockrell
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.5:
+            batsman: Abdur Rehman
+            bowler: GH Dockrell
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.6:
+            batsman: Abdur Rehman
+            bowler: GH Dockrell
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.1:
+            batsman: Kamran Akmal
+            bowler: AR Cusack
+            non_striker: Abdur Rehman
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 36.2:
+            batsman: Kamran Akmal
+            bowler: AR Cusack
+            non_striker: Abdur Rehman
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 36.3:
+            batsman: Kamran Akmal
+            bowler: AR Cusack
+            non_striker: Abdur Rehman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.4:
+            batsman: Kamran Akmal
+            bowler: AR Cusack
+            non_striker: Abdur Rehman
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.5:
+            batsman: Abdur Rehman
+            bowler: AR Cusack
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.6:
+            batsman: Abdur Rehman
+            bowler: AR Cusack
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - KJ O'Brien
+              kind: caught
+              player_out: Abdur Rehman
+        - 37.1:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.2:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.3:
+            batsman: Wahab Riaz
+            bowler: GH Dockrell
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.4:
+            batsman: Wahab Riaz
+            bowler: GH Dockrell
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.5:
+            batsman: Wahab Riaz
+            bowler: GH Dockrell
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.6:
+            batsman: Wahab Riaz
+            bowler: GH Dockrell
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.1:
+            batsman: Kamran Akmal
+            bowler: TJ Murtagh
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.2:
+            batsman: Kamran Akmal
+            bowler: TJ Murtagh
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 38.3:
+            batsman: Kamran Akmal
+            bowler: TJ Murtagh
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.4:
+            batsman: Kamran Akmal
+            bowler: TJ Murtagh
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.5:
+            batsman: Wahab Riaz
+            bowler: TJ Murtagh
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.6:
+            batsman: Wahab Riaz
+            bowler: TJ Murtagh
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.1:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.2:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.3:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.4:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.5:
+            batsman: Wahab Riaz
+            bowler: GH Dockrell
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.6:
+            batsman: Wahab Riaz
+            bowler: GH Dockrell
+            extras:
+              wides: 1
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 39.7:
+            batsman: Wahab Riaz
+            bowler: GH Dockrell
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.1:
+            batsman: Kamran Akmal
+            bowler: AR Cusack
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.2:
+            batsman: Kamran Akmal
+            bowler: AR Cusack
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 40.3:
+            batsman: Kamran Akmal
+            bowler: AR Cusack
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.4:
+            batsman: Kamran Akmal
+            bowler: AR Cusack
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.5:
+            batsman: Kamran Akmal
+            bowler: AR Cusack
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.6:
+            batsman: Kamran Akmal
+            bowler: AR Cusack
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 41.1:
+            batsman: Wahab Riaz
+            bowler: DT Johnston
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.2:
+            batsman: Wahab Riaz
+            bowler: DT Johnston
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.3:
+            batsman: Wahab Riaz
+            bowler: DT Johnston
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 41.4:
+            batsman: Wahab Riaz
+            bowler: DT Johnston
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.5:
+            batsman: Wahab Riaz
+            bowler: DT Johnston
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.6:
+            batsman: Wahab Riaz
+            bowler: DT Johnston
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.1:
+            batsman: Kamran Akmal
+            bowler: TJ Murtagh
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 42.2:
+            batsman: Kamran Akmal
+            bowler: TJ Murtagh
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.3:
+            batsman: Kamran Akmal
+            bowler: TJ Murtagh
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 42.4:
+            batsman: Kamran Akmal
+            bowler: TJ Murtagh
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.5:
+            batsman: Wahab Riaz
+            bowler: TJ Murtagh
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.6:
+            batsman: Kamran Akmal
+            bowler: TJ Murtagh
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.1:
+            batsman: Wahab Riaz
+            bowler: GH Dockrell
+            extras:
+              legbyes: 1
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 43.2:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 43.3:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.4:
+            batsman: Wahab Riaz
+            bowler: GH Dockrell
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.5:
+            batsman: Wahab Riaz
+            bowler: GH Dockrell
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.6:
+            batsman: Wahab Riaz
+            bowler: GH Dockrell
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.1:
+            batsman: Kamran Akmal
+            bowler: AR Cusack
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.2:
+            batsman: Kamran Akmal
+            bowler: AR Cusack
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.3:
+            batsman: Wahab Riaz
+            bowler: AR Cusack
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 44.4:
+            batsman: Wahab Riaz
+            bowler: AR Cusack
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 44.5:
+            batsman: Wahab Riaz
+            bowler: AR Cusack
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 44.6:
+            batsman: Wahab Riaz
+            bowler: AR Cusack
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.1:
+            batsman: Wahab Riaz
+            bowler: GH Dockrell
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.2:
+            batsman: Wahab Riaz
+            bowler: GH Dockrell
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.3:
+            batsman: Wahab Riaz
+            bowler: GH Dockrell
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.4:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 45.5:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.6:
+            batsman: Kamran Akmal
+            bowler: GH Dockrell
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 46.1:
+            batsman: Wahab Riaz
+            bowler: TJ Murtagh
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 46.2:
+            batsman: Wahab Riaz
+            bowler: TJ Murtagh
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 46.3:
+            batsman: Wahab Riaz
+            bowler: TJ Murtagh
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 46.4:
+            batsman: Wahab Riaz
+            bowler: TJ Murtagh
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.5:
+            batsman: Wahab Riaz
+            bowler: TJ Murtagh
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 46.6:
+            batsman: Wahab Riaz
+            bowler: TJ Murtagh
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 47.1:
+            batsman: Kamran Akmal
+            bowler: KJ O'Brien
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 47.2:
+            batsman: Kamran Akmal
+            bowler: KJ O'Brien
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - WTS Porterfield
+              kind: caught
+              player_out: Kamran Akmal
+        - 47.3:
+            batsman: Wahab Riaz
+            bowler: KJ O'Brien
+            non_striker: Junaid Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 47.4:
+            batsman: Junaid Khan
+            bowler: KJ O'Brien
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.5:
+            batsman: Junaid Khan
+            bowler: KJ O'Brien
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.6:
+            batsman: Junaid Khan
+            bowler: KJ O'Brien
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 48.1:
+            batsman: Wahab Riaz
+            bowler: DT Johnston
+            non_striker: Junaid Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 48.2:
+            batsman: Wahab Riaz
+            bowler: DT Johnston
+            non_striker: Junaid Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.3:
+            batsman: Junaid Khan
+            bowler: DT Johnston
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 48.4:
+            batsman: Junaid Khan
+            bowler: DT Johnston
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2

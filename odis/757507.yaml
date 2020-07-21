@@ -1,0 +1,2714 @@
+---
+meta:
+  data_version: 0.9
+  created: 2014-10-21
+  revision: 3
+info:
+  city: Colombo
+  dates:
+    - 2014-10-19
+  gender: female
+  match_type: ODI
+  outcome:
+    by:
+      wickets: 4
+    winner: Sri Lanka
+  overs: 50
+  player_of_match:
+    - AC Jayangani
+  teams:
+    - Sri Lanka
+    - South Africa
+  toss:
+    decision: field
+    winner: Sri Lanka
+  umpires:
+    - REJ Martinesz
+    - RSA Palliyaguruge
+  venue: Sinhalese Sports Club Ground
+innings:
+  - 1st innings:
+      team: South Africa
+      deliveries:
+        - 0.1:
+            batsman: L Lee
+            bowler: KDU Prabodhani
+            non_striker: T Chetty
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: L Lee
+            bowler: KDU Prabodhani
+            non_striker: T Chetty
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: L Lee
+            bowler: KDU Prabodhani
+            non_striker: T Chetty
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.4:
+            batsman: T Chetty
+            bowler: KDU Prabodhani
+            non_striker: L Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.5:
+            batsman: L Lee
+            bowler: KDU Prabodhani
+            non_striker: T Chetty
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: L Lee
+            bowler: KDU Prabodhani
+            non_striker: T Chetty
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.1:
+            batsman: T Chetty
+            bowler: LE Kaushalya
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: T Chetty
+            bowler: LE Kaushalya
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: T Chetty
+            bowler: LE Kaushalya
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: T Chetty
+            bowler: LE Kaushalya
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: T Chetty
+            bowler: LE Kaushalya
+            extras:
+              legbyes: 1
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 1.6:
+            batsman: L Lee
+            bowler: LE Kaushalya
+            non_striker: T Chetty
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: T Chetty
+            bowler: KDU Prabodhani
+            non_striker: L Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.2:
+            batsman: L Lee
+            bowler: KDU Prabodhani
+            non_striker: T Chetty
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.3:
+            batsman: L Lee
+            bowler: KDU Prabodhani
+            non_striker: T Chetty
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: L Lee
+            bowler: KDU Prabodhani
+            non_striker: T Chetty
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.5:
+            batsman: L Lee
+            bowler: KDU Prabodhani
+            non_striker: T Chetty
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: L Lee
+            bowler: KDU Prabodhani
+            non_striker: T Chetty
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: T Chetty
+            bowler: LE Kaushalya
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: T Chetty
+            bowler: LE Kaushalya
+            non_striker: L Lee
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.3:
+            batsman: T Chetty
+            bowler: LE Kaushalya
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: T Chetty
+            bowler: LE Kaushalya
+            non_striker: L Lee
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.5:
+            batsman: T Chetty
+            bowler: LE Kaushalya
+            non_striker: L Lee
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.6:
+            batsman: T Chetty
+            bowler: LE Kaushalya
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: L Lee
+            bowler: HASD Siriwardene
+            non_striker: T Chetty
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.2:
+            batsman: T Chetty
+            bowler: HASD Siriwardene
+            extras:
+              wides: 1
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 4.3:
+            batsman: T Chetty
+            bowler: HASD Siriwardene
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: T Chetty
+            bowler: HASD Siriwardene
+            non_striker: L Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.5:
+            batsman: L Lee
+            bowler: HASD Siriwardene
+            non_striker: T Chetty
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: L Lee
+            bowler: HASD Siriwardene
+            non_striker: T Chetty
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.7:
+            batsman: L Lee
+            bowler: HASD Siriwardene
+            non_striker: T Chetty
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: T Chetty
+            bowler: HAM Samuddika
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: T Chetty
+            bowler: HAM Samuddika
+            non_striker: L Lee
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.3:
+            batsman: T Chetty
+            bowler: HAM Samuddika
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: T Chetty
+            bowler: HAM Samuddika
+            non_striker: L Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.5:
+            batsman: L Lee
+            bowler: HAM Samuddika
+            non_striker: T Chetty
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.6:
+            batsman: T Chetty
+            bowler: HAM Samuddika
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: L Lee
+            bowler: HASD Siriwardene
+            non_striker: T Chetty
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: T Chetty
+            bowler: HASD Siriwardene
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: T Chetty
+            bowler: HASD Siriwardene
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.4:
+            batsman: T Chetty
+            bowler: HASD Siriwardene
+            non_striker: L Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.5:
+            batsman: L Lee
+            bowler: HASD Siriwardene
+            non_striker: T Chetty
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: L Lee
+            bowler: HASD Siriwardene
+            non_striker: T Chetty
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.1:
+            batsman: T Chetty
+            bowler: HAM Samuddika
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: T Chetty
+            bowler: HAM Samuddika
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: T Chetty
+            bowler: HAM Samuddika
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: T Chetty
+            bowler: HAM Samuddika
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: T Chetty
+            bowler: HAM Samuddika
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: T Chetty
+            bowler: HAM Samuddika
+            non_striker: L Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: T Chetty
+            bowler: HASD Siriwardene
+            non_striker: L Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.2:
+            batsman: L Lee
+            bowler: HASD Siriwardene
+            non_striker: T Chetty
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.3:
+            batsman: L Lee
+            bowler: HASD Siriwardene
+            non_striker: T Chetty
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: T Chetty
+            bowler: HASD Siriwardene
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: T Chetty
+            bowler: HASD Siriwardene
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: T Chetty
+            bowler: HASD Siriwardene
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: L Lee
+            bowler: HAM Samuddika
+            non_striker: T Chetty
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - PM Weerakkody
+              kind: caught
+              player_out: L Lee
+        - 9.2:
+            batsman: D van Niekerk
+            bowler: HAM Samuddika
+            non_striker: T Chetty
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: D van Niekerk
+            bowler: HAM Samuddika
+            non_striker: T Chetty
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: D van Niekerk
+            bowler: HAM Samuddika
+            non_striker: T Chetty
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: D van Niekerk
+            bowler: HAM Samuddika
+            non_striker: T Chetty
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: T Chetty
+            bowler: HAM Samuddika
+            non_striker: D van Niekerk
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 10.1:
+            batsman: D van Niekerk
+            bowler: I Ranaweera
+            non_striker: T Chetty
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - PM Weerakkody
+              kind: caught
+              player_out: D van Niekerk
+        - 10.2:
+            batsman: M du Preez
+            bowler: I Ranaweera
+            non_striker: T Chetty
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: M du Preez
+            bowler: I Ranaweera
+            non_striker: T Chetty
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.4:
+            batsman: T Chetty
+            bowler: I Ranaweera
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.5:
+            batsman: M du Preez
+            bowler: I Ranaweera
+            non_striker: T Chetty
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.6:
+            batsman: M du Preez
+            bowler: I Ranaweera
+            non_striker: T Chetty
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.1:
+            batsman: T Chetty
+            bowler: HAM Samuddika
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: M du Preez
+            bowler: HAM Samuddika
+            non_striker: T Chetty
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.3:
+            batsman: T Chetty
+            bowler: HAM Samuddika
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: M du Preez
+            bowler: HAM Samuddika
+            non_striker: T Chetty
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: M du Preez
+            bowler: HAM Samuddika
+            non_striker: T Chetty
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 11.6:
+            batsman: M du Preez
+            bowler: HAM Samuddika
+            non_striker: T Chetty
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.1:
+            batsman: M du Preez
+            bowler: I Ranaweera
+            non_striker: T Chetty
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.2:
+            batsman: M du Preez
+            bowler: I Ranaweera
+            non_striker: T Chetty
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.3:
+            batsman: T Chetty
+            bowler: I Ranaweera
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - AC Jayangani
+              kind: caught
+              player_out: T Chetty
+        - 12.4:
+            batsman: M Kapp
+            bowler: I Ranaweera
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: M du Preez
+            bowler: I Ranaweera
+            non_striker: M Kapp
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.6:
+            batsman: M Kapp
+            bowler: I Ranaweera
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: M Kapp
+            bowler: LE Kaushalya
+            extras:
+              wides: 1
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 13.2:
+            batsman: M Kapp
+            bowler: LE Kaushalya
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: M Kapp
+            bowler: LE Kaushalya
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.4:
+            batsman: M Kapp
+            bowler: LE Kaushalya
+            extras:
+              wides: 1
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 13.5:
+            batsman: M Kapp
+            bowler: LE Kaushalya
+            non_striker: M du Preez
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 13.6:
+            batsman: M Kapp
+            bowler: LE Kaushalya
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.7:
+            batsman: M Kapp
+            bowler: LE Kaushalya
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.8:
+            batsman: M du Preez
+            bowler: LE Kaushalya
+            non_striker: M Kapp
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.1:
+            batsman: M du Preez
+            bowler: I Ranaweera
+            non_striker: M Kapp
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.2:
+            batsman: M Kapp
+            bowler: I Ranaweera
+            non_striker: M du Preez
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.3:
+            batsman: M Kapp
+            bowler: I Ranaweera
+            extras:
+              wides: 1
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 14.4:
+            batsman: M Kapp
+            bowler: I Ranaweera
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.5:
+            batsman: M du Preez
+            bowler: I Ranaweera
+            non_striker: M Kapp
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.6:
+            batsman: M Kapp
+            bowler: I Ranaweera
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.7:
+            batsman: M du Preez
+            bowler: I Ranaweera
+            non_striker: M Kapp
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.1:
+            batsman: M Kapp
+            bowler: HASD Siriwardene
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.2:
+            batsman: M du Preez
+            bowler: HASD Siriwardene
+            non_striker: M Kapp
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.3:
+            batsman: M du Preez
+            bowler: HASD Siriwardene
+            non_striker: M Kapp
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.4:
+            batsman: M du Preez
+            bowler: HASD Siriwardene
+            non_striker: M Kapp
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.5:
+            batsman: M Kapp
+            bowler: HASD Siriwardene
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.6:
+            batsman: M du Preez
+            bowler: HASD Siriwardene
+            non_striker: M Kapp
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.1:
+            batsman: M du Preez
+            bowler: HAM Samuddika
+            non_striker: M Kapp
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.2:
+            batsman: M Kapp
+            bowler: HAM Samuddika
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.3:
+            batsman: M Kapp
+            bowler: HAM Samuddika
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.4:
+            batsman: M Kapp
+            bowler: HAM Samuddika
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.5:
+            batsman: M Kapp
+            bowler: HAM Samuddika
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.6:
+            batsman: M Kapp
+            bowler: HAM Samuddika
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: M Kapp
+            bowler: HASD Siriwardene
+            non_striker: M du Preez
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 17.2:
+            batsman: M Kapp
+            bowler: HASD Siriwardene
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.3:
+            batsman: M du Preez
+            bowler: HASD Siriwardene
+            non_striker: M Kapp
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.4:
+            batsman: M du Preez
+            bowler: HASD Siriwardene
+            non_striker: M Kapp
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.5:
+            batsman: M du Preez
+            bowler: HASD Siriwardene
+            non_striker: M Kapp
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.6:
+            batsman: M du Preez
+            bowler: HASD Siriwardene
+            non_striker: M Kapp
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.1:
+            batsman: M Kapp
+            bowler: HAM Samuddika
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.2:
+            batsman: M du Preez
+            bowler: HAM Samuddika
+            non_striker: M Kapp
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.3:
+            batsman: M du Preez
+            bowler: HAM Samuddika
+            non_striker: M Kapp
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: M du Preez
+            bowler: HAM Samuddika
+            non_striker: M Kapp
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.5:
+            batsman: M du Preez
+            bowler: HAM Samuddika
+            non_striker: M Kapp
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.6:
+            batsman: M du Preez
+            bowler: HAM Samuddika
+            non_striker: M Kapp
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.1:
+            batsman: M Kapp
+            bowler: I Ranaweera
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.2:
+            batsman: M du Preez
+            bowler: I Ranaweera
+            non_striker: M Kapp
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.3:
+            batsman: M Kapp
+            bowler: I Ranaweera
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.4:
+            batsman: M Kapp
+            bowler: I Ranaweera
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.5:
+            batsman: M du Preez
+            bowler: I Ranaweera
+            non_striker: M Kapp
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.6:
+            batsman: M du Preez
+            bowler: I Ranaweera
+            non_striker: M Kapp
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 20.1:
+            batsman: M Kapp
+            bowler: KADA Kanchana
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.2:
+            batsman: M du Preez
+            bowler: KADA Kanchana
+            non_striker: M Kapp
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.3:
+            batsman: M Kapp
+            bowler: KADA Kanchana
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.4:
+            batsman: M Kapp
+            bowler: KADA Kanchana
+            non_striker: M du Preez
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 20.5:
+            batsman: M Kapp
+            bowler: KADA Kanchana
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.6:
+            batsman: M du Preez
+            bowler: KADA Kanchana
+            non_striker: M Kapp
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.1:
+            batsman: M du Preez
+            bowler: LE Kaushalya
+            non_striker: M Kapp
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.2:
+            batsman: M Kapp
+            bowler: LE Kaushalya
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.3:
+            batsman: M du Preez
+            bowler: LE Kaushalya
+            non_striker: M Kapp
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.4:
+            batsman: M Kapp
+            bowler: LE Kaushalya
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.5:
+            batsman: M Kapp
+            bowler: LE Kaushalya
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - I Ranaweera
+              kind: caught
+              player_out: M Kapp
+        - 21.6:
+            batsman: M du Preez
+            bowler: LE Kaushalya
+            non_striker: CL Tryon
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.1:
+            batsman: M du Preez
+            bowler: I Ranaweera
+            non_striker: CL Tryon
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.2:
+            batsman: CL Tryon
+            bowler: I Ranaweera
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.3:
+            batsman: M du Preez
+            bowler: I Ranaweera
+            non_striker: CL Tryon
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.4:
+            batsman: CL Tryon
+            bowler: I Ranaweera
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.5:
+            batsman: CL Tryon
+            bowler: I Ranaweera
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.6:
+            batsman: CL Tryon
+            bowler: I Ranaweera
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.1:
+            batsman: M du Preez
+            bowler: HASD Siriwardene
+            non_striker: CL Tryon
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 23.2:
+            batsman: M du Preez
+            bowler: HASD Siriwardene
+            non_striker: CL Tryon
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.3:
+            batsman: M du Preez
+            bowler: HASD Siriwardene
+            non_striker: CL Tryon
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.4:
+            batsman: CL Tryon
+            bowler: HASD Siriwardene
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.5:
+            batsman: CL Tryon
+            bowler: HASD Siriwardene
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.6:
+            batsman: M du Preez
+            bowler: HASD Siriwardene
+            non_striker: CL Tryon
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 24.1:
+            batsman: CL Tryon
+            bowler: KADA Kanchana
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.2:
+            batsman: M du Preez
+            bowler: KADA Kanchana
+            non_striker: CL Tryon
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - HASD Siriwardene
+              kind: caught
+              player_out: M du Preez
+        - 24.3:
+            batsman: CL Tryon
+            bowler: KADA Kanchana
+            non_striker: B Bezuidenhout
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 24.4:
+            batsman: CL Tryon
+            bowler: KADA Kanchana
+            non_striker: B Bezuidenhout
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.5:
+            batsman: B Bezuidenhout
+            bowler: KADA Kanchana
+            non_striker: CL Tryon
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.6:
+            batsman: B Bezuidenhout
+            bowler: KADA Kanchana
+            non_striker: CL Tryon
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: B Bezuidenhout
+        - 25.1:
+            batsman: CL Tryon
+            bowler: LE Kaushalya
+            extras:
+              legbyes: 1
+            non_striker: S Ismail
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 25.2:
+            batsman: S Ismail
+            bowler: LE Kaushalya
+            non_striker: CL Tryon
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.3:
+            batsman: S Ismail
+            bowler: LE Kaushalya
+            non_striker: CL Tryon
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.4:
+            batsman: CL Tryon
+            bowler: LE Kaushalya
+            non_striker: S Ismail
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.5:
+            batsman: S Ismail
+            bowler: LE Kaushalya
+            non_striker: CL Tryon
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.6:
+            batsman: CL Tryon
+            bowler: LE Kaushalya
+            non_striker: S Ismail
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.1:
+            batsman: CL Tryon
+            bowler: KADA Kanchana
+            non_striker: S Ismail
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.2:
+            batsman: S Ismail
+            bowler: KADA Kanchana
+            non_striker: CL Tryon
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 26.3:
+            batsman: S Ismail
+            bowler: KADA Kanchana
+            non_striker: CL Tryon
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 26.4:
+            batsman: S Ismail
+            bowler: KADA Kanchana
+            non_striker: CL Tryon
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - KDU Prabodhani
+              kind: caught
+              player_out: S Ismail
+        - 26.5:
+            batsman: Y Fourie
+            bowler: KADA Kanchana
+            non_striker: CL Tryon
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.6:
+            batsman: CL Tryon
+            bowler: KADA Kanchana
+            non_striker: Y Fourie
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+  - 2nd innings:
+      team: Sri Lanka
+      deliveries:
+        - 0.1:
+            batsman: AC Jayangani
+            bowler: S Ismail
+            non_striker: PM Weerakkody
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.2:
+            batsman: PM Weerakkody
+            bowler: S Ismail
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: PM Weerakkody
+            bowler: S Ismail
+            non_striker: AC Jayangani
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.4:
+            batsman: PM Weerakkody
+            bowler: S Ismail
+            non_striker: AC Jayangani
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.5:
+            batsman: PM Weerakkody
+            bowler: S Ismail
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: PM Weerakkody
+            bowler: S Ismail
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: AC Jayangani
+            bowler: M Daniels
+            non_striker: PM Weerakkody
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.2:
+            batsman: PM Weerakkody
+            bowler: M Daniels
+            non_striker: AC Jayangani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.3:
+            batsman: AC Jayangani
+            bowler: M Daniels
+            non_striker: PM Weerakkody
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: AC Jayangani
+            bowler: M Daniels
+            non_striker: PM Weerakkody
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: AC Jayangani
+            bowler: M Daniels
+            non_striker: PM Weerakkody
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.6:
+            batsman: AC Jayangani
+            bowler: M Daniels
+            non_striker: PM Weerakkody
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.1:
+            batsman: PM Weerakkody
+            bowler: M Kapp
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: PM Weerakkody
+            bowler: M Kapp
+            extras:
+              wides: 1
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.3:
+            batsman: PM Weerakkody
+            bowler: M Kapp
+            non_striker: AC Jayangani
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.4:
+            batsman: PM Weerakkody
+            bowler: M Kapp
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: PM Weerakkody
+            bowler: M Kapp
+            non_striker: AC Jayangani
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.6:
+            batsman: PM Weerakkody
+            bowler: M Kapp
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.7:
+            batsman: PM Weerakkody
+            bowler: M Kapp
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - T Chetty
+              kind: caught
+              player_out: PM Weerakkody
+        - 3.1:
+            batsman: AC Jayangani
+            bowler: S Ismail
+            non_striker: BYA Mendis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: AC Jayangani
+            bowler: S Ismail
+            non_striker: BYA Mendis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.3:
+            batsman: BYA Mendis
+            bowler: S Ismail
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: BYA Mendis
+            bowler: S Ismail
+            non_striker: AC Jayangani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.5:
+            batsman: AC Jayangani
+            bowler: S Ismail
+            non_striker: BYA Mendis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: AC Jayangani
+            bowler: S Ismail
+            non_striker: BYA Mendis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: BYA Mendis
+            bowler: M Kapp
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: BYA Mendis
+            bowler: M Kapp
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: BYA Mendis
+            bowler: M Kapp
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: BYA Mendis
+            bowler: M Kapp
+            non_striker: AC Jayangani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.5:
+            batsman: AC Jayangani
+            bowler: M Kapp
+            non_striker: BYA Mendis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: AC Jayangani
+            bowler: M Kapp
+            non_striker: BYA Mendis
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.1:
+            batsman: BYA Mendis
+            bowler: S Ismail
+            non_striker: AC Jayangani
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.2:
+            batsman: BYA Mendis
+            bowler: S Ismail
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: BYA Mendis
+            bowler: S Ismail
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: BYA Mendis
+            bowler: S Ismail
+            non_striker: AC Jayangani
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.5:
+            batsman: BYA Mendis
+            bowler: S Ismail
+            non_striker: AC Jayangani
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.6:
+            batsman: BYA Mendis
+            bowler: S Ismail
+            non_striker: AC Jayangani
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.1:
+            batsman: AC Jayangani
+            bowler: Y Fourie
+            extras:
+              noballs: 1
+            non_striker: BYA Mendis
+            runs:
+              batsman: 4
+              extras: 1
+              total: 5
+        - 6.2:
+            batsman: AC Jayangani
+            bowler: Y Fourie
+            non_striker: BYA Mendis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: AC Jayangani
+            bowler: Y Fourie
+            non_striker: BYA Mendis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.4:
+            batsman: AC Jayangani
+            bowler: Y Fourie
+            non_striker: BYA Mendis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: AC Jayangani
+            bowler: Y Fourie
+            non_striker: BYA Mendis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.6:
+            batsman: BYA Mendis
+            bowler: Y Fourie
+            non_striker: AC Jayangani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.7:
+            batsman: AC Jayangani
+            bowler: Y Fourie
+            non_striker: BYA Mendis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.1:
+            batsman: BYA Mendis
+            bowler: D van Niekerk
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: BYA Mendis
+            bowler: D van Niekerk
+            non_striker: AC Jayangani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.3:
+            batsman: AC Jayangani
+            bowler: D van Niekerk
+            non_striker: BYA Mendis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: AC Jayangani
+            bowler: D van Niekerk
+            non_striker: BYA Mendis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: BYA Mendis
+            bowler: D van Niekerk
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: BYA Mendis
+            bowler: D van Niekerk
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.1:
+            batsman: AC Jayangani
+            bowler: Y Fourie
+            non_striker: BYA Mendis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.2:
+            batsman: BYA Mendis
+            bowler: Y Fourie
+            non_striker: AC Jayangani
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.3:
+            batsman: BYA Mendis
+            bowler: Y Fourie
+            non_striker: AC Jayangani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: AC Jayangani
+            bowler: Y Fourie
+            non_striker: BYA Mendis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: AC Jayangani
+            bowler: Y Fourie
+            non_striker: BYA Mendis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.6:
+            batsman: BYA Mendis
+            bowler: Y Fourie
+            non_striker: AC Jayangani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.1:
+            batsman: BYA Mendis
+            bowler: D van Niekerk
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.2:
+            batsman: BYA Mendis
+            bowler: D van Niekerk
+            non_striker: AC Jayangani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.3:
+            batsman: AC Jayangani
+            bowler: D van Niekerk
+            non_striker: BYA Mendis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.4:
+            batsman: AC Jayangani
+            bowler: D van Niekerk
+            non_striker: BYA Mendis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.5:
+            batsman: BYA Mendis
+            bowler: D van Niekerk
+            non_striker: AC Jayangani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: AC Jayangani
+            bowler: D van Niekerk
+            non_striker: BYA Mendis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.1:
+            batsman: AC Jayangani
+            bowler: Y Fourie
+            non_striker: BYA Mendis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.2:
+            batsman: AC Jayangani
+            bowler: Y Fourie
+            non_striker: BYA Mendis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: AC Jayangani
+            bowler: Y Fourie
+            non_striker: BYA Mendis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.4:
+            batsman: BYA Mendis
+            bowler: Y Fourie
+            non_striker: AC Jayangani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.5:
+            batsman: AC Jayangani
+            bowler: Y Fourie
+            extras:
+              wides: 1
+            non_striker: BYA Mendis
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 10.6:
+            batsman: AC Jayangani
+            bowler: Y Fourie
+            non_striker: BYA Mendis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.7:
+            batsman: AC Jayangani
+            bowler: Y Fourie
+            non_striker: BYA Mendis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.1:
+            batsman: BYA Mendis
+            bowler: D van Niekerk
+            non_striker: AC Jayangani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: AC Jayangani
+            bowler: D van Niekerk
+            non_striker: BYA Mendis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.3:
+            batsman: AC Jayangani
+            bowler: D van Niekerk
+            non_striker: BYA Mendis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 11.4:
+            batsman: AC Jayangani
+            bowler: D van Niekerk
+            non_striker: BYA Mendis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - T Chetty
+              kind: run out
+              player_out: BYA Mendis
+        - 11.5:
+            batsman: HASD Siriwardene
+            bowler: D van Niekerk
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: HASD Siriwardene
+            bowler: D van Niekerk
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: AC Jayangani
+            bowler: Y Fourie
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.2:
+            batsman: AC Jayangani
+            bowler: Y Fourie
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.3:
+            batsman: AC Jayangani
+            bowler: Y Fourie
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.4:
+            batsman: HASD Siriwardene
+            bowler: Y Fourie
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.5:
+            batsman: HASD Siriwardene
+            bowler: Y Fourie
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.6:
+            batsman: HASD Siriwardene
+            bowler: Y Fourie
+            non_striker: AC Jayangani
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 13.1:
+            batsman: AC Jayangani
+            bowler: D van Niekerk
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.2:
+            batsman: HASD Siriwardene
+            bowler: D van Niekerk
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: HASD Siriwardene
+            bowler: D van Niekerk
+            non_striker: AC Jayangani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.4:
+            batsman: AC Jayangani
+            bowler: D van Niekerk
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.5:
+            batsman: AC Jayangani
+            bowler: D van Niekerk
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.6:
+            batsman: HASD Siriwardene
+            bowler: D van Niekerk
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: AC Jayangani
+            bowler: MM Letsoalo
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.2:
+            batsman: HASD Siriwardene
+            bowler: MM Letsoalo
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: HASD Siriwardene
+            bowler: MM Letsoalo
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: HASD Siriwardene
+            bowler: MM Letsoalo
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.5:
+            batsman: HASD Siriwardene
+            bowler: MM Letsoalo
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.6:
+            batsman: HASD Siriwardene
+            bowler: MM Letsoalo
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.1:
+            batsman: AC Jayangani
+            bowler: D van Niekerk
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.2:
+            batsman: AC Jayangani
+            bowler: D van Niekerk
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.3:
+            batsman: AC Jayangani
+            bowler: D van Niekerk
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 15.4:
+            batsman: AC Jayangani
+            bowler: D van Niekerk
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: AC Jayangani
+            bowler: D van Niekerk
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.6:
+            batsman: AC Jayangani
+            bowler: D van Niekerk
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.1:
+            batsman: HASD Siriwardene
+            bowler: MM Letsoalo
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.2:
+            batsman: HASD Siriwardene
+            bowler: MM Letsoalo
+            non_striker: AC Jayangani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.3:
+            batsman: AC Jayangani
+            bowler: MM Letsoalo
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 16.4:
+            batsman: AC Jayangani
+            bowler: MM Letsoalo
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.5:
+            batsman: AC Jayangani
+            bowler: MM Letsoalo
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.6:
+            batsman: AC Jayangani
+            bowler: MM Letsoalo
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.1:
+            batsman: HASD Siriwardene
+            bowler: D van Niekerk
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.2:
+            batsman: HASD Siriwardene
+            bowler: D van Niekerk
+            non_striker: AC Jayangani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.3:
+            batsman: AC Jayangani
+            bowler: D van Niekerk
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.4:
+            batsman: HASD Siriwardene
+            bowler: D van Niekerk
+            non_striker: AC Jayangani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.5:
+            batsman: AC Jayangani
+            bowler: D van Niekerk
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.6:
+            batsman: HASD Siriwardene
+            bowler: D van Niekerk
+            non_striker: AC Jayangani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.1:
+            batsman: HASD Siriwardene
+            bowler: M Daniels
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.2:
+            batsman: HASD Siriwardene
+            bowler: M Daniels
+            non_striker: AC Jayangani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.3:
+            batsman: AC Jayangani
+            bowler: M Daniels
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.4:
+            batsman: HASD Siriwardene
+            bowler: M Daniels
+            non_striker: AC Jayangani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.5:
+            batsman: AC Jayangani
+            bowler: M Daniels
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.6:
+            batsman: AC Jayangani
+            bowler: M Daniels
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.1:
+            batsman: AC Jayangani
+            bowler: S Ismail
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.2:
+            batsman: AC Jayangani
+            bowler: S Ismail
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.3:
+            batsman: HASD Siriwardene
+            bowler: S Ismail
+            non_striker: AC Jayangani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.4:
+            batsman: AC Jayangani
+            bowler: S Ismail
+            non_striker: HASD Siriwardene
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.5:
+            batsman: HASD Siriwardene
+            bowler: S Ismail
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.6:
+            batsman: HASD Siriwardene
+            bowler: S Ismail
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: HASD Siriwardene
+        - 20.1:
+            batsman: AC Jayangani
+            bowler: M Daniels
+            non_striker: LE Kaushalya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.2:
+            batsman: LE Kaushalya
+            bowler: M Daniels
+            non_striker: AC Jayangani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.3:
+            batsman: AC Jayangani
+            bowler: M Daniels
+            non_striker: LE Kaushalya
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.4:
+            batsman: AC Jayangani
+            bowler: M Daniels
+            non_striker: LE Kaushalya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.5:
+            batsman: LE Kaushalya
+            bowler: M Daniels
+            non_striker: AC Jayangani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.6:
+            batsman: AC Jayangani
+            bowler: M Daniels
+            non_striker: LE Kaushalya
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 21.1:
+            batsman: LE Kaushalya
+            bowler: S Ismail
+            non_striker: AC Jayangani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.2:
+            batsman: AC Jayangani
+            bowler: S Ismail
+            non_striker: LE Kaushalya
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.3:
+            batsman: LE Kaushalya
+            bowler: S Ismail
+            non_striker: AC Jayangani
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 21.4:
+            batsman: LE Kaushalya
+            bowler: S Ismail
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.5:
+            batsman: LE Kaushalya
+            bowler: S Ismail
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.6:
+            batsman: LE Kaushalya
+            bowler: S Ismail
+            non_striker: AC Jayangani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.1:
+            batsman: LE Kaushalya
+            bowler: M Kapp
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.2:
+            batsman: LE Kaushalya
+            bowler: M Kapp
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: LE Kaushalya
+        - 22.3:
+            batsman: KADA Kanchana
+            bowler: M Kapp
+            extras:
+              legbyes: 1
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 22.4:
+            batsman: AC Jayangani
+            bowler: M Kapp
+            non_striker: KADA Kanchana
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 22.5:
+            batsman: AC Jayangani
+            bowler: M Kapp
+            non_striker: KADA Kanchana
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 22.6:
+            batsman: AC Jayangani
+            bowler: M Kapp
+            non_striker: KADA Kanchana
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.1:
+            batsman: AC Jayangani
+            bowler: S Ismail
+            non_striker: KADA Kanchana
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.2:
+            batsman: KADA Kanchana
+            bowler: S Ismail
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.3:
+            batsman: KADA Kanchana
+            bowler: S Ismail
+            non_striker: AC Jayangani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - M Daniels
+              kind: caught
+              player_out: KADA Kanchana
+        - 23.4:
+            batsman: AC Jayangani
+            bowler: S Ismail
+            non_striker: PRCS Kumarihami
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.5:
+            batsman: AC Jayangani
+            bowler: S Ismail
+            non_striker: PRCS Kumarihami
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.6:
+            batsman: AC Jayangani
+            bowler: S Ismail
+            non_striker: PRCS Kumarihami
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - D van Niekerk
+              kind: caught
+              player_out: AC Jayangani
+        - 24.1:
+            batsman: GWHM Perera
+            bowler: M Kapp
+            non_striker: PRCS Kumarihami
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.2:
+            batsman: PRCS Kumarihami
+            bowler: M Kapp
+            non_striker: GWHM Perera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.3:
+            batsman: GWHM Perera
+            bowler: M Kapp
+            non_striker: PRCS Kumarihami
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.4:
+            batsman: PRCS Kumarihami
+            bowler: M Kapp
+            non_striker: GWHM Perera
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 24.5:
+            batsman: PRCS Kumarihami
+            bowler: M Kapp
+            non_striker: GWHM Perera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.6:
+            batsman: GWHM Perera
+            bowler: M Kapp
+            non_striker: PRCS Kumarihami
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.1:
+            batsman: PRCS Kumarihami
+            bowler: M Daniels
+            non_striker: GWHM Perera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.2:
+            batsman: GWHM Perera
+            bowler: M Daniels
+            non_striker: PRCS Kumarihami
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.3:
+            batsman: PRCS Kumarihami
+            bowler: M Daniels
+            non_striker: GWHM Perera
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.4:
+            batsman: PRCS Kumarihami
+            bowler: M Daniels
+            non_striker: GWHM Perera
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.5:
+            batsman: GWHM Perera
+            bowler: M Daniels
+            non_striker: PRCS Kumarihami
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 25.6:
+            batsman: GWHM Perera
+            bowler: M Daniels
+            non_striker: PRCS Kumarihami
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4

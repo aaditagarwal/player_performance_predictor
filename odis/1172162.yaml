@@ -1,0 +1,5016 @@
+---
+meta:
+  data_version: 0.9
+  created: '2020-01-06'
+  revision: 1
+info:
+  city: Mumbai
+  dates:
+  - '2019-02-28'
+  gender: female
+  match_type: ODI
+  match_type_number: 1147
+  outcome:
+    winner: England
+    by:
+      wickets: 2
+  overs: 50
+  player_of_match:
+  - KH Brunt
+  teams:
+  - India
+  - England
+  toss:
+    decision: bat
+    winner: India
+  umpires:
+  - KN Ananthapadmanabhan
+  - P Jayapal
+  venue: Wankhede Stadium
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Mandhana
+        batsman: JI Rodrigues
+    - 0.2:
+        non_striker: S Mandhana
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+        wicket:
+          player_out: JI Rodrigues
+          kind: bowled
+    - 0.3:
+        non_striker: S Mandhana
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 0.4:
+        non_striker: S Mandhana
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 0.5:
+        non_striker: S Mandhana
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PG Raut
+    - 0.6:
+        non_striker: PG Raut
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 1.1:
+        non_striker: S Mandhana
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 1.2:
+        non_striker: S Mandhana
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 1.3:
+        non_striker: S Mandhana
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 1.4:
+        non_striker: S Mandhana
+        bowler: A Shrubsole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PG Raut
+    - 1.5:
+        non_striker: S Mandhana
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 1.6:
+        non_striker: S Mandhana
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 1.7:
+        non_striker: S Mandhana
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 2.1:
+        non_striker: PG Raut
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 2.2:
+        non_striker: PG Raut
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 2.3:
+        non_striker: S Mandhana
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 2.4:
+        non_striker: S Mandhana
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 2.5:
+        non_striker: S Mandhana
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 2.6:
+        non_striker: S Mandhana
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 3.1:
+        non_striker: PG Raut
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 3.2:
+        non_striker: PG Raut
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 3.3:
+        non_striker: S Mandhana
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 3.4:
+        non_striker: S Mandhana
+        bowler: A Shrubsole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PG Raut
+    - 3.5:
+        non_striker: PG Raut
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 3.6:
+        non_striker: PG Raut
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 4.1:
+        non_striker: S Mandhana
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 4.2:
+        non_striker: S Mandhana
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 4.3:
+        non_striker: S Mandhana
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 4.4:
+        non_striker: S Mandhana
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 4.5:
+        non_striker: S Mandhana
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 4.6:
+        non_striker: S Mandhana
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PG Raut
+    - 5.1:
+        non_striker: PG Raut
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 5.2:
+        non_striker: PG Raut
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 5.3:
+        non_striker: PG Raut
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 5.4:
+        non_striker: PG Raut
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 5.5:
+        non_striker: PG Raut
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 5.6:
+        non_striker: S Mandhana
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PG Raut
+    - 6.1:
+        non_striker: PG Raut
+        bowler: KH Brunt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mandhana
+    - 6.2:
+        non_striker: PG Raut
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 6.3:
+        non_striker: PG Raut
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 6.4:
+        non_striker: S Mandhana
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PG Raut
+    - 6.5:
+        non_striker: S Mandhana
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 6.6:
+        non_striker: S Mandhana
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 6.7:
+        non_striker: S Mandhana
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 7.1:
+        non_striker: PG Raut
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 7.2:
+        non_striker: PG Raut
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 7.3:
+        non_striker: PG Raut
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 7.4:
+        non_striker: PG Raut
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 7.5:
+        non_striker: PG Raut
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 7.6:
+        non_striker: PG Raut
+        bowler: A Shrubsole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mandhana
+    - 7.7:
+        non_striker: PG Raut
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 8.1:
+        non_striker: S Mandhana
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PG Raut
+    - 8.2:
+        non_striker: PG Raut
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 8.3:
+        non_striker: PG Raut
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 8.4:
+        non_striker: PG Raut
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 8.5:
+        non_striker: S Mandhana
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 8.6:
+        non_striker: S Mandhana
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 9.1:
+        non_striker: PG Raut
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 9.2:
+        non_striker: PG Raut
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 9.3:
+        non_striker: PG Raut
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 9.4:
+        non_striker: PG Raut
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 9.5:
+        non_striker: PG Raut
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 9.6:
+        non_striker: PG Raut
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 10.1:
+        non_striker: S Mandhana
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 10.2:
+        non_striker: S Mandhana
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PG Raut
+    - 10.3:
+        non_striker: PG Raut
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 10.4:
+        non_striker: S Mandhana
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 10.5:
+        non_striker: S Mandhana
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 10.6:
+        non_striker: S Mandhana
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 11.1:
+        non_striker: PG Raut
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 11.2:
+        non_striker: S Mandhana
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 11.3:
+        non_striker: S Mandhana
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PG Raut
+    - 11.4:
+        non_striker: PG Raut
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 11.5:
+        non_striker: S Mandhana
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 11.6:
+        non_striker: S Mandhana
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 12.1:
+        non_striker: PG Raut
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 12.2:
+        non_striker: S Mandhana
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 12.3:
+        non_striker: S Mandhana
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 12.4:
+        non_striker: S Mandhana
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PG Raut
+    - 12.5:
+        non_striker: S Mandhana
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 12.6:
+        non_striker: S Mandhana
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PG Raut
+    - 13.1:
+        non_striker: S Mandhana
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 13.2:
+        non_striker: S Mandhana
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PG Raut
+    - 13.3:
+        non_striker: PG Raut
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Mandhana
+    - 13.4:
+        non_striker: PG Raut
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 13.5:
+        non_striker: PG Raut
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 13.6:
+        non_striker: PG Raut
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 14.1:
+        non_striker: S Mandhana
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PG Raut
+    - 14.2:
+        non_striker: S Mandhana
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 14.3:
+        non_striker: S Mandhana
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 14.4:
+        non_striker: S Mandhana
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 14.5:
+        non_striker: S Mandhana
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 14.6:
+        non_striker: S Mandhana
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PG Raut
+    - 15.1:
+        non_striker: S Mandhana
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PG Raut
+    - 15.2:
+        non_striker: PG Raut
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 15.3:
+        non_striker: PG Raut
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 15.4:
+        non_striker: S Mandhana
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 15.5:
+        non_striker: S Mandhana
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 15.6:
+        non_striker: S Mandhana
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PG Raut
+    - 16.1:
+        non_striker: S Mandhana
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PG Raut
+    - 16.2:
+        non_striker: S Mandhana
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 16.3:
+        non_striker: S Mandhana
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PG Raut
+    - 16.4:
+        non_striker: PG Raut
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 16.5:
+        non_striker: PG Raut
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 16.6:
+        non_striker: PG Raut
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 17.1:
+        non_striker: PG Raut
+        bowler: HC Knight
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 17.2:
+        non_striker: PG Raut
+        bowler: HC Knight
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 17.3:
+        non_striker: PG Raut
+        bowler: HC Knight
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 17.4:
+        non_striker: S Mandhana
+        bowler: HC Knight
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 17.5:
+        non_striker: S Mandhana
+        bowler: HC Knight
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 17.6:
+        non_striker: S Mandhana
+        bowler: HC Knight
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PG Raut
+    - 18.1:
+        non_striker: S Mandhana
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 18.2:
+        non_striker: S Mandhana
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 18.3:
+        non_striker: S Mandhana
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 18.4:
+        non_striker: S Mandhana
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 18.5:
+        non_striker: S Mandhana
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PG Raut
+    - 18.6:
+        non_striker: S Mandhana
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PG Raut
+    - 19.1:
+        non_striker: PG Raut
+        bowler: HC Knight
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 19.2:
+        non_striker: S Mandhana
+        bowler: HC Knight
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PG Raut
+    - 19.3:
+        non_striker: PG Raut
+        bowler: HC Knight
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 19.4:
+        non_striker: PG Raut
+        bowler: HC Knight
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 19.5:
+        non_striker: PG Raut
+        bowler: HC Knight
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 19.6:
+        non_striker: S Mandhana
+        bowler: HC Knight
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 20.1:
+        non_striker: PG Raut
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mandhana
+    - 20.2:
+        non_striker: PG Raut
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 20.3:
+        non_striker: S Mandhana
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 20.4:
+        non_striker: S Mandhana
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 20.5:
+        non_striker: S Mandhana
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 20.6:
+        non_striker: S Mandhana
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PG Raut
+    - 21.1:
+        non_striker: S Mandhana
+        bowler: HC Knight
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 21.2:
+        non_striker: S Mandhana
+        bowler: HC Knight
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PG Raut
+    - 21.3:
+        non_striker: PG Raut
+        bowler: HC Knight
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 21.4:
+        non_striker: PG Raut
+        bowler: HC Knight
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 21.5:
+        non_striker: S Mandhana
+        bowler: HC Knight
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 21.6:
+        non_striker: S Mandhana
+        bowler: HC Knight
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PG Raut
+    - 22.1:
+        non_striker: PG Raut
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 22.2:
+        non_striker: PG Raut
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 22.3:
+        non_striker: S Mandhana
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 22.4:
+        non_striker: S Mandhana
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 22.5:
+        non_striker: S Mandhana
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 22.6:
+        non_striker: S Mandhana
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 23.1:
+        non_striker: PG Raut
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 23.2:
+        non_striker: S Mandhana
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PG Raut
+    - 23.3:
+        non_striker: PG Raut
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 23.4:
+        non_striker: S Mandhana
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PG Raut
+    - 23.5:
+        non_striker: PG Raut
+        bowler: DN Wyatt
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: S Mandhana
+    - 23.6:
+        non_striker: PG Raut
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 23.7:
+        non_striker: S Mandhana
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PG Raut
+    - 24.1:
+        non_striker: S Mandhana
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: PG Raut
+    - 24.2:
+        non_striker: PG Raut
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 24.3:
+        non_striker: PG Raut
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 24.4:
+        non_striker: PG Raut
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 24.5:
+        non_striker: PG Raut
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mandhana
+    - 24.6:
+        non_striker: PG Raut
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 25.1:
+        non_striker: S Mandhana
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PG Raut
+    - 25.2:
+        non_striker: PG Raut
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 25.3:
+        non_striker: S Mandhana
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 25.4:
+        non_striker: S Mandhana
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 25.5:
+        non_striker: S Mandhana
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 25.6:
+        non_striker: S Mandhana
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PG Raut
+    - 26.1:
+        non_striker: S Mandhana
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PG Raut
+    - 26.2:
+        non_striker: PG Raut
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 26.3:
+        non_striker: PG Raut
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 26.4:
+        non_striker: PG Raut
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 26.5:
+        non_striker: PG Raut
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 26.6:
+        non_striker: PG Raut
+        bowler: A Hartley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 27.1:
+        non_striker: PG Raut
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 27.2:
+        non_striker: S Mandhana
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PG Raut
+    - 27.3:
+        non_striker: PG Raut
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 27.4:
+        non_striker: S Mandhana
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 27.5:
+        non_striker: S Mandhana
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 27.6:
+        non_striker: S Mandhana
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 28.1:
+        non_striker: PG Raut
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 28.2:
+        non_striker: PG Raut
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 28.3:
+        non_striker: PG Raut
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+        wicket:
+          player_out: S Mandhana
+          fielders:
+          - DN Wyatt
+          kind: caught
+    - 28.4:
+        non_striker: PG Raut
+        bowler: KH Brunt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Raj
+    - 28.5:
+        non_striker: PG Raut
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Raj
+    - 28.6:
+        non_striker: M Raj
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+    - 28.7:
+        non_striker: M Raj
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PG Raut
+        wicket:
+          player_out: PG Raut
+          kind: bowled
+    - 29.1:
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MR Meshram
+        batsman: M Raj
+    - 29.2:
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MR Meshram
+        batsman: M Raj
+    - 29.3:
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MR Meshram
+        batsman: M Raj
+    - 29.4:
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MR Meshram
+        batsman: M Raj
+    - 29.5:
+        non_striker: M Raj
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Meshram
+    - 29.6:
+        non_striker: M Raj
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Meshram
+    - 30.1:
+        non_striker: MR Meshram
+        bowler: KH Brunt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Raj
+    - 30.2:
+        non_striker: M Raj
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Meshram
+    - 30.3:
+        non_striker: M Raj
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Meshram
+    - 30.4:
+        non_striker: M Raj
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Meshram
+        wicket:
+          player_out: MR Meshram
+          kind: lbw
+    - 30.5:
+        non_striker: M Raj
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 30.6:
+        non_striker: M Raj
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 31.1:
+        non_striker: DB Sharma
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Raj
+    - 31.2:
+        non_striker: DB Sharma
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Raj
+    - 31.3:
+        non_striker: M Raj
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 31.4:
+        non_striker: DB Sharma
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Raj
+    - 31.5:
+        non_striker: DB Sharma
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Raj
+    - 31.6:
+        non_striker: DB Sharma
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Raj
+    - 32.1:
+        non_striker: M Raj
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 32.2:
+        non_striker: M Raj
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 32.3:
+        non_striker: M Raj
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 32.4:
+        non_striker: DB Sharma
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Raj
+        wicket:
+          player_out: M Raj
+          fielders:
+          - SJ Taylor
+          kind: caught
+    - 32.5:
+        non_striker: DB Sharma
+        bowler: KH Brunt
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: T Bhatia
+    - 32.6:
+        non_striker: T Bhatia
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 32.7:
+        non_striker: DB Sharma
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bhatia
+    - 33.1:
+        non_striker: T Bhatia
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 33.2:
+        non_striker: T Bhatia
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 33.3:
+        non_striker: DB Sharma
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bhatia
+        wicket:
+          player_out: T Bhatia
+          kind: bowled
+    - 33.4:
+        non_striker: DB Sharma
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Goswami
+    - 33.5:
+        non_striker: DB Sharma
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Goswami
+    - 33.6:
+        non_striker: DB Sharma
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Goswami
+    - 34.1:
+        non_striker: J Goswami
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 34.2:
+        non_striker: J Goswami
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 34.3:
+        non_striker: J Goswami
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 34.4:
+        non_striker: J Goswami
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 34.5:
+        non_striker: J Goswami
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 34.6:
+        non_striker: J Goswami
+        bowler: KH Brunt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DB Sharma
+    - 35.1:
+        non_striker: J Goswami
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 35.2:
+        non_striker: J Goswami
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 35.3:
+        non_striker: J Goswami
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 35.4:
+        non_striker: J Goswami
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DB Sharma
+    - 35.5:
+        non_striker: J Goswami
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 35.6:
+        non_striker: J Goswami
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 36.1:
+        non_striker: DB Sharma
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Goswami
+    - 36.2:
+        non_striker: DB Sharma
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Goswami
+    - 36.3:
+        non_striker: DB Sharma
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Goswami
+    - 36.4:
+        non_striker: DB Sharma
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Goswami
+    - 36.5:
+        non_striker: DB Sharma
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Goswami
+    - 36.6:
+        non_striker: DB Sharma
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Goswami
+    - 37.1:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Goswami
+    - 37.2:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Goswami
+        wicket:
+          player_out: J Goswami
+          fielders:
+          - SJ Taylor
+          kind: caught
+    - 37.3:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 37.4:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 37.5:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 37.6:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 38.1:
+        non_striker: S Pandey
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 38.2:
+        non_striker: S Pandey
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 38.3:
+        non_striker: DB Sharma
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 38.4:
+        non_striker: DB Sharma
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 38.5:
+        non_striker: DB Sharma
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 38.6:
+        non_striker: DB Sharma
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 39.1:
+        non_striker: S Pandey
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 39.2:
+        non_striker: S Pandey
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 39.3:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 39.4:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Pandey
+    - 39.5:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 39.6:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Pandey
+    - 40.1:
+        non_striker: S Pandey
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 40.2:
+        non_striker: S Pandey
+        bowler: GA Elwiss
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DB Sharma
+    - 40.3:
+        non_striker: S Pandey
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 40.4:
+        non_striker: S Pandey
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 40.5:
+        non_striker: DB Sharma
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 40.6:
+        non_striker: DB Sharma
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pandey
+    - 40.7:
+        non_striker: S Pandey
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 41.1:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 41.2:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 41.3:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 41.4:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pandey
+    - 41.5:
+        non_striker: S Pandey
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 41.6:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pandey
+    - 42.1:
+        non_striker: DB Sharma
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 42.2:
+        non_striker: DB Sharma
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pandey
+    - 42.3:
+        non_striker: S Pandey
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 42.4:
+        non_striker: DB Sharma
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pandey
+    - 42.5:
+        non_striker: S Pandey
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 42.6:
+        non_striker: S Pandey
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 43.1:
+        non_striker: S Pandey
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 43.2:
+        non_striker: S Pandey
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 43.3:
+        non_striker: S Pandey
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 43.4:
+        non_striker: S Pandey
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 43.5:
+        non_striker: S Pandey
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 43.6:
+        non_striker: DB Sharma
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 44.1:
+        non_striker: S Pandey
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 44.2:
+        non_striker: S Pandey
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DB Sharma
+    - 44.3:
+        non_striker: S Pandey
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 44.4:
+        non_striker: DB Sharma
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 44.5:
+        non_striker: DB Sharma
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Pandey
+    - 44.6:
+        non_striker: DB Sharma
+        bowler: A Shrubsole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Pandey
+    - 44.7:
+        non_striker: DB Sharma
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Pandey
+    - 45.1:
+        non_striker: S Pandey
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 45.2:
+        non_striker: DB Sharma
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pandey
+    - 45.3:
+        non_striker: S Pandey
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 45.4:
+        non_striker: DB Sharma
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 45.5:
+        non_striker: DB Sharma
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 45.6:
+        non_striker: DB Sharma
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pandey
+    - 46.1:
+        non_striker: DB Sharma
+        bowler: A Shrubsole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Pandey
+    - 46.2:
+        non_striker: DB Sharma
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 46.3:
+        non_striker: DB Sharma
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Pandey
+    - 46.4:
+        non_striker: DB Sharma
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 46.5:
+        non_striker: DB Sharma
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pandey
+    - 46.6:
+        non_striker: S Pandey
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DB Sharma
+    - 46.7:
+        non_striker: S Pandey
+        bowler: A Shrubsole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 47.1:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 47.2:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 47.3:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pandey
+    - 47.4:
+        non_striker: S Pandey
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 47.5:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 47.6:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pandey
+    - 48.1:
+        non_striker: DB Sharma
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+    - 48.2:
+        non_striker: DB Sharma
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pandey
+        wicket:
+          player_out: S Pandey
+          kind: caught and bowled
+    - 48.3:
+        non_striker: DB Sharma
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Poonam Yadav
+    - 48.4:
+        non_striker: DB Sharma
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Poonam Yadav
+    - 48.5:
+        non_striker: Poonam Yadav
+        bowler: GA Elwiss
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: DB Sharma
+    - 48.6:
+        non_striker: Poonam Yadav
+        bowler: GA Elwiss
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 49.1:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Poonam Yadav
+    - 49.2:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Poonam Yadav
+    - 49.3:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Poonam Yadav
+    - 49.4:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Poonam Yadav
+    - 49.5:
+        non_striker: Poonam Yadav
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 49.6:
+        non_striker: DB Sharma
+        bowler: NR Sciver
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Poonam Yadav
+- 2nd innings:
+    team: England
+    deliveries:
+    - 0.1:
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: TT Beaumont
+        batsman: AE Jones
+    - 0.2:
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TT Beaumont
+        batsman: AE Jones
+    - 0.3:
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TT Beaumont
+        batsman: AE Jones
+    - 0.4:
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: TT Beaumont
+        batsman: AE Jones
+    - 0.5:
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TT Beaumont
+        batsman: AE Jones
+    - 0.6:
+        non_striker: TT Beaumont
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 1.1:
+        non_striker: AE Jones
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 1.2:
+        non_striker: AE Jones
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 1.3:
+        non_striker: AE Jones
+        bowler: S Pandey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Beaumont
+    - 1.4:
+        non_striker: AE Jones
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 1.5:
+        non_striker: AE Jones
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 1.6:
+        non_striker: TT Beaumont
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 1.7:
+        non_striker: TT Beaumont
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 2.1:
+        non_striker: AE Jones
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 2.2:
+        non_striker: AE Jones
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 2.3:
+        non_striker: AE Jones
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 2.4:
+        non_striker: AE Jones
+        bowler: J Goswami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Beaumont
+    - 2.5:
+        non_striker: AE Jones
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 2.6:
+        non_striker: AE Jones
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 2.7:
+        non_striker: AE Jones
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 3.1:
+        non_striker: TT Beaumont
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 3.2:
+        non_striker: AE Jones
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 3.3:
+        non_striker: AE Jones
+        bowler: S Pandey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Beaumont
+    - 3.4:
+        non_striker: AE Jones
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 3.5:
+        non_striker: AE Jones
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 3.6:
+        non_striker: AE Jones
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 3.7:
+        non_striker: AE Jones
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 4.1:
+        non_striker: TT Beaumont
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 4.2:
+        non_striker: TT Beaumont
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 4.3:
+        non_striker: TT Beaumont
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 4.4:
+        non_striker: TT Beaumont
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Jones
+    - 4.5:
+        non_striker: TT Beaumont
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 4.6:
+        non_striker: TT Beaumont
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+        wicket:
+          player_out: AE Jones
+          fielders:
+          - S Mandhana
+          kind: caught
+    - 5.1:
+        non_striker: TT Beaumont
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 5.2:
+        non_striker: TT Beaumont
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 5.3:
+        non_striker: TT Beaumont
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 5.4:
+        non_striker: TT Beaumont
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 5.5:
+        non_striker: TT Beaumont
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 5.6:
+        non_striker: TT Beaumont
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 6.1:
+        non_striker: L Winfield
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 6.2:
+        non_striker: L Winfield
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 6.3:
+        non_striker: L Winfield
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 6.4:
+        non_striker: L Winfield
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 6.5:
+        non_striker: TT Beaumont
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 6.6:
+        non_striker: TT Beaumont
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 7.1:
+        non_striker: L Winfield
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 7.2:
+        non_striker: L Winfield
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 7.3:
+        non_striker: L Winfield
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 7.4:
+        non_striker: L Winfield
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 7.5:
+        non_striker: L Winfield
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TT Beaumont
+    - 7.6:
+        non_striker: L Winfield
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 8.1:
+        non_striker: TT Beaumont
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+    - 8.2:
+        non_striker: TT Beaumont
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Winfield
+    - 8.3:
+        non_striker: TT Beaumont
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Winfield
+        wicket:
+          player_out: L Winfield
+          fielders:
+          - T Bhatia
+          kind: caught
+    - 8.4:
+        non_striker: TT Beaumont
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 8.5:
+        non_striker: TT Beaumont
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 8.6:
+        non_striker: TT Beaumont
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 9.1:
+        non_striker: HC Knight
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 9.2:
+        non_striker: HC Knight
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 9.3:
+        non_striker: HC Knight
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 9.4:
+        non_striker: HC Knight
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 9.5:
+        non_striker: HC Knight
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 9.6:
+        non_striker: TT Beaumont
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 10.1:
+        non_striker: HC Knight
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 10.2:
+        non_striker: HC Knight
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+        wicket:
+          player_out: TT Beaumont
+          fielders:
+          - MR Meshram
+          kind: caught
+    - 10.3:
+        non_striker: HC Knight
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 10.4:
+        non_striker: HC Knight
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver
+    - 10.5:
+        non_striker: NR Sciver
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 10.6:
+        non_striker: NR Sciver
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 11.1:
+        non_striker: HC Knight
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+    - 11.2:
+        non_striker: HC Knight
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver
+        wicket:
+          player_out: NR Sciver
+          kind: caught and bowled
+    - 11.3:
+        non_striker: HC Knight
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Taylor
+    - 11.4:
+        non_striker: HC Knight
+        bowler: DB Sharma
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: SJ Taylor
+    - 11.5:
+        non_striker: HC Knight
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Taylor
+    - 11.6:
+        non_striker: HC Knight
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Taylor
+    - 12.1:
+        non_striker: SJ Taylor
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 12.2:
+        non_striker: SJ Taylor
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 12.3:
+        non_striker: SJ Taylor
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 12.4:
+        non_striker: HC Knight
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Taylor
+    - 12.5:
+        non_striker: HC Knight
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Taylor
+    - 12.6:
+        non_striker: HC Knight
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Taylor
+    - 13.1:
+        non_striker: SJ Taylor
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 13.2:
+        non_striker: SJ Taylor
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 13.3:
+        non_striker: SJ Taylor
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 13.4:
+        non_striker: HC Knight
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Taylor
+    - 13.5:
+        non_striker: HC Knight
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Taylor
+    - 13.6:
+        non_striker: HC Knight
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Taylor
+    - 14.1:
+        non_striker: HC Knight
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Taylor
+    - 14.2:
+        non_striker: SJ Taylor
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 14.3:
+        non_striker: SJ Taylor
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 14.4:
+        non_striker: SJ Taylor
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 14.5:
+        non_striker: SJ Taylor
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 14.6:
+        non_striker: HC Knight
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Taylor
+        wicket:
+          player_out: SJ Taylor
+          kind: lbw
+    - 15.1:
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DN Wyatt
+        batsman: HC Knight
+    - 15.2:
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DN Wyatt
+        batsman: HC Knight
+    - 15.3:
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DN Wyatt
+        batsman: HC Knight
+    - 15.4:
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: DN Wyatt
+        batsman: HC Knight
+    - 15.5:
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: DN Wyatt
+        batsman: HC Knight
+    - 15.6:
+        non_striker: DN Wyatt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 16.1:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 16.2:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 16.3:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 16.4:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 16.5:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HC Knight
+    - 16.6:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 17.1:
+        non_striker: HC Knight
+        bowler: Poonam Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DN Wyatt
+    - 17.2:
+        non_striker: HC Knight
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 17.3:
+        non_striker: HC Knight
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 17.4:
+        non_striker: HC Knight
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 17.5:
+        non_striker: HC Knight
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 17.6:
+        non_striker: HC Knight
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 17.7:
+        non_striker: DN Wyatt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 18.1:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 18.2:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 18.3:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 18.4:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 18.5:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 18.6:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 19.1:
+        non_striker: HC Knight
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 19.2:
+        non_striker: HC Knight
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 19.3:
+        non_striker: HC Knight
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 19.4:
+        non_striker: HC Knight
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 19.5:
+        non_striker: DN Wyatt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 19.6:
+        non_striker: DN Wyatt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 20.1:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 20.2:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 20.3:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 20.4:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 20.5:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 20.6:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 21.1:
+        non_striker: DN Wyatt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 21.2:
+        non_striker: HC Knight
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 21.3:
+        non_striker: DN Wyatt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 21.4:
+        non_striker: HC Knight
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 21.5:
+        non_striker: DN Wyatt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 21.6:
+        non_striker: DN Wyatt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 22.1:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 22.2:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 22.3:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 22.4:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 22.5:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 22.6:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 23.1:
+        non_striker: DN Wyatt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 23.2:
+        non_striker: DN Wyatt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 23.3:
+        non_striker: DN Wyatt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 23.4:
+        non_striker: HC Knight
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 23.5:
+        non_striker: HC Knight
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 23.6:
+        non_striker: HC Knight
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 24.1:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 24.2:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 24.3:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 24.4:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 24.5:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 24.6:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 25.1:
+        non_striker: DN Wyatt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 25.2:
+        non_striker: DN Wyatt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 25.3:
+        non_striker: HC Knight
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 25.4:
+        non_striker: DN Wyatt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 25.5:
+        non_striker: HC Knight
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 25.6:
+        non_striker: HC Knight
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 26.1:
+        non_striker: HC Knight
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 26.2:
+        non_striker: HC Knight
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 26.3:
+        non_striker: HC Knight
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 26.4:
+        non_striker: DN Wyatt
+        bowler: S Pandey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HC Knight
+    - 26.5:
+        non_striker: DN Wyatt
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 26.6:
+        non_striker: DN Wyatt
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 26.7:
+        non_striker: HC Knight
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 27.1:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 27.2:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 27.3:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 27.4:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 27.5:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 27.6:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 28.1:
+        non_striker: DN Wyatt
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 28.2:
+        non_striker: HC Knight
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 28.3:
+        non_striker: DN Wyatt
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 28.4:
+        non_striker: HC Knight
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 28.5:
+        non_striker: HC Knight
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Wyatt
+    - 28.6:
+        non_striker: HC Knight
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 29.1:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 29.2:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 29.3:
+        non_striker: HC Knight
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 29.4:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 29.5:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 29.6:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 30.1:
+        non_striker: DN Wyatt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 30.2:
+        non_striker: HC Knight
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 30.3:
+        non_striker: HC Knight
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 30.4:
+        non_striker: HC Knight
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 30.5:
+        non_striker: DN Wyatt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Knight
+    - 30.6:
+        non_striker: DN Wyatt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+        wicket:
+          player_out: HC Knight
+          fielders:
+          - T Bhatia
+          kind: caught
+    - 31.1:
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GA Elwiss
+        batsman: DN Wyatt
+    - 31.2:
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GA Elwiss
+        batsman: DN Wyatt
+    - 31.3:
+        non_striker: DN Wyatt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 31.4:
+        non_striker: DN Wyatt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 31.5:
+        non_striker: DN Wyatt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 31.6:
+        non_striker: DN Wyatt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 32.1:
+        non_striker: GA Elwiss
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 32.2:
+        non_striker: DN Wyatt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Elwiss
+    - 32.3:
+        non_striker: GA Elwiss
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 32.4:
+        non_striker: DN Wyatt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 32.5:
+        non_striker: DN Wyatt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 32.6:
+        non_striker: DN Wyatt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 33.1:
+        non_striker: GA Elwiss
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 33.2:
+        non_striker: DN Wyatt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 33.3:
+        non_striker: DN Wyatt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Elwiss
+    - 33.4:
+        non_striker: GA Elwiss
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 33.5:
+        non_striker: GA Elwiss
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 33.6:
+        non_striker: GA Elwiss
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 34.1:
+        non_striker: DN Wyatt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 34.2:
+        non_striker: DN Wyatt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 34.3:
+        non_striker: DN Wyatt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 34.4:
+        non_striker: DN Wyatt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 34.5:
+        non_striker: DN Wyatt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Elwiss
+    - 34.6:
+        non_striker: GA Elwiss
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 35.1:
+        non_striker: DN Wyatt
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 35.2:
+        non_striker: DN Wyatt
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Elwiss
+    - 35.3:
+        non_striker: GA Elwiss
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Wyatt
+    - 35.4:
+        non_striker: GA Elwiss
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 35.5:
+        non_striker: GA Elwiss
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 35.6:
+        non_striker: GA Elwiss
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 36.1:
+        non_striker: GA Elwiss
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 36.2:
+        non_striker: DN Wyatt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Elwiss
+    - 36.3:
+        non_striker: GA Elwiss
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 36.4:
+        non_striker: DN Wyatt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GA Elwiss
+    - 36.5:
+        non_striker: DN Wyatt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Elwiss
+    - 36.6:
+        non_striker: GA Elwiss
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 37.1:
+        non_striker: DN Wyatt
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 37.2:
+        non_striker: DN Wyatt
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 37.3:
+        non_striker: DN Wyatt
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GA Elwiss
+    - 37.4:
+        non_striker: DN Wyatt
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 37.5:
+        non_striker: DN Wyatt
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 37.6:
+        non_striker: DN Wyatt
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 38.1:
+        non_striker: GA Elwiss
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 38.2:
+        non_striker: GA Elwiss
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 38.3:
+        non_striker: GA Elwiss
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 38.4:
+        non_striker: GA Elwiss
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 38.5:
+        non_striker: GA Elwiss
+        bowler: S Pandey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DN Wyatt
+    - 38.6:
+        non_striker: GA Elwiss
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 38.7:
+        non_striker: GA Elwiss
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 39.1:
+        non_striker: GA Elwiss
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 39.2:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GA Elwiss
+    - 39.3:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 39.4:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GA Elwiss
+    - 39.5:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 39.6:
+        non_striker: DN Wyatt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 40.1:
+        non_striker: GA Elwiss
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 40.2:
+        non_striker: DN Wyatt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 40.3:
+        non_striker: DN Wyatt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Elwiss
+    - 40.4:
+        non_striker: GA Elwiss
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 40.5:
+        non_striker: GA Elwiss
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 40.6:
+        non_striker: GA Elwiss
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 41.1:
+        non_striker: GA Elwiss
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 41.2:
+        non_striker: GA Elwiss
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 41.3:
+        non_striker: GA Elwiss
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Wyatt
+    - 41.4:
+        non_striker: GA Elwiss
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 41.5:
+        non_striker: DN Wyatt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Elwiss
+    - 41.6:
+        non_striker: GA Elwiss
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 42.1:
+        non_striker: GA Elwiss
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+        wicket:
+          player_out: DN Wyatt
+          fielders:
+          - MR Meshram
+          kind: caught
+    - 42.2:
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KH Brunt
+        batsman: GA Elwiss
+    - 42.3:
+        non_striker: GA Elwiss
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 42.4:
+        non_striker: KH Brunt
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 42.5:
+        non_striker: KH Brunt
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 42.6:
+        non_striker: KH Brunt
+        bowler: S Pandey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 43.1:
+        non_striker: GA Elwiss
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 43.2:
+        non_striker: GA Elwiss
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 43.3:
+        non_striker: GA Elwiss
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 43.4:
+        non_striker: GA Elwiss
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 43.5:
+        non_striker: KH Brunt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 43.6:
+        non_striker: KH Brunt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 44.1:
+        non_striker: GA Elwiss
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 44.2:
+        non_striker: GA Elwiss
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 44.3:
+        non_striker: KH Brunt
+        bowler: DB Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GA Elwiss
+    - 44.4:
+        non_striker: KH Brunt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Elwiss
+    - 44.5:
+        non_striker: GA Elwiss
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KH Brunt
+    - 44.6:
+        non_striker: GA Elwiss
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 44.7:
+        non_striker: KH Brunt
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Elwiss
+    - 45.1:
+        non_striker: KH Brunt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 45.2:
+        non_striker: KH Brunt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Elwiss
+    - 45.3:
+        non_striker: GA Elwiss
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 45.4:
+        non_striker: KH Brunt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 45.5:
+        non_striker: KH Brunt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 45.6:
+        non_striker: KH Brunt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Elwiss
+    - 46.1:
+        non_striker: GA Elwiss
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 46.2:
+        non_striker: KH Brunt
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GA Elwiss
+    - 46.3:
+        non_striker: KH Brunt
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Elwiss
+    - 46.4:
+        non_striker: GA Elwiss
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KH Brunt
+    - 46.5:
+        non_striker: GA Elwiss
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 46.6:
+        non_striker: GA Elwiss
+        bowler: J Goswami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KH Brunt
+    - 47.1:
+        non_striker: KH Brunt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Elwiss
+    - 47.2:
+        non_striker: GA Elwiss
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Brunt
+    - 47.3:
+        non_striker: GA Elwiss
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 47.4:
+        non_striker: KH Brunt
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Elwiss
+    - 47.5:
+        non_striker: GA Elwiss
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 47.6:
+        non_striker: GA Elwiss
+        bowler: RS Gayakwad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 48.1:
+        non_striker: KH Brunt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Elwiss
+    - 48.2:
+        non_striker: GA Elwiss
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 48.3:
+        non_striker: KH Brunt
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Elwiss
+    - 48.4:
+        non_striker: GA Elwiss
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+        wicket:
+          player_out: KH Brunt
+          fielders:
+          - PG Raut
+          kind: caught
+    - 48.5:
+        non_striker: GA Elwiss
+        bowler: Poonam Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Shrubsole

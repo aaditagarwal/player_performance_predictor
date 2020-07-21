@@ -1,0 +1,3781 @@
+---
+meta:
+  data_version: 0.9
+  created: '2019-06-02'
+  revision: 1
+info:
+  venue: County Ground
+  dates:
+  - '2019-06-01'
+  gender: male
+  teams:
+  - Afghanistan
+  - Australia
+  outcome:
+    winner: Australia
+    by:
+      wickets: 7
+  toss:
+    decision: bat
+    winner: Afghanistan
+  player_of_match:
+  - DA Warner
+  match_type: ODI
+  match_type_number: 4146
+  overs: 50
+  city: Bristol
+  umpires:
+  - Aleem Dar
+  - RK Illingworth
+innings:
+- 1st innings:
+    team: Afghanistan
+    deliveries:
+    - 0.1:
+        non_striker: Hazratullah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Shahzad
+    - 0.2:
+        non_striker: Hazratullah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Shahzad
+    - 0.3:
+        non_striker: Hazratullah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Shahzad
+        wicket:
+          player_out: Mohammad Shahzad
+          kind: bowled
+    - 0.4:
+        non_striker: Hazratullah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 0.5:
+        non_striker: Hazratullah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Rahmat Shah
+    - 0.6:
+        non_striker: Rahmat Shah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hazratullah
+    - 1.1:
+        non_striker: Hazratullah
+        bowler: PJ Cummins
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Rahmat Shah
+    - 1.2:
+        non_striker: Hazratullah
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 1.3:
+        non_striker: Rahmat Shah
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hazratullah
+        wicket:
+          player_out: Hazratullah
+          fielders:
+          - AT Carey
+          kind: caught
+    - 1.4:
+        non_striker: Rahmat Shah
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 1.5:
+        non_striker: Rahmat Shah
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 1.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 1.7:
+        non_striker: Hashmatullah Shahidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 2.1:
+        non_striker: Rahmat Shah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hashmatullah Shahidi
+    - 2.2:
+        non_striker: Rahmat Shah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 2.3:
+        non_striker: Rahmat Shah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 2.4:
+        non_striker: Rahmat Shah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 2.5:
+        non_striker: Rahmat Shah
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hashmatullah Shahidi
+    - 2.6:
+        non_striker: Rahmat Shah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 2.7:
+        non_striker: Rahmat Shah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 3.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmat Shah
+    - 3.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 3.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 3.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 3.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 3.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmat Shah
+    - 4.1:
+        non_striker: Rahmat Shah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 4.2:
+        non_striker: Rahmat Shah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 4.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 4.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 4.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 4.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 5.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 5.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 5.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 5.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 5.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmat Shah
+    - 5.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 6.1:
+        non_striker: Rahmat Shah
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Hashmatullah Shahidi
+    - 6.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 6.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmat Shah
+    - 6.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rahmat Shah
+    - 6.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 6.6:
+        non_striker: Rahmat Shah
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 6.7:
+        non_striker: Rahmat Shah
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 7.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 7.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 7.3:
+        non_striker: Rahmat Shah
+        bowler: PJ Cummins
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hashmatullah Shahidi
+    - 7.4:
+        non_striker: Rahmat Shah
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 7.5:
+        non_striker: Rahmat Shah
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 7.6:
+        non_striker: Rahmat Shah
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 7.7:
+        non_striker: Rahmat Shah
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 8.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 8.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 8.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 8.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 8.5:
+        non_striker: Rahmat Shah
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 8.6:
+        non_striker: Rahmat Shah
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 9.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 9.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 9.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 9.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmat Shah
+    - 9.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 9.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 10.1:
+        non_striker: Rahmat Shah
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 10.2:
+        non_striker: Rahmat Shah
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hashmatullah Shahidi
+    - 10.3:
+        non_striker: Rahmat Shah
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 10.4:
+        non_striker: Rahmat Shah
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 10.5:
+        non_striker: Rahmat Shah
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hashmatullah Shahidi
+    - 10.6:
+        non_striker: Rahmat Shah
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 11.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 11.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 11.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 11.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 11.5:
+        non_striker: Rahmat Shah
+        bowler: MP Stoinis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hashmatullah Shahidi
+    - 11.6:
+        non_striker: Rahmat Shah
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 11.7:
+        non_striker: Hashmatullah Shahidi
+        bowler: MP Stoinis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rahmat Shah
+    - 11.8:
+        non_striker: Hashmatullah Shahidi
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 12.1:
+        non_striker: Rahmat Shah
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hashmatullah Shahidi
+    - 12.2:
+        non_striker: Rahmat Shah
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 12.3:
+        non_striker: Rahmat Shah
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 12.4:
+        non_striker: Rahmat Shah
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 12.5:
+        non_striker: Rahmat Shah
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 12.6:
+        non_striker: Rahmat Shah
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 13.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 13.2:
+        non_striker: Rahmat Shah
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 13.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmat Shah
+    - 13.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 13.5:
+        non_striker: Rahmat Shah
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+        wicket:
+          player_out: Hashmatullah Shahidi
+          fielders:
+          - AT Carey
+          kind: stumped
+    - 13.6:
+        non_striker: Rahmat Shah
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 14.1:
+        non_striker: Rahmat Shah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 14.2:
+        non_striker: Rahmat Shah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 14.3:
+        non_striker: Rahmat Shah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 14.4:
+        non_striker: Rahmat Shah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 14.5:
+        non_striker: Rahmat Shah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 14.6:
+        non_striker: Rahmat Shah
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mohammad Nabi
+    - 15.1:
+        non_striker: Rahmat Shah
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 15.2:
+        non_striker: Rahmat Shah
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 15.3:
+        non_striker: Mohammad Nabi
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmat Shah
+    - 15.4:
+        non_striker: Mohammad Nabi
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 15.5:
+        non_striker: Mohammad Nabi
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 15.6:
+        non_striker: Rahmat Shah
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 16.1:
+        non_striker: Mohammad Nabi
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 16.2:
+        non_striker: Mohammad Nabi
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 16.3:
+        non_striker: Mohammad Nabi
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmat Shah
+    - 16.4:
+        non_striker: Mohammad Nabi
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 16.5:
+        non_striker: Rahmat Shah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 16.6:
+        non_striker: Rahmat Shah
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 17.1:
+        non_striker: Rahmat Shah
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 17.2:
+        non_striker: Mohammad Nabi
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 17.3:
+        non_striker: Mohammad Nabi
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 17.4:
+        non_striker: Mohammad Nabi
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 17.5:
+        non_striker: Rahmat Shah
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 17.6:
+        non_striker: Mohammad Nabi
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 18.1:
+        non_striker: Rahmat Shah
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 18.2:
+        non_striker: Mohammad Nabi
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 18.3:
+        non_striker: Mohammad Nabi
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 18.4:
+        non_striker: Rahmat Shah
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 18.5:
+        non_striker: Rahmat Shah
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 18.6:
+        non_striker: Rahmat Shah
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 19.1:
+        non_striker: Mohammad Nabi
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 19.2:
+        non_striker: Mohammad Nabi
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+        wicket:
+          player_out: Rahmat Shah
+          fielders:
+          - SPD Smith
+          kind: caught
+    - 19.3:
+        non_striker: Mohammad Nabi
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulbadin Naib
+    - 19.4:
+        non_striker: Gulbadin Naib
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 19.5:
+        non_striker: Gulbadin Naib
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 19.6:
+        non_striker: Mohammad Nabi
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 20.1:
+        non_striker: Gulbadin Naib
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 20.2:
+        non_striker: Gulbadin Naib
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+        wicket:
+          player_out: Mohammad Nabi
+          kind: run out
+    - 20.3:
+        non_striker: Gulbadin Naib
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 20.4:
+        non_striker: Gulbadin Naib
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 20.5:
+        non_striker: Gulbadin Naib
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 20.6:
+        non_striker: Gulbadin Naib
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 21.1:
+        non_striker: Najibullah Zadran
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gulbadin Naib
+    - 21.2:
+        non_striker: Najibullah Zadran
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 21.3:
+        non_striker: Najibullah Zadran
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gulbadin Naib
+    - 21.4:
+        non_striker: Najibullah Zadran
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 21.5:
+        non_striker: Najibullah Zadran
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 21.6:
+        non_striker: Najibullah Zadran
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulbadin Naib
+    - 22.1:
+        non_striker: Najibullah Zadran
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 22.2:
+        non_striker: Najibullah Zadran
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 22.3:
+        non_striker: Najibullah Zadran
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gulbadin Naib
+    - 22.4:
+        non_striker: Najibullah Zadran
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 22.5:
+        non_striker: Najibullah Zadran
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 22.6:
+        non_striker: Najibullah Zadran
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 23.1:
+        non_striker: Gulbadin Naib
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 23.2:
+        non_striker: Gulbadin Naib
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 23.3:
+        non_striker: Gulbadin Naib
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 23.4:
+        non_striker: Gulbadin Naib
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 23.5:
+        non_striker: Gulbadin Naib
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 23.6:
+        non_striker: Najibullah Zadran
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 24.1:
+        non_striker: Gulbadin Naib
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 24.2:
+        non_striker: Gulbadin Naib
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 24.3:
+        non_striker: Najibullah Zadran
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulbadin Naib
+    - 24.4:
+        non_striker: Gulbadin Naib
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Najibullah Zadran
+    - 24.5:
+        non_striker: Gulbadin Naib
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 24.6:
+        non_striker: Najibullah Zadran
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 25.1:
+        non_striker: Gulbadin Naib
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 25.2:
+        non_striker: Gulbadin Naib
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 25.3:
+        non_striker: Gulbadin Naib
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Najibullah Zadran
+    - 25.4:
+        non_striker: Gulbadin Naib
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 25.5:
+        non_striker: Gulbadin Naib
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 25.6:
+        non_striker: Gulbadin Naib
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 26.1:
+        non_striker: Najibullah Zadran
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulbadin Naib
+    - 26.2:
+        non_striker: Gulbadin Naib
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 26.3:
+        non_striker: Gulbadin Naib
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Najibullah Zadran
+    - 26.4:
+        non_striker: Gulbadin Naib
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 26.5:
+        non_striker: Gulbadin Naib
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 26.6:
+        non_striker: Gulbadin Naib
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 27.1:
+        non_striker: Najibullah Zadran
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 27.2:
+        non_striker: Najibullah Zadran
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 27.3:
+        non_striker: Najibullah Zadran
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 27.4:
+        non_striker: Najibullah Zadran
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 27.5:
+        non_striker: Najibullah Zadran
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 27.6:
+        non_striker: Najibullah Zadran
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 28.1:
+        non_striker: Gulbadin Naib
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 28.2:
+        non_striker: Najibullah Zadran
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulbadin Naib
+    - 28.3:
+        non_striker: Gulbadin Naib
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Najibullah Zadran
+    - 28.4:
+        non_striker: Gulbadin Naib
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Najibullah Zadran
+    - 28.5:
+        non_striker: Gulbadin Naib
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Najibullah Zadran
+    - 28.6:
+        non_striker: Gulbadin Naib
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Najibullah Zadran
+    - 29.1:
+        non_striker: Najibullah Zadran
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulbadin Naib
+    - 29.2:
+        non_striker: Gulbadin Naib
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Najibullah Zadran
+    - 29.3:
+        non_striker: Gulbadin Naib
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 29.4:
+        non_striker: Gulbadin Naib
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 29.5:
+        non_striker: Gulbadin Naib
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 29.6:
+        non_striker: Najibullah Zadran
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Gulbadin Naib
+    - 29.7:
+        non_striker: Najibullah Zadran
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 30.1:
+        non_striker: Gulbadin Naib
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 30.2:
+        non_striker: Gulbadin Naib
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 30.3:
+        non_striker: Gulbadin Naib
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 30.4:
+        non_striker: Gulbadin Naib
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Najibullah Zadran
+    - 30.5:
+        non_striker: Gulbadin Naib
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 30.6:
+        non_striker: Najibullah Zadran
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Gulbadin Naib
+    - 31.1:
+        non_striker: Gulbadin Naib
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 31.2:
+        non_striker: Najibullah Zadran
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulbadin Naib
+    - 31.3:
+        non_striker: Gulbadin Naib
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 31.4:
+        non_striker: Gulbadin Naib
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 31.5:
+        non_striker: Gulbadin Naib
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 31.6:
+        non_striker: Najibullah Zadran
+        bowler: NM Coulter-Nile
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Gulbadin Naib
+    - 32.1:
+        non_striker: Gulbadin Naib
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 32.2:
+        non_striker: Gulbadin Naib
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 32.3:
+        non_striker: Gulbadin Naib
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Najibullah Zadran
+    - 32.4:
+        non_striker: Gulbadin Naib
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 32.5:
+        non_striker: Najibullah Zadran
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Gulbadin Naib
+    - 32.6:
+        non_striker: Gulbadin Naib
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 32.7:
+        non_striker: Gulbadin Naib
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Najibullah Zadran
+    - 33.1:
+        non_striker: Najibullah Zadran
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+        wicket:
+          player_out: Gulbadin Naib
+          fielders:
+          - AT Carey
+          kind: caught
+    - 33.2:
+        non_striker: Rashid Khan
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 33.3:
+        non_striker: Rashid Khan
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 33.4:
+        non_striker: Najibullah Zadran
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Khan
+    - 33.5:
+        non_striker: Rashid Khan
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+        wicket:
+          player_out: Najibullah Zadran
+          fielders:
+          - AT Carey
+          kind: caught
+    - 33.6:
+        non_striker: Dawlat Zadran
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 34.1:
+        non_striker: Rashid Khan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dawlat Zadran
+    - 34.2:
+        non_striker: Rashid Khan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dawlat Zadran
+    - 34.3:
+        non_striker: Rashid Khan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dawlat Zadran
+    - 34.4:
+        non_striker: Rashid Khan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dawlat Zadran
+    - 34.5:
+        non_striker: Rashid Khan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dawlat Zadran
+    - 34.6:
+        non_striker: Rashid Khan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dawlat Zadran
+        wicket:
+          player_out: Dawlat Zadran
+          fielders:
+          - AT Carey
+          kind: caught
+    - 35.1:
+        non_striker: Mujeeb Ur Rahman
+        bowler: MP Stoinis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rashid Khan
+    - 35.2:
+        non_striker: Mujeeb Ur Rahman
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 35.3:
+        non_striker: Mujeeb Ur Rahman
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rashid Khan
+    - 35.4:
+        non_striker: Mujeeb Ur Rahman
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 35.5:
+        non_striker: Mujeeb Ur Rahman
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rashid Khan
+    - 35.6:
+        non_striker: Mujeeb Ur Rahman
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rashid Khan
+    - 35.7:
+        non_striker: Mujeeb Ur Rahman
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rashid Khan
+    - 36.1:
+        non_striker: Rashid Khan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb Ur Rahman
+    - 36.2:
+        non_striker: Rashid Khan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mujeeb Ur Rahman
+    - 36.3:
+        non_striker: Rashid Khan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb Ur Rahman
+    - 36.4:
+        non_striker: Rashid Khan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mujeeb Ur Rahman
+    - 36.5:
+        non_striker: Rashid Khan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb Ur Rahman
+    - 36.6:
+        non_striker: Mujeeb Ur Rahman
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 37.1:
+        non_striker: Rashid Khan
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb Ur Rahman
+    - 37.2:
+        non_striker: Mujeeb Ur Rahman
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rashid Khan
+    - 37.3:
+        non_striker: Mujeeb Ur Rahman
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+        wicket:
+          player_out: Rashid Khan
+          kind: lbw
+    - 37.4:
+        non_striker: Mujeeb Ur Rahman
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hamid Hassan
+    - 37.5:
+        non_striker: Hamid Hassan
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb Ur Rahman
+    - 37.6:
+        non_striker: Mujeeb Ur Rahman
+        bowler: A Zampa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamid Hassan
+    - 38.1:
+        non_striker: Hamid Hassan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb Ur Rahman
+    - 38.2:
+        non_striker: Hamid Hassan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb Ur Rahman
+        wicket:
+          player_out: Mujeeb Ur Rahman
+          kind: bowled
+- 2nd innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: DA Warner
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 0.2:
+        non_striker: AJ Finch
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 0.3:
+        non_striker: DA Warner
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Finch
+    - 0.4:
+        non_striker: DA Warner
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Finch
+    - 0.5:
+        non_striker: DA Warner
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 0.6:
+        non_striker: DA Warner
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 1.1:
+        non_striker: AJ Finch
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 1.2:
+        non_striker: AJ Finch
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 1.3:
+        non_striker: AJ Finch
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 1.4:
+        non_striker: AJ Finch
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 1.5:
+        non_striker: AJ Finch
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 1.6:
+        non_striker: AJ Finch
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 2.1:
+        non_striker: DA Warner
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 2.2:
+        non_striker: DA Warner
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Finch
+    - 2.3:
+        non_striker: DA Warner
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 2.4:
+        non_striker: DA Warner
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 2.5:
+        non_striker: AJ Finch
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DA Warner
+    - 2.6:
+        non_striker: DA Warner
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Finch
+    - 3.1:
+        non_striker: AJ Finch
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 3.2:
+        non_striker: DA Warner
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 3.3:
+        non_striker: DA Warner
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 3.4:
+        non_striker: DA Warner
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 3.5:
+        non_striker: DA Warner
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 3.6:
+        non_striker: DA Warner
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Finch
+    - 4.1:
+        non_striker: AJ Finch
+        bowler: Dawlat Zadran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: DA Warner
+    - 4.2:
+        non_striker: AJ Finch
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Warner
+    - 4.3:
+        non_striker: AJ Finch
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 4.4:
+        non_striker: AJ Finch
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 4.5:
+        non_striker: AJ Finch
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 4.6:
+        non_striker: AJ Finch
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 4.7:
+        non_striker: DA Warner
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 5.1:
+        non_striker: AJ Finch
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Warner
+    - 5.2:
+        non_striker: AJ Finch
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 5.3:
+        non_striker: AJ Finch
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 5.4:
+        non_striker: DA Warner
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 5.5:
+        non_striker: DA Warner
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 5.6:
+        non_striker: DA Warner
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 6.1:
+        non_striker: AJ Finch
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 6.2:
+        non_striker: AJ Finch
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 6.3:
+        non_striker: AJ Finch
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 6.4:
+        non_striker: AJ Finch
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 6.5:
+        non_striker: DA Warner
+        bowler: Dawlat Zadran
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Finch
+    - 6.6:
+        non_striker: DA Warner
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Finch
+    - 6.7:
+        non_striker: DA Warner
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 7.1:
+        non_striker: AJ Finch
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 7.2:
+        non_striker: AJ Finch
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 7.3:
+        non_striker: AJ Finch
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 7.4:
+        non_striker: AJ Finch
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 7.5:
+        non_striker: AJ Finch
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 7.6:
+        non_striker: AJ Finch
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 8.1:
+        non_striker: DA Warner
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 8.2:
+        non_striker: DA Warner
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 8.3:
+        non_striker: DA Warner
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Finch
+    - 8.4:
+        non_striker: DA Warner
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 8.5:
+        non_striker: DA Warner
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 8.6:
+        non_striker: DA Warner
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Finch
+    - 9.1:
+        non_striker: AJ Finch
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 9.2:
+        non_striker: AJ Finch
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 9.3:
+        non_striker: AJ Finch
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 9.4:
+        non_striker: AJ Finch
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 9.5:
+        non_striker: DA Warner
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 9.6:
+        non_striker: DA Warner
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 10.1:
+        non_striker: AJ Finch
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 10.2:
+        non_striker: DA Warner
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Finch
+    - 10.3:
+        non_striker: DA Warner
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 10.4:
+        non_striker: DA Warner
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 10.5:
+        non_striker: DA Warner
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 10.6:
+        non_striker: DA Warner
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 11.1:
+        non_striker: AJ Finch
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 11.2:
+        non_striker: DA Warner
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+    - 11.3:
+        non_striker: DA Warner
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Finch
+    - 11.4:
+        non_striker: DA Warner
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 11.5:
+        non_striker: AJ Finch
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 11.6:
+        non_striker: AJ Finch
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 12.1:
+        non_striker: DA Warner
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 12.2:
+        non_striker: AJ Finch
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 12.3:
+        non_striker: AJ Finch
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 12.4:
+        non_striker: AJ Finch
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 12.5:
+        non_striker: AJ Finch
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 12.6:
+        non_striker: DA Warner
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 13.1:
+        non_striker: DA Warner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Finch
+    - 13.2:
+        non_striker: DA Warner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Finch
+    - 13.3:
+        non_striker: DA Warner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 13.4:
+        non_striker: AJ Finch
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 13.5:
+        non_striker: AJ Finch
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 13.6:
+        non_striker: AJ Finch
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 14.1:
+        non_striker: AJ Finch
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 14.2:
+        non_striker: DA Warner
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 14.3:
+        non_striker: AJ Finch
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 14.4:
+        non_striker: AJ Finch
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 14.5:
+        non_striker: AJ Finch
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 14.6:
+        non_striker: DA Warner
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 15.1:
+        non_striker: DA Warner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Finch
+    - 15.2:
+        non_striker: DA Warner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 15.3:
+        non_striker: AJ Finch
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 15.4:
+        non_striker: AJ Finch
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 15.5:
+        non_striker: AJ Finch
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 15.6:
+        non_striker: DA Warner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 16.1:
+        non_striker: DA Warner
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Finch
+    - 16.2:
+        non_striker: DA Warner
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+        wicket:
+          player_out: AJ Finch
+          fielders:
+          - Mujeeb Ur Rahman
+          kind: caught
+    - 16.3:
+        non_striker: UT Khawaja
+        bowler: Gulbadin Naib
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Warner
+    - 16.4:
+        non_striker: UT Khawaja
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 16.5:
+        non_striker: UT Khawaja
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 16.6:
+        non_striker: UT Khawaja
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 16.7:
+        non_striker: UT Khawaja
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 17.1:
+        non_striker: UT Khawaja
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 17.2:
+        non_striker: UT Khawaja
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 17.3:
+        non_striker: UT Khawaja
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Warner
+    - 17.4:
+        non_striker: UT Khawaja
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 17.5:
+        non_striker: DA Warner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 17.6:
+        non_striker: DA Warner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 18.1:
+        non_striker: UT Khawaja
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 18.2:
+        non_striker: UT Khawaja
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 18.3:
+        non_striker: UT Khawaja
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 18.4:
+        non_striker: DA Warner
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 18.5:
+        non_striker: UT Khawaja
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Warner
+    - 18.6:
+        non_striker: UT Khawaja
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 19.1:
+        non_striker: DA Warner
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 19.2:
+        non_striker: DA Warner
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 19.3:
+        non_striker: UT Khawaja
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 19.4:
+        non_striker: DA Warner
+        bowler: Mohammad Nabi
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: UT Khawaja
+    - 19.5:
+        non_striker: DA Warner
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 19.6:
+        non_striker: UT Khawaja
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 19.7:
+        non_striker: UT Khawaja
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 20.1:
+        non_striker: DA Warner
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: UT Khawaja
+    - 20.2:
+        non_striker: DA Warner
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 20.3:
+        non_striker: UT Khawaja
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 20.4:
+        non_striker: UT Khawaja
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Warner
+    - 20.5:
+        non_striker: UT Khawaja
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 20.6:
+        non_striker: UT Khawaja
+        bowler: Gulbadin Naib
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: DA Warner
+    - 20.7:
+        non_striker: UT Khawaja
+        bowler: Gulbadin Naib
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Warner
+    - 20.8:
+        non_striker: UT Khawaja
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 21.1:
+        non_striker: DA Warner
+        bowler: Mohammad Nabi
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: UT Khawaja
+    - 21.2:
+        non_striker: DA Warner
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 21.3:
+        non_striker: UT Khawaja
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 21.4:
+        non_striker: UT Khawaja
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 21.5:
+        non_striker: DA Warner
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: UT Khawaja
+    - 21.6:
+        non_striker: DA Warner
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 21.7:
+        non_striker: DA Warner
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 22.1:
+        non_striker: DA Warner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 22.2:
+        non_striker: UT Khawaja
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Warner
+    - 22.3:
+        non_striker: UT Khawaja
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 22.4:
+        non_striker: DA Warner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 22.5:
+        non_striker: DA Warner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 22.6:
+        non_striker: DA Warner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 23.1:
+        non_striker: UT Khawaja
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 23.2:
+        non_striker: DA Warner
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 23.3:
+        non_striker: UT Khawaja
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 23.4:
+        non_striker: UT Khawaja
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 23.5:
+        non_striker: UT Khawaja
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 23.6:
+        non_striker: UT Khawaja
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 24.1:
+        non_striker: DA Warner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: UT Khawaja
+    - 24.2:
+        non_striker: UT Khawaja
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 24.3:
+        non_striker: UT Khawaja
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Warner
+    - 24.4:
+        non_striker: UT Khawaja
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 24.5:
+        non_striker: DA Warner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+    - 24.6:
+        non_striker: DA Warner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: UT Khawaja
+        wicket:
+          player_out: UT Khawaja
+          kind: lbw
+    - 25.1:
+        non_striker: SPD Smith
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 25.2:
+        non_striker: DA Warner
+        bowler: Hamid Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SPD Smith
+    - 25.3:
+        non_striker: DA Warner
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 25.4:
+        non_striker: SPD Smith
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 25.5:
+        non_striker: SPD Smith
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 25.6:
+        non_striker: SPD Smith
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 25.7:
+        non_striker: DA Warner
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 26.1:
+        non_striker: SPD Smith
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 26.2:
+        non_striker: DA Warner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 26.3:
+        non_striker: DA Warner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 26.4:
+        non_striker: DA Warner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 26.5:
+        non_striker: SPD Smith
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 26.6:
+        non_striker: DA Warner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 27.1:
+        non_striker: DA Warner
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 27.2:
+        non_striker: DA Warner
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 27.3:
+        non_striker: DA Warner
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 27.4:
+        non_striker: SPD Smith
+        bowler: Hamid Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DA Warner
+    - 27.5:
+        non_striker: DA Warner
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 27.6:
+        non_striker: DA Warner
+        bowler: Hamid Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 28.1:
+        non_striker: SPD Smith
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 28.2:
+        non_striker: DA Warner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 28.3:
+        non_striker: SPD Smith
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 28.4:
+        non_striker: SPD Smith
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 28.5:
+        non_striker: DA Warner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 28.6:
+        non_striker: SPD Smith
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 29.1:
+        non_striker: SPD Smith
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 29.2:
+        non_striker: SPD Smith
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 29.3:
+        non_striker: SPD Smith
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 29.4:
+        non_striker: SPD Smith
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Warner
+    - 29.5:
+        non_striker: SPD Smith
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 29.6:
+        non_striker: SPD Smith
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 30.1:
+        non_striker: SPD Smith
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 30.2:
+        non_striker: SPD Smith
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 30.3:
+        non_striker: SPD Smith
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 30.4:
+        non_striker: DA Warner
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SPD Smith
+    - 30.5:
+        non_striker: DA Warner
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 30.6:
+        non_striker: DA Warner
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 31.1:
+        non_striker: DA Warner
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 31.2:
+        non_striker: DA Warner
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 31.3:
+        non_striker: SPD Smith
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 31.4:
+        non_striker: DA Warner
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 31.5:
+        non_striker: DA Warner
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 31.6:
+        non_striker: DA Warner
+        bowler: Dawlat Zadran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 32.1:
+        non_striker: DA Warner
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 32.2:
+        non_striker: SPD Smith
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 32.3:
+        non_striker: SPD Smith
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 32.4:
+        non_striker: DA Warner
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SPD Smith
+    - 32.5:
+        non_striker: DA Warner
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 32.6:
+        non_striker: SPD Smith
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 33.1:
+        non_striker: SPD Smith
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 33.2:
+        non_striker: SPD Smith
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Warner
+    - 33.3:
+        non_striker: SPD Smith
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 33.4:
+        non_striker: DA Warner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SPD Smith
+    - 33.5:
+        non_striker: SPD Smith
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 33.6:
+        non_striker: SPD Smith
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 34.1:
+        non_striker: SPD Smith
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Warner
+    - 34.2:
+        non_striker: SPD Smith
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Warner
+    - 34.3:
+        non_striker: DA Warner
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+    - 34.4:
+        non_striker: DA Warner
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SPD Smith
+        wicket:
+          player_out: SPD Smith
+          fielders:
+          - Hazratullah
+          kind: caught
+    - 34.5:
+        non_striker: DA Warner
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell

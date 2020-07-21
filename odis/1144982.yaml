@@ -1,0 +1,5167 @@
+---
+meta:
+  data_version: 0.9
+  created: '2020-01-06'
+  revision: 1
+info:
+  city: Perth
+  dates:
+  - '2019-02-22'
+  gender: female
+  match_type: ODI
+  match_type_number: 1143
+  outcome:
+    winner: Australia
+    by:
+      runs: 5
+  overs: 50
+  player_of_match:
+  - JL Jonassen
+  teams:
+  - Australia
+  - New Zealand
+  toss:
+    decision: field
+    winner: New Zealand
+  umpires:
+  - PJ Gillespie
+  - CA Polosak
+  venue: W.A.C.A. Ground
+innings:
+- 1st innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RL Haynes
+        batsman: AJ Healy
+    - 0.2:
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RL Haynes
+        batsman: AJ Healy
+    - 0.3:
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RL Haynes
+        batsman: AJ Healy
+    - 0.4:
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: RL Haynes
+        batsman: AJ Healy
+    - 0.5:
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RL Haynes
+        batsman: AJ Healy
+    - 0.6:
+        non_striker: RL Haynes
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 1.1:
+        non_striker: AJ Healy
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 1.2:
+        non_striker: AJ Healy
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 1.3:
+        non_striker: AJ Healy
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Haynes
+    - 1.4:
+        non_striker: AJ Healy
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 1.5:
+        non_striker: AJ Healy
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 1.6:
+        non_striker: AJ Healy
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 2.1:
+        non_striker: RL Haynes
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+        wicket:
+          player_out: AJ Healy
+          kind: bowled
+    - 2.2:
+        non_striker: RL Haynes
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 2.3:
+        non_striker: RL Haynes
+        bowler: LMM Tahuhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MM Lanning
+    - 2.4:
+        non_striker: MM Lanning
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 2.5:
+        non_striker: MM Lanning
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 2.6:
+        non_striker: RL Haynes
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 3.1:
+        non_striker: MM Lanning
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 3.2:
+        non_striker: MM Lanning
+        bowler: RA Mair
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: RL Haynes
+    - 3.3:
+        non_striker: MM Lanning
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 3.4:
+        non_striker: MM Lanning
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 3.5:
+        non_striker: MM Lanning
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 3.6:
+        non_striker: RL Haynes
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 4.1:
+        non_striker: MM Lanning
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 4.2:
+        non_striker: MM Lanning
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 4.3:
+        non_striker: MM Lanning
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 4.4:
+        non_striker: MM Lanning
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 4.5:
+        non_striker: MM Lanning
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 4.6:
+        non_striker: RL Haynes
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 5.1:
+        non_striker: MM Lanning
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 5.2:
+        non_striker: MM Lanning
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Haynes
+    - 5.3:
+        non_striker: MM Lanning
+        bowler: RA Mair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Haynes
+    - 5.4:
+        non_striker: MM Lanning
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 5.5:
+        non_striker: RL Haynes
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 5.6:
+        non_striker: RL Haynes
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 5.7:
+        non_striker: RL Haynes
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 6.1:
+        non_striker: MM Lanning
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 6.2:
+        non_striker: MM Lanning
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Haynes
+    - 6.3:
+        non_striker: MM Lanning
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 6.4:
+        non_striker: MM Lanning
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 6.5:
+        non_striker: MM Lanning
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 6.6:
+        non_striker: MM Lanning
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 7.1:
+        non_striker: RL Haynes
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MM Lanning
+    - 7.2:
+        non_striker: RL Haynes
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 7.3:
+        non_striker: MM Lanning
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 7.4:
+        non_striker: MM Lanning
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Haynes
+    - 7.5:
+        non_striker: MM Lanning
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 7.6:
+        non_striker: RL Haynes
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 8.1:
+        non_striker: MM Lanning
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 8.2:
+        non_striker: MM Lanning
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 8.3:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 8.4:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 8.5:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+    - 8.6:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Lanning
+    - 9.1:
+        non_striker: RL Haynes
+        bowler: RA Mair
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: MM Lanning
+    - 9.2:
+        non_striker: MM Lanning
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RL Haynes
+    - 9.3:
+        non_striker: RL Haynes
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Lanning
+        wicket:
+          player_out: MM Lanning
+          fielders:
+          - AE Satterthwaite
+          kind: caught
+    - 9.4:
+        non_striker: RL Haynes
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 9.5:
+        non_striker: RL Haynes
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 9.6:
+        non_striker: EA Perry
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 9.7:
+        non_striker: EA Perry
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 10.1:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 10.2:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 10.3:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 10.4:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 10.5:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 10.6:
+        non_striker: EA Perry
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 11.1:
+        non_striker: RL Haynes
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 11.2:
+        non_striker: RL Haynes
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 11.3:
+        non_striker: RL Haynes
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 11.4:
+        non_striker: RL Haynes
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 11.5:
+        non_striker: RL Haynes
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 11.6:
+        non_striker: RL Haynes
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 12.1:
+        non_striker: EA Perry
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 12.2:
+        non_striker: EA Perry
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Haynes
+    - 12.3:
+        non_striker: EA Perry
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Haynes
+    - 12.4:
+        non_striker: EA Perry
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 12.5:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 12.6:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 12.7:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 13.1:
+        non_striker: EA Perry
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 13.2:
+        non_striker: EA Perry
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 13.3:
+        non_striker: EA Perry
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 13.4:
+        non_striker: RL Haynes
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 13.5:
+        non_striker: RL Haynes
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 13.6:
+        non_striker: RL Haynes
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 14.1:
+        non_striker: EA Perry
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Haynes
+    - 14.2:
+        non_striker: EA Perry
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 14.3:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 14.4:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 14.5:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+        wicket:
+          player_out: EA Perry
+          fielders:
+          - KJ Martin
+          kind: caught
+    - 14.6:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 14.7:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: BL Mooney
+    - 15.1:
+        non_striker: BL Mooney
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 15.2:
+        non_striker: BL Mooney
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 15.3:
+        non_striker: BL Mooney
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 15.4:
+        non_striker: BL Mooney
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 15.5:
+        non_striker: BL Mooney
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Haynes
+    - 15.6:
+        non_striker: BL Mooney
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Haynes
+    - 16.1:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Mooney
+    - 16.2:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 16.3:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 16.4:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 16.5:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 16.6:
+        non_striker: RL Haynes
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 17.1:
+        non_striker: BL Mooney
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 17.2:
+        non_striker: BL Mooney
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 17.3:
+        non_striker: RL Haynes
+        bowler: LMM Tahuhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BL Mooney
+    - 17.4:
+        non_striker: RL Haynes
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 17.5:
+        non_striker: RL Haynes
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 17.6:
+        non_striker: BL Mooney
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 17.7:
+        non_striker: RL Haynes
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 18.1:
+        non_striker: BL Mooney
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 18.2:
+        non_striker: BL Mooney
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 18.3:
+        non_striker: BL Mooney
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 18.4:
+        non_striker: RL Haynes
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 18.5:
+        non_striker: RL Haynes
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 18.6:
+        non_striker: RL Haynes
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 19.1:
+        non_striker: RL Haynes
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 19.2:
+        non_striker: RL Haynes
+        bowler: LMM Tahuhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BL Mooney
+    - 19.3:
+        non_striker: RL Haynes
+        bowler: LMM Tahuhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BL Mooney
+    - 19.4:
+        non_striker: RL Haynes
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 19.5:
+        non_striker: RL Haynes
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 19.6:
+        non_striker: BL Mooney
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 19.7:
+        non_striker: BL Mooney
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 19.8:
+        non_striker: RL Haynes
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 20.1:
+        non_striker: RL Haynes
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 20.2:
+        non_striker: RL Haynes
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 20.3:
+        non_striker: RL Haynes
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 20.4:
+        non_striker: RL Haynes
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 20.5:
+        non_striker: BL Mooney
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Haynes
+    - 20.6:
+        non_striker: BL Mooney
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 21.1:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 21.2:
+        non_striker: RL Haynes
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 21.3:
+        non_striker: RL Haynes
+        bowler: AC Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BL Mooney
+    - 21.4:
+        non_striker: RL Haynes
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 21.5:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Haynes
+    - 21.6:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 21.7:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 22.1:
+        non_striker: RL Haynes
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BL Mooney
+    - 22.2:
+        non_striker: RL Haynes
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 22.3:
+        non_striker: BL Mooney
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 22.4:
+        non_striker: BL Mooney
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 22.5:
+        non_striker: RL Haynes
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 22.6:
+        non_striker: RL Haynes
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 23.1:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Haynes
+    - 23.2:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 23.3:
+        non_striker: RL Haynes
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+        wicket:
+          player_out: BL Mooney
+          fielders:
+          - KJ Martin
+          kind: caught
+    - 23.4:
+        non_striker: RL Haynes
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 23.5:
+        non_striker: RL Haynes
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 23.6:
+        non_striker: RL Haynes
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 24.1:
+        non_striker: RL Haynes
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 24.2:
+        non_striker: EJ Villani
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 24.3:
+        non_striker: EJ Villani
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 24.4:
+        non_striker: EJ Villani
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 24.5:
+        non_striker: EJ Villani
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 24.6:
+        non_striker: RL Haynes
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 25.1:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Haynes
+    - 25.2:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 25.3:
+        non_striker: RL Haynes
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 25.4:
+        non_striker: RL Haynes
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 25.5:
+        non_striker: RL Haynes
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 25.6:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 26.1:
+        non_striker: RL Haynes
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJ Villani
+    - 26.2:
+        non_striker: RL Haynes
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Villani
+    - 26.3:
+        non_striker: RL Haynes
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 26.4:
+        non_striker: RL Haynes
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 26.5:
+        non_striker: EJ Villani
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 26.6:
+        non_striker: EJ Villani
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 27.1:
+        non_striker: RL Haynes
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 27.2:
+        non_striker: RL Haynes
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 27.3:
+        non_striker: RL Haynes
+        bowler: AC Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: EJ Villani
+    - 27.4:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Haynes
+    - 27.5:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Haynes
+    - 27.6:
+        non_striker: RL Haynes
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 28.1:
+        non_striker: EJ Villani
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+    - 28.2:
+        non_striker: EJ Villani
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Haynes
+        wicket:
+          player_out: RL Haynes
+          fielders:
+          - AE Satterthwaite
+          kind: caught
+    - 28.3:
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Gardner
+        batsman: EJ Villani
+    - 28.4:
+        non_striker: EJ Villani
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 28.5:
+        non_striker: EJ Villani
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 28.6:
+        non_striker: EJ Villani
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 29.1:
+        non_striker: A Gardner
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Villani
+    - 29.2:
+        non_striker: EJ Villani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 29.3:
+        non_striker: EJ Villani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 29.4:
+        non_striker: EJ Villani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 29.5:
+        non_striker: EJ Villani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 29.6:
+        non_striker: A Gardner
+        bowler: LMM Tahuhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EJ Villani
+    - 29.7:
+        non_striker: A Gardner
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 30.1:
+        non_striker: EJ Villani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 30.2:
+        non_striker: EJ Villani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 30.3:
+        non_striker: EJ Villani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 30.4:
+        non_striker: EJ Villani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 30.5:
+        non_striker: A Gardner
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 30.6:
+        non_striker: A Gardner
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJ Villani
+    - 31.1:
+        non_striker: EJ Villani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 31.2:
+        non_striker: EJ Villani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 31.3:
+        non_striker: EJ Villani
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 31.4:
+        non_striker: A Gardner
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 31.5:
+        non_striker: A Gardner
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Villani
+    - 31.6:
+        non_striker: A Gardner
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 32.1:
+        non_striker: EJ Villani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 32.2:
+        non_striker: EJ Villani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 32.3:
+        non_striker: EJ Villani
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Gardner
+    - 32.4:
+        non_striker: EJ Villani
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Gardner
+    - 32.5:
+        non_striker: EJ Villani
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Gardner
+    - 32.6:
+        non_striker: EJ Villani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 32.7:
+        non_striker: EJ Villani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 32.8:
+        non_striker: EJ Villani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 32.9:
+        non_striker: EJ Villani
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 33.1:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 33.2:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 33.3:
+        non_striker: EJ Villani
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 33.4:
+        non_striker: A Gardner
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+        wicket:
+          player_out: EJ Villani
+          fielders:
+          - LR Down
+          kind: caught
+    - 33.5:
+        non_striker: A Gardner
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Jonassen
+    - 33.6:
+        non_striker: A Gardner
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Jonassen
+    - 34.1:
+        non_striker: A Gardner
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Jonassen
+    - 34.2:
+        non_striker: A Gardner
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Jonassen
+    - 34.3:
+        non_striker: JL Jonassen
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 34.4:
+        non_striker: JL Jonassen
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 34.5:
+        non_striker: JL Jonassen
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 34.6:
+        non_striker: JL Jonassen
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 35.1:
+        non_striker: A Gardner
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Jonassen
+    - 35.2:
+        non_striker: JL Jonassen
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 35.3:
+        non_striker: A Gardner
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Jonassen
+    - 35.4:
+        non_striker: A Gardner
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Jonassen
+    - 35.5:
+        non_striker: A Gardner
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Jonassen
+    - 35.6:
+        non_striker: A Gardner
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JL Jonassen
+    - 36.1:
+        non_striker: A Gardner
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Jonassen
+    - 36.2:
+        non_striker: A Gardner
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Jonassen
+    - 36.3:
+        non_striker: JL Jonassen
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 36.4:
+        non_striker: JL Jonassen
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 36.5:
+        non_striker: JL Jonassen
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 36.6:
+        non_striker: A Gardner
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Jonassen
+    - 37.1:
+        non_striker: JL Jonassen
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Gardner
+    - 37.2:
+        non_striker: JL Jonassen
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 37.3:
+        non_striker: A Gardner
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Jonassen
+    - 37.4:
+        non_striker: JL Jonassen
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 37.5:
+        non_striker: JL Jonassen
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 37.6:
+        non_striker: JL Jonassen
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+        wicket:
+          player_out: A Gardner
+          fielders:
+          - LR Down
+          kind: caught
+    - 38.1:
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: G Wareham
+        batsman: JL Jonassen
+    - 38.2:
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Wareham
+        batsman: JL Jonassen
+    - 38.3:
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Wareham
+        batsman: JL Jonassen
+    - 38.4:
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: G Wareham
+        batsman: JL Jonassen
+    - 38.5:
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Wareham
+        batsman: JL Jonassen
+    - 38.6:
+        non_striker: G Wareham
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Jonassen
+    - 39.1:
+        non_striker: JL Jonassen
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 39.2:
+        non_striker: JL Jonassen
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 39.3:
+        non_striker: JL Jonassen
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 39.4:
+        non_striker: JL Jonassen
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 39.5:
+        non_striker: JL Jonassen
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 39.6:
+        non_striker: JL Jonassen
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 40.1:
+        non_striker: JL Jonassen
+        bowler: LM Kasperek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Wareham
+    - 40.2:
+        non_striker: JL Jonassen
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 40.3:
+        non_striker: JL Jonassen
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 40.4:
+        non_striker: JL Jonassen
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 40.5:
+        non_striker: G Wareham
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Jonassen
+    - 40.6:
+        non_striker: G Wareham
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Jonassen
+    - 40.7:
+        non_striker: G Wareham
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Jonassen
+    - 41.1:
+        non_striker: G Wareham
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Jonassen
+    - 41.2:
+        non_striker: G Wareham
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Jonassen
+    - 41.3:
+        non_striker: G Wareham
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Jonassen
+    - 41.4:
+        non_striker: G Wareham
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Jonassen
+    - 41.5:
+        non_striker: G Wareham
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Jonassen
+    - 41.6:
+        non_striker: JL Jonassen
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 42.1:
+        non_striker: G Wareham
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Jonassen
+    - 42.2:
+        non_striker: JL Jonassen
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 42.3:
+        non_striker: JL Jonassen
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 42.4:
+        non_striker: JL Jonassen
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Wareham
+    - 42.5:
+        non_striker: JL Jonassen
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 42.6:
+        non_striker: JL Jonassen
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 43.1:
+        non_striker: G Wareham
+        bowler: LMM Tahuhu
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: JL Jonassen
+    - 43.2:
+        non_striker: G Wareham
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Jonassen
+    - 43.3:
+        non_striker: G Wareham
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Jonassen
+    - 43.4:
+        non_striker: JL Jonassen
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 43.5:
+        non_striker: JL Jonassen
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 43.6:
+        non_striker: JL Jonassen
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 44.1:
+        non_striker: JL Jonassen
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 44.2:
+        non_striker: G Wareham
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Jonassen
+        wicket:
+          player_out: JL Jonassen
+          fielders:
+          - KJ Martin
+          kind: caught
+    - 44.3:
+        non_striker: G Wareham
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Schutt
+    - 44.4:
+        non_striker: G Wareham
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Schutt
+    - 44.5:
+        non_striker: G Wareham
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Schutt
+    - 44.6:
+        non_striker: G Wareham
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Schutt
+    - 45.1:
+        non_striker: ML Schutt
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 45.2:
+        non_striker: ML Schutt
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Wareham
+    - 45.3:
+        non_striker: ML Schutt
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 45.4:
+        non_striker: G Wareham
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Schutt
+    - 45.5:
+        non_striker: G Wareham
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Schutt
+    - 45.6:
+        non_striker: G Wareham
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Schutt
+    - 46.1:
+        non_striker: ML Schutt
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 46.2:
+        non_striker: ML Schutt
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 46.3:
+        non_striker: G Wareham
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Schutt
+    - 46.4:
+        non_striker: G Wareham
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Schutt
+    - 46.5:
+        non_striker: G Wareham
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ML Schutt
+    - 46.6:
+        non_striker: ML Schutt
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Wareham
+    - 46.7:
+        non_striker: ML Schutt
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+        wicket:
+          player_out: G Wareham
+          fielders:
+          - AC Kerr
+          kind: caught
+    - 47.1:
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: L Cheatle
+        batsman: ML Schutt
+    - 47.2:
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Cheatle
+        batsman: ML Schutt
+    - 47.3:
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Cheatle
+        batsman: ML Schutt
+    - 47.4:
+        non_striker: ML Schutt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cheatle
+    - 47.5:
+        non_striker: ML Schutt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Cheatle
+    - 47.6:
+        non_striker: ML Schutt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cheatle
+    - 48.1:
+        non_striker: L Cheatle
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Schutt
+    - 48.2:
+        non_striker: L Cheatle
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Schutt
+    - 48.3:
+        non_striker: ML Schutt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cheatle
+    - 48.4:
+        non_striker: L Cheatle
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Schutt
+    - 48.5:
+        non_striker: ML Schutt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cheatle
+    - 48.6:
+        non_striker: ML Schutt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Cheatle
+    - 49.1:
+        non_striker: L Cheatle
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Schutt
+    - 49.2:
+        non_striker: ML Schutt
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Cheatle
+    - 49.3:
+        non_striker: L Cheatle
+        bowler: HNK Jensen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Schutt
+    - 49.4:
+        non_striker: L Cheatle
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Schutt
+    - 49.5:
+        non_striker: L Cheatle
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Schutt
+        wicket:
+          player_out: ML Schutt
+          fielders:
+          - AC Kerr
+          kind: caught
+- 2nd innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SW Bates
+        batsman: SFM Devine
+    - 0.2:
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: SW Bates
+        batsman: SFM Devine
+    - 0.3:
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SW Bates
+        batsman: SFM Devine
+    - 0.4:
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SW Bates
+        batsman: SFM Devine
+    - 0.5:
+        bowler: ML Schutt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: SW Bates
+        batsman: SFM Devine
+    - 0.6:
+        bowler: ML Schutt
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        non_striker: SW Bates
+        batsman: SFM Devine
+    - 0.7:
+        non_striker: SW Bates
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 1.1:
+        non_striker: SW Bates
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+        wicket:
+          player_out: SFM Devine
+          fielders:
+          - JL Jonassen
+          kind: caught
+    - 1.2:
+        non_striker: SW Bates
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LR Down
+    - 1.3:
+        non_striker: SW Bates
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 1.4:
+        non_striker: SW Bates
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 1.5:
+        non_striker: SW Bates
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 1.6:
+        non_striker: SW Bates
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 1.7:
+        non_striker: SW Bates
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 2.1:
+        non_striker: LR Down
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 2.2:
+        non_striker: LR Down
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 2.3:
+        non_striker: SW Bates
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 2.4:
+        non_striker: SW Bates
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 2.5:
+        non_striker: SW Bates
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 2.6:
+        non_striker: SW Bates
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 3.1:
+        non_striker: LR Down
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 3.2:
+        non_striker: LR Down
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Bates
+    - 3.3:
+        non_striker: LR Down
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.4:
+        non_striker: LR Down
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.5:
+        non_striker: LR Down
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.6:
+        non_striker: LR Down
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 3.7:
+        non_striker: SW Bates
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 4.1:
+        non_striker: LR Down
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.2:
+        non_striker: LR Down
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.3:
+        non_striker: LR Down
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.4:
+        non_striker: LR Down
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.5:
+        non_striker: LR Down
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.6:
+        non_striker: LR Down
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+        wicket:
+          player_out: SW Bates
+          kind: lbw
+    - 5.1:
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AE Satterthwaite
+        batsman: LR Down
+    - 5.2:
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AE Satterthwaite
+        batsman: LR Down
+    - 5.3:
+        non_striker: LR Down
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 5.4:
+        non_striker: AE Satterthwaite
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 5.5:
+        non_striker: AE Satterthwaite
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: LR Down
+    - 5.6:
+        non_striker: LR Down
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Satterthwaite
+    - 6.1:
+        non_striker: AE Satterthwaite
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LR Down
+    - 6.2:
+        non_striker: AE Satterthwaite
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 6.3:
+        non_striker: LR Down
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 6.4:
+        non_striker: LR Down
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 6.5:
+        non_striker: AE Satterthwaite
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 6.6:
+        non_striker: AE Satterthwaite
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LR Down
+    - 7.1:
+        non_striker: LR Down
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AE Satterthwaite
+    - 7.2:
+        non_striker: LR Down
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 7.3:
+        non_striker: LR Down
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 7.4:
+        non_striker: LR Down
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AE Satterthwaite
+    - 7.5:
+        non_striker: LR Down
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 7.6:
+        non_striker: LR Down
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 7.7:
+        non_striker: LR Down
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Satterthwaite
+    - 7.8:
+        non_striker: LR Down
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 8.1:
+        non_striker: AE Satterthwaite
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 8.2:
+        non_striker: AE Satterthwaite
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 8.3:
+        non_striker: AE Satterthwaite
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LR Down
+    - 8.4:
+        non_striker: AE Satterthwaite
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 8.5:
+        non_striker: AE Satterthwaite
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 8.6:
+        non_striker: AE Satterthwaite
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 9.1:
+        non_striker: AE Satterthwaite
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 9.2:
+        non_striker: AE Satterthwaite
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 9.3:
+        non_striker: AE Satterthwaite
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+        wicket:
+          player_out: LR Down
+          kind: bowled
+    - 9.4:
+        non_striker: AE Satterthwaite
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 9.5:
+        non_striker: AE Satterthwaite
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 9.6:
+        non_striker: AE Satterthwaite
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 10.1:
+        non_striker: KJ Martin
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 10.2:
+        non_striker: KJ Martin
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 10.3:
+        non_striker: KJ Martin
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Satterthwaite
+    - 10.4:
+        non_striker: KJ Martin
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 10.5:
+        non_striker: KJ Martin
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 10.6:
+        non_striker: KJ Martin
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 11.1:
+        non_striker: KJ Martin
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 11.2:
+        non_striker: KJ Martin
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 11.3:
+        non_striker: KJ Martin
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 11.4:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 11.5:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 11.6:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KJ Martin
+    - 11.7:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 12.1:
+        non_striker: KJ Martin
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 12.2:
+        non_striker: KJ Martin
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 12.3:
+        non_striker: AE Satterthwaite
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 12.4:
+        non_striker: KJ Martin
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 12.5:
+        non_striker: KJ Martin
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 12.6:
+        non_striker: KJ Martin
+        bowler: L Cheatle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 13.1:
+        non_striker: KJ Martin
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 13.2:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 13.3:
+        non_striker: KJ Martin
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 13.4:
+        non_striker: KJ Martin
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 13.5:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 13.6:
+        non_striker: KJ Martin
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 14.1:
+        non_striker: AE Satterthwaite
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 14.2:
+        non_striker: AE Satterthwaite
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 14.3:
+        non_striker: AE Satterthwaite
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 14.4:
+        non_striker: AE Satterthwaite
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Martin
+    - 14.5:
+        non_striker: AE Satterthwaite
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Martin
+    - 14.6:
+        non_striker: AE Satterthwaite
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 15.1:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 15.2:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 15.3:
+        non_striker: KJ Martin
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 15.4:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 15.5:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 15.6:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 16.1:
+        non_striker: KJ Martin
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 16.2:
+        non_striker: KJ Martin
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 16.3:
+        non_striker: KJ Martin
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Satterthwaite
+    - 16.4:
+        non_striker: KJ Martin
+        bowler: ML Schutt
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: AE Satterthwaite
+    - 16.5:
+        non_striker: KJ Martin
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 16.6:
+        non_striker: KJ Martin
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 16.7:
+        non_striker: KJ Martin
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 17.1:
+        non_striker: KJ Martin
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 17.2:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 17.3:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 17.4:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 17.5:
+        non_striker: KJ Martin
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 17.6:
+        non_striker: KJ Martin
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 18.1:
+        non_striker: KJ Martin
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 18.2:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 18.3:
+        non_striker: KJ Martin
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 18.4:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 18.5:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 18.6:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 19.1:
+        non_striker: KJ Martin
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 19.2:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 19.3:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Martin
+    - 19.4:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 19.5:
+        non_striker: KJ Martin
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 19.6:
+        non_striker: KJ Martin
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 20.1:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+        wicket:
+          player_out: KJ Martin
+          kind: bowled
+    - 20.2:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 20.3:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 20.4:
+        non_striker: KT Perkins
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 20.5:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 20.6:
+        non_striker: KT Perkins
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 21.1:
+        non_striker: KT Perkins
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 21.2:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 21.3:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 21.4:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 21.5:
+        non_striker: KT Perkins
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 21.6:
+        non_striker: KT Perkins
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 22.1:
+        non_striker: KT Perkins
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Satterthwaite
+    - 22.2:
+        non_striker: KT Perkins
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 22.3:
+        non_striker: KT Perkins
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 22.4:
+        non_striker: KT Perkins
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 22.5:
+        non_striker: KT Perkins
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 22.6:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 23.1:
+        non_striker: KT Perkins
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 23.2:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 23.3:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 23.4:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 23.5:
+        non_striker: KT Perkins
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 23.6:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 24.1:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 24.2:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 24.3:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 24.4:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 24.5:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 24.6:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 25.1:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 25.2:
+        non_striker: KT Perkins
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 25.3:
+        non_striker: KT Perkins
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Satterthwaite
+    - 25.4:
+        non_striker: KT Perkins
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 25.5:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 25.6:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 26.1:
+        non_striker: KT Perkins
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 26.2:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 26.3:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 26.4:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 26.5:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 26.6:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KT Perkins
+    - 27.1:
+        non_striker: KT Perkins
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 27.2:
+        non_striker: AE Satterthwaite
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KT Perkins
+    - 27.3:
+        non_striker: AE Satterthwaite
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 27.4:
+        non_striker: KT Perkins
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 27.5:
+        non_striker: AE Satterthwaite
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 27.6:
+        non_striker: AE Satterthwaite
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 28.1:
+        non_striker: KT Perkins
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 28.2:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 28.3:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 28.4:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 28.5:
+        non_striker: KT Perkins
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 28.6:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 29.1:
+        non_striker: AE Satterthwaite
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 29.2:
+        non_striker: AE Satterthwaite
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 29.3:
+        non_striker: KT Perkins
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 29.4:
+        non_striker: KT Perkins
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 29.5:
+        non_striker: KT Perkins
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Satterthwaite
+    - 29.6:
+        non_striker: KT Perkins
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 30.1:
+        non_striker: KT Perkins
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 30.2:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KT Perkins
+    - 30.3:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KT Perkins
+    - 30.4:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 30.5:
+        non_striker: KT Perkins
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 30.6:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 31.1:
+        non_striker: KT Perkins
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Satterthwaite
+    - 31.2:
+        non_striker: KT Perkins
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 31.3:
+        non_striker: AE Satterthwaite
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: KT Perkins
+    - 31.4:
+        non_striker: AE Satterthwaite
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KT Perkins
+    - 31.5:
+        non_striker: AE Satterthwaite
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KT Perkins
+    - 31.6:
+        non_striker: AE Satterthwaite
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 31.7:
+        non_striker: KT Perkins
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 31.8:
+        non_striker: AE Satterthwaite
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 32.1:
+        non_striker: KT Perkins
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 32.2:
+        non_striker: KT Perkins
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 32.3:
+        non_striker: KT Perkins
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 32.4:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 32.5:
+        non_striker: KT Perkins
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Satterthwaite
+    - 32.6:
+        non_striker: KT Perkins
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 33.1:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 33.2:
+        non_striker: KT Perkins
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 33.3:
+        non_striker: KT Perkins
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 33.4:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 33.5:
+        non_striker: KT Perkins
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 33.6:
+        non_striker: KT Perkins
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 34.1:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 34.2:
+        non_striker: KT Perkins
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 34.3:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 34.4:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 34.5:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 34.6:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 35.1:
+        non_striker: KT Perkins
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 35.2:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 35.3:
+        non_striker: KT Perkins
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 35.4:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 35.5:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KT Perkins
+    - 35.6:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 36.1:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 36.2:
+        non_striker: KT Perkins
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 36.3:
+        non_striker: KT Perkins
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Satterthwaite
+    - 36.4:
+        non_striker: KT Perkins
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 36.5:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 36.6:
+        non_striker: KT Perkins
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 37.1:
+        non_striker: KT Perkins
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 37.2:
+        non_striker: KT Perkins
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 37.3:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 37.4:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 37.5:
+        non_striker: KT Perkins
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 37.6:
+        non_striker: KT Perkins
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 38.1:
+        non_striker: KT Perkins
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 38.2:
+        non_striker: KT Perkins
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 38.3:
+        non_striker: KT Perkins
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 38.4:
+        non_striker: KT Perkins
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 38.5:
+        non_striker: KT Perkins
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Satterthwaite
+    - 38.6:
+        non_striker: KT Perkins
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 39.1:
+        non_striker: KT Perkins
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 39.2:
+        non_striker: KT Perkins
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 39.3:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 39.4:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 39.5:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 39.6:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 40.1:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 40.2:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KT Perkins
+    - 40.3:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 40.4:
+        non_striker: KT Perkins
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 40.5:
+        non_striker: KT Perkins
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 40.6:
+        non_striker: KT Perkins
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 41.1:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 41.2:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+        wicket:
+          player_out: KT Perkins
+          kind: caught and bowled
+    - 41.3:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 41.4:
+        non_striker: AC Kerr
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 41.5:
+        non_striker: AC Kerr
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 41.6:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 42.1:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 42.2:
+        non_striker: AE Satterthwaite
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 42.3:
+        non_striker: AE Satterthwaite
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 42.4:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 42.5:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Satterthwaite
+    - 42.6:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 43.1:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Satterthwaite
+    - 43.2:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 43.3:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 43.4:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 43.5:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 43.6:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 44.1:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 44.2:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 44.3:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 44.4:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 44.5:
+        non_striker: AC Kerr
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 44.6:
+        non_striker: AE Satterthwaite
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 45.1:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 45.2:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 45.3:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 45.4:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 45.5:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 45.6:
+        non_striker: AE Satterthwaite
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 46.1:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 46.2:
+        non_striker: AC Kerr
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 46.3:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Kerr
+    - 46.4:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+        wicket:
+          player_out: AC Kerr
+          kind: bowled
+    - 46.5:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+        wicket:
+          player_out: LM Kasperek
+          kind: bowled
+    - 46.6:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+    - 46.7:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HNK Jensen
+    - 47.1:
+        non_striker: AE Satterthwaite
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+    - 47.2:
+        non_striker: AE Satterthwaite
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HNK Jensen
+    - 47.3:
+        non_striker: AE Satterthwaite
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HNK Jensen
+    - 47.4:
+        non_striker: HNK Jensen
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Satterthwaite
+    - 47.5:
+        non_striker: HNK Jensen
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Satterthwaite
+    - 47.6:
+        non_striker: HNK Jensen
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 48.1:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+    - 48.2:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HNK Jensen
+    - 48.3:
+        non_striker: AE Satterthwaite
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HNK Jensen
+    - 48.4:
+        non_striker: HNK Jensen
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+        wicket:
+          player_out: AE Satterthwaite
+          fielders:
+          - RL Haynes
+          kind: caught
+    - 48.5:
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LMM Tahuhu
+        batsman: HNK Jensen
+    - 48.6:
+        non_striker: HNK Jensen
+        bowler: JL Jonassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 49.1:
+        non_striker: LMM Tahuhu
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HNK Jensen
+    - 49.2:
+        non_striker: LMM Tahuhu
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HNK Jensen
+    - 49.3:
+        non_striker: LMM Tahuhu
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HNK Jensen
+    - 49.4:
+        non_striker: HNK Jensen
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LMM Tahuhu
+    - 49.5:
+        non_striker: HNK Jensen
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+        wicket:
+          player_out: LMM Tahuhu
+          fielders:
+          - EA Perry
+          kind: caught
+    - 49.6:
+        non_striker: RA Mair
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HNK Jensen

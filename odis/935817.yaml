@@ -1,0 +1,3957 @@
+---
+meta:
+  data_version: 0.9
+  created: 2016-10-20
+  revision: 1
+info:
+  city: Paarl
+  dates:
+    - 2016-10-17
+  gender: female
+  match_type: ODI
+  outcome:
+    by:
+      wickets: 8
+    winner: New Zealand
+  overs: 50
+  teams:
+    - South Africa
+    - New Zealand
+  toss:
+    decision: field
+    winner: New Zealand
+  umpires:
+    - RN Hendricks
+    - BM White
+  venue: Boland Park
+innings:
+  - 1st innings:
+      team: South Africa
+      deliveries:
+        - 0.1:
+            batsman: A Steyn
+            bowler: MJG Nielsen
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: A Steyn
+            bowler: MJG Nielsen
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: A Steyn
+            bowler: MJG Nielsen
+            extras:
+              wides: 1
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.4:
+            batsman: A Steyn
+            bowler: MJG Nielsen
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: A Steyn
+            bowler: MJG Nielsen
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: A Steyn
+            bowler: MJG Nielsen
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.7:
+            batsman: A Steyn
+            bowler: MJG Nielsen
+            non_striker: L Lee
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.1:
+            batsman: L Lee
+            bowler: HR Huddleston
+            non_striker: A Steyn
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: L Lee
+            bowler: HR Huddleston
+            non_striker: A Steyn
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - KT Perkins
+                - RH Priest
+              kind: run out
+              player_out: A Steyn
+        - 1.3:
+            batsman: M du Preez
+            bowler: HR Huddleston
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: M du Preez
+            bowler: HR Huddleston
+            non_striker: L Lee
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.5:
+            batsman: M du Preez
+            bowler: HR Huddleston
+            non_striker: L Lee
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.6:
+            batsman: M du Preez
+            bowler: HR Huddleston
+            non_striker: L Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: L Lee
+            bowler: MJG Nielsen
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: L Lee
+            bowler: MJG Nielsen
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: L Lee
+        - 2.3:
+            batsman: D Devnarain
+            bowler: MJG Nielsen
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: D Devnarain
+            bowler: MJG Nielsen
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: D Devnarain
+            bowler: MJG Nielsen
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: D Devnarain
+            bowler: MJG Nielsen
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: M du Preez
+            bowler: HR Huddleston
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: M du Preez
+            bowler: HR Huddleston
+            non_striker: D Devnarain
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.3:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.1:
+            batsman: D Devnarain
+            bowler: MJG Nielsen
+            extras:
+              legbyes: 2
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 2
+              total: 2
+        - 4.2:
+            batsman: D Devnarain
+            bowler: MJG Nielsen
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.3:
+            batsman: M du Preez
+            bowler: MJG Nielsen
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: M du Preez
+            bowler: MJG Nielsen
+            non_striker: D Devnarain
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.5:
+            batsman: D Devnarain
+            bowler: MJG Nielsen
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: D Devnarain
+            bowler: MJG Nielsen
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: M du Preez
+            bowler: HR Huddleston
+            non_striker: D Devnarain
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.2:
+            batsman: M du Preez
+            bowler: HR Huddleston
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: M du Preez
+            bowler: HR Huddleston
+            non_striker: D Devnarain
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.4:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.1:
+            batsman: D Devnarain
+            bowler: MJG Nielsen
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: D Devnarain
+            bowler: MJG Nielsen
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.3:
+            batsman: M du Preez
+            bowler: MJG Nielsen
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.4:
+            batsman: M du Preez
+            bowler: MJG Nielsen
+            extras:
+              wides: 1
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 6.5:
+            batsman: M du Preez
+            bowler: MJG Nielsen
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: M du Preez
+            bowler: MJG Nielsen
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.7:
+            batsman: M du Preez
+            bowler: MJG Nielsen
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.1:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: M du Preez
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.1:
+            batsman: M du Preez
+            bowler: MJG Nielsen
+            non_striker: D Devnarain
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.2:
+            batsman: M du Preez
+            bowler: MJG Nielsen
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: M du Preez
+            bowler: MJG Nielsen
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: M du Preez
+            bowler: MJG Nielsen
+            non_striker: D Devnarain
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.5:
+            batsman: D Devnarain
+            bowler: MJG Nielsen
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: D Devnarain
+            bowler: MJG Nielsen
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: M du Preez
+            bowler: EM Bermingham
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.2:
+            batsman: M du Preez
+            bowler: EM Bermingham
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: M du Preez
+            bowler: EM Bermingham
+            non_striker: D Devnarain
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.4:
+            batsman: D Devnarain
+            bowler: EM Bermingham
+            non_striker: M du Preez
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.5:
+            batsman: D Devnarain
+            bowler: EM Bermingham
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.6:
+            batsman: D Devnarain
+            bowler: EM Bermingham
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: M du Preez
+            bowler: MJG Nielsen
+            non_striker: D Devnarain
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: D Devnarain
+            bowler: MJG Nielsen
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: D Devnarain
+            bowler: MJG Nielsen
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: D Devnarain
+            bowler: MJG Nielsen
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: D Devnarain
+            bowler: MJG Nielsen
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.6:
+            batsman: M du Preez
+            bowler: MJG Nielsen
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.1:
+            batsman: D Devnarain
+            bowler: EM Bermingham
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: D Devnarain
+            bowler: EM Bermingham
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.3:
+            batsman: D Devnarain
+            bowler: EM Bermingham
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.4:
+            batsman: D Devnarain
+            bowler: EM Bermingham
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: D Devnarain
+            bowler: EM Bermingham
+            non_striker: M du Preez
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 11.6:
+            batsman: M du Preez
+            bowler: EM Bermingham
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: D Devnarain
+            bowler: HM Rowe
+            extras:
+              wides: 1
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 12.2:
+            batsman: D Devnarain
+            bowler: HM Rowe
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.3:
+            batsman: M du Preez
+            bowler: HM Rowe
+            non_striker: D Devnarain
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.4:
+            batsman: D Devnarain
+            bowler: HM Rowe
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.5:
+            batsman: D Devnarain
+            bowler: HM Rowe
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.6:
+            batsman: D Devnarain
+            bowler: HM Rowe
+            extras:
+              wides: 1
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 12.7:
+            batsman: D Devnarain
+            bowler: HM Rowe
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.8:
+            batsman: D Devnarain
+            bowler: HM Rowe
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.1:
+            batsman: M du Preez
+            bowler: EM Bermingham
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.2:
+            batsman: M du Preez
+            bowler: EM Bermingham
+            non_striker: D Devnarain
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.3:
+            batsman: D Devnarain
+            bowler: EM Bermingham
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.4:
+            batsman: D Devnarain
+            bowler: EM Bermingham
+            non_striker: M du Preez
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 13.5:
+            batsman: D Devnarain
+            bowler: EM Bermingham
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: D Devnarain
+            bowler: EM Bermingham
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: M du Preez
+            bowler: HM Rowe
+            non_striker: D Devnarain
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.2:
+            batsman: D Devnarain
+            bowler: HM Rowe
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: D Devnarain
+            bowler: HM Rowe
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: D Devnarain
+            bowler: HM Rowe
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.5:
+            batsman: M du Preez
+            bowler: HM Rowe
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.6:
+            batsman: M du Preez
+            bowler: HM Rowe
+            extras:
+              wides: 1
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 14.7:
+            batsman: M du Preez
+            bowler: HM Rowe
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.1:
+            batsman: D Devnarain
+            bowler: EM Bermingham
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.2:
+            batsman: D Devnarain
+            bowler: EM Bermingham
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.3:
+            batsman: M du Preez
+            bowler: EM Bermingham
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.4:
+            batsman: M du Preez
+            bowler: EM Bermingham
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: M du Preez
+            bowler: EM Bermingham
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.6:
+            batsman: M du Preez
+            bowler: EM Bermingham
+            non_striker: D Devnarain
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 16.1:
+            batsman: D Devnarain
+            bowler: HM Rowe
+            non_striker: M du Preez
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 16.2:
+            batsman: D Devnarain
+            bowler: HM Rowe
+            non_striker: M du Preez
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.3:
+            batsman: D Devnarain
+            bowler: HM Rowe
+            non_striker: M du Preez
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.4:
+            batsman: M du Preez
+            bowler: HM Rowe
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - KT Perkins
+              kind: caught
+              player_out: M du Preez
+        - 16.5:
+            batsman: M Kapp
+            bowler: HM Rowe
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.6:
+            batsman: M Kapp
+            bowler: HM Rowe
+            non_striker: D Devnarain
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: M Kapp
+            bowler: EM Bermingham
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.2:
+            batsman: M Kapp
+            bowler: EM Bermingham
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.3:
+            batsman: M Kapp
+            bowler: EM Bermingham
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.4:
+            batsman: M Kapp
+            bowler: EM Bermingham
+            non_striker: D Devnarain
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.5:
+            batsman: D Devnarain
+            bowler: EM Bermingham
+            non_striker: M Kapp
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.6:
+            batsman: D Devnarain
+            bowler: EM Bermingham
+            non_striker: M Kapp
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.1:
+            batsman: M Kapp
+            bowler: TMM Newton
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.2:
+            batsman: M Kapp
+            bowler: TMM Newton
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.3:
+            batsman: M Kapp
+            bowler: TMM Newton
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: M Kapp
+            bowler: TMM Newton
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.5:
+            batsman: M Kapp
+            bowler: TMM Newton
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.6:
+            batsman: M Kapp
+            bowler: TMM Newton
+            non_striker: D Devnarain
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 19.1:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: M Kapp
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 19.2:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: M Kapp
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.3:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: M Kapp
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.4:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: M Kapp
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.5:
+            batsman: M Kapp
+            bowler: HR Huddleston
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.6:
+            batsman: M Kapp
+            bowler: HR Huddleston
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.1:
+            batsman: D Devnarain
+            bowler: TMM Newton
+            non_striker: M Kapp
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.2:
+            batsman: D Devnarain
+            bowler: TMM Newton
+            extras:
+              wides: 1
+            non_striker: M Kapp
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 20.3:
+            batsman: D Devnarain
+            bowler: TMM Newton
+            non_striker: M Kapp
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.4:
+            batsman: D Devnarain
+            bowler: TMM Newton
+            non_striker: M Kapp
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.5:
+            batsman: M Kapp
+            bowler: TMM Newton
+            non_striker: D Devnarain
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.6:
+            batsman: D Devnarain
+            bowler: TMM Newton
+            non_striker: M Kapp
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.7:
+            batsman: M Kapp
+            bowler: TMM Newton
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.1:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: M Kapp
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.2:
+            batsman: M Kapp
+            bowler: HR Huddleston
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - RH Priest
+              kind: caught
+              player_out: M Kapp
+        - 21.3:
+            batsman: L Goodall
+            bowler: HR Huddleston
+            non_striker: D Devnarain
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 21.4:
+            batsman: L Goodall
+            bowler: HR Huddleston
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.5:
+            batsman: L Goodall
+            bowler: HR Huddleston
+            extras:
+              noballs: 1
+            non_striker: D Devnarain
+            runs:
+              batsman: 1
+              extras: 1
+              total: 2
+        - 21.6:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.7:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.1:
+            batsman: L Goodall
+            bowler: TMM Newton
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.2:
+            batsman: L Goodall
+            bowler: TMM Newton
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.3:
+            batsman: L Goodall
+            bowler: TMM Newton
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.4:
+            batsman: L Goodall
+            bowler: TMM Newton
+            non_striker: D Devnarain
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 22.5:
+            batsman: L Goodall
+            bowler: TMM Newton
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.6:
+            batsman: L Goodall
+            bowler: TMM Newton
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.1:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.2:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: L Goodall
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 23.3:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.4:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.5:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.6:
+            batsman: D Devnarain
+            bowler: HR Huddleston
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.1:
+            batsman: L Goodall
+            bowler: TMM Newton
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.2:
+            batsman: L Goodall
+            bowler: TMM Newton
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.3:
+            batsman: L Goodall
+            bowler: TMM Newton
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.4:
+            batsman: L Goodall
+            bowler: TMM Newton
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.5:
+            batsman: L Goodall
+            bowler: TMM Newton
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.6:
+            batsman: L Goodall
+            bowler: TMM Newton
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.1:
+            batsman: D Devnarain
+            bowler: HM Rowe
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.2:
+            batsman: D Devnarain
+            bowler: HM Rowe
+            non_striker: L Goodall
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.3:
+            batsman: L Goodall
+            bowler: HM Rowe
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.4:
+            batsman: L Goodall
+            bowler: HM Rowe
+            non_striker: D Devnarain
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 25.5:
+            batsman: L Goodall
+            bowler: HM Rowe
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.6:
+            batsman: L Goodall
+            bowler: HM Rowe
+            extras:
+              wides: 1
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 25.7:
+            batsman: L Goodall
+            bowler: HM Rowe
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.1:
+            batsman: D Devnarain
+            bowler: MJG Nielsen
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.2:
+            batsman: D Devnarain
+            bowler: MJG Nielsen
+            non_striker: L Goodall
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.3:
+            batsman: L Goodall
+            bowler: MJG Nielsen
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.4:
+            batsman: L Goodall
+            bowler: MJG Nielsen
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.5:
+            batsman: L Goodall
+            bowler: MJG Nielsen
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.6:
+            batsman: L Goodall
+            bowler: MJG Nielsen
+            non_striker: D Devnarain
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.1:
+            batsman: D Devnarain
+            bowler: HM Rowe
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.2:
+            batsman: D Devnarain
+            bowler: HM Rowe
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - NC Dodd
+              kind: caught
+              player_out: D Devnarain
+        - 27.3:
+            batsman: D van Niekerk
+            bowler: HM Rowe
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.4:
+            batsman: D van Niekerk
+            bowler: HM Rowe
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.5:
+            batsman: D van Niekerk
+            bowler: HM Rowe
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.6:
+            batsman: D van Niekerk
+            bowler: HM Rowe
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.1:
+            batsman: L Goodall
+            bowler: MJG Nielsen
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.2:
+            batsman: L Goodall
+            bowler: MJG Nielsen
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.3:
+            batsman: L Goodall
+            bowler: MJG Nielsen
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.4:
+            batsman: L Goodall
+            bowler: MJG Nielsen
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.5:
+            batsman: L Goodall
+            bowler: MJG Nielsen
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.6:
+            batsman: L Goodall
+            bowler: MJG Nielsen
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.1:
+            batsman: D van Niekerk
+            bowler: HM Rowe
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.2:
+            batsman: D van Niekerk
+            bowler: HM Rowe
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.3:
+            batsman: D van Niekerk
+            bowler: HM Rowe
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.4:
+            batsman: D van Niekerk
+            bowler: HM Rowe
+            extras:
+              noballs: 1
+            non_striker: L Goodall
+            runs:
+              batsman: 1
+              extras: 1
+              total: 2
+        - 29.5:
+            batsman: L Goodall
+            bowler: HM Rowe
+            non_striker: D van Niekerk
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 29.6:
+            batsman: L Goodall
+            bowler: HM Rowe
+            non_striker: D van Niekerk
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 29.7:
+            batsman: L Goodall
+            bowler: HM Rowe
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.1:
+            batsman: D van Niekerk
+            bowler: MJG Nielsen
+            non_striker: L Goodall
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.2:
+            batsman: L Goodall
+            bowler: MJG Nielsen
+            non_striker: D van Niekerk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.3:
+            batsman: D van Niekerk
+            bowler: MJG Nielsen
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.4:
+            batsman: D van Niekerk
+            bowler: MJG Nielsen
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.5:
+            batsman: D van Niekerk
+            bowler: MJG Nielsen
+            non_striker: L Goodall
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.6:
+            batsman: L Goodall
+            bowler: MJG Nielsen
+            non_striker: D van Niekerk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.1:
+            batsman: L Goodall
+            bowler: EM Bermingham
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.2:
+            batsman: L Goodall
+            bowler: EM Bermingham
+            non_striker: D van Niekerk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.3:
+            batsman: D van Niekerk
+            bowler: EM Bermingham
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.4:
+            batsman: D van Niekerk
+            bowler: EM Bermingham
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.5:
+            batsman: D van Niekerk
+            bowler: EM Bermingham
+            non_striker: L Goodall
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.6:
+            batsman: L Goodall
+            bowler: EM Bermingham
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.1:
+            batsman: D van Niekerk
+            bowler: MJG Nielsen
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.2:
+            batsman: D van Niekerk
+            bowler: MJG Nielsen
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.3:
+            batsman: D van Niekerk
+            bowler: MJG Nielsen
+            non_striker: L Goodall
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.4:
+            batsman: L Goodall
+            bowler: MJG Nielsen
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.5:
+            batsman: L Goodall
+            bowler: MJG Nielsen
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.6:
+            batsman: L Goodall
+            bowler: MJG Nielsen
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.1:
+            batsman: D van Niekerk
+            bowler: EM Bermingham
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.2:
+            batsman: D van Niekerk
+            bowler: EM Bermingham
+            non_striker: L Goodall
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.3:
+            batsman: L Goodall
+            bowler: EM Bermingham
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.4:
+            batsman: L Goodall
+            bowler: EM Bermingham
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.5:
+            batsman: L Goodall
+            bowler: EM Bermingham
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.6:
+            batsman: L Goodall
+            bowler: EM Bermingham
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.1:
+            batsman: D van Niekerk
+            bowler: AE Satterthwaite
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.2:
+            batsman: D van Niekerk
+            bowler: AE Satterthwaite
+            non_striker: L Goodall
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.3:
+            batsman: L Goodall
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.4:
+            batsman: L Goodall
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.5:
+            batsman: L Goodall
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 34.6:
+            batsman: L Goodall
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.1:
+            batsman: D van Niekerk
+            bowler: EM Bermingham
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.2:
+            batsman: D van Niekerk
+            bowler: EM Bermingham
+            non_striker: L Goodall
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.3:
+            batsman: L Goodall
+            bowler: EM Bermingham
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.4:
+            batsman: L Goodall
+            bowler: EM Bermingham
+            non_striker: D van Niekerk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.5:
+            batsman: D van Niekerk
+            bowler: EM Bermingham
+            non_striker: L Goodall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.6:
+            batsman: D van Niekerk
+            bowler: EM Bermingham
+            non_striker: L Goodall
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.1:
+            batsman: D van Niekerk
+            bowler: AE Satterthwaite
+            non_striker: L Goodall
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.2:
+            batsman: L Goodall
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.3:
+            batsman: L Goodall
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - RH Priest
+              kind: caught
+              player_out: L Goodall
+        - 36.4:
+            batsman: S Luus
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.5:
+            batsman: S Luus
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.6:
+            batsman: S Luus
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.1:
+            batsman: D van Niekerk
+            bowler: EM Bermingham
+            non_striker: S Luus
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.2:
+            batsman: D van Niekerk
+            bowler: EM Bermingham
+            non_striker: S Luus
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.3:
+            batsman: S Luus
+            bowler: EM Bermingham
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.4:
+            batsman: S Luus
+            bowler: EM Bermingham
+            non_striker: D van Niekerk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.5:
+            batsman: D van Niekerk
+            bowler: EM Bermingham
+            non_striker: S Luus
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.6:
+            batsman: D van Niekerk
+            bowler: EM Bermingham
+            non_striker: S Luus
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.1:
+            batsman: S Luus
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.2:
+            batsman: S Luus
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.3:
+            batsman: S Luus
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.4:
+            batsman: S Luus
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.5:
+            batsman: D van Niekerk
+            bowler: AE Satterthwaite
+            non_striker: S Luus
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.6:
+            batsman: D van Niekerk
+            bowler: AE Satterthwaite
+            non_striker: S Luus
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.1:
+            batsman: D van Niekerk
+            bowler: EM Bermingham
+            non_striker: S Luus
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.2:
+            batsman: D van Niekerk
+            bowler: EM Bermingham
+            non_striker: S Luus
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.3:
+            batsman: S Luus
+            bowler: EM Bermingham
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.4:
+            batsman: S Luus
+            bowler: EM Bermingham
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.5:
+            batsman: S Luus
+            bowler: EM Bermingham
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.6:
+            batsman: S Luus
+            bowler: EM Bermingham
+            non_striker: D van Niekerk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.1:
+            batsman: S Luus
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 40.2:
+            batsman: S Luus
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.3:
+            batsman: D van Niekerk
+            bowler: AE Satterthwaite
+            non_striker: S Luus
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.4:
+            batsman: D van Niekerk
+            bowler: AE Satterthwaite
+            non_striker: S Luus
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.5:
+            batsman: S Luus
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.6:
+            batsman: D van Niekerk
+            bowler: AE Satterthwaite
+            non_striker: S Luus
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.1:
+            batsman: D van Niekerk
+            bowler: TMM Newton
+            non_striker: S Luus
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 41.2:
+            batsman: D van Niekerk
+            bowler: TMM Newton
+            non_striker: S Luus
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.3:
+            batsman: D van Niekerk
+            bowler: TMM Newton
+            non_striker: S Luus
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.4:
+            batsman: S Luus
+            bowler: TMM Newton
+            non_striker: D van Niekerk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.5:
+            batsman: D van Niekerk
+            bowler: TMM Newton
+            non_striker: S Luus
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 41.6:
+            batsman: D van Niekerk
+            bowler: TMM Newton
+            non_striker: S Luus
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 42.1:
+            batsman: S Luus
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.2:
+            batsman: D van Niekerk
+            bowler: AE Satterthwaite
+            non_striker: S Luus
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 42.3:
+            batsman: D van Niekerk
+            bowler: AE Satterthwaite
+            non_striker: S Luus
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.4:
+            batsman: S Luus
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.5:
+            batsman: S Luus
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.6:
+            batsman: D van Niekerk
+            bowler: AE Satterthwaite
+            non_striker: S Luus
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.1:
+            batsman: D van Niekerk
+            bowler: TMM Newton
+            non_striker: S Luus
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.2:
+            batsman: S Luus
+            bowler: TMM Newton
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.3:
+            batsman: S Luus
+            bowler: TMM Newton
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.4:
+            batsman: S Luus
+            bowler: TMM Newton
+            non_striker: D van Niekerk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.5:
+            batsman: D van Niekerk
+            bowler: TMM Newton
+            non_striker: S Luus
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.6:
+            batsman: S Luus
+            bowler: TMM Newton
+            non_striker: D van Niekerk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.1:
+            batsman: S Luus
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 44.2:
+            batsman: S Luus
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.3:
+            batsman: D van Niekerk
+            bowler: AE Satterthwaite
+            non_striker: S Luus
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.4:
+            batsman: S Luus
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.5:
+            batsman: S Luus
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.6:
+            batsman: S Luus
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.1:
+            batsman: S Luus
+            bowler: HR Huddleston
+            non_striker: D van Niekerk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.2:
+            batsman: D van Niekerk
+            bowler: HR Huddleston
+            non_striker: S Luus
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.3:
+            batsman: S Luus
+            bowler: HR Huddleston
+            non_striker: D van Niekerk
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 45.4:
+            batsman: S Luus
+            bowler: HR Huddleston
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.5:
+            batsman: S Luus
+            bowler: HR Huddleston
+            non_striker: D van Niekerk
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 45.6:
+            batsman: S Luus
+            bowler: HR Huddleston
+            non_striker: D van Niekerk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.1:
+            batsman: S Luus
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.2:
+            batsman: D van Niekerk
+            bowler: AE Satterthwaite
+            non_striker: S Luus
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.3:
+            batsman: D van Niekerk
+            bowler: AE Satterthwaite
+            non_striker: S Luus
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.4:
+            batsman: D van Niekerk
+            bowler: AE Satterthwaite
+            non_striker: S Luus
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.5:
+            batsman: S Luus
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.6:
+            batsman: D van Niekerk
+            bowler: AE Satterthwaite
+            non_striker: S Luus
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 47.1:
+            batsman: D van Niekerk
+            bowler: HR Huddleston
+            non_striker: S Luus
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 47.2:
+            batsman: D van Niekerk
+            bowler: HR Huddleston
+            non_striker: S Luus
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.3:
+            batsman: D van Niekerk
+            bowler: HR Huddleston
+            non_striker: S Luus
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 47.4:
+            batsman: D van Niekerk
+            bowler: HR Huddleston
+            non_striker: S Luus
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.5:
+            batsman: D van Niekerk
+            bowler: HR Huddleston
+            non_striker: S Luus
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 47.6:
+            batsman: S Luus
+            bowler: HR Huddleston
+            non_striker: D van Niekerk
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.1:
+            batsman: S Luus
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - TMM Newton
+              kind: caught
+              player_out: S Luus
+        - 48.2:
+            batsman: D van Niekerk
+            bowler: AE Satterthwaite
+            non_striker: A Khaka
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.3:
+            batsman: A Khaka
+            bowler: AE Satterthwaite
+            extras:
+              wides: 1
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 48.4:
+            batsman: A Khaka
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - SW Bates
+                - AE Satterthwaite
+              kind: run out
+              player_out: A Khaka
+        - 48.5:
+            batsman: D van Niekerk
+            bowler: AE Satterthwaite
+            non_striker: O Kirsten
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 48.6:
+            batsman: D van Niekerk
+            bowler: AE Satterthwaite
+            non_striker: O Kirsten
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - NC Dodd
+              kind: run out
+              player_out: O Kirsten
+        - 48.7:
+            batsman: M Klaas
+            bowler: AE Satterthwaite
+            non_striker: D van Niekerk
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: M Klaas
+  - 2nd innings:
+      team: New Zealand
+      deliveries:
+        - 0.1:
+            batsman: NC Dodd
+            bowler: A Khaka
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: NC Dodd
+            bowler: A Khaka
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: NC Dodd
+            bowler: A Khaka
+            extras:
+              wides: 1
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.4:
+            batsman: NC Dodd
+            bowler: A Khaka
+            non_striker: RH Priest
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.5:
+            batsman: RH Priest
+            bowler: A Khaka
+            non_striker: NC Dodd
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: RH Priest
+            bowler: A Khaka
+            non_striker: NC Dodd
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.7:
+            batsman: RH Priest
+            bowler: A Khaka
+            non_striker: NC Dodd
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 1.1:
+            batsman: NC Dodd
+            bowler: M Kapp
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: NC Dodd
+            bowler: M Kapp
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: NC Dodd
+            bowler: M Kapp
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: NC Dodd
+        - 1.4:
+            batsman: AE Satterthwaite
+            bowler: M Kapp
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: AE Satterthwaite
+            bowler: M Kapp
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: AE Satterthwaite
+            bowler: M Kapp
+            non_striker: RH Priest
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.1:
+            batsman: AE Satterthwaite
+            bowler: A Khaka
+            non_striker: RH Priest
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.2:
+            batsman: RH Priest
+            bowler: A Khaka
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: RH Priest
+            bowler: A Khaka
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.4:
+            batsman: RH Priest
+            bowler: A Khaka
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.5:
+            batsman: RH Priest
+            bowler: A Khaka
+            extras:
+              legbyes: 2
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 2
+              total: 2
+        - 2.6:
+            batsman: RH Priest
+            bowler: A Khaka
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.1:
+            batsman: RH Priest
+            bowler: M Kapp
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.2:
+            batsman: AE Satterthwaite
+            bowler: M Kapp
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: AE Satterthwaite
+            bowler: M Kapp
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: AE Satterthwaite
+            bowler: M Kapp
+            non_striker: RH Priest
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.5:
+            batsman: AE Satterthwaite
+            bowler: M Kapp
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: AE Satterthwaite
+            bowler: M Kapp
+            non_striker: RH Priest
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.1:
+            batsman: RH Priest
+            bowler: A Khaka
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.2:
+            batsman: RH Priest
+            bowler: A Khaka
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.3:
+            batsman: AE Satterthwaite
+            bowler: A Khaka
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: AE Satterthwaite
+            bowler: A Khaka
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: AE Satterthwaite
+            bowler: A Khaka
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: AE Satterthwaite
+            bowler: A Khaka
+            non_striker: RH Priest
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.1:
+            batsman: RH Priest
+            bowler: M Kapp
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: RH Priest
+            bowler: M Kapp
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.3:
+            batsman: RH Priest
+            bowler: M Kapp
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.4:
+            batsman: RH Priest
+            bowler: M Kapp
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.5:
+            batsman: AE Satterthwaite
+            bowler: M Kapp
+            non_striker: RH Priest
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.6:
+            batsman: RH Priest
+            bowler: M Kapp
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: AE Satterthwaite
+            bowler: A Khaka
+            non_striker: RH Priest
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: RH Priest
+            bowler: A Khaka
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.3:
+            batsman: AE Satterthwaite
+            bowler: A Khaka
+            non_striker: RH Priest
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.4:
+            batsman: RH Priest
+            bowler: A Khaka
+            extras:
+              wides: 1
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 6.5:
+            batsman: RH Priest
+            bowler: A Khaka
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: RH Priest
+            bowler: A Khaka
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.7:
+            batsman: RH Priest
+            bowler: A Khaka
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.1:
+            batsman: AE Satterthwaite
+            bowler: O Kirsten
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: AE Satterthwaite
+            bowler: O Kirsten
+            non_striker: RH Priest
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.3:
+            batsman: RH Priest
+            bowler: O Kirsten
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: RH Priest
+            bowler: O Kirsten
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: AE Satterthwaite
+            bowler: O Kirsten
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: AE Satterthwaite
+            bowler: O Kirsten
+            non_striker: RH Priest
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: AE Satterthwaite
+            bowler: M Klaas
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: AE Satterthwaite
+            bowler: M Klaas
+            extras:
+              wides: 1
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 8.3:
+            batsman: AE Satterthwaite
+            bowler: M Klaas
+            non_striker: RH Priest
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: RH Priest
+            bowler: M Klaas
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: RH Priest
+            bowler: M Klaas
+            extras:
+              byes: 4
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 8.6:
+            batsman: RH Priest
+            bowler: M Klaas
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.7:
+            batsman: RH Priest
+            bowler: M Klaas
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.1:
+            batsman: RH Priest
+            bowler: O Kirsten
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.2:
+            batsman: RH Priest
+            bowler: O Kirsten
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: RH Priest
+            bowler: O Kirsten
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.4:
+            batsman: RH Priest
+            bowler: O Kirsten
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: RH Priest
+            bowler: O Kirsten
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.6:
+            batsman: RH Priest
+            bowler: O Kirsten
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.1:
+            batsman: AE Satterthwaite
+            bowler: M Klaas
+            non_striker: RH Priest
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: RH Priest
+            bowler: M Klaas
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: RH Priest
+            bowler: M Klaas
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.4:
+            batsman: RH Priest
+            bowler: M Klaas
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: RH Priest
+            bowler: M Klaas
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.6:
+            batsman: AE Satterthwaite
+            bowler: M Klaas
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.1:
+            batsman: RH Priest
+            bowler: O Kirsten
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: AE Satterthwaite
+            bowler: O Kirsten
+            non_striker: RH Priest
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 11.3:
+            batsman: AE Satterthwaite
+            bowler: O Kirsten
+            non_striker: RH Priest
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: RH Priest
+            bowler: O Kirsten
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: RH Priest
+            bowler: O Kirsten
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: RH Priest
+            bowler: O Kirsten
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: AE Satterthwaite
+            bowler: D van Niekerk
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.2:
+            batsman: AE Satterthwaite
+            bowler: D van Niekerk
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.3:
+            batsman: AE Satterthwaite
+            bowler: D van Niekerk
+            non_striker: RH Priest
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.4:
+            batsman: RH Priest
+            bowler: D van Niekerk
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: AE Satterthwaite
+            bowler: D van Niekerk
+            non_striker: RH Priest
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.6:
+            batsman: RH Priest
+            bowler: D van Niekerk
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: RH Priest
+            bowler: S Luus
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.2:
+            batsman: RH Priest
+            bowler: S Luus
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.3:
+            batsman: AE Satterthwaite
+            bowler: S Luus
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.4:
+            batsman: AE Satterthwaite
+            bowler: S Luus
+            extras:
+              wides: 1
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 13.5:
+            batsman: AE Satterthwaite
+            bowler: S Luus
+            non_striker: RH Priest
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.6:
+            batsman: RH Priest
+            bowler: S Luus
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.7:
+            batsman: AE Satterthwaite
+            bowler: S Luus
+            non_striker: RH Priest
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.1:
+            batsman: AE Satterthwaite
+            bowler: D van Niekerk
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.2:
+            batsman: AE Satterthwaite
+            bowler: D van Niekerk
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: AE Satterthwaite
+            bowler: D van Niekerk
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: AE Satterthwaite
+            bowler: D van Niekerk
+            non_striker: RH Priest
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.5:
+            batsman: RH Priest
+            bowler: D van Niekerk
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.6:
+            batsman: RH Priest
+            bowler: D van Niekerk
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: RH Priest
+            bowler: S Luus
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.2:
+            batsman: AE Satterthwaite
+            bowler: S Luus
+            non_striker: RH Priest
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.3:
+            batsman: RH Priest
+            bowler: S Luus
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.4:
+            batsman: RH Priest
+            bowler: S Luus
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.5:
+            batsman: RH Priest
+            bowler: S Luus
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.6:
+            batsman: RH Priest
+            bowler: S Luus
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.1:
+            batsman: RH Priest
+            bowler: D van Niekerk
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 16.2:
+            batsman: RH Priest
+            bowler: D van Niekerk
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 16.3:
+            batsman: RH Priest
+            bowler: D van Niekerk
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 16.4:
+            batsman: RH Priest
+            bowler: D van Niekerk
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.5:
+            batsman: RH Priest
+            bowler: D van Niekerk
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 16.6:
+            batsman: RH Priest
+            bowler: D van Niekerk
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: RH Priest
+            bowler: S Luus
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.2:
+            batsman: AE Satterthwaite
+            bowler: S Luus
+            non_striker: RH Priest
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.3:
+            batsman: AE Satterthwaite
+            bowler: S Luus
+            non_striker: RH Priest
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.4:
+            batsman: RH Priest
+            bowler: S Luus
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.5:
+            batsman: RH Priest
+            bowler: S Luus
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.6:
+            batsman: RH Priest
+            bowler: S Luus
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.1:
+            batsman: AE Satterthwaite
+            bowler: A Khaka
+            non_striker: RH Priest
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.2:
+            batsman: AE Satterthwaite
+            bowler: A Khaka
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.3:
+            batsman: AE Satterthwaite
+            bowler: A Khaka
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: AE Satterthwaite
+            bowler: A Khaka
+            non_striker: RH Priest
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.5:
+            batsman: AE Satterthwaite
+            bowler: A Khaka
+            non_striker: RH Priest
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.6:
+            batsman: RH Priest
+            bowler: A Khaka
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.1:
+            batsman: AE Satterthwaite
+            bowler: S Luus
+            non_striker: RH Priest
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.2:
+            batsman: RH Priest
+            bowler: S Luus
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.3:
+            batsman: AE Satterthwaite
+            bowler: S Luus
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.4:
+            batsman: AE Satterthwaite
+            bowler: S Luus
+            non_striker: RH Priest
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.5:
+            batsman: RH Priest
+            bowler: S Luus
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.6:
+            batsman: AE Satterthwaite
+            bowler: S Luus
+            non_striker: RH Priest
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.1:
+            batsman: AE Satterthwaite
+            bowler: A Khaka
+            non_striker: RH Priest
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.2:
+            batsman: AE Satterthwaite
+            bowler: A Khaka
+            non_striker: RH Priest
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.3:
+            batsman: RH Priest
+            bowler: A Khaka
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.4:
+            batsman: RH Priest
+            bowler: A Khaka
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - S Luus
+              kind: caught
+              player_out: RH Priest
+        - 20.5:
+            batsman: AE Satterthwaite
+            bowler: A Khaka
+            non_striker: KJ Martin
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 20.6:
+            batsman: AE Satterthwaite
+            bowler: A Khaka
+            non_striker: KJ Martin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.1:
+            batsman: KJ Martin
+            bowler: S Luus
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 21.2:
+            batsman: AE Satterthwaite
+            bowler: S Luus
+            non_striker: KJ Martin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.3:
+            batsman: KJ Martin
+            bowler: S Luus
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.4:
+            batsman: AE Satterthwaite
+            bowler: S Luus
+            non_striker: KJ Martin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.5:
+            batsman: AE Satterthwaite
+            bowler: S Luus
+            non_striker: KJ Martin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.6:
+            batsman: KJ Martin
+            bowler: S Luus
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.1:
+            batsman: AE Satterthwaite
+            bowler: D van Niekerk
+            non_striker: KJ Martin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.2:
+            batsman: KJ Martin
+            bowler: D van Niekerk
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.3:
+            batsman: AE Satterthwaite
+            bowler: D van Niekerk
+            non_striker: KJ Martin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.4:
+            batsman: KJ Martin
+            bowler: D van Niekerk
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.5:
+            batsman: KJ Martin
+            bowler: D van Niekerk
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.6:
+            batsman: KJ Martin
+            bowler: D van Niekerk
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.1:
+            batsman: AE Satterthwaite
+            bowler: S Luus
+            non_striker: KJ Martin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.2:
+            batsman: AE Satterthwaite
+            bowler: S Luus
+            non_striker: KJ Martin
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 23.3:
+            batsman: AE Satterthwaite
+            bowler: S Luus
+            non_striker: KJ Martin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.4:
+            batsman: KJ Martin
+            bowler: S Luus
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.5:
+            batsman: KJ Martin
+            bowler: S Luus
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.6:
+            batsman: KJ Martin
+            bowler: S Luus
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.1:
+            batsman: AE Satterthwaite
+            bowler: D van Niekerk
+            non_striker: KJ Martin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.2:
+            batsman: KJ Martin
+            bowler: D van Niekerk
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.3:
+            batsman: AE Satterthwaite
+            bowler: D van Niekerk
+            non_striker: KJ Martin
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 24.4:
+            batsman: AE Satterthwaite
+            bowler: D van Niekerk
+            non_striker: KJ Martin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.5:
+            batsman: AE Satterthwaite
+            bowler: D van Niekerk
+            non_striker: KJ Martin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.6:
+            batsman: KJ Martin
+            bowler: D van Niekerk
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.1:
+            batsman: KJ Martin
+            bowler: O Kirsten
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.2:
+            batsman: AE Satterthwaite
+            bowler: O Kirsten
+            non_striker: KJ Martin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.3:
+            batsman: KJ Martin
+            bowler: O Kirsten
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 25.4:
+            batsman: KJ Martin
+            bowler: O Kirsten
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.5:
+            batsman: KJ Martin
+            bowler: O Kirsten
+            extras:
+              wides: 1
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 25.6:
+            batsman: KJ Martin
+            bowler: O Kirsten
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.7:
+            batsman: AE Satterthwaite
+            bowler: O Kirsten
+            non_striker: KJ Martin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.1:
+            batsman: KJ Martin
+            bowler: A Khaka
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.2:
+            batsman: KJ Martin
+            bowler: A Khaka
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.3:
+            batsman: KJ Martin
+            bowler: A Khaka
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.4:
+            batsman: KJ Martin
+            bowler: A Khaka
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.5:
+            batsman: KJ Martin
+            bowler: A Khaka
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.6:
+            batsman: KJ Martin
+            bowler: A Khaka
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.1:
+            batsman: AE Satterthwaite
+            bowler: O Kirsten
+            non_striker: KJ Martin
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 27.2:
+            batsman: AE Satterthwaite
+            bowler: O Kirsten
+            non_striker: KJ Martin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.3:
+            batsman: KJ Martin
+            bowler: O Kirsten
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.4:
+            batsman: KJ Martin
+            bowler: O Kirsten
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.5:
+            batsman: KJ Martin
+            bowler: O Kirsten
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 27.6:
+            batsman: KJ Martin
+            bowler: O Kirsten
+            non_striker: AE Satterthwaite
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 28.1:
+            batsman: AE Satterthwaite
+            bowler: A Khaka
+            non_striker: KJ Martin
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 28.2:
+            batsman: AE Satterthwaite
+            bowler: A Khaka
+            non_striker: KJ Martin
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4

@@ -1,0 +1,2340 @@
+---
+meta:
+  data_version: 0.9
+  created: '2020-04-07'
+  revision: 1
+info:
+  city: Hamilton
+  dates:
+  - '2019-01-31'
+  gender: male
+  match_type: ODI
+  match_type_number: 4091
+  outcome:
+    winner: New Zealand
+    by:
+      wickets: 8
+  overs: 50
+  player_of_match:
+  - TA Boult
+  teams:
+  - New Zealand
+  - India
+  toss:
+    decision: field
+    winner: New Zealand
+  umpires:
+  - CM Brown
+  - NJ Llong
+  venue: Seddon Park
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: S Dhawan
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 0.2:
+        non_striker: S Dhawan
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 0.3:
+        non_striker: RG Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 0.4:
+        non_striker: RG Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 0.5:
+        non_striker: S Dhawan
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 0.6:
+        non_striker: RG Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 1.1:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RG Sharma
+    - 1.2:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 1.3:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 1.4:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 1.5:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 1.6:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RG Sharma
+    - 1.7:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 2.1:
+        non_striker: RG Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dhawan
+    - 2.2:
+        non_striker: RG Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 2.3:
+        non_striker: RG Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Dhawan
+    - 2.4:
+        non_striker: RG Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 2.5:
+        non_striker: RG Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 2.6:
+        non_striker: S Dhawan
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 3.1:
+        non_striker: RG Sharma
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 3.2:
+        non_striker: RG Sharma
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 3.3:
+        non_striker: RG Sharma
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 3.4:
+        non_striker: RG Sharma
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dhawan
+    - 3.5:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 3.6:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 4.1:
+        non_striker: S Dhawan
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 4.2:
+        non_striker: S Dhawan
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 4.3:
+        non_striker: RG Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 4.4:
+        non_striker: RG Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 4.5:
+        non_striker: RG Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 4.6:
+        non_striker: RG Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 5.1:
+        non_striker: S Dhawan
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RG Sharma
+    - 5.2:
+        non_striker: RG Sharma
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 5.3:
+        non_striker: RG Sharma
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 5.4:
+        non_striker: RG Sharma
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+    - 5.5:
+        non_striker: RG Sharma
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dhawan
+        wicket:
+          player_out: S Dhawan
+          kind: lbw
+    - 5.6:
+        non_striker: RG Sharma
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 6.1:
+        non_striker: Shubman Gill
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 6.2:
+        non_striker: Shubman Gill
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 6.3:
+        non_striker: RG Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 6.4:
+        non_striker: RG Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 6.5:
+        non_striker: RG Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 6.6:
+        non_striker: RG Sharma
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 7.1:
+        non_striker: Shubman Gill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 7.2:
+        non_striker: Shubman Gill
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RG Sharma
+    - 7.3:
+        non_striker: Shubman Gill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 7.4:
+        non_striker: Shubman Gill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 7.5:
+        non_striker: Shubman Gill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 7.6:
+        non_striker: Shubman Gill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 7.7:
+        non_striker: Shubman Gill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+        wicket:
+          player_out: RG Sharma
+          kind: caught and bowled
+    - 8.1:
+        non_striker: AT Rayudu
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 8.2:
+        non_striker: AT Rayudu
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 8.3:
+        non_striker: AT Rayudu
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 8.4:
+        non_striker: AT Rayudu
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 8.5:
+        non_striker: Shubman Gill
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 8.6:
+        non_striker: Shubman Gill
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 9.1:
+        non_striker: AT Rayudu
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 9.2:
+        non_striker: AT Rayudu
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 9.3:
+        non_striker: AT Rayudu
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 9.4:
+        non_striker: AT Rayudu
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 9.5:
+        non_striker: AT Rayudu
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 9.6:
+        non_striker: AT Rayudu
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 10.1:
+        non_striker: Shubman Gill
+        bowler: C de Grandhomme
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AT Rayudu
+    - 10.2:
+        non_striker: Shubman Gill
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 10.3:
+        non_striker: Shubman Gill
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+        wicket:
+          player_out: AT Rayudu
+          fielders:
+          - MJ Guptill
+          kind: caught
+    - 10.4:
+        non_striker: Shubman Gill
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Karthik
+    - 10.5:
+        non_striker: Shubman Gill
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Karthik
+    - 10.6:
+        non_striker: Shubman Gill
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Karthik
+        wicket:
+          player_out: KD Karthik
+          fielders:
+          - TWM Latham
+          kind: caught
+    - 10.7:
+        non_striker: Shubman Gill
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jadhav
+    - 11.1:
+        non_striker: KM Jadhav
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 11.2:
+        non_striker: KM Jadhav
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 11.3:
+        non_striker: KM Jadhav
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 11.4:
+        non_striker: KM Jadhav
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 11.5:
+        non_striker: KM Jadhav
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 11.6:
+        non_striker: KM Jadhav
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+        wicket:
+          player_out: Shubman Gill
+          kind: caught and bowled
+    - 12.1:
+        non_striker: HH Pandya
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jadhav
+    - 12.2:
+        non_striker: HH Pandya
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jadhav
+    - 12.3:
+        non_striker: HH Pandya
+        bowler: C de Grandhomme
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KM Jadhav
+    - 12.4:
+        non_striker: HH Pandya
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jadhav
+    - 12.5:
+        non_striker: HH Pandya
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jadhav
+    - 12.6:
+        non_striker: HH Pandya
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jadhav
+    - 12.7:
+        non_striker: KM Jadhav
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 13.1:
+        non_striker: HH Pandya
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jadhav
+        wicket:
+          player_out: KM Jadhav
+          kind: lbw
+    - 13.2:
+        non_striker: HH Pandya
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kumar
+    - 13.3:
+        non_striker: HH Pandya
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kumar
+    - 13.4:
+        non_striker: HH Pandya
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kumar
+    - 13.5:
+        non_striker: HH Pandya
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kumar
+    - 13.6:
+        non_striker: HH Pandya
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kumar
+    - 14.1:
+        non_striker: B Kumar
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 14.2:
+        non_striker: B Kumar
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 14.3:
+        non_striker: B Kumar
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 14.4:
+        non_striker: B Kumar
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 14.5:
+        non_striker: B Kumar
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 14.6:
+        non_striker: B Kumar
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 15.1:
+        non_striker: HH Pandya
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kumar
+    - 15.2:
+        non_striker: HH Pandya
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kumar
+    - 15.3:
+        non_striker: HH Pandya
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Kumar
+    - 15.4:
+        non_striker: B Kumar
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 15.5:
+        non_striker: B Kumar
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 15.6:
+        non_striker: B Kumar
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 16.1:
+        non_striker: HH Pandya
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kumar
+    - 16.2:
+        non_striker: HH Pandya
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kumar
+    - 16.3:
+        non_striker: HH Pandya
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kumar
+    - 16.4:
+        non_striker: HH Pandya
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Kumar
+        wicket:
+          player_out: B Kumar
+          kind: bowled
+    - 16.5:
+        non_striker: HH Pandya
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 16.6:
+        non_striker: HH Pandya
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 17.1:
+        non_striker: Kuldeep Yadav
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 17.2:
+        non_striker: Kuldeep Yadav
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 17.3:
+        non_striker: Kuldeep Yadav
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 17.4:
+        non_striker: Kuldeep Yadav
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 17.5:
+        non_striker: Kuldeep Yadav
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 17.6:
+        non_striker: Kuldeep Yadav
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 18.1:
+        non_striker: HH Pandya
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 18.2:
+        non_striker: HH Pandya
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kuldeep Yadav
+    - 18.3:
+        non_striker: HH Pandya
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 18.4:
+        non_striker: HH Pandya
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 18.5:
+        non_striker: HH Pandya
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 18.6:
+        non_striker: HH Pandya
+        bowler: C de Grandhomme
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kuldeep Yadav
+    - 18.7:
+        non_striker: HH Pandya
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 19.1:
+        non_striker: Kuldeep Yadav
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 19.2:
+        non_striker: Kuldeep Yadav
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 19.3:
+        non_striker: Kuldeep Yadav
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 19.4:
+        non_striker: Kuldeep Yadav
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+        wicket:
+          player_out: HH Pandya
+          fielders:
+          - TWM Latham
+          kind: caught
+    - 19.5:
+        non_striker: Kuldeep Yadav
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 19.6:
+        non_striker: Kuldeep Yadav
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 20.1:
+        non_striker: YS Chahal
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 20.2:
+        non_striker: YS Chahal
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 20.3:
+        non_striker: YS Chahal
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 20.4:
+        non_striker: YS Chahal
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 20.5:
+        non_striker: YS Chahal
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 20.6:
+        non_striker: YS Chahal
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 21.1:
+        non_striker: Kuldeep Yadav
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 21.2:
+        non_striker: Kuldeep Yadav
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 21.3:
+        non_striker: Kuldeep Yadav
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 21.4:
+        non_striker: Kuldeep Yadav
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 21.5:
+        non_striker: Kuldeep Yadav
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 21.6:
+        non_striker: Kuldeep Yadav
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 22.1:
+        non_striker: YS Chahal
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 22.2:
+        non_striker: YS Chahal
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kuldeep Yadav
+    - 22.3:
+        non_striker: YS Chahal
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 22.4:
+        non_striker: YS Chahal
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kuldeep Yadav
+    - 22.5:
+        non_striker: Kuldeep Yadav
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 22.6:
+        non_striker: Kuldeep Yadav
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 23.1:
+        non_striker: YS Chahal
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kuldeep Yadav
+    - 23.2:
+        non_striker: Kuldeep Yadav
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 23.3:
+        non_striker: Kuldeep Yadav
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chahal
+    - 23.4:
+        non_striker: YS Chahal
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kuldeep Yadav
+    - 23.5:
+        non_striker: Kuldeep Yadav
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Chahal
+    - 23.6:
+        non_striker: Kuldeep Yadav
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 24.1:
+        non_striker: YS Chahal
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 24.2:
+        non_striker: YS Chahal
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 24.3:
+        non_striker: YS Chahal
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kuldeep Yadav
+    - 24.4:
+        non_striker: YS Chahal
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 24.5:
+        non_striker: YS Chahal
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kuldeep Yadav
+    - 24.6:
+        non_striker: Kuldeep Yadav
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chahal
+    - 25.1:
+        non_striker: Kuldeep Yadav
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 25.2:
+        non_striker: Kuldeep Yadav
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 25.3:
+        non_striker: Kuldeep Yadav
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 25.4:
+        non_striker: Kuldeep Yadav
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 25.5:
+        non_striker: Kuldeep Yadav
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 25.6:
+        non_striker: Kuldeep Yadav
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 26.1:
+        non_striker: YS Chahal
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 26.2:
+        non_striker: YS Chahal
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 26.3:
+        non_striker: YS Chahal
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kuldeep Yadav
+    - 26.4:
+        non_striker: Kuldeep Yadav
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 26.5:
+        non_striker: Kuldeep Yadav
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 26.6:
+        non_striker: Kuldeep Yadav
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Chahal
+    - 27.1:
+        non_striker: YS Chahal
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 27.2:
+        non_striker: YS Chahal
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kuldeep Yadav
+    - 27.3:
+        non_striker: Kuldeep Yadav
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 27.4:
+        non_striker: Kuldeep Yadav
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 27.5:
+        non_striker: Kuldeep Yadav
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chahal
+    - 27.6:
+        non_striker: YS Chahal
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 28.1:
+        non_striker: Kuldeep Yadav
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 28.2:
+        non_striker: Kuldeep Yadav
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chahal
+    - 28.3:
+        non_striker: YS Chahal
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kuldeep Yadav
+    - 28.4:
+        non_striker: Kuldeep Yadav
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 28.5:
+        non_striker: Kuldeep Yadav
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 28.6:
+        non_striker: Kuldeep Yadav
+        bowler: C de Grandhomme
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 29.1:
+        non_striker: YS Chahal
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+        wicket:
+          player_out: Kuldeep Yadav
+          fielders:
+          - C de Grandhomme
+          kind: caught
+    - 29.2:
+        non_striker: YS Chahal
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Ahmed
+    - 29.3:
+        non_striker: YS Chahal
+        bowler: TD Astle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KK Ahmed
+    - 29.4:
+        non_striker: YS Chahal
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Ahmed
+    - 29.5:
+        non_striker: KK Ahmed
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Chahal
+    - 29.6:
+        non_striker: KK Ahmed
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 29.7:
+        non_striker: KK Ahmed
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chahal
+    - 30.1:
+        non_striker: KK Ahmed
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chahal
+    - 30.2:
+        non_striker: KK Ahmed
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chahal
+    - 30.3:
+        non_striker: YS Chahal
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Ahmed
+    - 30.4:
+        non_striker: YS Chahal
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Ahmed
+    - 30.5:
+        non_striker: YS Chahal
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Ahmed
+        wicket:
+          player_out: KK Ahmed
+          kind: bowled
+- 2nd innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Guptill
+    - 0.2:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 0.3:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 0.4:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+        wicket:
+          player_out: MJ Guptill
+          fielders:
+          - HH Pandya
+          kind: caught
+    - 0.5:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 0.6:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 1.1:
+        non_striker: KS Williamson
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 1.2:
+        non_striker: KS Williamson
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Nicholls
+    - 1.3:
+        non_striker: KS Williamson
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 1.4:
+        non_striker: KS Williamson
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 1.5:
+        non_striker: KS Williamson
+        bowler: KK Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: HM Nicholls
+    - 1.6:
+        non_striker: KS Williamson
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Nicholls
+    - 1.7:
+        non_striker: KS Williamson
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 2.1:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 2.2:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KS Williamson
+    - 2.3:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 2.4:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 2.5:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 2.6:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 3.1:
+        non_striker: KS Williamson
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 3.2:
+        non_striker: KS Williamson
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 3.3:
+        non_striker: HM Nicholls
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 3.4:
+        non_striker: HM Nicholls
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 3.5:
+        non_striker: KS Williamson
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 3.6:
+        non_striker: KS Williamson
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 4.1:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 4.2:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 4.3:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 4.4:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 4.5:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 4.6:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 5.1:
+        non_striker: KS Williamson
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 5.2:
+        non_striker: KS Williamson
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Nicholls
+    - 5.3:
+        non_striker: KS Williamson
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 5.4:
+        non_striker: KS Williamson
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 5.5:
+        non_striker: KS Williamson
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 5.6:
+        non_striker: KS Williamson
+        bowler: KK Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 6.1:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 6.2:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+        wicket:
+          player_out: KS Williamson
+          fielders:
+          - KD Karthik
+          kind: caught
+    - 6.3:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LRPL Taylor
+    - 6.4:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LRPL Taylor
+    - 6.5:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LRPL Taylor
+    - 6.6:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LRPL Taylor
+    - 7.1:
+        non_striker: LRPL Taylor
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 7.2:
+        non_striker: LRPL Taylor
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 7.3:
+        non_striker: LRPL Taylor
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 7.4:
+        non_striker: LRPL Taylor
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HM Nicholls
+    - 7.5:
+        non_striker: LRPL Taylor
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 7.6:
+        non_striker: LRPL Taylor
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 8.1:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LRPL Taylor
+    - 8.2:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LRPL Taylor
+    - 8.3:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LRPL Taylor
+    - 8.4:
+        non_striker: HM Nicholls
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 8.5:
+        non_striker: LRPL Taylor
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 8.6:
+        non_striker: LRPL Taylor
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 9.1:
+        non_striker: HM Nicholls
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 9.2:
+        non_striker: LRPL Taylor
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 9.3:
+        non_striker: LRPL Taylor
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 9.4:
+        non_striker: LRPL Taylor
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 9.5:
+        non_striker: LRPL Taylor
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 9.6:
+        non_striker: LRPL Taylor
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 10.1:
+        non_striker: HM Nicholls
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LRPL Taylor
+    - 10.2:
+        non_striker: HM Nicholls
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LRPL Taylor
+    - 10.3:
+        non_striker: HM Nicholls
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LRPL Taylor
+    - 10.4:
+        non_striker: HM Nicholls
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LRPL Taylor
+    - 10.5:
+        non_striker: HM Nicholls
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LRPL Taylor
+    - 10.6:
+        non_striker: HM Nicholls
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 11.1:
+        non_striker: HM Nicholls
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 11.2:
+        non_striker: LRPL Taylor
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 11.3:
+        non_striker: LRPL Taylor
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Nicholls
+    - 11.4:
+        non_striker: LRPL Taylor
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 11.5:
+        non_striker: LRPL Taylor
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Nicholls
+    - 11.6:
+        non_striker: LRPL Taylor
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 12.1:
+        non_striker: LRPL Taylor
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 12.2:
+        non_striker: HM Nicholls
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 12.3:
+        non_striker: LRPL Taylor
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 12.4:
+        non_striker: HM Nicholls
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LRPL Taylor
+    - 12.5:
+        non_striker: HM Nicholls
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LRPL Taylor
+    - 12.6:
+        non_striker: HM Nicholls
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LRPL Taylor
+    - 13.1:
+        non_striker: LRPL Taylor
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 13.2:
+        non_striker: LRPL Taylor
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 13.3:
+        non_striker: LRPL Taylor
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 13.4:
+        non_striker: HM Nicholls
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LRPL Taylor
+    - 13.5:
+        non_striker: HM Nicholls
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 13.6:
+        non_striker: LRPL Taylor
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 14.1:
+        non_striker: HM Nicholls
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 14.2:
+        non_striker: LRPL Taylor
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 14.3:
+        non_striker: HM Nicholls
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LRPL Taylor
+    - 14.4:
+        non_striker: HM Nicholls
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LRPL Taylor

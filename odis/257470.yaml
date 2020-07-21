@@ -1,0 +1,5062 @@
+---
+meta:
+  data_version: 0.9
+  created: 2015-11-19
+  revision: 1
+info:
+  city: Potchefstroom
+  dates:
+    - 2006-09-20
+  gender: male
+  match_type: ODI
+  outcome:
+    by:
+      runs: 171
+    winner: South Africa
+  overs: 50
+  player_of_match:
+    - MV Boucher
+  teams:
+    - South Africa
+    - Zimbabwe
+  toss:
+    decision: bat
+    winner: South Africa
+  umpires:
+    - DJ Harper
+    - BG Jerling
+  venue: Sedgars Park
+innings:
+  - 1st innings:
+      team: South Africa
+      deliveries:
+        - 0.1:
+            batsman: LE Bosman
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: LE Bosman
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: LE Bosman
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.4:
+            batsman: AN Petersen
+            bowler: EC Rainsford
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: AN Petersen
+            bowler: EC Rainsford
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: AN Petersen
+            bowler: EC Rainsford
+            non_striker: LE Bosman
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.1:
+            batsman: LE Bosman
+            bowler: T Mupariwa
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: LE Bosman
+            bowler: T Mupariwa
+            non_striker: AN Petersen
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.3:
+            batsman: LE Bosman
+            bowler: T Mupariwa
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: LE Bosman
+            bowler: T Mupariwa
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: LE Bosman
+            bowler: T Mupariwa
+            non_striker: AN Petersen
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.6:
+            batsman: LE Bosman
+            bowler: T Mupariwa
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: AN Petersen
+            bowler: EC Rainsford
+            non_striker: LE Bosman
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 2.2:
+            batsman: AN Petersen
+            bowler: EC Rainsford
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: AN Petersen
+            bowler: EC Rainsford
+            extras:
+              noballs: 1
+            non_striker: LE Bosman
+            runs:
+              batsman: 1
+              extras: 1
+              total: 2
+        - 2.4:
+            batsman: LE Bosman
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.5:
+            batsman: AN Petersen
+            bowler: EC Rainsford
+            non_striker: LE Bosman
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.6:
+            batsman: AN Petersen
+            bowler: EC Rainsford
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.7:
+            batsman: AN Petersen
+            bowler: EC Rainsford
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: LE Bosman
+            bowler: T Mupariwa
+            extras:
+              wides: 1
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 3.2:
+            batsman: LE Bosman
+            bowler: T Mupariwa
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: LE Bosman
+            bowler: T Mupariwa
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: LE Bosman
+            bowler: T Mupariwa
+            non_striker: AN Petersen
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.5:
+            batsman: LE Bosman
+            bowler: T Mupariwa
+            non_striker: AN Petersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.6:
+            batsman: AN Petersen
+            bowler: T Mupariwa
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.7:
+            batsman: AN Petersen
+            bowler: T Mupariwa
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: LE Bosman
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: LE Bosman
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: LE Bosman
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: LE Bosman
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: LE Bosman
+            bowler: EC Rainsford
+            extras:
+              noballs: 1
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 4.6:
+            batsman: LE Bosman
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.7:
+            batsman: LE Bosman
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.1:
+            batsman: LE Bosman
+            bowler: T Mupariwa
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: LE Bosman
+            bowler: T Mupariwa
+            non_striker: AN Petersen
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.3:
+            batsman: LE Bosman
+            bowler: T Mupariwa
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: LE Bosman
+            bowler: T Mupariwa
+            non_striker: AN Petersen
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.5:
+            batsman: LE Bosman
+            bowler: T Mupariwa
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: LE Bosman
+            bowler: T Mupariwa
+            non_striker: AN Petersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.1:
+            batsman: LE Bosman
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: LE Bosman
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: LE Bosman
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.4:
+            batsman: LE Bosman
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.5:
+            batsman: LE Bosman
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.6:
+            batsman: AN Petersen
+            bowler: EC Rainsford
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.1:
+            batsman: LE Bosman
+            bowler: CJ Chibhabha
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: LE Bosman
+            bowler: CJ Chibhabha
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: LE Bosman
+            bowler: CJ Chibhabha
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: LE Bosman
+            bowler: CJ Chibhabha
+            non_striker: AN Petersen
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.5:
+            batsman: LE Bosman
+            bowler: CJ Chibhabha
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: LE Bosman
+            bowler: CJ Chibhabha
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.1:
+            batsman: AN Petersen
+            bowler: T Mupariwa
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: AN Petersen
+            bowler: T Mupariwa
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: AN Petersen
+            bowler: T Mupariwa
+            non_striker: LE Bosman
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 8.4:
+            batsman: LE Bosman
+            bowler: T Mupariwa
+            extras:
+              wides: 4
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 8.5:
+            batsman: AN Petersen
+            bowler: T Mupariwa
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: AN Petersen
+            bowler: T Mupariwa
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.7:
+            batsman: AN Petersen
+            bowler: T Mupariwa
+            non_striker: LE Bosman
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.1:
+            batsman: LE Bosman
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: AN Petersen
+            bowler: EC Rainsford
+            non_striker: LE Bosman
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.3:
+            batsman: LE Bosman
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 9.4:
+            batsman: AN Petersen
+            bowler: EC Rainsford
+            non_striker: LE Bosman
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.5:
+            batsman: LE Bosman
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 9.6:
+            batsman: LE Bosman
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: AN Petersen
+            bowler: P Utseya
+            non_striker: LE Bosman
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: LE Bosman
+            bowler: P Utseya
+            non_striker: AN Petersen
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 10.3:
+            batsman: AN Petersen
+            bowler: P Utseya
+            non_striker: LE Bosman
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.4:
+            batsman: LE Bosman
+            bowler: P Utseya
+            non_striker: AN Petersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.5:
+            batsman: AN Petersen
+            bowler: P Utseya
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.6:
+            batsman: AN Petersen
+            bowler: P Utseya
+            non_striker: LE Bosman
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: AN Petersen
+            bowler: CJ Chibhabha
+            non_striker: LE Bosman
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: LE Bosman
+            bowler: CJ Chibhabha
+            non_striker: AN Petersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.3:
+            batsman: AN Petersen
+            bowler: CJ Chibhabha
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.4:
+            batsman: AN Petersen
+            bowler: CJ Chibhabha
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: AN Petersen
+            bowler: CJ Chibhabha
+            non_striker: LE Bosman
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 11.6:
+            batsman: AN Petersen
+            bowler: CJ Chibhabha
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: LE Bosman
+            bowler: P Utseya
+            non_striker: AN Petersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: AN Petersen
+            bowler: P Utseya
+            non_striker: LE Bosman
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.3:
+            batsman: LE Bosman
+            bowler: P Utseya
+            non_striker: AN Petersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.4:
+            batsman: AN Petersen
+            bowler: P Utseya
+            non_striker: LE Bosman
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 12.5:
+            batsman: LE Bosman
+            bowler: P Utseya
+            non_striker: AN Petersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.6:
+            batsman: AN Petersen
+            bowler: P Utseya
+            non_striker: LE Bosman
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: AN Petersen
+            bowler: CJ Chibhabha
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.2:
+            batsman: AN Petersen
+            bowler: CJ Chibhabha
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: AN Petersen
+            bowler: CJ Chibhabha
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.4:
+            batsman: AN Petersen
+            bowler: CJ Chibhabha
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.5:
+            batsman: AN Petersen
+            bowler: CJ Chibhabha
+            non_striker: LE Bosman
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.6:
+            batsman: LE Bosman
+            bowler: CJ Chibhabha
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: AN Petersen
+            bowler: E Chigumbura
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.2:
+            batsman: AN Petersen
+            bowler: E Chigumbura
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: AN Petersen
+            bowler: E Chigumbura
+            non_striker: LE Bosman
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.4:
+            batsman: LE Bosman
+            bowler: E Chigumbura
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.5:
+            batsman: LE Bosman
+            bowler: E Chigumbura
+            extras:
+              noballs: 1
+            non_striker: AN Petersen
+            runs:
+              batsman: 6
+              extras: 1
+              total: 7
+        - 14.6:
+            batsman: LE Bosman
+            bowler: E Chigumbura
+            non_striker: AN Petersen
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.7:
+            batsman: LE Bosman
+            bowler: E Chigumbura
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.1:
+            batsman: AN Petersen
+            bowler: CJ Chibhabha
+            non_striker: LE Bosman
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.2:
+            batsman: AN Petersen
+            bowler: CJ Chibhabha
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.3:
+            batsman: AN Petersen
+            bowler: CJ Chibhabha
+            non_striker: LE Bosman
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.4:
+            batsman: AN Petersen
+            bowler: CJ Chibhabha
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: AN Petersen
+            bowler: CJ Chibhabha
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.6:
+            batsman: AN Petersen
+            bowler: CJ Chibhabha
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.1:
+            batsman: LE Bosman
+            bowler: E Chigumbura
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.2:
+            batsman: LE Bosman
+            bowler: E Chigumbura
+            non_striker: AN Petersen
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 16.3:
+            batsman: LE Bosman
+            bowler: E Chigumbura
+            non_striker: AN Petersen
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 16.4:
+            batsman: LE Bosman
+            bowler: E Chigumbura
+            extras:
+              wides: 3
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 3
+              total: 3
+        - 16.5:
+            batsman: LE Bosman
+            bowler: E Chigumbura
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.6:
+            batsman: LE Bosman
+            bowler: E Chigumbura
+            non_striker: AN Petersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.7:
+            batsman: AN Petersen
+            bowler: E Chigumbura
+            non_striker: LE Bosman
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 17.1:
+            batsman: LE Bosman
+            bowler: CJ Chibhabha
+            non_striker: AN Petersen
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.2:
+            batsman: LE Bosman
+            bowler: CJ Chibhabha
+            non_striker: AN Petersen
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 17.3:
+            batsman: LE Bosman
+            bowler: CJ Chibhabha
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.4:
+            batsman: LE Bosman
+            bowler: CJ Chibhabha
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.5:
+            batsman: LE Bosman
+            bowler: CJ Chibhabha
+            non_striker: AN Petersen
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.6:
+            batsman: LE Bosman
+            bowler: CJ Chibhabha
+            non_striker: AN Petersen
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.1:
+            batsman: AN Petersen
+            bowler: T Kamungozi
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.2:
+            batsman: AN Petersen
+            bowler: T Kamungozi
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.3:
+            batsman: AN Petersen
+            bowler: T Kamungozi
+            non_striker: LE Bosman
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 18.4:
+            batsman: AN Petersen
+            bowler: T Kamungozi
+            non_striker: LE Bosman
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.5:
+            batsman: LE Bosman
+            bowler: T Kamungozi
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.6:
+            batsman: LE Bosman
+            bowler: T Kamungozi
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.1:
+            batsman: AN Petersen
+            bowler: H Masakadza
+            non_striker: LE Bosman
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.2:
+            batsman: LE Bosman
+            bowler: H Masakadza
+            non_striker: AN Petersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.3:
+            batsman: AN Petersen
+            bowler: H Masakadza
+            non_striker: LE Bosman
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 19.4:
+            batsman: AN Petersen
+            bowler: H Masakadza
+            non_striker: LE Bosman
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 19.5:
+            batsman: AN Petersen
+            bowler: H Masakadza
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.6:
+            batsman: AN Petersen
+            bowler: H Masakadza
+            non_striker: LE Bosman
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.1:
+            batsman: LE Bosman
+            bowler: T Kamungozi
+            non_striker: AN Petersen
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 20.2:
+            batsman: LE Bosman
+            bowler: T Kamungozi
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.3:
+            batsman: LE Bosman
+            bowler: T Kamungozi
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - BRM Taylor
+              kind: stumped
+              player_out: LE Bosman
+        - 20.4:
+            batsman: JH Kallis
+            bowler: T Kamungozi
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.5:
+            batsman: JH Kallis
+            bowler: T Kamungozi
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.6:
+            batsman: JH Kallis
+            bowler: T Kamungozi
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.1:
+            batsman: AN Petersen
+            bowler: H Masakadza
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.2:
+            batsman: AN Petersen
+            bowler: H Masakadza
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.3:
+            batsman: JH Kallis
+            bowler: H Masakadza
+            non_striker: AN Petersen
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 21.4:
+            batsman: JH Kallis
+            bowler: H Masakadza
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.5:
+            batsman: JH Kallis
+            bowler: H Masakadza
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.6:
+            batsman: JH Kallis
+            bowler: H Masakadza
+            non_striker: AN Petersen
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 22.1:
+            batsman: AN Petersen
+            bowler: T Kamungozi
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.2:
+            batsman: AN Petersen
+            bowler: T Kamungozi
+            non_striker: JH Kallis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 22.3:
+            batsman: AN Petersen
+            bowler: T Kamungozi
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.4:
+            batsman: AN Petersen
+            bowler: T Kamungozi
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.5:
+            batsman: AN Petersen
+            bowler: T Kamungozi
+            non_striker: JH Kallis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 22.6:
+            batsman: AN Petersen
+            bowler: T Kamungozi
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.1:
+            batsman: AN Petersen
+            bowler: EC Rainsford
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.2:
+            batsman: JH Kallis
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.3:
+            batsman: JH Kallis
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.4:
+            batsman: JH Kallis
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.5:
+            batsman: JH Kallis
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.6:
+            batsman: JH Kallis
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.1:
+            batsman: AN Petersen
+            bowler: T Kamungozi
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.2:
+            batsman: JH Kallis
+            bowler: T Kamungozi
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.3:
+            batsman: JH Kallis
+            bowler: T Kamungozi
+            non_striker: AN Petersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.4:
+            batsman: AN Petersen
+            bowler: T Kamungozi
+            non_striker: JH Kallis
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 24.5:
+            batsman: JH Kallis
+            bowler: T Kamungozi
+            non_striker: AN Petersen
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 24.6:
+            batsman: JH Kallis
+            bowler: T Kamungozi
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.1:
+            batsman: AN Petersen
+            bowler: EC Rainsford
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.2:
+            batsman: JH Kallis
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.3:
+            batsman: JH Kallis
+            bowler: EC Rainsford
+            extras:
+              noballs: 1
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 25.4:
+            batsman: JH Kallis
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 25.5:
+            batsman: JH Kallis
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.6:
+            batsman: AN Petersen
+            bowler: EC Rainsford
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.7:
+            batsman: JH Kallis
+            bowler: EC Rainsford
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.1:
+            batsman: AN Petersen
+            bowler: T Kamungozi
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.2:
+            batsman: AN Petersen
+            bowler: T Kamungozi
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.3:
+            batsman: JH Kallis
+            bowler: T Kamungozi
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.4:
+            batsman: JH Kallis
+            bowler: T Kamungozi
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.5:
+            batsman: JH Kallis
+            bowler: T Kamungozi
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.6:
+            batsman: JH Kallis
+            bowler: T Kamungozi
+            non_striker: AN Petersen
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 27.1:
+            batsman: AN Petersen
+            bowler: P Utseya
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.2:
+            batsman: AN Petersen
+            bowler: P Utseya
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.3:
+            batsman: JH Kallis
+            bowler: P Utseya
+            non_striker: AN Petersen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.4:
+            batsman: JH Kallis
+            bowler: P Utseya
+            non_striker: AN Petersen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.5:
+            batsman: AN Petersen
+            bowler: P Utseya
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: caught and bowled
+              player_out: AN Petersen
+        - 27.6:
+            batsman: MV Boucher
+            bowler: P Utseya
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.1:
+            batsman: MV Boucher
+            bowler: T Kamungozi
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.2:
+            batsman: JH Kallis
+            bowler: T Kamungozi
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.3:
+            batsman: MV Boucher
+            bowler: T Kamungozi
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.4:
+            batsman: JH Kallis
+            bowler: T Kamungozi
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.5:
+            batsman: MV Boucher
+            bowler: T Kamungozi
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.6:
+            batsman: JH Kallis
+            bowler: T Kamungozi
+            non_striker: MV Boucher
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 29.1:
+            batsman: MV Boucher
+            bowler: P Utseya
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.2:
+            batsman: JH Kallis
+            bowler: P Utseya
+            non_striker: MV Boucher
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 29.3:
+            batsman: JH Kallis
+            bowler: P Utseya
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.4:
+            batsman: MV Boucher
+            bowler: P Utseya
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.5:
+            batsman: JH Kallis
+            bowler: P Utseya
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.6:
+            batsman: JH Kallis
+            bowler: P Utseya
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.1:
+            batsman: JH Kallis
+            bowler: T Kamungozi
+            non_striker: MV Boucher
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 30.2:
+            batsman: JH Kallis
+            bowler: T Kamungozi
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.3:
+            batsman: JH Kallis
+            bowler: T Kamungozi
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.4:
+            batsman: JH Kallis
+            bowler: T Kamungozi
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.5:
+            batsman: MV Boucher
+            bowler: T Kamungozi
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.6:
+            batsman: JH Kallis
+            bowler: T Kamungozi
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.1:
+            batsman: JH Kallis
+            bowler: P Utseya
+            non_striker: MV Boucher
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 31.2:
+            batsman: JH Kallis
+            bowler: P Utseya
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.3:
+            batsman: JH Kallis
+            bowler: P Utseya
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.4:
+            batsman: MV Boucher
+            bowler: P Utseya
+            non_striker: JH Kallis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 31.5:
+            batsman: MV Boucher
+            bowler: P Utseya
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.6:
+            batsman: JH Kallis
+            bowler: P Utseya
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.1:
+            batsman: JH Kallis
+            bowler: T Kamungozi
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.2:
+            batsman: JH Kallis
+            bowler: T Kamungozi
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.3:
+            batsman: MV Boucher
+            bowler: T Kamungozi
+            non_striker: JH Kallis
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 32.4:
+            batsman: MV Boucher
+            bowler: T Kamungozi
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.5:
+            batsman: JH Kallis
+            bowler: T Kamungozi
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.6:
+            batsman: MV Boucher
+            bowler: T Kamungozi
+            non_striker: JH Kallis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 33.1:
+            batsman: JH Kallis
+            bowler: P Utseya
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.2:
+            batsman: MV Boucher
+            bowler: P Utseya
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.3:
+            batsman: JH Kallis
+            bowler: P Utseya
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.4:
+            batsman: JH Kallis
+            bowler: P Utseya
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.5:
+            batsman: MV Boucher
+            bowler: P Utseya
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.6:
+            batsman: JH Kallis
+            bowler: P Utseya
+            non_striker: MV Boucher
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 34.1:
+            batsman: MV Boucher
+            bowler: T Mupariwa
+            non_striker: JH Kallis
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 34.2:
+            batsman: JH Kallis
+            bowler: T Mupariwa
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.3:
+            batsman: JH Kallis
+            bowler: T Mupariwa
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.4:
+            batsman: JH Kallis
+            bowler: T Mupariwa
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.5:
+            batsman: MV Boucher
+            bowler: T Mupariwa
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.6:
+            batsman: JH Kallis
+            bowler: T Mupariwa
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.1:
+            batsman: MV Boucher
+            bowler: P Utseya
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.2:
+            batsman: MV Boucher
+            bowler: P Utseya
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.3:
+            batsman: JH Kallis
+            bowler: P Utseya
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.4:
+            batsman: MV Boucher
+            bowler: P Utseya
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.5:
+            batsman: JH Kallis
+            bowler: P Utseya
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.6:
+            batsman: MV Boucher
+            bowler: P Utseya
+            non_striker: JH Kallis
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 36.1:
+            batsman: JH Kallis
+            bowler: T Mupariwa
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.2:
+            batsman: MV Boucher
+            bowler: T Mupariwa
+            non_striker: JH Kallis
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 36.3:
+            batsman: MV Boucher
+            bowler: T Mupariwa
+            non_striker: JH Kallis
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 36.4:
+            batsman: MV Boucher
+            bowler: T Mupariwa
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.5:
+            batsman: MV Boucher
+            bowler: T Mupariwa
+            non_striker: JH Kallis
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 36.6:
+            batsman: MV Boucher
+            bowler: T Mupariwa
+            non_striker: JH Kallis
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.1:
+            batsman: JH Kallis
+            bowler: P Utseya
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.2:
+            batsman: MV Boucher
+            bowler: P Utseya
+            non_striker: JH Kallis
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 37.3:
+            batsman: MV Boucher
+            bowler: P Utseya
+            non_striker: JH Kallis
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 37.4:
+            batsman: MV Boucher
+            bowler: P Utseya
+            non_striker: JH Kallis
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 37.5:
+            batsman: MV Boucher
+            bowler: P Utseya
+            non_striker: JH Kallis
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.6:
+            batsman: JH Kallis
+            bowler: P Utseya
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - E Chigumbura
+              kind: caught
+              player_out: JH Kallis
+        - 38.1:
+            batsman: MV Boucher
+            bowler: T Kamungozi
+            non_striker: JM Kemp
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.2:
+            batsman: MV Boucher
+            bowler: T Kamungozi
+            non_striker: JM Kemp
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 38.3:
+            batsman: MV Boucher
+            bowler: T Kamungozi
+            non_striker: JM Kemp
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.4:
+            batsman: JM Kemp
+            bowler: T Kamungozi
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.5:
+            batsman: JM Kemp
+            bowler: T Kamungozi
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.6:
+            batsman: MV Boucher
+            bowler: T Kamungozi
+            non_striker: JM Kemp
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.1:
+            batsman: MV Boucher
+            bowler: P Utseya
+            non_striker: JM Kemp
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 39.2:
+            batsman: MV Boucher
+            bowler: P Utseya
+            non_striker: JM Kemp
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.3:
+            batsman: MV Boucher
+            bowler: P Utseya
+            non_striker: JM Kemp
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.4:
+            batsman: JM Kemp
+            bowler: P Utseya
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.5:
+            batsman: JM Kemp
+            bowler: P Utseya
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.6:
+            batsman: MV Boucher
+            bowler: P Utseya
+            non_striker: JM Kemp
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 40.1:
+            batsman: JM Kemp
+            bowler: T Kamungozi
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.2:
+            batsman: JM Kemp
+            bowler: T Kamungozi
+            non_striker: MV Boucher
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 40.3:
+            batsman: JM Kemp
+            bowler: T Kamungozi
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.4:
+            batsman: JM Kemp
+            bowler: T Kamungozi
+            non_striker: MV Boucher
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 40.5:
+            batsman: JM Kemp
+            bowler: T Kamungozi
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - BRM Taylor
+              kind: stumped
+              player_out: JM Kemp
+        - 40.6:
+            batsman: JJ van der Wath
+            bowler: T Kamungozi
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.1:
+            batsman: MV Boucher
+            bowler: EC Rainsford
+            non_striker: JJ van der Wath
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.2:
+            batsman: JJ van der Wath
+            bowler: EC Rainsford
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.3:
+            batsman: MV Boucher
+            bowler: EC Rainsford
+            non_striker: JJ van der Wath
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.4:
+            batsman: JJ van der Wath
+            bowler: EC Rainsford
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.5:
+            batsman: JJ van der Wath
+            bowler: EC Rainsford
+            non_striker: MV Boucher
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 41.6:
+            batsman: JJ van der Wath
+            bowler: EC Rainsford
+            extras:
+              wides: 1
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 41.7:
+            batsman: JJ van der Wath
+            bowler: EC Rainsford
+            non_striker: MV Boucher
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 42.1:
+            batsman: MV Boucher
+            bowler: CJ Chibhabha
+            non_striker: JJ van der Wath
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 42.2:
+            batsman: MV Boucher
+            bowler: CJ Chibhabha
+            non_striker: JJ van der Wath
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 42.3:
+            batsman: MV Boucher
+            bowler: CJ Chibhabha
+            non_striker: JJ van der Wath
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 42.4:
+            batsman: MV Boucher
+            bowler: CJ Chibhabha
+            non_striker: JJ van der Wath
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 42.5:
+            batsman: MV Boucher
+            bowler: CJ Chibhabha
+            non_striker: JJ van der Wath
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 42.6:
+            batsman: MV Boucher
+            bowler: CJ Chibhabha
+            non_striker: JJ van der Wath
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 43.1:
+            batsman: JJ van der Wath
+            bowler: EC Rainsford
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: JJ van der Wath
+        - 43.2:
+            batsman: JP Duminy
+            bowler: EC Rainsford
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.3:
+            batsman: JP Duminy
+            bowler: EC Rainsford
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.4:
+            batsman: MV Boucher
+            bowler: EC Rainsford
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.5:
+            batsman: JP Duminy
+            bowler: EC Rainsford
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.6:
+            batsman: MV Boucher
+            bowler: EC Rainsford
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.1:
+            batsman: MV Boucher
+            bowler: T Mupariwa
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.2:
+            batsman: JP Duminy
+            bowler: T Mupariwa
+            non_striker: MV Boucher
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 44.3:
+            batsman: JP Duminy
+            bowler: T Mupariwa
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.4:
+            batsman: MV Boucher
+            bowler: T Mupariwa
+            non_striker: JP Duminy
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 44.5:
+            batsman: MV Boucher
+            bowler: T Mupariwa
+            extras:
+              legbyes: 1
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 44.6:
+            batsman: JP Duminy
+            bowler: T Mupariwa
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.1:
+            batsman: JP Duminy
+            bowler: H Masakadza
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.2:
+            batsman: JP Duminy
+            bowler: H Masakadza
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.3:
+            batsman: MV Boucher
+            bowler: H Masakadza
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.4:
+            batsman: JP Duminy
+            bowler: H Masakadza
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.5:
+            batsman: MV Boucher
+            bowler: H Masakadza
+            non_striker: JP Duminy
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 45.6:
+            batsman: MV Boucher
+            bowler: H Masakadza
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.1:
+            batsman: MV Boucher
+            bowler: T Mupariwa
+            non_striker: JP Duminy
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 46.2:
+            batsman: MV Boucher
+            bowler: T Mupariwa
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.3:
+            batsman: JP Duminy
+            bowler: T Mupariwa
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.4:
+            batsman: MV Boucher
+            bowler: T Mupariwa
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.5:
+            batsman: MV Boucher
+            bowler: T Mupariwa
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.6:
+            batsman: JP Duminy
+            bowler: T Mupariwa
+            non_striker: MV Boucher
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 47.1:
+            batsman: MV Boucher
+            bowler: H Masakadza
+            non_striker: JP Duminy
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 47.2:
+            batsman: MV Boucher
+            bowler: H Masakadza
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 47.3:
+            batsman: JP Duminy
+            bowler: H Masakadza
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 47.4:
+            batsman: MV Boucher
+            bowler: H Masakadza
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 47.5:
+            batsman: JP Duminy
+            bowler: H Masakadza
+            non_striker: MV Boucher
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 47.6:
+            batsman: JP Duminy
+            bowler: H Masakadza
+            non_striker: MV Boucher
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 48.1:
+            batsman: MV Boucher
+            bowler: T Mupariwa
+            non_striker: JP Duminy
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 48.2:
+            batsman: MV Boucher
+            bowler: T Mupariwa
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.3:
+            batsman: JP Duminy
+            bowler: T Mupariwa
+            non_striker: MV Boucher
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 48.4:
+            batsman: JP Duminy
+            bowler: T Mupariwa
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 48.5:
+            batsman: JP Duminy
+            bowler: T Mupariwa
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.6:
+            batsman: MV Boucher
+            bowler: T Mupariwa
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 49.1:
+            batsman: MV Boucher
+            bowler: EC Rainsford
+            non_striker: JP Duminy
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 49.2:
+            batsman: MV Boucher
+            bowler: EC Rainsford
+            non_striker: JP Duminy
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 49.3:
+            batsman: MV Boucher
+            bowler: EC Rainsford
+            non_striker: JP Duminy
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 49.4:
+            batsman: MV Boucher
+            bowler: EC Rainsford
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 49.5:
+            batsman: JP Duminy
+            bowler: EC Rainsford
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 49.6:
+            batsman: MV Boucher
+            bowler: EC Rainsford
+            non_striker: JP Duminy
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+  - 2nd innings:
+      team: Zimbabwe
+      deliveries:
+        - 0.1:
+            batsman: T Duffin
+            bowler: A Nel
+            non_striker: V Sibanda
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.2:
+            batsman: V Sibanda
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: V Sibanda
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: V Sibanda
+            bowler: A Nel
+            extras:
+              wides: 1
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.5:
+            batsman: V Sibanda
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: V Sibanda
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.7:
+            batsman: V Sibanda
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            extras:
+              noballs: 1
+            non_striker: V Sibanda
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 1.2:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            extras:
+              legbyes: 4
+            non_striker: V Sibanda
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 1.3:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: V Sibanda
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: V Sibanda
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: V Sibanda
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: V Sibanda
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.7:
+            batsman: V Sibanda
+            bowler: JJ van der Wath
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.1:
+            batsman: V Sibanda
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - CK Langeveldt
+              kind: caught
+              player_out: V Sibanda
+        - 2.2:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.2:
+            batsman: CJ Chibhabha
+            bowler: JJ van der Wath
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: CJ Chibhabha
+            bowler: JJ van der Wath
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: CJ Chibhabha
+            bowler: JJ van der Wath
+            non_striker: T Duffin
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.5:
+            batsman: CJ Chibhabha
+            bowler: JJ van der Wath
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.6:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.4:
+            batsman: T Duffin
+            bowler: A Nel
+            extras:
+              wides: 1
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 4.5:
+            batsman: T Duffin
+            bowler: A Nel
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.6:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.7:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.1:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.3:
+            batsman: CJ Chibhabha
+            bowler: JJ van der Wath
+            extras:
+              noballs: 1
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.4:
+            batsman: CJ Chibhabha
+            bowler: JJ van der Wath
+            non_striker: T Duffin
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.5:
+            batsman: CJ Chibhabha
+            bowler: JJ van der Wath
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.6:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.7:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.4:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.6:
+            batsman: T Duffin
+            bowler: A Nel
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: CJ Chibhabha
+            bowler: JJ van der Wath
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.3:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 7.4:
+            batsman: CJ Chibhabha
+            bowler: JJ van der Wath
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: CJ Chibhabha
+            bowler: JJ van der Wath
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: CJ Chibhabha
+            bowler: JJ van der Wath
+            non_striker: T Duffin
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.1:
+            batsman: T Duffin
+            bowler: A Nel
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.2:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 8.3:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.5:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: CJ Chibhabha
+            bowler: JJ van der Wath
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: CJ Chibhabha
+            bowler: JJ van der Wath
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: CJ Chibhabha
+            bowler: JJ van der Wath
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.5:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.6:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.2:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.3:
+            batsman: T Duffin
+            bowler: A Nel
+            extras:
+              noballs: 1
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 1
+              extras: 1
+              total: 2
+        - 10.4:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.6:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.7:
+            batsman: CJ Chibhabha
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.1:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 11.3:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 11.4:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: CJ Chibhabha
+            bowler: CK Langeveldt
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.2:
+            batsman: CJ Chibhabha
+            bowler: CK Langeveldt
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.3:
+            batsman: T Duffin
+            bowler: CK Langeveldt
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.4:
+            batsman: T Duffin
+            bowler: CK Langeveldt
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.5:
+            batsman: T Duffin
+            bowler: CK Langeveldt
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.6:
+            batsman: T Duffin
+            bowler: CK Langeveldt
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: T Duffin
+            bowler: AJ Hall
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 13.2:
+            batsman: T Duffin
+            bowler: AJ Hall
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.3:
+            batsman: CJ Chibhabha
+            bowler: AJ Hall
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.4:
+            batsman: T Duffin
+            bowler: AJ Hall
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: CJ Chibhabha
+            bowler: AJ Hall
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: CJ Chibhabha
+            bowler: AJ Hall
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: T Duffin
+            bowler: CK Langeveldt
+            extras:
+              wides: 1
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 14.2:
+            batsman: T Duffin
+            bowler: CK Langeveldt
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: T Duffin
+            bowler: CK Langeveldt
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.4:
+            batsman: CJ Chibhabha
+            bowler: CK Langeveldt
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.5:
+            batsman: CJ Chibhabha
+            bowler: CK Langeveldt
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.6:
+            batsman: T Duffin
+            bowler: CK Langeveldt
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.7:
+            batsman: CJ Chibhabha
+            bowler: CK Langeveldt
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.1:
+            batsman: T Duffin
+            bowler: AJ Hall
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.2:
+            batsman: T Duffin
+            bowler: AJ Hall
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.3:
+            batsman: T Duffin
+            bowler: AJ Hall
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.4:
+            batsman: CJ Chibhabha
+            bowler: AJ Hall
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: CJ Chibhabha
+            bowler: AJ Hall
+            extras:
+              legbyes: 4
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 15.6:
+            batsman: CJ Chibhabha
+            bowler: AJ Hall
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.1:
+            batsman: T Duffin
+            bowler: CK Langeveldt
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.2:
+            batsman: T Duffin
+            bowler: CK Langeveldt
+            extras:
+              legbyes: 1
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 16.3:
+            batsman: CJ Chibhabha
+            bowler: CK Langeveldt
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.4:
+            batsman: CJ Chibhabha
+            bowler: CK Langeveldt
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.5:
+            batsman: CJ Chibhabha
+            bowler: CK Langeveldt
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.6:
+            batsman: CJ Chibhabha
+            bowler: CK Langeveldt
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.1:
+            batsman: T Duffin
+            bowler: AJ Hall
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.2:
+            batsman: CJ Chibhabha
+            bowler: AJ Hall
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.3:
+            batsman: CJ Chibhabha
+            bowler: AJ Hall
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.4:
+            batsman: CJ Chibhabha
+            bowler: AJ Hall
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.5:
+            batsman: CJ Chibhabha
+            bowler: AJ Hall
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.6:
+            batsman: CJ Chibhabha
+            bowler: AJ Hall
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.1:
+            batsman: T Duffin
+            bowler: CK Langeveldt
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.2:
+            batsman: T Duffin
+            bowler: CK Langeveldt
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.3:
+            batsman: T Duffin
+            bowler: CK Langeveldt
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: T Duffin
+            bowler: CK Langeveldt
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.5:
+            batsman: T Duffin
+            bowler: CK Langeveldt
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.6:
+            batsman: CJ Chibhabha
+            bowler: CK Langeveldt
+            non_striker: T Duffin
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 19.1:
+            batsman: T Duffin
+            bowler: AJ Hall
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.2:
+            batsman: T Duffin
+            bowler: AJ Hall
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.3:
+            batsman: T Duffin
+            bowler: AJ Hall
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.4:
+            batsman: T Duffin
+            bowler: AJ Hall
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.5:
+            batsman: T Duffin
+            bowler: AJ Hall
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.6:
+            batsman: T Duffin
+            bowler: AJ Hall
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.1:
+            batsman: T Duffin
+            bowler: CK Langeveldt
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.2:
+            batsman: T Duffin
+            bowler: CK Langeveldt
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 20.3:
+            batsman: T Duffin
+            bowler: CK Langeveldt
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 20.4:
+            batsman: T Duffin
+            bowler: CK Langeveldt
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.5:
+            batsman: T Duffin
+            bowler: CK Langeveldt
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.6:
+            batsman: CJ Chibhabha
+            bowler: CK Langeveldt
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.1:
+            batsman: T Duffin
+            bowler: AJ Hall
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.2:
+            batsman: CJ Chibhabha
+            bowler: AJ Hall
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.3:
+            batsman: T Duffin
+            bowler: AJ Hall
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.4:
+            batsman: CJ Chibhabha
+            bowler: AJ Hall
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.5:
+            batsman: T Duffin
+            bowler: AJ Hall
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.6:
+            batsman: T Duffin
+            bowler: AJ Hall
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.1:
+            batsman: CJ Chibhabha
+            bowler: CK Langeveldt
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.2:
+            batsman: CJ Chibhabha
+            bowler: CK Langeveldt
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.3:
+            batsman: CJ Chibhabha
+            bowler: CK Langeveldt
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.4:
+            batsman: CJ Chibhabha
+            bowler: CK Langeveldt
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.5:
+            batsman: CJ Chibhabha
+            bowler: CK Langeveldt
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.6:
+            batsman: CJ Chibhabha
+            bowler: CK Langeveldt
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.1:
+            batsman: T Duffin
+            bowler: AJ Hall
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.2:
+            batsman: T Duffin
+            bowler: AJ Hall
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.3:
+            batsman: T Duffin
+            bowler: AJ Hall
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.4:
+            batsman: T Duffin
+            bowler: AJ Hall
+            extras:
+              legbyes: 1
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 23.5:
+            batsman: CJ Chibhabha
+            bowler: AJ Hall
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.6:
+            batsman: CJ Chibhabha
+            bowler: AJ Hall
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.1:
+            batsman: CJ Chibhabha
+            bowler: R Telemachus
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.2:
+            batsman: T Duffin
+            bowler: R Telemachus
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.3:
+            batsman: T Duffin
+            bowler: R Telemachus
+            non_striker: CJ Chibhabha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.4:
+            batsman: CJ Chibhabha
+            bowler: R Telemachus
+            non_striker: T Duffin
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 24.5:
+            batsman: CJ Chibhabha
+            bowler: R Telemachus
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MV Boucher
+              kind: caught
+              player_out: CJ Chibhabha
+        - 24.6:
+            batsman: H Masakadza
+            bowler: R Telemachus
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.1:
+            batsman: H Masakadza
+            bowler: JP Duminy
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.2:
+            batsman: T Duffin
+            bowler: JP Duminy
+            non_striker: H Masakadza
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.3:
+            batsman: H Masakadza
+            bowler: JP Duminy
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.4:
+            batsman: T Duffin
+            bowler: JP Duminy
+            non_striker: H Masakadza
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.5:
+            batsman: H Masakadza
+            bowler: JP Duminy
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.6:
+            batsman: T Duffin
+            bowler: JP Duminy
+            non_striker: H Masakadza
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.1:
+            batsman: T Duffin
+            bowler: R Telemachus
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.2:
+            batsman: T Duffin
+            bowler: R Telemachus
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.3:
+            batsman: T Duffin
+            bowler: R Telemachus
+            extras:
+              wides: 1
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 26.4:
+            batsman: T Duffin
+            bowler: R Telemachus
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.5:
+            batsman: T Duffin
+            bowler: R Telemachus
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.6:
+            batsman: T Duffin
+            bowler: R Telemachus
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.7:
+            batsman: T Duffin
+            bowler: R Telemachus
+            non_striker: H Masakadza
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.1:
+            batsman: T Duffin
+            bowler: JP Duminy
+            non_striker: H Masakadza
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.2:
+            batsman: H Masakadza
+            bowler: JP Duminy
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.3:
+            batsman: T Duffin
+            bowler: JP Duminy
+            non_striker: H Masakadza
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.4:
+            batsman: H Masakadza
+            bowler: JP Duminy
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.5:
+            batsman: H Masakadza
+            bowler: JP Duminy
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.6:
+            batsman: H Masakadza
+            bowler: JP Duminy
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.1:
+            batsman: H Masakadza
+            bowler: R Telemachus
+            extras:
+              legbyes: 1
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 28.2:
+            batsman: T Duffin
+            bowler: R Telemachus
+            non_striker: H Masakadza
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.3:
+            batsman: H Masakadza
+            bowler: R Telemachus
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.4:
+            batsman: T Duffin
+            bowler: R Telemachus
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.5:
+            batsman: T Duffin
+            bowler: R Telemachus
+            non_striker: H Masakadza
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.6:
+            batsman: H Masakadza
+            bowler: R Telemachus
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.1:
+            batsman: T Duffin
+            bowler: JP Duminy
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.2:
+            batsman: T Duffin
+            bowler: JP Duminy
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.3:
+            batsman: T Duffin
+            bowler: JP Duminy
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.4:
+            batsman: T Duffin
+            bowler: JP Duminy
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.5:
+            batsman: T Duffin
+            bowler: JP Duminy
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.6:
+            batsman: T Duffin
+            bowler: JP Duminy
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.1:
+            batsman: H Masakadza
+            bowler: R Telemachus
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.2:
+            batsman: H Masakadza
+            bowler: R Telemachus
+            non_striker: T Duffin
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 30.3:
+            batsman: H Masakadza
+            bowler: R Telemachus
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.4:
+            batsman: H Masakadza
+            bowler: R Telemachus
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.5:
+            batsman: H Masakadza
+            bowler: R Telemachus
+            extras:
+              legbyes: 1
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 30.6:
+            batsman: T Duffin
+            bowler: R Telemachus
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.1:
+            batsman: H Masakadza
+            bowler: JP Duminy
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.2:
+            batsman: H Masakadza
+            bowler: JP Duminy
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.3:
+            batsman: H Masakadza
+            bowler: JP Duminy
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.4:
+            batsman: T Duffin
+            bowler: JP Duminy
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.5:
+            batsman: T Duffin
+            bowler: JP Duminy
+            non_striker: H Masakadza
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.6:
+            batsman: H Masakadza
+            bowler: JP Duminy
+            non_striker: T Duffin
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 32.1:
+            batsman: T Duffin
+            bowler: R Telemachus
+            extras:
+              legbyes: 1
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 32.2:
+            batsman: H Masakadza
+            bowler: R Telemachus
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.3:
+            batsman: T Duffin
+            bowler: R Telemachus
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.4:
+            batsman: T Duffin
+            bowler: R Telemachus
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.5:
+            batsman: T Duffin
+            bowler: R Telemachus
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.6:
+            batsman: T Duffin
+            bowler: R Telemachus
+            non_striker: H Masakadza
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 33.1:
+            batsman: H Masakadza
+            bowler: JP Duminy
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.2:
+            batsman: H Masakadza
+            bowler: JP Duminy
+            non_striker: T Duffin
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 33.3:
+            batsman: H Masakadza
+            bowler: JP Duminy
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.4:
+            batsman: T Duffin
+            bowler: JP Duminy
+            non_striker: H Masakadza
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.5:
+            batsman: H Masakadza
+            bowler: JP Duminy
+            non_striker: T Duffin
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 33.6:
+            batsman: H Masakadza
+            bowler: JP Duminy
+            non_striker: T Duffin
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 34.1:
+            batsman: H Masakadza
+            bowler: R Telemachus
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.2:
+            batsman: H Masakadza
+            bowler: R Telemachus
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.3:
+            batsman: T Duffin
+            bowler: R Telemachus
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.4:
+            batsman: T Duffin
+            bowler: R Telemachus
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.5:
+            batsman: T Duffin
+            bowler: R Telemachus
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.6:
+            batsman: T Duffin
+            bowler: R Telemachus
+            non_striker: H Masakadza
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.1:
+            batsman: T Duffin
+            bowler: JP Duminy
+            non_striker: H Masakadza
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 35.2:
+            batsman: T Duffin
+            bowler: JP Duminy
+            non_striker: H Masakadza
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 35.3:
+            batsman: T Duffin
+            bowler: JP Duminy
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.4:
+            batsman: T Duffin
+            bowler: JP Duminy
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.5:
+            batsman: T Duffin
+            bowler: JP Duminy
+            non_striker: H Masakadza
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.6:
+            batsman: H Masakadza
+            bowler: JP Duminy
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.1:
+            batsman: H Masakadza
+            bowler: JM Kemp
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.2:
+            batsman: T Duffin
+            bowler: JM Kemp
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.3:
+            batsman: T Duffin
+            bowler: JM Kemp
+            non_striker: H Masakadza
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.4:
+            batsman: H Masakadza
+            bowler: JM Kemp
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.5:
+            batsman: H Masakadza
+            bowler: JM Kemp
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.6:
+            batsman: H Masakadza
+            bowler: JM Kemp
+            non_striker: T Duffin
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 37.1:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: H Masakadza
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 37.2:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.3:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: H Masakadza
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.4:
+            batsman: H Masakadza
+            bowler: JJ van der Wath
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.5:
+            batsman: H Masakadza
+            bowler: JJ van der Wath
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.6:
+            batsman: H Masakadza
+            bowler: JJ van der Wath
+            non_striker: T Duffin
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 37.7:
+            batsman: H Masakadza
+            bowler: JJ van der Wath
+            non_striker: T Duffin
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 38.1:
+            batsman: T Duffin
+            bowler: JM Kemp
+            non_striker: H Masakadza
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.2:
+            batsman: H Masakadza
+            bowler: JM Kemp
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.3:
+            batsman: H Masakadza
+            bowler: JM Kemp
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.4:
+            batsman: H Masakadza
+            bowler: JM Kemp
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.5:
+            batsman: T Duffin
+            bowler: JM Kemp
+            non_striker: H Masakadza
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.6:
+            batsman: H Masakadza
+            bowler: JM Kemp
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.1:
+            batsman: H Masakadza
+            bowler: JJ van der Wath
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.2:
+            batsman: H Masakadza
+            bowler: JJ van der Wath
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.3:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.4:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.5:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.6:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            extras:
+              noballs: 1
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 39.7:
+            batsman: T Duffin
+            bowler: JJ van der Wath
+            non_striker: H Masakadza
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.1:
+            batsman: T Duffin
+            bowler: JM Kemp
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.2:
+            batsman: T Duffin
+            bowler: JM Kemp
+            non_striker: H Masakadza
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 40.3:
+            batsman: T Duffin
+            bowler: JM Kemp
+            non_striker: H Masakadza
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.4:
+            batsman: H Masakadza
+            bowler: JM Kemp
+            non_striker: T Duffin
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 40.5:
+            batsman: H Masakadza
+            bowler: JM Kemp
+            extras:
+              legbyes: 1
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 40.6:
+            batsman: T Duffin
+            bowler: JM Kemp
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.1:
+            batsman: H Masakadza
+            bowler: R Telemachus
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.2:
+            batsman: T Duffin
+            bowler: R Telemachus
+            non_striker: H Masakadza
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.3:
+            batsman: H Masakadza
+            bowler: R Telemachus
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.4:
+            batsman: T Duffin
+            bowler: R Telemachus
+            non_striker: H Masakadza
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 41.5:
+            batsman: T Duffin
+            bowler: R Telemachus
+            non_striker: H Masakadza
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.6:
+            batsman: H Masakadza
+            bowler: R Telemachus
+            non_striker: T Duffin
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 42.1:
+            batsman: T Duffin
+            bowler: A Nel
+            non_striker: H Masakadza
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.2:
+            batsman: H Masakadza
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.3:
+            batsman: H Masakadza
+            bowler: A Nel
+            extras:
+              legbyes: 1
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 42.4:
+            batsman: T Duffin
+            bowler: A Nel
+            non_striker: H Masakadza
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.5:
+            batsman: H Masakadza
+            bowler: A Nel
+            non_striker: T Duffin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.6:
+            batsman: T Duffin
+            bowler: A Nel
+            non_striker: H Masakadza
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.1:
+            batsman: H Masakadza
+            bowler: R Telemachus
+            non_striker: T Duffin
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 43.2:
+            batsman: H Masakadza
+            bowler: R Telemachus
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MV Boucher
+              kind: caught
+              player_out: H Masakadza
+        - 43.3:
+            batsman: BRM Taylor
+            bowler: R Telemachus
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.4:
+            batsman: BRM Taylor
+            bowler: R Telemachus
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.5:
+            batsman: BRM Taylor
+            bowler: R Telemachus
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.6:
+            batsman: BRM Taylor
+            bowler: R Telemachus
+            non_striker: T Duffin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.1:
+            batsman: T Duffin
+            bowler: A Nel
+            non_striker: BRM Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.2:
+            batsman: T Duffin
+            bowler: A Nel
+            non_striker: BRM Taylor
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 44.3:
+            batsman: T Duffin
+            bowler: A Nel
+            non_striker: BRM Taylor
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 44.4:
+            batsman: T Duffin
+            bowler: A Nel
+            non_striker: BRM Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: T Duffin
+        - 44.5:
+            batsman: S Matsikenyeri
+            bowler: A Nel
+            non_striker: BRM Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.6:
+            batsman: BRM Taylor
+            bowler: A Nel
+            non_striker: S Matsikenyeri
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.1:
+            batsman: S Matsikenyeri
+            bowler: AJ Hall
+            non_striker: BRM Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.2:
+            batsman: BRM Taylor
+            bowler: AJ Hall
+            non_striker: S Matsikenyeri
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.3:
+            batsman: BRM Taylor
+            bowler: AJ Hall
+            non_striker: S Matsikenyeri
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.4:
+            batsman: S Matsikenyeri
+            bowler: AJ Hall
+            non_striker: BRM Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.5:
+            batsman: S Matsikenyeri
+            bowler: AJ Hall
+            non_striker: BRM Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.6:
+            batsman: BRM Taylor
+            bowler: AJ Hall
+            non_striker: S Matsikenyeri
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.1:
+            batsman: BRM Taylor
+            bowler: CK Langeveldt
+            non_striker: S Matsikenyeri
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 46.2:
+            batsman: BRM Taylor
+            bowler: CK Langeveldt
+            non_striker: S Matsikenyeri
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.3:
+            batsman: BRM Taylor
+            bowler: CK Langeveldt
+            non_striker: S Matsikenyeri
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 46.4:
+            batsman: S Matsikenyeri
+            bowler: CK Langeveldt
+            non_striker: BRM Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.5:
+            batsman: S Matsikenyeri
+            bowler: CK Langeveldt
+            non_striker: BRM Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.6:
+            batsman: BRM Taylor
+            bowler: CK Langeveldt
+            non_striker: S Matsikenyeri
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.1:
+            batsman: S Matsikenyeri
+            bowler: AJ Hall
+            non_striker: BRM Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.2:
+            batsman: S Matsikenyeri
+            bowler: AJ Hall
+            non_striker: BRM Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.3:
+            batsman: S Matsikenyeri
+            bowler: AJ Hall
+            non_striker: BRM Taylor
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 47.4:
+            batsman: S Matsikenyeri
+            bowler: AJ Hall
+            non_striker: BRM Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.5:
+            batsman: S Matsikenyeri
+            bowler: AJ Hall
+            non_striker: BRM Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 47.6:
+            batsman: BRM Taylor
+            bowler: AJ Hall
+            non_striker: S Matsikenyeri
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.1:
+            batsman: BRM Taylor
+            bowler: CK Langeveldt
+            non_striker: S Matsikenyeri
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 48.2:
+            batsman: BRM Taylor
+            bowler: CK Langeveldt
+            non_striker: S Matsikenyeri
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 48.3:
+            batsman: BRM Taylor
+            bowler: CK Langeveldt
+            non_striker: S Matsikenyeri
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 48.4:
+            batsman: BRM Taylor
+            bowler: CK Langeveldt
+            non_striker: S Matsikenyeri
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.5:
+            batsman: S Matsikenyeri
+            bowler: CK Langeveldt
+            non_striker: BRM Taylor
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 48.6:
+            batsman: S Matsikenyeri
+            bowler: CK Langeveldt
+            non_striker: BRM Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 49.1:
+            batsman: S Matsikenyeri
+            bowler: AJ Hall
+            non_striker: BRM Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 49.2:
+            batsman: BRM Taylor
+            bowler: AJ Hall
+            non_striker: S Matsikenyeri
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 49.3:
+            batsman: BRM Taylor
+            bowler: AJ Hall
+            non_striker: S Matsikenyeri
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 49.4:
+            batsman: BRM Taylor
+            bowler: AJ Hall
+            non_striker: S Matsikenyeri
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 49.5:
+            batsman: S Matsikenyeri
+            bowler: AJ Hall
+            non_striker: BRM Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 49.6:
+            batsman: BRM Taylor
+            bowler: AJ Hall
+            non_striker: S Matsikenyeri
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1

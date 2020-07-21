@@ -1,0 +1,4252 @@
+---
+meta:
+  data_version: 0.9
+  created: 2015-01-10
+  revision: 1
+info:
+  city: Dubai
+  dates:
+    - 2015-01-08
+  gender: male
+  match_type: ODI
+  neutral_venue: 1
+  outcome:
+    by:
+      wickets: 8
+    winner: Afghanistan
+  overs: 50
+  player_of_match:
+    - Javed Ahmadi
+  teams:
+    - Afghanistan
+    - Scotland
+  toss:
+    decision: field
+    winner: Afghanistan
+  umpires:
+    - VA Kulkarni
+    - Sharfuddoula
+  venue: ICC Academy
+innings:
+  - 1st innings:
+      team: Scotland
+      deliveries:
+        - 0.1:
+            batsman: KJ Coetzer
+            bowler: Dawlat Zadran
+            non_striker: CS MacLeod
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.2:
+            batsman: CS MacLeod
+            bowler: Dawlat Zadran
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: CS MacLeod
+            bowler: Dawlat Zadran
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Afsar Zazai
+              kind: caught
+              player_out: CS MacLeod
+        - 0.4:
+            batsman: HJW Gardiner
+            bowler: Dawlat Zadran
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: HJW Gardiner
+            bowler: Dawlat Zadran
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: HJW Gardiner
+            bowler: Dawlat Zadran
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: KJ Coetzer
+            bowler: Hamid Hassan
+            extras:
+              noballs: 1
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 1.2:
+            batsman: KJ Coetzer
+            bowler: Hamid Hassan
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: KJ Coetzer
+            bowler: Hamid Hassan
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: KJ Coetzer
+            bowler: Hamid Hassan
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.5:
+            batsman: HJW Gardiner
+            bowler: Hamid Hassan
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: HJW Gardiner
+            bowler: Hamid Hassan
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.7:
+            batsman: HJW Gardiner
+            bowler: Hamid Hassan
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: KJ Coetzer
+            bowler: Dawlat Zadran
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: KJ Coetzer
+            bowler: Dawlat Zadran
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: KJ Coetzer
+            bowler: Dawlat Zadran
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: KJ Coetzer
+            bowler: Dawlat Zadran
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: KJ Coetzer
+            bowler: Dawlat Zadran
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: KJ Coetzer
+            bowler: Dawlat Zadran
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: HJW Gardiner
+            bowler: Hamid Hassan
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: HJW Gardiner
+            bowler: Hamid Hassan
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: HJW Gardiner
+            bowler: Hamid Hassan
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.4:
+            batsman: KJ Coetzer
+            bowler: Hamid Hassan
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: KJ Coetzer
+            bowler: Hamid Hassan
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.6:
+            batsman: KJ Coetzer
+            bowler: Hamid Hassan
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.1:
+            batsman: KJ Coetzer
+            bowler: Dawlat Zadran
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: KJ Coetzer
+            bowler: Dawlat Zadran
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: KJ Coetzer
+            bowler: Dawlat Zadran
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.4:
+            batsman: KJ Coetzer
+            bowler: Dawlat Zadran
+            extras:
+              legbyes: 1
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 4.5:
+            batsman: HJW Gardiner
+            bowler: Dawlat Zadran
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.6:
+            batsman: KJ Coetzer
+            bowler: Dawlat Zadran
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: HJW Gardiner
+            bowler: Hamid Hassan
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: HJW Gardiner
+            bowler: Hamid Hassan
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: HJW Gardiner
+            bowler: Hamid Hassan
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.4:
+            batsman: HJW Gardiner
+            bowler: Hamid Hassan
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: HJW Gardiner
+            bowler: Hamid Hassan
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: HJW Gardiner
+            bowler: Hamid Hassan
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: KJ Coetzer
+            bowler: Dawlat Zadran
+            extras:
+              legbyes: 1
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 6.2:
+            batsman: HJW Gardiner
+            bowler: Dawlat Zadran
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: HJW Gardiner
+            bowler: Dawlat Zadran
+            extras:
+              legbyes: 1
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 6.4:
+            batsman: KJ Coetzer
+            bowler: Dawlat Zadran
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: KJ Coetzer
+            bowler: Dawlat Zadran
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.6:
+            batsman: KJ Coetzer
+            bowler: Dawlat Zadran
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.1:
+            batsman: HJW Gardiner
+            bowler: Hamid Hassan
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: KJ Coetzer
+            bowler: Hamid Hassan
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.3:
+            batsman: HJW Gardiner
+            bowler: Hamid Hassan
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.4:
+            batsman: HJW Gardiner
+            bowler: Hamid Hassan
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: HJW Gardiner
+            bowler: Hamid Hassan
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: HJW Gardiner
+            bowler: Hamid Hassan
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.1:
+            batsman: KJ Coetzer
+            bowler: Dawlat Zadran
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.2:
+            batsman: HJW Gardiner
+            bowler: Dawlat Zadran
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: HJW Gardiner
+            bowler: Dawlat Zadran
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: HJW Gardiner
+            bowler: Dawlat Zadran
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.5:
+            batsman: KJ Coetzer
+            bowler: Dawlat Zadran
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: KJ Coetzer
+            bowler: Dawlat Zadran
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: HJW Gardiner
+            bowler: Mirwais Ashraf
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.2:
+            batsman: HJW Gardiner
+            bowler: Mirwais Ashraf
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.3:
+            batsman: KJ Coetzer
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: KJ Coetzer
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.5:
+            batsman: KJ Coetzer
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.6:
+            batsman: KJ Coetzer
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: HJW Gardiner
+            bowler: Gulbadin Naib
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.2:
+            batsman: HJW Gardiner
+            bowler: Gulbadin Naib
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: HJW Gardiner
+            bowler: Gulbadin Naib
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: HJW Gardiner
+            bowler: Gulbadin Naib
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.5:
+            batsman: HJW Gardiner
+            bowler: Gulbadin Naib
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.6:
+            batsman: HJW Gardiner
+            bowler: Gulbadin Naib
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.1:
+            batsman: KJ Coetzer
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: KJ Coetzer
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.3:
+            batsman: KJ Coetzer
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: HJW Gardiner
+            bowler: Mirwais Ashraf
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: HJW Gardiner
+            bowler: Mirwais Ashraf
+            non_striker: KJ Coetzer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.6:
+            batsman: KJ Coetzer
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Afsar Zazai
+              kind: caught
+              player_out: KJ Coetzer
+        - 12.1:
+            batsman: HJW Gardiner
+            bowler: Gulbadin Naib
+            non_striker: PL Mommsen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: PL Mommsen
+            bowler: Gulbadin Naib
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.3:
+            batsman: PL Mommsen
+            bowler: Gulbadin Naib
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.4:
+            batsman: HJW Gardiner
+            bowler: Gulbadin Naib
+            non_striker: PL Mommsen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.5:
+            batsman: HJW Gardiner
+            bowler: Gulbadin Naib
+            non_striker: PL Mommsen
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.6:
+            batsman: HJW Gardiner
+            bowler: Gulbadin Naib
+            non_striker: PL Mommsen
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.1:
+            batsman: PL Mommsen
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.2:
+            batsman: PL Mommsen
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: PL Mommsen
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.4:
+            batsman: PL Mommsen
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.5:
+            batsman: PL Mommsen
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: PL Mommsen
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: HJW Gardiner
+            bowler: Gulbadin Naib
+            non_striker: PL Mommsen
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.2:
+            batsman: PL Mommsen
+            bowler: Gulbadin Naib
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Mirwais Ashraf
+              kind: caught
+              player_out: PL Mommsen
+        - 14.3:
+            batsman: HJW Gardiner
+            bowler: Gulbadin Naib
+            non_striker: MW Machan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: HJW Gardiner
+            bowler: Gulbadin Naib
+            non_striker: MW Machan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.5:
+            batsman: HJW Gardiner
+            bowler: Gulbadin Naib
+            non_striker: MW Machan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.6:
+            batsman: MW Machan
+            bowler: Gulbadin Naib
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 15.1:
+            batsman: HJW Gardiner
+            bowler: Mirwais Ashraf
+            non_striker: MW Machan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.2:
+            batsman: MW Machan
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.3:
+            batsman: MW Machan
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 15.4:
+            batsman: MW Machan
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.5:
+            batsman: HJW Gardiner
+            bowler: Mirwais Ashraf
+            non_striker: MW Machan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.6:
+            batsman: HJW Gardiner
+            bowler: Mirwais Ashraf
+            non_striker: MW Machan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.1:
+            batsman: MW Machan
+            bowler: Gulbadin Naib
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.2:
+            batsman: MW Machan
+            bowler: Gulbadin Naib
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.3:
+            batsman: MW Machan
+            bowler: Gulbadin Naib
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.4:
+            batsman: MW Machan
+            bowler: Gulbadin Naib
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 16.5:
+            batsman: MW Machan
+            bowler: Gulbadin Naib
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.6:
+            batsman: MW Machan
+            bowler: Gulbadin Naib
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: MW Machan
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.2:
+            batsman: MW Machan
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.3:
+            batsman: MW Machan
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.4:
+            batsman: MW Machan
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 17.5:
+            batsman: MW Machan
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.6:
+            batsman: MW Machan
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.1:
+            batsman: HJW Gardiner
+            bowler: Mohammad Nabi
+            non_striker: MW Machan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.2:
+            batsman: MW Machan
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.3:
+            batsman: MW Machan
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: MW Machan
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.5:
+            batsman: MW Machan
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.6:
+            batsman: MW Machan
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.1:
+            batsman: MW Machan
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.2:
+            batsman: MW Machan
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.3:
+            batsman: HJW Gardiner
+            bowler: Mirwais Ashraf
+            non_striker: MW Machan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.4:
+            batsman: HJW Gardiner
+            bowler: Mirwais Ashraf
+            non_striker: MW Machan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 19.5:
+            batsman: HJW Gardiner
+            bowler: Mirwais Ashraf
+            non_striker: MW Machan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.6:
+            batsman: MW Machan
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.1:
+            batsman: HJW Gardiner
+            bowler: Mohammad Nabi
+            non_striker: MW Machan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.2:
+            batsman: HJW Gardiner
+            bowler: Mohammad Nabi
+            non_striker: MW Machan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.3:
+            batsman: MW Machan
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.4:
+            batsman: MW Machan
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 20.5:
+            batsman: MW Machan
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.6:
+            batsman: HJW Gardiner
+            bowler: Mohammad Nabi
+            non_striker: MW Machan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.1:
+            batsman: MW Machan
+            bowler: Gulbadin Naib
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.2:
+            batsman: MW Machan
+            bowler: Gulbadin Naib
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.3:
+            batsman: MW Machan
+            bowler: Gulbadin Naib
+            extras:
+              legbyes: 1
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 21.4:
+            batsman: HJW Gardiner
+            bowler: Gulbadin Naib
+            non_striker: MW Machan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.5:
+            batsman: HJW Gardiner
+            bowler: Gulbadin Naib
+            non_striker: MW Machan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 21.6:
+            batsman: HJW Gardiner
+            bowler: Gulbadin Naib
+            non_striker: MW Machan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 22.1:
+            batsman: MW Machan
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.2:
+            batsman: MW Machan
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.3:
+            batsman: HJW Gardiner
+            bowler: Mohammad Nabi
+            non_striker: MW Machan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.4:
+            batsman: MW Machan
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.5:
+            batsman: HJW Gardiner
+            bowler: Mohammad Nabi
+            non_striker: MW Machan
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 22.6:
+            batsman: MW Machan
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.1:
+            batsman: HJW Gardiner
+            bowler: Mirwais Ashraf
+            non_striker: MW Machan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.2:
+            batsman: MW Machan
+            bowler: Mirwais Ashraf
+            extras:
+              wides: 1
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 23.3:
+            batsman: MW Machan
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.4:
+            batsman: HJW Gardiner
+            bowler: Mirwais Ashraf
+            non_striker: MW Machan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.5:
+            batsman: MW Machan
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.6:
+            batsman: MW Machan
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Afsar Zazai
+              kind: caught
+              player_out: MW Machan
+        - 23.7:
+            batsman: RD Berrington
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.1:
+            batsman: HJW Gardiner
+            bowler: Mohammad Nabi
+            non_striker: RD Berrington
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.2:
+            batsman: RD Berrington
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.3:
+            batsman: RD Berrington
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.4:
+            batsman: HJW Gardiner
+            bowler: Mohammad Nabi
+            non_striker: RD Berrington
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.5:
+            batsman: HJW Gardiner
+            bowler: Mohammad Nabi
+            non_striker: RD Berrington
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.6:
+            batsman: HJW Gardiner
+            bowler: Mohammad Nabi
+            non_striker: RD Berrington
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.1:
+            batsman: HJW Gardiner
+            bowler: Mirwais Ashraf
+            non_striker: RD Berrington
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 25.2:
+            batsman: HJW Gardiner
+            bowler: Mirwais Ashraf
+            non_striker: RD Berrington
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.3:
+            batsman: HJW Gardiner
+            bowler: Mirwais Ashraf
+            non_striker: RD Berrington
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.4:
+            batsman: HJW Gardiner
+            bowler: Mirwais Ashraf
+            non_striker: RD Berrington
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.5:
+            batsman: HJW Gardiner
+            bowler: Mirwais Ashraf
+            non_striker: RD Berrington
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.6:
+            batsman: HJW Gardiner
+            bowler: Mirwais Ashraf
+            non_striker: RD Berrington
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.1:
+            batsman: RD Berrington
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.2:
+            batsman: RD Berrington
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.3:
+            batsman: HJW Gardiner
+            bowler: Mohammad Nabi
+            non_striker: RD Berrington
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.4:
+            batsman: RD Berrington
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.5:
+            batsman: RD Berrington
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.6:
+            batsman: HJW Gardiner
+            bowler: Mohammad Nabi
+            non_striker: RD Berrington
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.1:
+            batsman: RD Berrington
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.2:
+            batsman: HJW Gardiner
+            bowler: Mirwais Ashraf
+            non_striker: RD Berrington
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.3:
+            batsman: HJW Gardiner
+            bowler: Mirwais Ashraf
+            non_striker: RD Berrington
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 27.4:
+            batsman: HJW Gardiner
+            bowler: Mirwais Ashraf
+            non_striker: RD Berrington
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.5:
+            batsman: RD Berrington
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.6:
+            batsman: RD Berrington
+            bowler: Mirwais Ashraf
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.1:
+            batsman: HJW Gardiner
+            bowler: Samiullah Shenwari
+            non_striker: RD Berrington
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.2:
+            batsman: HJW Gardiner
+            bowler: Samiullah Shenwari
+            non_striker: RD Berrington
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.3:
+            batsman: HJW Gardiner
+            bowler: Samiullah Shenwari
+            non_striker: RD Berrington
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.4:
+            batsman: HJW Gardiner
+            bowler: Samiullah Shenwari
+            non_striker: RD Berrington
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.5:
+            batsman: RD Berrington
+            bowler: Samiullah Shenwari
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.6:
+            batsman: RD Berrington
+            bowler: Samiullah Shenwari
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.1:
+            batsman: RD Berrington
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Mirwais Ashraf
+              kind: caught
+              player_out: RD Berrington
+        - 29.2:
+            batsman: MH Cross
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.3:
+            batsman: HJW Gardiner
+            bowler: Mohammad Nabi
+            non_striker: MH Cross
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.4:
+            batsman: MH Cross
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.5:
+            batsman: MH Cross
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.6:
+            batsman: MH Cross
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.1:
+            batsman: HJW Gardiner
+            bowler: Samiullah Shenwari
+            non_striker: MH Cross
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 30.2:
+            batsman: HJW Gardiner
+            bowler: Samiullah Shenwari
+            non_striker: MH Cross
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.3:
+            batsman: MH Cross
+            bowler: Samiullah Shenwari
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.4:
+            batsman: HJW Gardiner
+            bowler: Samiullah Shenwari
+            non_striker: MH Cross
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.5:
+            batsman: MH Cross
+            bowler: Samiullah Shenwari
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.6:
+            batsman: HJW Gardiner
+            bowler: Samiullah Shenwari
+            non_striker: MH Cross
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 31.1:
+            batsman: MH Cross
+            bowler: Hamid Hassan
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.2:
+            batsman: HJW Gardiner
+            bowler: Hamid Hassan
+            non_striker: MH Cross
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.3:
+            batsman: HJW Gardiner
+            bowler: Hamid Hassan
+            extras:
+              legbyes: 1
+            non_striker: MH Cross
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 31.4:
+            batsman: MH Cross
+            bowler: Hamid Hassan
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.5:
+            batsman: MH Cross
+            bowler: Hamid Hassan
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.6:
+            batsman: MH Cross
+            bowler: Hamid Hassan
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.1:
+            batsman: MH Cross
+            bowler: Samiullah Shenwari
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.2:
+            batsman: HJW Gardiner
+            bowler: Samiullah Shenwari
+            non_striker: MH Cross
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.3:
+            batsman: HJW Gardiner
+            bowler: Samiullah Shenwari
+            non_striker: MH Cross
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.4:
+            batsman: MH Cross
+            bowler: Samiullah Shenwari
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.5:
+            batsman: HJW Gardiner
+            bowler: Samiullah Shenwari
+            non_striker: MH Cross
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.6:
+            batsman: MH Cross
+            bowler: Samiullah Shenwari
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.1:
+            batsman: HJW Gardiner
+            bowler: Hamid Hassan
+            non_striker: MH Cross
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 33.2:
+            batsman: HJW Gardiner
+            bowler: Hamid Hassan
+            non_striker: MH Cross
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.3:
+            batsman: MH Cross
+            bowler: Hamid Hassan
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.4:
+            batsman: MH Cross
+            bowler: Hamid Hassan
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 33.5:
+            batsman: MH Cross
+            bowler: Hamid Hassan
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.6:
+            batsman: HJW Gardiner
+            bowler: Hamid Hassan
+            non_striker: MH Cross
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.1:
+            batsman: MH Cross
+            bowler: Samiullah Shenwari
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.2:
+            batsman: HJW Gardiner
+            bowler: Samiullah Shenwari
+            non_striker: MH Cross
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.3:
+            batsman: MH Cross
+            bowler: Samiullah Shenwari
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.4:
+            batsman: MH Cross
+            bowler: Samiullah Shenwari
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.5:
+            batsman: HJW Gardiner
+            bowler: Samiullah Shenwari
+            non_striker: MH Cross
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 34.6:
+            batsman: HJW Gardiner
+            bowler: Samiullah Shenwari
+            non_striker: MH Cross
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.1:
+            batsman: HJW Gardiner
+            bowler: Dawlat Zadran
+            non_striker: MH Cross
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.2:
+            batsman: MH Cross
+            bowler: Dawlat Zadran
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.3:
+            batsman: HJW Gardiner
+            bowler: Dawlat Zadran
+            non_striker: MH Cross
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.4:
+            batsman: MH Cross
+            bowler: Dawlat Zadran
+            extras:
+              legbyes: 1
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 35.5:
+            batsman: HJW Gardiner
+            bowler: Dawlat Zadran
+            non_striker: MH Cross
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.6:
+            batsman: HJW Gardiner
+            bowler: Dawlat Zadran
+            non_striker: MH Cross
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 36.1:
+            batsman: MH Cross
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 36.2:
+            batsman: MH Cross
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.3:
+            batsman: MH Cross
+            bowler: Mohammad Nabi
+            extras:
+              wides: 1
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 36.4:
+            batsman: MH Cross
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.5:
+            batsman: MH Cross
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 36.6:
+            batsman: MH Cross
+            bowler: Mohammad Nabi
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.7:
+            batsman: HJW Gardiner
+            bowler: Mohammad Nabi
+            non_striker: MH Cross
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 37.1:
+            batsman: MH Cross
+            bowler: Dawlat Zadran
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 37.2:
+            batsman: MH Cross
+            bowler: Dawlat Zadran
+            non_striker: HJW Gardiner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.3:
+            batsman: HJW Gardiner
+            bowler: Dawlat Zadran
+            non_striker: MH Cross
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 37.4:
+            batsman: HJW Gardiner
+            bowler: Dawlat Zadran
+            non_striker: MH Cross
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.5:
+            batsman: HJW Gardiner
+            bowler: Dawlat Zadran
+            non_striker: MH Cross
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.6:
+            batsman: HJW Gardiner
+            bowler: Dawlat Zadran
+            non_striker: MH Cross
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: HJW Gardiner
+        - 38.1:
+            batsman: MH Cross
+            bowler: Mohammad Nabi
+            non_striker: MA Leask
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.2:
+            batsman: MA Leask
+            bowler: Mohammad Nabi
+            non_striker: MH Cross
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.3:
+            batsman: MA Leask
+            bowler: Mohammad Nabi
+            non_striker: MH Cross
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.4:
+            batsman: MA Leask
+            bowler: Mohammad Nabi
+            non_striker: MH Cross
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.5:
+            batsman: MA Leask
+            bowler: Mohammad Nabi
+            non_striker: MH Cross
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 38.6:
+            batsman: MA Leask
+            bowler: Mohammad Nabi
+            non_striker: MH Cross
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 39.1:
+            batsman: MH Cross
+            bowler: Hamid Hassan
+            non_striker: MA Leask
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: MH Cross
+        - 39.2:
+            batsman: JH Davey
+            bowler: Hamid Hassan
+            non_striker: MA Leask
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.3:
+            batsman: JH Davey
+            bowler: Hamid Hassan
+            non_striker: MA Leask
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.4:
+            batsman: MA Leask
+            bowler: Hamid Hassan
+            non_striker: JH Davey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.5:
+            batsman: MA Leask
+            bowler: Hamid Hassan
+            non_striker: JH Davey
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 39.6:
+            batsman: MA Leask
+            bowler: Hamid Hassan
+            non_striker: JH Davey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.1:
+            batsman: JH Davey
+            bowler: Dawlat Zadran
+            non_striker: MA Leask
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.2:
+            batsman: MA Leask
+            bowler: Dawlat Zadran
+            non_striker: JH Davey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.3:
+            batsman: MA Leask
+            bowler: Dawlat Zadran
+            non_striker: JH Davey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.4:
+            batsman: MA Leask
+            bowler: Dawlat Zadran
+            non_striker: JH Davey
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 40.5:
+            batsman: MA Leask
+            bowler: Dawlat Zadran
+            non_striker: JH Davey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.6:
+            batsman: JH Davey
+            bowler: Dawlat Zadran
+            non_striker: MA Leask
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.1:
+            batsman: MA Leask
+            bowler: Hamid Hassan
+            non_striker: JH Davey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.2:
+            batsman: MA Leask
+            bowler: Hamid Hassan
+            extras:
+              wides: 1
+            non_striker: JH Davey
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 41.3:
+            batsman: MA Leask
+            bowler: Hamid Hassan
+            extras:
+              noballs: 1
+            non_striker: JH Davey
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 41.4:
+            batsman: MA Leask
+            bowler: Hamid Hassan
+            extras:
+              wides: 1
+            non_striker: JH Davey
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 41.5:
+            batsman: MA Leask
+            bowler: Hamid Hassan
+            non_striker: JH Davey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.6:
+            batsman: JH Davey
+            bowler: Hamid Hassan
+            non_striker: MA Leask
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 41.7:
+            batsman: JH Davey
+            bowler: Hamid Hassan
+            non_striker: MA Leask
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 41.8:
+            batsman: JH Davey
+            bowler: Hamid Hassan
+            non_striker: MA Leask
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.9:
+            batsman: JH Davey
+            bowler: Hamid Hassan
+            non_striker: MA Leask
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.1:
+            batsman: MA Leask
+            bowler: Mohammad Nabi
+            non_striker: JH Davey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.2:
+            batsman: MA Leask
+            bowler: Mohammad Nabi
+            non_striker: JH Davey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.3:
+            batsman: MA Leask
+            bowler: Mohammad Nabi
+            non_striker: JH Davey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.4:
+            batsman: JH Davey
+            bowler: Mohammad Nabi
+            extras:
+              legbyes: 1
+            non_striker: MA Leask
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 42.5:
+            batsman: MA Leask
+            bowler: Mohammad Nabi
+            extras:
+              legbyes: 1
+            non_striker: JH Davey
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 42.6:
+            batsman: JH Davey
+            bowler: Mohammad Nabi
+            non_striker: MA Leask
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 43.1:
+            batsman: MA Leask
+            bowler: Dawlat Zadran
+            non_striker: JH Davey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Gulbadin Naib
+              kind: caught
+              player_out: MA Leask
+        - 43.2:
+            batsman: JH Davey
+            bowler: Dawlat Zadran
+            non_striker: RML Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.3:
+            batsman: JH Davey
+            bowler: Dawlat Zadran
+            non_striker: RML Taylor
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 43.4:
+            batsman: JH Davey
+            bowler: Dawlat Zadran
+            non_striker: RML Taylor
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 43.5:
+            batsman: JH Davey
+            bowler: Dawlat Zadran
+            non_striker: RML Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.6:
+            batsman: RML Taylor
+            bowler: Dawlat Zadran
+            non_striker: JH Davey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.1:
+            batsman: JH Davey
+            bowler: Hamid Hassan
+            extras:
+              wides: 1
+            non_striker: RML Taylor
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 44.2:
+            batsman: JH Davey
+            bowler: Hamid Hassan
+            extras:
+              wides: 1
+            non_striker: RML Taylor
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 44.3:
+            batsman: JH Davey
+            bowler: Hamid Hassan
+            non_striker: RML Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.4:
+            batsman: RML Taylor
+            bowler: Hamid Hassan
+            non_striker: JH Davey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.5:
+            batsman: JH Davey
+            bowler: Hamid Hassan
+            extras:
+              legbyes: 1
+            non_striker: RML Taylor
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 44.6:
+            batsman: RML Taylor
+            bowler: Hamid Hassan
+            non_striker: JH Davey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.7:
+            batsman: RML Taylor
+            bowler: Hamid Hassan
+            non_striker: JH Davey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.8:
+            batsman: JH Davey
+            bowler: Hamid Hassan
+            extras:
+              legbyes: 1
+            non_striker: RML Taylor
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+  - 2nd innings:
+      team: Afghanistan
+      deliveries:
+        - 0.1:
+            batsman: Javed Ahmadi
+            bowler: JH Davey
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: Javed Ahmadi
+            bowler: JH Davey
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: Javed Ahmadi
+            bowler: JH Davey
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: Javed Ahmadi
+            bowler: JH Davey
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: Javed Ahmadi
+            bowler: JH Davey
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: Javed Ahmadi
+            bowler: JH Davey
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: Usman Ghani
+            bowler: RML Taylor
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: Usman Ghani
+            bowler: RML Taylor
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.3:
+            batsman: Usman Ghani
+            bowler: RML Taylor
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.4:
+            batsman: Usman Ghani
+            bowler: RML Taylor
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.5:
+            batsman: Javed Ahmadi
+            bowler: RML Taylor
+            non_striker: Usman Ghani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.6:
+            batsman: Usman Ghani
+            bowler: RML Taylor
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: Javed Ahmadi
+            bowler: JH Davey
+            non_striker: Usman Ghani
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 2.2:
+            batsman: Javed Ahmadi
+            bowler: JH Davey
+            non_striker: Usman Ghani
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.3:
+            batsman: Javed Ahmadi
+            bowler: JH Davey
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: Javed Ahmadi
+            bowler: JH Davey
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: Javed Ahmadi
+            bowler: JH Davey
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: Javed Ahmadi
+            bowler: JH Davey
+            non_striker: Usman Ghani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.1:
+            batsman: Javed Ahmadi
+            bowler: RML Taylor
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: Javed Ahmadi
+            bowler: RML Taylor
+            non_striker: Usman Ghani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.3:
+            batsman: Usman Ghani
+            bowler: RML Taylor
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: Usman Ghani
+            bowler: RML Taylor
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 3.5:
+            batsman: Usman Ghani
+            bowler: RML Taylor
+            extras:
+              legbyes: 1
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 3.6:
+            batsman: Javed Ahmadi
+            bowler: RML Taylor
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: Usman Ghani
+            bowler: JH Davey
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.2:
+            batsman: Usman Ghani
+            bowler: JH Davey
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: Usman Ghani
+            bowler: JH Davey
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: Usman Ghani
+            bowler: JH Davey
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.5:
+            batsman: Javed Ahmadi
+            bowler: JH Davey
+            non_striker: Usman Ghani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.6:
+            batsman: Usman Ghani
+            bowler: JH Davey
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: Javed Ahmadi
+            bowler: SM Sharif
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: Javed Ahmadi
+            bowler: SM Sharif
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: Javed Ahmadi
+            bowler: SM Sharif
+            non_striker: Usman Ghani
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 5.4:
+            batsman: Javed Ahmadi
+            bowler: SM Sharif
+            non_striker: Usman Ghani
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.5:
+            batsman: Javed Ahmadi
+            bowler: SM Sharif
+            non_striker: Usman Ghani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.6:
+            batsman: Usman Ghani
+            bowler: SM Sharif
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.1:
+            batsman: Usman Ghani
+            bowler: JH Davey
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: Javed Ahmadi
+            bowler: JH Davey
+            non_striker: Usman Ghani
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.3:
+            batsman: Javed Ahmadi
+            bowler: JH Davey
+            non_striker: Usman Ghani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.4:
+            batsman: Usman Ghani
+            bowler: JH Davey
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.5:
+            batsman: Usman Ghani
+            bowler: JH Davey
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.6:
+            batsman: Usman Ghani
+            bowler: JH Davey
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 7.1:
+            batsman: Javed Ahmadi
+            bowler: SM Sharif
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: Javed Ahmadi
+            bowler: SM Sharif
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: Javed Ahmadi
+            bowler: SM Sharif
+            extras:
+              wides: 1
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 7.4:
+            batsman: Javed Ahmadi
+            bowler: SM Sharif
+            non_striker: Usman Ghani
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 7.5:
+            batsman: Javed Ahmadi
+            bowler: SM Sharif
+            non_striker: Usman Ghani
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.6:
+            batsman: Javed Ahmadi
+            bowler: SM Sharif
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.7:
+            batsman: Javed Ahmadi
+            bowler: SM Sharif
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.1:
+            batsman: Usman Ghani
+            bowler: MA Leask
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.2:
+            batsman: Usman Ghani
+            bowler: MA Leask
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.3:
+            batsman: Javed Ahmadi
+            bowler: MA Leask
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: Javed Ahmadi
+            bowler: MA Leask
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: Javed Ahmadi
+            bowler: MA Leask
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: Javed Ahmadi
+            bowler: MA Leask
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: Usman Ghani
+            bowler: SM Sharif
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: Javed Ahmadi
+            bowler: SM Sharif
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: Javed Ahmadi
+            bowler: SM Sharif
+            non_striker: Usman Ghani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.4:
+            batsman: Usman Ghani
+            bowler: SM Sharif
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: Usman Ghani
+            bowler: SM Sharif
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.6:
+            batsman: Usman Ghani
+            bowler: SM Sharif
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.1:
+            batsman: Usman Ghani
+            bowler: MA Leask
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.2:
+            batsman: Usman Ghani
+            bowler: MA Leask
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 10.3:
+            batsman: Javed Ahmadi
+            bowler: MA Leask
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: Javed Ahmadi
+            bowler: MA Leask
+            non_striker: Usman Ghani
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 10.5:
+            batsman: Javed Ahmadi
+            bowler: MA Leask
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.6:
+            batsman: Javed Ahmadi
+            bowler: MA Leask
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.1:
+            batsman: Usman Ghani
+            bowler: SM Sharif
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: Javed Ahmadi
+            bowler: SM Sharif
+            non_striker: Usman Ghani
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 11.3:
+            batsman: Javed Ahmadi
+            bowler: SM Sharif
+            non_striker: Usman Ghani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: Usman Ghani
+            bowler: SM Sharif
+            extras:
+              wides: 1
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 11.5:
+            batsman: Usman Ghani
+            bowler: SM Sharif
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: Usman Ghani
+            bowler: SM Sharif
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.7:
+            batsman: Usman Ghani
+            bowler: SM Sharif
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: Javed Ahmadi
+            bowler: MA Leask
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.2:
+            batsman: Javed Ahmadi
+            bowler: MA Leask
+            extras:
+              wides: 1
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 12.3:
+            batsman: Javed Ahmadi
+            bowler: MA Leask
+            non_striker: Usman Ghani
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.4:
+            batsman: Javed Ahmadi
+            bowler: MA Leask
+            non_striker: Usman Ghani
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 12.5:
+            batsman: Javed Ahmadi
+            bowler: MA Leask
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.6:
+            batsman: Javed Ahmadi
+            bowler: MA Leask
+            non_striker: Usman Ghani
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 12.7:
+            batsman: Javed Ahmadi
+            bowler: MA Leask
+            non_striker: Usman Ghani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: Javed Ahmadi
+            bowler: JH Davey
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.2:
+            batsman: Javed Ahmadi
+            bowler: JH Davey
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: Javed Ahmadi
+            bowler: JH Davey
+            non_striker: Usman Ghani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.4:
+            batsman: Usman Ghani
+            bowler: JH Davey
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.5:
+            batsman: Usman Ghani
+            bowler: JH Davey
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: Usman Ghani
+            bowler: JH Davey
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: Javed Ahmadi
+            bowler: RML Taylor
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.2:
+            batsman: Javed Ahmadi
+            bowler: RML Taylor
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: Javed Ahmadi
+            bowler: RML Taylor
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: Javed Ahmadi
+            bowler: RML Taylor
+            non_striker: Usman Ghani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.5:
+            batsman: Usman Ghani
+            bowler: RML Taylor
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.6:
+            batsman: Javed Ahmadi
+            bowler: RML Taylor
+            non_striker: Usman Ghani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: Javed Ahmadi
+            bowler: JH Davey
+            non_striker: Usman Ghani
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.2:
+            batsman: Javed Ahmadi
+            bowler: JH Davey
+            non_striker: Usman Ghani
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.3:
+            batsman: Javed Ahmadi
+            bowler: JH Davey
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.4:
+            batsman: Javed Ahmadi
+            bowler: JH Davey
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: Javed Ahmadi
+            bowler: JH Davey
+            non_striker: Usman Ghani
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.6:
+            batsman: Usman Ghani
+            bowler: JH Davey
+            extras:
+              noballs: 1
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 15.7:
+            batsman: Usman Ghani
+            bowler: JH Davey
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 16.1:
+            batsman: Javed Ahmadi
+            bowler: RML Taylor
+            non_striker: Usman Ghani
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 16.2:
+            batsman: Javed Ahmadi
+            bowler: RML Taylor
+            non_striker: Usman Ghani
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 16.3:
+            batsman: Javed Ahmadi
+            bowler: RML Taylor
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.4:
+            batsman: Javed Ahmadi
+            bowler: RML Taylor
+            extras:
+              wides: 1
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 16.5:
+            batsman: Javed Ahmadi
+            bowler: RML Taylor
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.6:
+            batsman: Javed Ahmadi
+            bowler: RML Taylor
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.7:
+            batsman: Javed Ahmadi
+            bowler: RML Taylor
+            non_striker: Usman Ghani
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.1:
+            batsman: Usman Ghani
+            bowler: RD Berrington
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.2:
+            batsman: Usman Ghani
+            bowler: RD Berrington
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.3:
+            batsman: Usman Ghani
+            bowler: RD Berrington
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: Usman Ghani
+        - 17.4:
+            batsman: Afsar Zazai
+            bowler: RD Berrington
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.5:
+            batsman: Afsar Zazai
+            bowler: RD Berrington
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.6:
+            batsman: Javed Ahmadi
+            bowler: RD Berrington
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.1:
+            batsman: Afsar Zazai
+            bowler: MA Leask
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.2:
+            batsman: Afsar Zazai
+            bowler: MA Leask
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.3:
+            batsman: Afsar Zazai
+            bowler: MA Leask
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.4:
+            batsman: Javed Ahmadi
+            bowler: MA Leask
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.5:
+            batsman: Javed Ahmadi
+            bowler: MA Leask
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.6:
+            batsman: Javed Ahmadi
+            bowler: MA Leask
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.1:
+            batsman: Javed Ahmadi
+            bowler: RD Berrington
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.2:
+            batsman: Javed Ahmadi
+            bowler: RD Berrington
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 19.3:
+            batsman: Javed Ahmadi
+            bowler: RD Berrington
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.4:
+            batsman: Javed Ahmadi
+            bowler: RD Berrington
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.5:
+            batsman: Afsar Zazai
+            bowler: RD Berrington
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.6:
+            batsman: Afsar Zazai
+            bowler: RD Berrington
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.1:
+            batsman: Javed Ahmadi
+            bowler: MA Leask
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.2:
+            batsman: Javed Ahmadi
+            bowler: MA Leask
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.3:
+            batsman: Javed Ahmadi
+            bowler: MA Leask
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.4:
+            batsman: Afsar Zazai
+            bowler: MA Leask
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.5:
+            batsman: Afsar Zazai
+            bowler: MA Leask
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.6:
+            batsman: Javed Ahmadi
+            bowler: MA Leask
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.1:
+            batsman: Afsar Zazai
+            bowler: RD Berrington
+            non_striker: Javed Ahmadi
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 21.2:
+            batsman: Javed Ahmadi
+            bowler: RD Berrington
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.3:
+            batsman: Javed Ahmadi
+            bowler: RD Berrington
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - PL Mommsen
+              kind: caught
+              player_out: Javed Ahmadi
+        - 21.4:
+            batsman: Nasir Jamal
+            bowler: RD Berrington
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.5:
+            batsman: Afsar Zazai
+            bowler: RD Berrington
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.6:
+            batsman: Afsar Zazai
+            bowler: RD Berrington
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.1:
+            batsman: Nasir Jamal
+            bowler: MA Leask
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.2:
+            batsman: Nasir Jamal
+            bowler: MA Leask
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.3:
+            batsman: Nasir Jamal
+            bowler: MA Leask
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.4:
+            batsman: Nasir Jamal
+            bowler: MA Leask
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.5:
+            batsman: Nasir Jamal
+            bowler: MA Leask
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.6:
+            batsman: Afsar Zazai
+            bowler: MA Leask
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.1:
+            batsman: Nasir Jamal
+            bowler: RD Berrington
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.2:
+            batsman: Nasir Jamal
+            bowler: RD Berrington
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 23.3:
+            batsman: Nasir Jamal
+            bowler: RD Berrington
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.4:
+            batsman: Afsar Zazai
+            bowler: RD Berrington
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.5:
+            batsman: Afsar Zazai
+            bowler: RD Berrington
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.6:
+            batsman: Afsar Zazai
+            bowler: RD Berrington
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.1:
+            batsman: Afsar Zazai
+            bowler: MA Leask
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.2:
+            batsman: Afsar Zazai
+            bowler: MA Leask
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.3:
+            batsman: Afsar Zazai
+            bowler: MA Leask
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.4:
+            batsman: Afsar Zazai
+            bowler: MA Leask
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.5:
+            batsman: Afsar Zazai
+            bowler: MA Leask
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.6:
+            batsman: Nasir Jamal
+            bowler: MA Leask
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.1:
+            batsman: Afsar Zazai
+            bowler: RD Berrington
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 25.2:
+            batsman: Afsar Zazai
+            bowler: RD Berrington
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 25.3:
+            batsman: Nasir Jamal
+            bowler: RD Berrington
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.4:
+            batsman: Nasir Jamal
+            bowler: RD Berrington
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.5:
+            batsman: Nasir Jamal
+            bowler: RD Berrington
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.6:
+            batsman: Nasir Jamal
+            bowler: RD Berrington
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.1:
+            batsman: Nasir Jamal
+            bowler: SM Sharif
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 26.2:
+            batsman: Afsar Zazai
+            bowler: SM Sharif
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.3:
+            batsman: Nasir Jamal
+            bowler: SM Sharif
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.4:
+            batsman: Nasir Jamal
+            bowler: SM Sharif
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.5:
+            batsman: Nasir Jamal
+            bowler: SM Sharif
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.6:
+            batsman: Nasir Jamal
+            bowler: SM Sharif
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.1:
+            batsman: Afsar Zazai
+            bowler: JH Davey
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.2:
+            batsman: Afsar Zazai
+            bowler: JH Davey
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.3:
+            batsman: Afsar Zazai
+            bowler: JH Davey
+            extras:
+              wides: 1
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 27.4:
+            batsman: Afsar Zazai
+            bowler: JH Davey
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.5:
+            batsman: Nasir Jamal
+            bowler: JH Davey
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.6:
+            batsman: Nasir Jamal
+            bowler: JH Davey
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 27.7:
+            batsman: Nasir Jamal
+            bowler: JH Davey
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.1:
+            batsman: Afsar Zazai
+            bowler: MA Leask
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.2:
+            batsman: Nasir Jamal
+            bowler: MA Leask
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 28.3:
+            batsman: Nasir Jamal
+            bowler: MA Leask
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 28.4:
+            batsman: Nasir Jamal
+            bowler: MA Leask
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.5:
+            batsman: Afsar Zazai
+            bowler: MA Leask
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.6:
+            batsman: Afsar Zazai
+            bowler: MA Leask
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 29.1:
+            batsman: Nasir Jamal
+            bowler: KJ Coetzer
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.2:
+            batsman: Nasir Jamal
+            bowler: KJ Coetzer
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.3:
+            batsman: Afsar Zazai
+            bowler: KJ Coetzer
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.4:
+            batsman: Afsar Zazai
+            bowler: KJ Coetzer
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.5:
+            batsman: Nasir Jamal
+            bowler: KJ Coetzer
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.6:
+            batsman: Nasir Jamal
+            bowler: KJ Coetzer
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.1:
+            batsman: Afsar Zazai
+            bowler: RD Berrington
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.2:
+            batsman: Afsar Zazai
+            bowler: RD Berrington
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.3:
+            batsman: Afsar Zazai
+            bowler: RD Berrington
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.4:
+            batsman: Afsar Zazai
+            bowler: RD Berrington
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.5:
+            batsman: Nasir Jamal
+            bowler: RD Berrington
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 30.6:
+            batsman: Nasir Jamal
+            bowler: RD Berrington
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.1:
+            batsman: Nasir Jamal
+            bowler: KJ Coetzer
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.2:
+            batsman: Afsar Zazai
+            bowler: KJ Coetzer
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.3:
+            batsman: Afsar Zazai
+            bowler: KJ Coetzer
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.4:
+            batsman: Afsar Zazai
+            bowler: KJ Coetzer
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.5:
+            batsman: Nasir Jamal
+            bowler: KJ Coetzer
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.6:
+            batsman: Afsar Zazai
+            bowler: KJ Coetzer
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 32.1:
+            batsman: Nasir Jamal
+            bowler: RD Berrington
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 32.2:
+            batsman: Nasir Jamal
+            bowler: RD Berrington
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.3:
+            batsman: Nasir Jamal
+            bowler: RD Berrington
+            extras:
+              wides: 1
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 32.4:
+            batsman: Nasir Jamal
+            bowler: RD Berrington
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.5:
+            batsman: Afsar Zazai
+            bowler: RD Berrington
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.6:
+            batsman: Nasir Jamal
+            bowler: RD Berrington
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.7:
+            batsman: Afsar Zazai
+            bowler: RD Berrington
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.1:
+            batsman: Afsar Zazai
+            bowler: SM Sharif
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.2:
+            batsman: Nasir Jamal
+            bowler: SM Sharif
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.3:
+            batsman: Afsar Zazai
+            bowler: SM Sharif
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 33.4:
+            batsman: Afsar Zazai
+            bowler: SM Sharif
+            extras:
+              wides: 1
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 33.5:
+            batsman: Afsar Zazai
+            bowler: SM Sharif
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.6:
+            batsman: Nasir Jamal
+            bowler: SM Sharif
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.7:
+            batsman: Nasir Jamal
+            bowler: SM Sharif
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.1:
+            batsman: Nasir Jamal
+            bowler: MA Leask
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.2:
+            batsman: Nasir Jamal
+            bowler: MA Leask
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 34.3:
+            batsman: Nasir Jamal
+            bowler: MA Leask
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.4:
+            batsman: Nasir Jamal
+            bowler: MA Leask
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.5:
+            batsman: Nasir Jamal
+            bowler: MA Leask
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 34.6:
+            batsman: Nasir Jamal
+            bowler: MA Leask
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.1:
+            batsman: Nasir Jamal
+            bowler: SM Sharif
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.2:
+            batsman: Afsar Zazai
+            bowler: SM Sharif
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 35.3:
+            batsman: Afsar Zazai
+            bowler: SM Sharif
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.4:
+            batsman: Afsar Zazai
+            bowler: SM Sharif
+            extras:
+              byes: 1
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 35.5:
+            batsman: Afsar Zazai
+            bowler: SM Sharif
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.6:
+            batsman: Afsar Zazai
+            bowler: SM Sharif
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.1:
+            batsman: Afsar Zazai
+            bowler: RD Berrington
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.2:
+            batsman: Nasir Jamal
+            bowler: RD Berrington
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.3:
+            batsman: Nasir Jamal
+            bowler: RD Berrington
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.4:
+            batsman: Afsar Zazai
+            bowler: RD Berrington
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.5:
+            batsman: Afsar Zazai
+            bowler: RD Berrington
+            extras:
+              byes: 4
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 36.6:
+            batsman: Afsar Zazai
+            bowler: RD Berrington
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.1:
+            batsman: Nasir Jamal
+            bowler: KJ Coetzer
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 37.2:
+            batsman: Nasir Jamal
+            bowler: KJ Coetzer
+            non_striker: Afsar Zazai
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.3:
+            batsman: Afsar Zazai
+            bowler: KJ Coetzer
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.4:
+            batsman: Afsar Zazai
+            bowler: KJ Coetzer
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 37.5:
+            batsman: Afsar Zazai
+            bowler: KJ Coetzer
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 37.6:
+            batsman: Afsar Zazai
+            bowler: KJ Coetzer
+            extras:
+              byes: 4
+            non_striker: Nasir Jamal
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4

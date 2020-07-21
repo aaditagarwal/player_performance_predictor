@@ -1,0 +1,3061 @@
+---
+meta:
+  data_version: 0.9
+  created: 2013-03-04
+  revision: 1
+info:
+  city: Auckland
+  dates:
+    - 2009-03-14
+  gender: male
+  match_type: ODI
+  outcome:
+    by:
+      wickets: 8
+    winner: New Zealand
+  overs: 50
+  player_of_match:
+    - JD Ryder
+  teams:
+    - New Zealand
+    - India
+  toss:
+    decision: bat
+    winner: India
+  umpires:
+    - GAV Baxter
+    - RE Koertzen
+  venue: Eden Park
+innings:
+  - 1st innings:
+      team: India
+      deliveries:
+        - 0.1:
+            batsman: G Gambhir
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.2:
+            batsman: V Sehwag
+            bowler: KD Mills
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: V Sehwag
+            bowler: KD Mills
+            non_striker: G Gambhir
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 0.4:
+            batsman: V Sehwag
+            bowler: KD Mills
+            non_striker: G Gambhir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.5:
+            batsman: G Gambhir
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: G Gambhir
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: V Sehwag
+            bowler: IE O'Brien
+            extras:
+              wides: 2
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 2
+              total: 2
+        - 1.2:
+            batsman: G Gambhir
+            bowler: IE O'Brien
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: G Gambhir
+            bowler: IE O'Brien
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: G Gambhir
+            bowler: IE O'Brien
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.5:
+            batsman: V Sehwag
+            bowler: IE O'Brien
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: V Sehwag
+            bowler: IE O'Brien
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.7:
+            batsman: V Sehwag
+            bowler: IE O'Brien
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: G Gambhir
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: G Gambhir
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: G Gambhir
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: G Gambhir
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: G Gambhir
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: G Gambhir
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.1:
+            batsman: G Gambhir
+            bowler: IE O'Brien
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: G Gambhir
+            bowler: IE O'Brien
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.3:
+            batsman: V Sehwag
+            bowler: IE O'Brien
+            extras:
+              legbyes: 2
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 2
+              total: 2
+        - 3.4:
+            batsman: V Sehwag
+            bowler: IE O'Brien
+            extras:
+              wides: 1
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 3.5:
+            batsman: V Sehwag
+            bowler: IE O'Brien
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: V Sehwag
+            bowler: IE O'Brien
+            non_striker: G Gambhir
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.7:
+            batsman: V Sehwag
+            bowler: IE O'Brien
+            non_striker: G Gambhir
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 4.1:
+            batsman: G Gambhir
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.2:
+            batsman: V Sehwag
+            bowler: KD Mills
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: V Sehwag
+            bowler: KD Mills
+            non_striker: G Gambhir
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 4.4:
+            batsman: V Sehwag
+            bowler: KD Mills
+            extras:
+              legbyes: 1
+            non_striker: G Gambhir
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 4.5:
+            batsman: G Gambhir
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - PD McGlashan
+              kind: caught
+              player_out: G Gambhir
+        - 4.6:
+            batsman: SK Raina
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.1:
+            batsman: SK Raina
+            bowler: IE O'Brien
+            extras:
+              wides: 1
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.2:
+            batsman: SK Raina
+            bowler: IE O'Brien
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: SK Raina
+            bowler: IE O'Brien
+            extras:
+              wides: 1
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.4:
+            batsman: SK Raina
+            bowler: IE O'Brien
+            extras:
+              wides: 1
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.5:
+            batsman: SK Raina
+            bowler: IE O'Brien
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: SK Raina
+            bowler: IE O'Brien
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.7:
+            batsman: SK Raina
+            bowler: IE O'Brien
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.8:
+            batsman: SK Raina
+            bowler: IE O'Brien
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.9:
+            batsman: SK Raina
+            bowler: IE O'Brien
+            extras:
+              legbyes: 4
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 6.1:
+            batsman: V Sehwag
+            bowler: KD Mills
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: V Sehwag
+            bowler: KD Mills
+            extras:
+              wides: 1
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 6.3:
+            batsman: V Sehwag
+            bowler: KD Mills
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.4:
+            batsman: SK Raina
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: SK Raina
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: SK Raina
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.7:
+            batsman: SK Raina
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: SK Raina
+            bowler: IE O'Brien
+            non_striker: V Sehwag
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.2:
+            batsman: SK Raina
+            bowler: IE O'Brien
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.3:
+            batsman: V Sehwag
+            bowler: IE O'Brien
+            non_striker: SK Raina
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.4:
+            batsman: V Sehwag
+            bowler: IE O'Brien
+            non_striker: SK Raina
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 7.5:
+            batsman: V Sehwag
+            bowler: IE O'Brien
+            non_striker: SK Raina
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.6:
+            batsman: V Sehwag
+            bowler: IE O'Brien
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: V Sehwag
+            bowler: KD Mills
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.2:
+            batsman: SK Raina
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: SK Raina
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: SK Raina
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: SK Raina
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.6:
+            batsman: V Sehwag
+            bowler: KD Mills
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.1:
+            batsman: V Sehwag
+            bowler: JDP Oram
+            non_striker: SK Raina
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.2:
+            batsman: V Sehwag
+            bowler: JDP Oram
+            non_striker: SK Raina
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.3:
+            batsman: SK Raina
+            bowler: JDP Oram
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: SK Raina
+            bowler: JDP Oram
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - SB Styris
+              kind: caught
+              player_out: SK Raina
+        - 9.5:
+            batsman: V Sehwag
+            bowler: JDP Oram
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: V Sehwag
+            bowler: KD Mills
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: RG Sharma
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: RG Sharma
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: RG Sharma
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: RG Sharma
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.6:
+            batsman: RG Sharma
+            bowler: KD Mills
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: V Sehwag
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.3:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: V Sehwag
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: V Sehwag
+            bowler: JDP Oram
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: V Sehwag
+            bowler: JDP Oram
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - BB McCullum
+              kind: caught
+              player_out: V Sehwag
+        - 11.6:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: Yuvraj Singh
+            bowler: KD Mills
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.2:
+            batsman: Yuvraj Singh
+            bowler: KD Mills
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.3:
+            batsman: Yuvraj Singh
+            bowler: KD Mills
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.4:
+            batsman: Yuvraj Singh
+            bowler: KD Mills
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.5:
+            batsman: Yuvraj Singh
+            bowler: KD Mills
+            non_striker: RG Sharma
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 12.6:
+            batsman: Yuvraj Singh
+            bowler: KD Mills
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.1:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.2:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.4:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.5:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.6:
+            batsman: Yuvraj Singh
+            bowler: JDP Oram
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: RG Sharma
+            bowler: JD Ryder
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.2:
+            batsman: Yuvraj Singh
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 14.3:
+            batsman: Yuvraj Singh
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: Yuvraj Singh
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.5:
+            batsman: Yuvraj Singh
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.6:
+            batsman: RG Sharma
+            bowler: JD Ryder
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.1:
+            batsman: Yuvraj Singh
+            bowler: JDP Oram
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.2:
+            batsman: Yuvraj Singh
+            bowler: JDP Oram
+            non_striker: RG Sharma
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 15.3:
+            batsman: Yuvraj Singh
+            bowler: JDP Oram
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.4:
+            batsman: Yuvraj Singh
+            bowler: JDP Oram
+            extras:
+              wides: 1
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 15.5:
+            batsman: Yuvraj Singh
+            bowler: JDP Oram
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.6:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.7:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.1:
+            batsman: Yuvraj Singh
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.2:
+            batsman: RG Sharma
+            bowler: JD Ryder
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.3:
+            batsman: Yuvraj Singh
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.4:
+            batsman: Yuvraj Singh
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.5:
+            batsman: Yuvraj Singh
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.6:
+            batsman: RG Sharma
+            bowler: JD Ryder
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.2:
+            batsman: Yuvraj Singh
+            bowler: JDP Oram
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.3:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.4:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.5:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.6:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.1:
+            batsman: RG Sharma
+            bowler: JD Ryder
+            non_striker: Yuvraj Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.2:
+            batsman: Yuvraj Singh
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.3:
+            batsman: Yuvraj Singh
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: Yuvraj Singh
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.5:
+            batsman: Yuvraj Singh
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - PD McGlashan
+              kind: caught
+              player_out: Yuvraj Singh
+        - 18.6:
+            batsman: MS Dhoni
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.1:
+            batsman: RG Sharma
+            bowler: DL Vettori
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.2:
+            batsman: RG Sharma
+            bowler: DL Vettori
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.3:
+            batsman: MS Dhoni
+            bowler: DL Vettori
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.4:
+            batsman: RG Sharma
+            bowler: DL Vettori
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.5:
+            batsman: RG Sharma
+            bowler: DL Vettori
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.6:
+            batsman: RG Sharma
+            bowler: DL Vettori
+            non_striker: MS Dhoni
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 20.1:
+            batsman: MS Dhoni
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.2:
+            batsman: MS Dhoni
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.3:
+            batsman: MS Dhoni
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.4:
+            batsman: MS Dhoni
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.5:
+            batsman: MS Dhoni
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.6:
+            batsman: MS Dhoni
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.1:
+            batsman: MS Dhoni
+            bowler: JDP Oram
+            extras:
+              legbyes: 1
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 21.2:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.3:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.4:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: MS Dhoni
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.5:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.6:
+            batsman: MS Dhoni
+            bowler: JDP Oram
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.1:
+            batsman: MS Dhoni
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 22.2:
+            batsman: MS Dhoni
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.3:
+            batsman: MS Dhoni
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.4:
+            batsman: MS Dhoni
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.5:
+            batsman: MS Dhoni
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.6:
+            batsman: MS Dhoni
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.1:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.2:
+            batsman: MS Dhoni
+            bowler: JDP Oram
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.3:
+            batsman: MS Dhoni
+            bowler: JDP Oram
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.4:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: MS Dhoni
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 23.5:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: MS Dhoni
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.6:
+            batsman: MS Dhoni
+            bowler: JDP Oram
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.1:
+            batsman: MS Dhoni
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.2:
+            batsman: MS Dhoni
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: MS Dhoni
+        - 24.3:
+            batsman: YK Pathan
+            bowler: JD Ryder
+            extras:
+              wides: 1
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 24.4:
+            batsman: YK Pathan
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.5:
+            batsman: YK Pathan
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.6:
+            batsman: YK Pathan
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.7:
+            batsman: YK Pathan
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: YK Pathan
+        - 25.1:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: Harbhajan Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.2:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: Harbhajan Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.3:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: Harbhajan Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.4:
+            batsman: Harbhajan Singh
+            bowler: JDP Oram
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.5:
+            batsman: Harbhajan Singh
+            bowler: JDP Oram
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.6:
+            batsman: Harbhajan Singh
+            bowler: JDP Oram
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.1:
+            batsman: RG Sharma
+            bowler: JD Ryder
+            non_striker: Harbhajan Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.2:
+            batsman: RG Sharma
+            bowler: JD Ryder
+            non_striker: Harbhajan Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.3:
+            batsman: RG Sharma
+            bowler: JD Ryder
+            non_striker: Harbhajan Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.4:
+            batsman: Harbhajan Singh
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.5:
+            batsman: Harbhajan Singh
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.6:
+            batsman: RG Sharma
+            bowler: JD Ryder
+            non_striker: Harbhajan Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.1:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: Harbhajan Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.2:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: Harbhajan Singh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.3:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: Harbhajan Singh
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+            wicket:
+              fielders:
+                - DL Vettori
+                - JDP Oram
+              kind: run out
+              player_out: Harbhajan Singh
+        - 27.4:
+            batsman: RG Sharma
+            bowler: JDP Oram
+            non_striker: Z Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.5:
+            batsman: Z Khan
+            bowler: JDP Oram
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.6:
+            batsman: Z Khan
+            bowler: JDP Oram
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.1:
+            batsman: RG Sharma
+            bowler: JD Ryder
+            non_striker: Z Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.2:
+            batsman: RG Sharma
+            bowler: JD Ryder
+            non_striker: Z Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.3:
+            batsman: RG Sharma
+            bowler: JD Ryder
+            non_striker: Z Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.4:
+            batsman: Z Khan
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 28.5:
+            batsman: RG Sharma
+            bowler: JD Ryder
+            non_striker: Z Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.6:
+            batsman: Z Khan
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.1:
+            batsman: RG Sharma
+            bowler: IE O'Brien
+            non_striker: Z Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.2:
+            batsman: Z Khan
+            bowler: IE O'Brien
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.3:
+            batsman: Z Khan
+            bowler: IE O'Brien
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.4:
+            batsman: RG Sharma
+            bowler: IE O'Brien
+            non_striker: Z Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.5:
+            batsman: RG Sharma
+            bowler: IE O'Brien
+            non_striker: Z Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.6:
+            batsman: RG Sharma
+            bowler: IE O'Brien
+            non_striker: Z Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.1:
+            batsman: RG Sharma
+            bowler: JD Ryder
+            non_striker: Z Khan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 30.2:
+            batsman: RG Sharma
+            bowler: JD Ryder
+            non_striker: Z Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.3:
+            batsman: RG Sharma
+            bowler: JD Ryder
+            non_striker: Z Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.4:
+            batsman: RG Sharma
+            bowler: JD Ryder
+            non_striker: Z Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.5:
+            batsman: Z Khan
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.6:
+            batsman: Z Khan
+            bowler: JD Ryder
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.1:
+            batsman: Z Khan
+            bowler: DL Vettori
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.2:
+            batsman: Z Khan
+            bowler: DL Vettori
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - JDP Oram
+                - DL Vettori
+              kind: run out
+              player_out: Z Khan
+        - 31.3:
+            batsman: RG Sharma
+            bowler: DL Vettori
+            non_striker: P Kumar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.4:
+            batsman: RG Sharma
+            bowler: DL Vettori
+            non_striker: P Kumar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.5:
+            batsman: P Kumar
+            bowler: DL Vettori
+            extras:
+              legbyes: 1
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 31.6:
+            batsman: RG Sharma
+            bowler: DL Vettori
+            non_striker: P Kumar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.1:
+            batsman: RG Sharma
+            bowler: IE O'Brien
+            non_striker: P Kumar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.2:
+            batsman: P Kumar
+            bowler: IE O'Brien
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.3:
+            batsman: P Kumar
+            bowler: IE O'Brien
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.4:
+            batsman: P Kumar
+            bowler: IE O'Brien
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.5:
+            batsman: P Kumar
+            bowler: IE O'Brien
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.6:
+            batsman: P Kumar
+            bowler: IE O'Brien
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.1:
+            batsman: RG Sharma
+            bowler: DL Vettori
+            non_striker: P Kumar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.2:
+            batsman: RG Sharma
+            bowler: DL Vettori
+            non_striker: P Kumar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.3:
+            batsman: RG Sharma
+            bowler: DL Vettori
+            non_striker: P Kumar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.4:
+            batsman: P Kumar
+            bowler: DL Vettori
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.5:
+            batsman: P Kumar
+            bowler: DL Vettori
+            non_striker: RG Sharma
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 33.6:
+            batsman: P Kumar
+            bowler: DL Vettori
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.1:
+            batsman: RG Sharma
+            bowler: IE O'Brien
+            non_striker: P Kumar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.2:
+            batsman: P Kumar
+            bowler: IE O'Brien
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.3:
+            batsman: P Kumar
+            bowler: IE O'Brien
+            non_striker: RG Sharma
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 34.4:
+            batsman: P Kumar
+            bowler: IE O'Brien
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - PD McGlashan
+              kind: caught
+              player_out: P Kumar
+        - 34.5:
+            batsman: I Sharma
+            bowler: IE O'Brien
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.6:
+            batsman: I Sharma
+            bowler: IE O'Brien
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.1:
+            batsman: I Sharma
+            bowler: DL Vettori
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.2:
+            batsman: RG Sharma
+            bowler: DL Vettori
+            non_striker: I Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.3:
+            batsman: I Sharma
+            bowler: DL Vettori
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.4:
+            batsman: I Sharma
+            bowler: DL Vettori
+            non_striker: RG Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.5:
+            batsman: RG Sharma
+            bowler: DL Vettori
+            non_striker: I Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.6:
+            batsman: RG Sharma
+            bowler: DL Vettori
+            non_striker: I Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.1:
+            batsman: RG Sharma
+            bowler: IE O'Brien
+            non_striker: I Sharma
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.2:
+            batsman: I Sharma
+            bowler: IE O'Brien
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.3:
+            batsman: I Sharma
+            bowler: IE O'Brien
+            non_striker: RG Sharma
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - LRPL Taylor
+              kind: caught
+              player_out: I Sharma
+  - 2nd innings:
+      team: New Zealand
+      deliveries:
+        - 0.1:
+            batsman: JD Ryder
+            bowler: P Kumar
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: JD Ryder
+            bowler: P Kumar
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: JD Ryder
+            bowler: P Kumar
+            non_striker: BB McCullum
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.4:
+            batsman: JD Ryder
+            bowler: P Kumar
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.5:
+            batsman: BB McCullum
+            bowler: P Kumar
+            non_striker: JD Ryder
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.6:
+            batsman: JD Ryder
+            bowler: P Kumar
+            non_striker: BB McCullum
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 1.1:
+            batsman: BB McCullum
+            bowler: Z Khan
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: BB McCullum
+            bowler: Z Khan
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: BB McCullum
+            bowler: Z Khan
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: BB McCullum
+            bowler: Z Khan
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: BB McCullum
+            bowler: Z Khan
+            non_striker: JD Ryder
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.6:
+            batsman: JD Ryder
+            bowler: Z Khan
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: BB McCullum
+            bowler: P Kumar
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: BB McCullum
+            bowler: P Kumar
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: BB McCullum
+        - 2.3:
+            batsman: MJ Guptill
+            bowler: P Kumar
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: MJ Guptill
+            bowler: P Kumar
+            non_striker: JD Ryder
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.5:
+            batsman: JD Ryder
+            bowler: P Kumar
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.6:
+            batsman: MJ Guptill
+            bowler: P Kumar
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: JD Ryder
+            bowler: Z Khan
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: JD Ryder
+            bowler: Z Khan
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: JD Ryder
+            bowler: Z Khan
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: JD Ryder
+            bowler: Z Khan
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: JD Ryder
+            bowler: Z Khan
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: JD Ryder
+            bowler: Z Khan
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: MJ Guptill
+            bowler: P Kumar
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: MJ Guptill
+            bowler: P Kumar
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: MJ Guptill
+            bowler: P Kumar
+            non_striker: JD Ryder
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.4:
+            batsman: JD Ryder
+            bowler: P Kumar
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: JD Ryder
+            bowler: P Kumar
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: JD Ryder
+            bowler: P Kumar
+            non_striker: MJ Guptill
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.1:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            non_striker: JD Ryder
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.5:
+            batsman: JD Ryder
+            bowler: Z Khan
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: JD Ryder
+            bowler: Z Khan
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.1:
+            batsman: JD Ryder
+            bowler: P Kumar
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: JD Ryder
+            bowler: P Kumar
+            non_striker: MJ Guptill
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 6.3:
+            batsman: JD Ryder
+            bowler: P Kumar
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.4:
+            batsman: JD Ryder
+            bowler: P Kumar
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.5:
+            batsman: MJ Guptill
+            bowler: P Kumar
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: MJ Guptill
+            bowler: P Kumar
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.1:
+            batsman: JD Ryder
+            bowler: Z Khan
+            non_striker: MJ Guptill
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 7.2:
+            batsman: JD Ryder
+            bowler: Z Khan
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.3:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            non_striker: JD Ryder
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.4:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            non_striker: JD Ryder
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.6:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            non_striker: JD Ryder
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: MJ Guptill
+            bowler: I Sharma
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: MJ Guptill
+            bowler: I Sharma
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: MJ Guptill
+            bowler: I Sharma
+            non_striker: JD Ryder
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: JD Ryder
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.5:
+            batsman: JD Ryder
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 8.6:
+            batsman: JD Ryder
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.2:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            non_striker: JD Ryder
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.3:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            extras:
+              wides: 1
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 9.4:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            non_striker: JD Ryder
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.5:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            non_striker: JD Ryder
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: JD Ryder
+            bowler: Z Khan
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.7:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: JD Ryder
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.2:
+            batsman: JD Ryder
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.3:
+            batsman: MJ Guptill
+            bowler: I Sharma
+            non_striker: JD Ryder
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.4:
+            batsman: JD Ryder
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: JD Ryder
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.6:
+            batsman: JD Ryder
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 11.1:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            non_striker: JD Ryder
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.3:
+            batsman: JD Ryder
+            bowler: Z Khan
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.4:
+            batsman: JD Ryder
+            bowler: Z Khan
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.5:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            non_striker: JD Ryder
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.6:
+            batsman: JD Ryder
+            bowler: Z Khan
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.1:
+            batsman: JD Ryder
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.2:
+            batsman: JD Ryder
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 12.3:
+            batsman: JD Ryder
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.4:
+            batsman: JD Ryder
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.5:
+            batsman: JD Ryder
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.6:
+            batsman: JD Ryder
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.1:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            non_striker: JD Ryder
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.2:
+            batsman: JD Ryder
+            bowler: Z Khan
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: JD Ryder
+            bowler: Z Khan
+            non_striker: MJ Guptill
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 13.4:
+            batsman: JD Ryder
+            bowler: Z Khan
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: JD Ryder
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.2:
+            batsman: JD Ryder
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: JD Ryder
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.4:
+            batsman: MJ Guptill
+            bowler: I Sharma
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.5:
+            batsman: MJ Guptill
+            bowler: I Sharma
+            non_striker: JD Ryder
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.6:
+            batsman: JD Ryder
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: JD Ryder
+        - 15.1:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.2:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.3:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.4:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 15.5:
+            batsman: MJ Guptill
+            bowler: Z Khan
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.6:
+            batsman: LRPL Taylor
+            bowler: Z Khan
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.1:
+            batsman: MJ Guptill
+            bowler: Harbhajan Singh
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.2:
+            batsman: LRPL Taylor
+            bowler: Harbhajan Singh
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.3:
+            batsman: LRPL Taylor
+            bowler: Harbhajan Singh
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.4:
+            batsman: LRPL Taylor
+            bowler: Harbhajan Singh
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.5:
+            batsman: LRPL Taylor
+            bowler: Harbhajan Singh
+            non_striker: MJ Guptill
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 16.6:
+            batsman: LRPL Taylor
+            bowler: Harbhajan Singh
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: LRPL Taylor
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.2:
+            batsman: LRPL Taylor
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.3:
+            batsman: LRPL Taylor
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.4:
+            batsman: LRPL Taylor
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.5:
+            batsman: LRPL Taylor
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.6:
+            batsman: LRPL Taylor
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.1:
+            batsman: MJ Guptill
+            bowler: Harbhajan Singh
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.2:
+            batsman: MJ Guptill
+            bowler: Harbhajan Singh
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.3:
+            batsman: MJ Guptill
+            bowler: Harbhajan Singh
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: MJ Guptill
+            bowler: Harbhajan Singh
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.5:
+            batsman: LRPL Taylor
+            bowler: Harbhajan Singh
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.6:
+            batsman: MJ Guptill
+            bowler: Harbhajan Singh
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.1:
+            batsman: LRPL Taylor
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.2:
+            batsman: LRPL Taylor
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.3:
+            batsman: LRPL Taylor
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.4:
+            batsman: LRPL Taylor
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.5:
+            batsman: LRPL Taylor
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.6:
+            batsman: LRPL Taylor
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.1:
+            batsman: MJ Guptill
+            bowler: Harbhajan Singh
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.2:
+            batsman: MJ Guptill
+            bowler: Harbhajan Singh
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.3:
+            batsman: LRPL Taylor
+            bowler: Harbhajan Singh
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.4:
+            batsman: LRPL Taylor
+            bowler: Harbhajan Singh
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.5:
+            batsman: LRPL Taylor
+            bowler: Harbhajan Singh
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.6:
+            batsman: LRPL Taylor
+            bowler: Harbhajan Singh
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.1:
+            batsman: LRPL Taylor
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 21.2:
+            batsman: LRPL Taylor
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 21.3:
+            batsman: LRPL Taylor
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.4:
+            batsman: LRPL Taylor
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.5:
+            batsman: LRPL Taylor
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 21.6:
+            batsman: LRPL Taylor
+            bowler: I Sharma
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.1:
+            batsman: MJ Guptill
+            bowler: Harbhajan Singh
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.2:
+            batsman: LRPL Taylor
+            bowler: Harbhajan Singh
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.3:
+            batsman: LRPL Taylor
+            bowler: Harbhajan Singh
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.4:
+            batsman: LRPL Taylor
+            bowler: Harbhajan Singh
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.5:
+            batsman: MJ Guptill
+            bowler: Harbhajan Singh
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.6:
+            batsman: LRPL Taylor
+            bowler: Harbhajan Singh
+            non_striker: MJ Guptill
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 23.1:
+            batsman: MJ Guptill
+            bowler: I Sharma
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 23.2:
+            batsman: MJ Guptill
+            bowler: I Sharma
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4

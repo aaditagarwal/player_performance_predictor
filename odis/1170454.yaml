@@ -1,0 +1,3415 @@
+---
+meta:
+  data_version: 0.9
+  created: '2020-04-09'
+  revision: 1
+info:
+  city: Dubai
+  dates:
+  - '2019-01-25'
+  gender: male
+  match_type: ODI
+  match_type_number: 4083
+  outcome:
+    winner: United Arab Emirates
+    by:
+      wickets: 3
+  overs: 50
+  player_of_match:
+  - Amir Hayat
+  teams:
+  - United Arab Emirates
+  - Nepal
+  toss:
+    decision: field
+    winner: United Arab Emirates
+  umpires:
+  - Akbar Ali
+  - Nitin Menon
+  venue: ICC Academy
+innings:
+- 1st innings:
+    team: Nepal
+    deliveries:
+    - 0.1:
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Bhandari
+        batsman: G Malla
+    - 0.2:
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Bhandari
+        batsman: G Malla
+    - 0.3:
+        non_striker: B Bhandari
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Malla
+    - 0.4:
+        non_striker: B Bhandari
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Malla
+        wicket:
+          player_out: G Malla
+          fielders:
+          - Ghulam Shabber
+          kind: caught
+    - 0.5:
+        non_striker: B Bhandari
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 0.6:
+        non_striker: B Bhandari
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 1.1:
+        non_striker: P Khadka
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bhandari
+    - 1.2:
+        non_striker: P Khadka
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bhandari
+    - 1.3:
+        non_striker: P Khadka
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Bhandari
+    - 1.4:
+        non_striker: B Bhandari
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 1.5:
+        non_striker: B Bhandari
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 1.6:
+        non_striker: B Bhandari
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Khadka
+    - 1.7:
+        non_striker: B Bhandari
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 2.1:
+        non_striker: P Khadka
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bhandari
+    - 2.2:
+        non_striker: P Khadka
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bhandari
+    - 2.3:
+        non_striker: P Khadka
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bhandari
+    - 2.4:
+        non_striker: P Khadka
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bhandari
+    - 2.5:
+        non_striker: P Khadka
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bhandari
+    - 2.6:
+        non_striker: P Khadka
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bhandari
+    - 3.1:
+        non_striker: B Bhandari
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 3.2:
+        non_striker: B Bhandari
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Khadka
+    - 3.3:
+        non_striker: P Khadka
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bhandari
+    - 3.4:
+        non_striker: P Khadka
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bhandari
+    - 3.5:
+        non_striker: P Khadka
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Bhandari
+    - 3.6:
+        non_striker: P Khadka
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bhandari
+    - 4.1:
+        non_striker: B Bhandari
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 4.2:
+        non_striker: B Bhandari
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 4.3:
+        non_striker: B Bhandari
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 4.4:
+        non_striker: B Bhandari
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 4.5:
+        non_striker: B Bhandari
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Khadka
+    - 4.6:
+        non_striker: B Bhandari
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Khadka
+    - 5.1:
+        non_striker: B Bhandari
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 5.2:
+        non_striker: B Bhandari
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 5.3:
+        non_striker: B Bhandari
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 5.4:
+        non_striker: B Bhandari
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 5.5:
+        non_striker: B Bhandari
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Khadka
+    - 5.6:
+        non_striker: B Bhandari
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Khadka
+    - 6.1:
+        non_striker: P Khadka
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bhandari
+        wicket:
+          player_out: B Bhandari
+          fielders:
+          - Ghulam Shabber
+          kind: caught
+    - 6.2:
+        non_striker: P Khadka
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 6.3:
+        non_striker: P Khadka
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sompal Kami
+    - 6.4:
+        non_striker: Sompal Kami
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 6.5:
+        non_striker: Sompal Kami
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 6.6:
+        non_striker: Sompal Kami
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 7.1:
+        non_striker: P Khadka
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 7.2:
+        non_striker: P Khadka
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 7.3:
+        non_striker: P Khadka
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 7.4:
+        non_striker: P Khadka
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 7.5:
+        non_striker: P Khadka
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sompal Kami
+    - 7.6:
+        non_striker: P Khadka
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 8.1:
+        non_striker: Sompal Kami
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 8.2:
+        non_striker: Sompal Kami
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 8.3:
+        non_striker: Sompal Kami
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Khadka
+    - 8.4:
+        non_striker: P Khadka
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 8.5:
+        non_striker: P Khadka
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sompal Kami
+    - 8.6:
+        non_striker: Sompal Kami
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Khadka
+    - 9.1:
+        non_striker: Sompal Kami
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 9.2:
+        non_striker: Sompal Kami
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Khadka
+    - 9.3:
+        non_striker: Sompal Kami
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 9.4:
+        non_striker: Sompal Kami
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Khadka
+    - 9.5:
+        non_striker: Sompal Kami
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 9.6:
+        non_striker: Sompal Kami
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Khadka
+    - 9.7:
+        non_striker: Sompal Kami
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 9.8:
+        non_striker: Sompal Kami
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 10.1:
+        non_striker: P Khadka
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 10.2:
+        non_striker: P Khadka
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sompal Kami
+    - 10.3:
+        non_striker: P Khadka
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sompal Kami
+    - 10.4:
+        non_striker: P Khadka
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sompal Kami
+    - 10.5:
+        non_striker: Sompal Kami
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 10.6:
+        non_striker: Sompal Kami
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+    - 11.1:
+        non_striker: P Khadka
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 11.2:
+        non_striker: P Khadka
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sompal Kami
+    - 11.3:
+        non_striker: P Khadka
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sompal Kami
+    - 11.4:
+        non_striker: Sompal Kami
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Khadka
+    - 11.5:
+        non_striker: Sompal Kami
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Khadka
+        wicket:
+          player_out: P Khadka
+          fielders:
+          - Amir Hayat
+          kind: caught
+    - 11.6:
+        non_striker: Sompal Kami
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+    - 12.1:
+        non_striker: DS Airee
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sompal Kami
+    - 12.2:
+        non_striker: DS Airee
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 12.3:
+        non_striker: DS Airee
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sompal Kami
+    - 12.4:
+        non_striker: Sompal Kami
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Airee
+        wicket:
+          player_out: DS Airee
+          kind: run out
+    - 12.5:
+        non_striker: Sompal Kami
+        bowler: Amir Hayat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aarif Sheikh
+    - 12.6:
+        non_striker: Sompal Kami
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 12.7:
+        non_striker: Sompal Kami
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 13.1:
+        non_striker: Aarif Sheikh
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 13.2:
+        non_striker: Aarif Sheikh
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sompal Kami
+    - 13.3:
+        non_striker: Sompal Kami
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 13.4:
+        non_striker: Sompal Kami
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aarif Sheikh
+    - 13.5:
+        non_striker: Sompal Kami
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 13.6:
+        non_striker: Sompal Kami
+        bowler: Qadeer Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 14.1:
+        non_striker: Aarif Sheikh
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 14.2:
+        non_striker: Aarif Sheikh
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sompal Kami
+    - 14.3:
+        non_striker: Sompal Kami
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 14.4:
+        non_striker: Sompal Kami
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 14.5:
+        non_striker: Sompal Kami
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 14.6:
+        non_striker: Sompal Kami
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 15.1:
+        non_striker: Sompal Kami
+        bowler: Mohammad Boota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 15.2:
+        non_striker: Sompal Kami
+        bowler: Mohammad Boota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 15.3:
+        non_striker: Aarif Sheikh
+        bowler: Mohammad Boota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 15.4:
+        non_striker: Aarif Sheikh
+        bowler: Mohammad Boota
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sompal Kami
+    - 15.5:
+        non_striker: Aarif Sheikh
+        bowler: Mohammad Boota
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sompal Kami
+    - 15.6:
+        non_striker: Aarif Sheikh
+        bowler: Mohammad Boota
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sompal Kami
+    - 16.1:
+        non_striker: Aarif Sheikh
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 16.2:
+        non_striker: Aarif Sheikh
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 16.3:
+        non_striker: Aarif Sheikh
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 16.4:
+        non_striker: Aarif Sheikh
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 16.5:
+        non_striker: Aarif Sheikh
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 16.6:
+        non_striker: Aarif Sheikh
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 17.1:
+        non_striker: Sompal Kami
+        bowler: Mohammad Boota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 17.2:
+        non_striker: Sompal Kami
+        bowler: Mohammad Boota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 17.3:
+        non_striker: Aarif Sheikh
+        bowler: Mohammad Boota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 17.4:
+        non_striker: Aarif Sheikh
+        bowler: Mohammad Boota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sompal Kami
+    - 17.5:
+        non_striker: Sompal Kami
+        bowler: Mohammad Boota
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 17.6:
+        non_striker: Aarif Sheikh
+        bowler: Mohammad Boota
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 18.1:
+        non_striker: Sompal Kami
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 18.2:
+        non_striker: Sompal Kami
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 18.3:
+        non_striker: Aarif Sheikh
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 18.4:
+        non_striker: Aarif Sheikh
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 18.5:
+        non_striker: Aarif Sheikh
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sompal Kami
+    - 18.6:
+        non_striker: Aarif Sheikh
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 19.1:
+        non_striker: Sompal Kami
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 19.2:
+        non_striker: Sompal Kami
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 19.3:
+        non_striker: Sompal Kami
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 19.4:
+        non_striker: Sompal Kami
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 19.5:
+        non_striker: Sompal Kami
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 19.6:
+        non_striker: Aarif Sheikh
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sompal Kami
+    - 20.1:
+        non_striker: Aarif Sheikh
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 20.2:
+        non_striker: Aarif Sheikh
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 20.3:
+        non_striker: Aarif Sheikh
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 20.4:
+        non_striker: Aarif Sheikh
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+    - 20.5:
+        non_striker: Aarif Sheikh
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sompal Kami
+        wicket:
+          player_out: Sompal Kami
+          kind: lbw
+    - 20.6:
+        non_striker: Aarif Sheikh
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Sarraf
+    - 21.1:
+        non_striker: P Sarraf
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 21.2:
+        non_striker: Aarif Sheikh
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sarraf
+    - 21.3:
+        non_striker: Aarif Sheikh
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sarraf
+        wicket:
+          player_out: P Sarraf
+          kind: lbw
+    - 21.4:
+        non_striker: Aarif Sheikh
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karan KC
+    - 21.5:
+        non_striker: Aarif Sheikh
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karan KC
+    - 21.6:
+        non_striker: Karan KC
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 22.1:
+        non_striker: Aarif Sheikh
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karan KC
+    - 22.2:
+        non_striker: Karan KC
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 22.3:
+        non_striker: Karan KC
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 22.4:
+        non_striker: Aarif Sheikh
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karan KC
+    - 22.5:
+        non_striker: Aarif Sheikh
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karan KC
+    - 22.6:
+        non_striker: Karan KC
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 23.1:
+        non_striker: Aarif Sheikh
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karan KC
+    - 23.2:
+        non_striker: Aarif Sheikh
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karan KC
+    - 23.3:
+        non_striker: Aarif Sheikh
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karan KC
+        wicket:
+          player_out: Karan KC
+          fielders:
+          - Ghulam Shabber
+          kind: caught
+    - 23.4:
+        non_striker: Aarif Sheikh
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Regmi
+    - 23.5:
+        non_striker: Aarif Sheikh
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Regmi
+    - 23.6:
+        non_striker: Aarif Sheikh
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Regmi
+    - 24.1:
+        non_striker: B Regmi
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 24.2:
+        non_striker: B Regmi
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 24.3:
+        non_striker: B Regmi
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 24.4:
+        non_striker: B Regmi
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 24.5:
+        non_striker: Aarif Sheikh
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Regmi
+        wicket:
+          player_out: B Regmi
+          fielders:
+          - Ashfaq Ahmed
+          kind: caught
+    - 24.6:
+        non_striker: Aarif Sheikh
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lamichhane
+    - 25.1:
+        non_striker: S Lamichhane
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 25.2:
+        non_striker: Aarif Sheikh
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lamichhane
+    - 25.3:
+        non_striker: Aarif Sheikh
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lamichhane
+    - 25.4:
+        non_striker: Aarif Sheikh
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lamichhane
+    - 25.5:
+        non_striker: Aarif Sheikh
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lamichhane
+    - 25.6:
+        non_striker: Aarif Sheikh
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Lamichhane
+    - 26.1:
+        non_striker: S Lamichhane
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 26.2:
+        non_striker: S Lamichhane
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 26.3:
+        non_striker: Aarif Sheikh
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lamichhane
+    - 26.4:
+        non_striker: S Lamichhane
+        bowler: Imran Haider
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aarif Sheikh
+    - 26.5:
+        non_striker: S Lamichhane
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 26.6:
+        non_striker: S Lamichhane
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 26.7:
+        non_striker: Aarif Sheikh
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lamichhane
+    - 27.1:
+        non_striker: S Lamichhane
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aarif Sheikh
+    - 27.2:
+        non_striker: S Lamichhane
+        bowler: Mohammad Naveed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aarif Sheikh
+    - 27.3:
+        non_striker: S Lamichhane
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aarif Sheikh
+    - 27.4:
+        non_striker: Aarif Sheikh
+        bowler: Mohammad Naveed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Lamichhane
+    - 27.5:
+        non_striker: Aarif Sheikh
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Lamichhane
+    - 27.6:
+        non_striker: Aarif Sheikh
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lamichhane
+    - 27.7:
+        non_striker: S Lamichhane
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aarif Sheikh
+    - 27.8:
+        non_striker: S Lamichhane
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 28.1:
+        non_striker: Aarif Sheikh
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lamichhane
+    - 28.2:
+        non_striker: Aarif Sheikh
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lamichhane
+    - 28.3:
+        non_striker: Aarif Sheikh
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lamichhane
+    - 28.4:
+        non_striker: Aarif Sheikh
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lamichhane
+    - 28.5:
+        non_striker: S Lamichhane
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 28.6:
+        non_striker: S Lamichhane
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+    - 29.1:
+        non_striker: Aarif Sheikh
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lamichhane
+    - 29.2:
+        non_striker: Aarif Sheikh
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lamichhane
+    - 29.3:
+        non_striker: Aarif Sheikh
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lamichhane
+    - 29.4:
+        non_striker: Aarif Sheikh
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Lamichhane
+    - 29.5:
+        non_striker: Aarif Sheikh
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lamichhane
+    - 29.6:
+        non_striker: S Lamichhane
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aarif Sheikh
+        wicket:
+          player_out: Aarif Sheikh
+          fielders:
+          - Qadeer Ahmed
+          kind: caught
+    - 30.1:
+        non_striker: S Lamichhane
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Rajbanshi
+    - 30.2:
+        non_striker: S Lamichhane
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Rajbanshi
+    - 30.3:
+        non_striker: S Lamichhane
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Rajbanshi
+    - 30.4:
+        non_striker: S Lamichhane
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Rajbanshi
+    - 30.5:
+        non_striker: S Lamichhane
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Rajbanshi
+    - 30.6:
+        non_striker: S Lamichhane
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Rajbanshi
+    - 31.1:
+        non_striker: LN Rajbanshi
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lamichhane
+    - 31.2:
+        non_striker: LN Rajbanshi
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lamichhane
+    - 31.3:
+        non_striker: S Lamichhane
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Rajbanshi
+    - 31.4:
+        non_striker: S Lamichhane
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Rajbanshi
+    - 31.5:
+        non_striker: S Lamichhane
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Rajbanshi
+    - 31.6:
+        non_striker: S Lamichhane
+        bowler: Mohammad Naveed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Rajbanshi
+    - 32.1:
+        non_striker: LN Rajbanshi
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lamichhane
+    - 32.2:
+        non_striker: S Lamichhane
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Rajbanshi
+    - 32.3:
+        non_striker: S Lamichhane
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Rajbanshi
+    - 32.4:
+        non_striker: S Lamichhane
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LN Rajbanshi
+    - 32.5:
+        non_striker: LN Rajbanshi
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lamichhane
+    - 32.6:
+        non_striker: LN Rajbanshi
+        bowler: Imran Haider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lamichhane
+    - 33.1:
+        non_striker: LN Rajbanshi
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lamichhane
+    - 33.2:
+        non_striker: LN Rajbanshi
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Lamichhane
+    - 33.3:
+        non_striker: S Lamichhane
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LN Rajbanshi
+    - 33.4:
+        non_striker: S Lamichhane
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LN Rajbanshi
+    - 33.5:
+        non_striker: LN Rajbanshi
+        bowler: Amir Hayat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Lamichhane
+        wicket:
+          player_out: S Lamichhane
+          fielders:
+          - Shaiman Anwar
+          kind: caught
+- 2nd innings:
+    team: United Arab Emirates
+    deliveries:
+    - 0.1:
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Chirag Suri
+        batsman: Ashfaq Ahmed
+    - 0.2:
+        non_striker: Chirag Suri
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashfaq Ahmed
+    - 0.3:
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ashfaq Ahmed
+        batsman: Chirag Suri
+    - 0.4:
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ashfaq Ahmed
+        batsman: Chirag Suri
+    - 0.5:
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ashfaq Ahmed
+        batsman: Chirag Suri
+    - 0.6:
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ashfaq Ahmed
+        batsman: Chirag Suri
+    - 1.1:
+        non_striker: Chirag Suri
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashfaq Ahmed
+    - 1.2:
+        non_striker: Chirag Suri
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashfaq Ahmed
+    - 1.3:
+        non_striker: Chirag Suri
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashfaq Ahmed
+    - 1.4:
+        non_striker: Chirag Suri
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ashfaq Ahmed
+    - 1.5:
+        non_striker: Chirag Suri
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashfaq Ahmed
+        wicket:
+          player_out: Ashfaq Ahmed
+          kind: lbw
+    - 1.6:
+        non_striker: Chirag Suri
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 2.1:
+        non_striker: Ghulam Shabber
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 2.2:
+        non_striker: Ghulam Shabber
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 2.3:
+        non_striker: Ghulam Shabber
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 2.4:
+        non_striker: Ghulam Shabber
+        bowler: Sompal Kami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Chirag Suri
+    - 2.5:
+        non_striker: Ghulam Shabber
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 2.6:
+        non_striker: Ghulam Shabber
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 2.7:
+        non_striker: Ghulam Shabber
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 3.1:
+        non_striker: Chirag Suri
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 3.2:
+        non_striker: Chirag Suri
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 3.3:
+        non_striker: Chirag Suri
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ghulam Shabber
+    - 3.4:
+        non_striker: Ghulam Shabber
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 3.5:
+        non_striker: Ghulam Shabber
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 3.6:
+        non_striker: Ghulam Shabber
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 4.1:
+        non_striker: Chirag Suri
+        bowler: Sompal Kami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Ghulam Shabber
+    - 4.2:
+        non_striker: Ghulam Shabber
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+    - 4.3:
+        non_striker: Ghulam Shabber
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Chirag Suri
+    - 4.4:
+        non_striker: Ghulam Shabber
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chirag Suri
+        wicket:
+          player_out: Chirag Suri
+          fielders:
+          - B Bhandari
+          kind: caught
+    - 4.5:
+        non_striker: Ghulam Shabber
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaiman Anwar
+    - 4.6:
+        non_striker: Ghulam Shabber
+        bowler: Sompal Kami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shaiman Anwar
+    - 4.7:
+        non_striker: Ghulam Shabber
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaiman Anwar
+    - 5.1:
+        non_striker: Shaiman Anwar
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ghulam Shabber
+    - 5.2:
+        non_striker: Ghulam Shabber
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shaiman Anwar
+    - 5.3:
+        non_striker: Ghulam Shabber
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaiman Anwar
+    - 5.4:
+        non_striker: Ghulam Shabber
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaiman Anwar
+    - 5.5:
+        non_striker: Ghulam Shabber
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaiman Anwar
+    - 5.6:
+        non_striker: Ghulam Shabber
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaiman Anwar
+    - 6.1:
+        non_striker: Shaiman Anwar
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Ghulam Shabber
+    - 6.2:
+        non_striker: Ghulam Shabber
+        bowler: Sompal Kami
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Shaiman Anwar
+    - 6.3:
+        non_striker: Ghulam Shabber
+        bowler: Sompal Kami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shaiman Anwar
+    - 6.4:
+        non_striker: Ghulam Shabber
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaiman Anwar
+    - 6.5:
+        non_striker: Shaiman Anwar
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 6.6:
+        non_striker: Shaiman Anwar
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 6.7:
+        non_striker: Shaiman Anwar
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 6.8:
+        non_striker: Shaiman Anwar
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 7.1:
+        non_striker: Ghulam Shabber
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaiman Anwar
+    - 7.2:
+        non_striker: Ghulam Shabber
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaiman Anwar
+    - 7.3:
+        non_striker: Shaiman Anwar
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 7.4:
+        non_striker: Shaiman Anwar
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ghulam Shabber
+    - 7.5:
+        non_striker: Ghulam Shabber
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaiman Anwar
+    - 7.6:
+        non_striker: Shaiman Anwar
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 8.1:
+        non_striker: Ghulam Shabber
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shaiman Anwar
+    - 8.2:
+        non_striker: Ghulam Shabber
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaiman Anwar
+    - 8.3:
+        non_striker: Ghulam Shabber
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaiman Anwar
+        wicket:
+          player_out: Shaiman Anwar
+          kind: bowled
+    - 8.4:
+        non_striker: Ghulam Shabber
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+    - 8.5:
+        non_striker: Ghulam Shabber
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+    - 8.6:
+        non_striker: Ghulam Shabber
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+    - 9.1:
+        non_striker: Muhammad Usman
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 9.2:
+        non_striker: Muhammad Usman
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ghulam Shabber
+    - 9.3:
+        non_striker: Muhammad Usman
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 9.4:
+        non_striker: Muhammad Usman
+        bowler: Sompal Kami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ghulam Shabber
+    - 9.5:
+        non_striker: Muhammad Usman
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 9.6:
+        non_striker: Muhammad Usman
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 9.7:
+        non_striker: Muhammad Usman
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ghulam Shabber
+    - 10.1:
+        non_striker: Muhammad Usman
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 10.2:
+        non_striker: Muhammad Usman
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ghulam Shabber
+    - 10.3:
+        non_striker: Muhammad Usman
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 10.4:
+        non_striker: Muhammad Usman
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 10.5:
+        non_striker: Muhammad Usman
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ghulam Shabber
+    - 10.6:
+        non_striker: Ghulam Shabber
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+    - 11.1:
+        non_striker: Muhammad Usman
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 11.2:
+        non_striker: Muhammad Usman
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 11.3:
+        non_striker: Muhammad Usman
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ghulam Shabber
+    - 11.4:
+        non_striker: Ghulam Shabber
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Usman
+    - 11.5:
+        non_striker: Muhammad Usman
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 11.6:
+        non_striker: Muhammad Usman
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 12.1:
+        non_striker: Ghulam Shabber
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Usman
+    - 12.2:
+        non_striker: Ghulam Shabber
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+    - 12.3:
+        non_striker: Ghulam Shabber
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+    - 12.4:
+        non_striker: Ghulam Shabber
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Usman
+    - 12.5:
+        non_striker: Muhammad Usman
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 12.6:
+        non_striker: Muhammad Usman
+        bowler: Karan KC
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Ghulam Shabber
+    - 13.1:
+        non_striker: Ghulam Shabber
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Usman
+    - 13.2:
+        non_striker: Ghulam Shabber
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Usman
+        wicket:
+          player_out: Muhammad Usman
+          fielders:
+          - B Bhandari
+          kind: caught
+    - 13.3:
+        non_striker: Ghulam Shabber
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahad Nawaz
+    - 13.4:
+        non_striker: Ghulam Shabber
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahad Nawaz
+    - 13.5:
+        non_striker: Ghulam Shabber
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahad Nawaz
+    - 13.6:
+        non_striker: Ghulam Shabber
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahad Nawaz
+    - 14.1:
+        non_striker: Fahad Nawaz
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ghulam Shabber
+    - 14.2:
+        non_striker: Fahad Nawaz
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 14.3:
+        non_striker: Fahad Nawaz
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 14.4:
+        non_striker: Fahad Nawaz
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ghulam Shabber
+    - 14.5:
+        non_striker: Fahad Nawaz
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ghulam Shabber
+    - 14.6:
+        non_striker: Ghulam Shabber
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahad Nawaz
+    - 15.1:
+        non_striker: Fahad Nawaz
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 15.2:
+        non_striker: Fahad Nawaz
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ghulam Shabber
+    - 15.3:
+        non_striker: Fahad Nawaz
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ghulam Shabber
+    - 15.4:
+        non_striker: Ghulam Shabber
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahad Nawaz
+    - 15.5:
+        non_striker: Ghulam Shabber
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahad Nawaz
+    - 15.6:
+        non_striker: Fahad Nawaz
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 16.1:
+        non_striker: Ghulam Shabber
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahad Nawaz
+    - 16.2:
+        non_striker: Fahad Nawaz
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ghulam Shabber
+    - 16.3:
+        non_striker: Ghulam Shabber
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahad Nawaz
+        wicket:
+          player_out: Fahad Nawaz
+          kind: bowled
+    - 16.4:
+        non_striker: Ghulam Shabber
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Boota
+    - 16.5:
+        non_striker: Ghulam Shabber
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Boota
+    - 16.6:
+        non_striker: Ghulam Shabber
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Boota
+    - 17.1:
+        non_striker: Mohammad Boota
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 17.2:
+        non_striker: Mohammad Boota
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 17.3:
+        non_striker: Mohammad Boota
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ghulam Shabber
+    - 17.4:
+        non_striker: Ghulam Shabber
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Boota
+    - 17.5:
+        non_striker: Ghulam Shabber
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Boota
+    - 17.6:
+        non_striker: Mohammad Boota
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ghulam Shabber
+    - 18.1:
+        non_striker: Mohammad Boota
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+    - 18.2:
+        non_striker: Mohammad Boota
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Shabber
+        wicket:
+          player_out: Ghulam Shabber
+          fielders:
+          - DS Airee
+          kind: caught
+    - 18.3:
+        non_striker: Mohammad Boota
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 18.4:
+        non_striker: Mohammad Boota
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 18.5:
+        non_striker: Mohammad Boota
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 18.6:
+        non_striker: Mohammad Boota
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 19.1:
+        non_striker: Amir Hayat
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Boota
+    - 19.2:
+        non_striker: Amir Hayat
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Boota
+        wicket:
+          player_out: Mohammad Boota
+          fielders:
+          - B Bhandari
+          kind: caught
+    - 19.3:
+        non_striker: Amir Hayat
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 19.4:
+        non_striker: Amir Hayat
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 19.5:
+        non_striker: Amir Hayat
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imran Haider
+    - 19.6:
+        non_striker: Imran Haider
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Hayat
+    - 20.1:
+        non_striker: Imran Haider
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 20.2:
+        non_striker: Imran Haider
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Hayat
+    - 20.3:
+        non_striker: Amir Hayat
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 20.4:
+        non_striker: Amir Hayat
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 20.5:
+        non_striker: Amir Hayat
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imran Haider
+    - 20.6:
+        non_striker: Imran Haider
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Hayat
+    - 21.1:
+        non_striker: Imran Haider
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 21.2:
+        non_striker: Imran Haider
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 21.3:
+        non_striker: Imran Haider
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 21.4:
+        non_striker: Imran Haider
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Hayat
+    - 21.5:
+        non_striker: Amir Hayat
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 21.6:
+        non_striker: Amir Hayat
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 22.1:
+        non_striker: Imran Haider
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 22.2:
+        non_striker: Imran Haider
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 22.3:
+        non_striker: Imran Haider
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 22.4:
+        non_striker: Imran Haider
+        bowler: S Lamichhane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amir Hayat
+    - 22.5:
+        non_striker: Imran Haider
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 22.6:
+        non_striker: Imran Haider
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 22.7:
+        non_striker: Imran Haider
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 23.1:
+        non_striker: Amir Hayat
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 23.2:
+        non_striker: Amir Hayat
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imran Haider
+    - 23.3:
+        non_striker: Amir Hayat
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imran Haider
+    - 23.4:
+        non_striker: Amir Hayat
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 23.5:
+        non_striker: Amir Hayat
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 23.6:
+        non_striker: Amir Hayat
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 24.1:
+        non_striker: Imran Haider
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Hayat
+    - 24.2:
+        non_striker: Amir Hayat
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 24.3:
+        non_striker: Amir Hayat
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 24.4:
+        non_striker: Amir Hayat
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 24.5:
+        non_striker: Amir Hayat
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 24.6:
+        non_striker: Amir Hayat
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 25.1:
+        non_striker: Imran Haider
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 25.2:
+        non_striker: Imran Haider
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 25.3:
+        non_striker: Imran Haider
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 25.4:
+        non_striker: Imran Haider
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 25.5:
+        non_striker: Imran Haider
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 25.6:
+        non_striker: Imran Haider
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 26.1:
+        non_striker: Amir Hayat
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imran Haider
+    - 26.2:
+        non_striker: Imran Haider
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Hayat
+    - 26.3:
+        non_striker: Amir Hayat
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 26.4:
+        non_striker: Amir Hayat
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 26.5:
+        non_striker: Amir Hayat
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 26.6:
+        non_striker: Amir Hayat
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 27.1:
+        non_striker: Imran Haider
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 27.2:
+        non_striker: Imran Haider
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 27.3:
+        non_striker: Imran Haider
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Hayat
+    - 27.4:
+        non_striker: Amir Hayat
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imran Haider
+    - 27.5:
+        non_striker: Imran Haider
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Hayat
+    - 27.6:
+        non_striker: Amir Hayat
+        bowler: Karan KC
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 28.1:
+        non_striker: Imran Haider
+        bowler: B Regmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 28.2:
+        non_striker: Imran Haider
+        bowler: B Regmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 28.3:
+        non_striker: Imran Haider
+        bowler: B Regmi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Hayat
+    - 28.4:
+        non_striker: Amir Hayat
+        bowler: B Regmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 28.5:
+        non_striker: Amir Hayat
+        bowler: B Regmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 28.6:
+        non_striker: Amir Hayat
+        bowler: B Regmi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 29.1:
+        non_striker: Imran Haider
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Hayat
+    - 29.2:
+        non_striker: Amir Hayat
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 29.3:
+        non_striker: Amir Hayat
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 29.4:
+        non_striker: Amir Hayat
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 29.5:
+        non_striker: Amir Hayat
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imran Haider
+    - 29.6:
+        non_striker: Amir Hayat
+        bowler: Sompal Kami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 30.1:
+        non_striker: Imran Haider
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Hayat
+    - 30.2:
+        non_striker: Amir Hayat
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imran Haider
+    - 30.3:
+        non_striker: Imran Haider
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 30.4:
+        non_striker: Imran Haider
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amir Hayat
+    - 30.5:
+        non_striker: Imran Haider
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Hayat
+    - 30.6:
+        non_striker: Imran Haider
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Hayat
+    - 31.1:
+        non_striker: Imran Haider
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Hayat
+    - 31.2:
+        non_striker: Amir Hayat
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 31.3:
+        non_striker: Amir Hayat
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imran Haider
+    - 31.4:
+        non_striker: Imran Haider
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Hayat
+    - 31.5:
+        non_striker: Amir Hayat
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Haider
+    - 31.6:
+        non_striker: Amir Hayat
+        bowler: P Khadka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imran Haider
+    - 32.1:
+        non_striker: Imran Haider
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Amir Hayat

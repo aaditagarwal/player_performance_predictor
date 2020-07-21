@@ -1,0 +1,3405 @@
+---
+meta:
+  data_version: 0.9
+  created: 2009-09-24
+  revision: 2
+info:
+  city: Johannesburg
+  dates:
+    - 2009-09-23
+  gender: male
+  match_type: ODI
+  neutral_venue: 1
+  outcome:
+    by:
+      wickets: 5
+    winner: Pakistan
+  overs: 50
+  player_of_match:
+    - Umar Akmal
+  teams:
+    - Pakistan
+    - West Indies
+  toss:
+    decision: bat
+    winner: West Indies
+  umpires:
+    - SJ Davis
+    - DJ Harper
+  venue: New Wanderers Stadium
+innings:
+  - 1st innings:
+      team: West Indies
+      deliveries:
+        - 0.1:
+            batsman: DM Richards
+            bowler: Mohammad Amir
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: DM Richards
+            bowler: Mohammad Amir
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.3:
+            batsman: ADS Fletcher
+            bowler: Mohammad Amir
+            non_striker: DM Richards
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: ADS Fletcher
+            bowler: Mohammad Amir
+            non_striker: DM Richards
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.5:
+            batsman: DM Richards
+            bowler: Mohammad Amir
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: DM Richards
+            bowler: Mohammad Amir
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: caught and bowled
+              player_out: DM Richards
+        - 1.1:
+            batsman: ADS Fletcher
+            bowler: Naved-ul-Hasan
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: ADS Fletcher
+            bowler: Naved-ul-Hasan
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: ADS Fletcher
+            bowler: Naved-ul-Hasan
+            extras:
+              wides: 1
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 1.4:
+            batsman: ADS Fletcher
+            bowler: Naved-ul-Hasan
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: ADS Fletcher
+            bowler: Naved-ul-Hasan
+            non_striker: DS Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.6:
+            batsman: DS Smith
+            bowler: Naved-ul-Hasan
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.7:
+            batsman: ADS Fletcher
+            bowler: Naved-ul-Hasan
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: DS Smith
+            bowler: Mohammad Amir
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.2:
+            batsman: ADS Fletcher
+            bowler: Mohammad Amir
+            non_striker: DS Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.3:
+            batsman: DS Smith
+            bowler: Mohammad Amir
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: DS Smith
+            bowler: Mohammad Amir
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: DS Smith
+            bowler: Mohammad Amir
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: DS Smith
+            bowler: Mohammad Amir
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: ADS Fletcher
+            bowler: Naved-ul-Hasan
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: ADS Fletcher
+            bowler: Naved-ul-Hasan
+            non_striker: DS Smith
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.3:
+            batsman: ADS Fletcher
+            bowler: Naved-ul-Hasan
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: ADS Fletcher
+            bowler: Naved-ul-Hasan
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: ADS Fletcher
+            bowler: Naved-ul-Hasan
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: ADS Fletcher
+            bowler: Naved-ul-Hasan
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Imran Nazir
+              kind: caught
+              player_out: ADS Fletcher
+        - 4.1:
+            batsman: DS Smith
+            bowler: Mohammad Amir
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: DS Smith
+            bowler: Mohammad Amir
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: DS Smith
+            bowler: Mohammad Amir
+            non_striker: TM Dowlin
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 4.4:
+            batsman: TM Dowlin
+            bowler: Mohammad Amir
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: TM Dowlin
+            bowler: Mohammad Amir
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Kamran Akmal
+              kind: caught
+              player_out: TM Dowlin
+        - 4.6:
+            batsman: FL Reifer
+            bowler: Mohammad Amir
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: DS Smith
+            bowler: Naved-ul-Hasan
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: DS Smith
+            bowler: Naved-ul-Hasan
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: DS Smith
+            bowler: Naved-ul-Hasan
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: DS Smith
+            bowler: Naved-ul-Hasan
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: DS Smith
+            bowler: Naved-ul-Hasan
+            non_striker: FL Reifer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.6:
+            batsman: FL Reifer
+            bowler: Naved-ul-Hasan
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: DS Smith
+            bowler: Mohammad Amir
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: DS Smith
+            bowler: Mohammad Amir
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: DS Smith
+            bowler: Mohammad Amir
+            extras:
+              wides: 1
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 6.4:
+            batsman: DS Smith
+            bowler: Mohammad Amir
+            non_striker: FL Reifer
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.5:
+            batsman: DS Smith
+            bowler: Mohammad Amir
+            non_striker: FL Reifer
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.6:
+            batsman: DS Smith
+            bowler: Mohammad Amir
+            non_striker: FL Reifer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.7:
+            batsman: FL Reifer
+            bowler: Mohammad Amir
+            non_striker: DS Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: FL Reifer
+            bowler: Naved-ul-Hasan
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: FL Reifer
+            bowler: Naved-ul-Hasan
+            non_striker: DS Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.3:
+            batsman: DS Smith
+            bowler: Naved-ul-Hasan
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: DS Smith
+            bowler: Naved-ul-Hasan
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: DS Smith
+            bowler: Naved-ul-Hasan
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: DS Smith
+            bowler: Naved-ul-Hasan
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.1:
+            batsman: FL Reifer
+            bowler: Umar Gul
+            extras:
+              wides: 1
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 8.2:
+            batsman: FL Reifer
+            bowler: Umar Gul
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: FL Reifer
+            bowler: Umar Gul
+            non_striker: DS Smith
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.4:
+            batsman: FL Reifer
+            bowler: Umar Gul
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: FL Reifer
+            bowler: Umar Gul
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: FL Reifer
+            bowler: Umar Gul
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.7:
+            batsman: FL Reifer
+            bowler: Umar Gul
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: DS Smith
+            bowler: Naved-ul-Hasan
+            non_striker: FL Reifer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: FL Reifer
+            bowler: Naved-ul-Hasan
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: FL Reifer
+            bowler: Naved-ul-Hasan
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: FL Reifer
+            bowler: Naved-ul-Hasan
+            extras:
+              noballs: 1
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 9.5:
+            batsman: FL Reifer
+            bowler: Naved-ul-Hasan
+            non_striker: DS Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: DS Smith
+            bowler: Naved-ul-Hasan
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.7:
+            batsman: DS Smith
+            bowler: Naved-ul-Hasan
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: FL Reifer
+            bowler: Umar Gul
+            non_striker: DS Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: DS Smith
+            bowler: Umar Gul
+            non_striker: FL Reifer
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.3:
+            batsman: DS Smith
+            bowler: Umar Gul
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Umar Akmal
+              kind: caught
+              player_out: DS Smith
+        - 10.4:
+            batsman: DE Bernard
+            bowler: Umar Gul
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: DE Bernard
+            bowler: Umar Gul
+            non_striker: FL Reifer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.6:
+            batsman: FL Reifer
+            bowler: Umar Gul
+            non_striker: DE Bernard
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.1:
+            batsman: DE Bernard
+            bowler: Mohammad Amir
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: DE Bernard
+            bowler: Mohammad Amir
+            non_striker: FL Reifer
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 11.3:
+            batsman: DE Bernard
+            bowler: Mohammad Amir
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.4:
+            batsman: DE Bernard
+            bowler: Mohammad Amir
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: DE Bernard
+            bowler: Mohammad Amir
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: DE Bernard
+            bowler: Mohammad Amir
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: FL Reifer
+            bowler: Umar Gul
+            non_striker: DE Bernard
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: DE Bernard
+            bowler: Umar Gul
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.3:
+            batsman: DE Bernard
+            bowler: Umar Gul
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.4:
+            batsman: DE Bernard
+            bowler: Umar Gul
+            non_striker: FL Reifer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: FL Reifer
+            bowler: Umar Gul
+            non_striker: DE Bernard
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.6:
+            batsman: FL Reifer
+            bowler: Umar Gul
+            non_striker: DE Bernard
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.1:
+            batsman: DE Bernard
+            bowler: Mohammad Amir
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.2:
+            batsman: DE Bernard
+            bowler: Mohammad Amir
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: DE Bernard
+            bowler: Mohammad Amir
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: DE Bernard
+        - 13.4:
+            batsman: DJG Sammy
+            bowler: Mohammad Amir
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.5:
+            batsman: DJG Sammy
+            bowler: Mohammad Amir
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: DJG Sammy
+            bowler: Mohammad Amir
+            non_striker: FL Reifer
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.1:
+            batsman: FL Reifer
+            bowler: Umar Gul
+            non_striker: DJG Sammy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.2:
+            batsman: FL Reifer
+            bowler: Umar Gul
+            non_striker: DJG Sammy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: FL Reifer
+            bowler: Umar Gul
+            non_striker: DJG Sammy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Misbah-ul-Haq
+              kind: caught
+              player_out: FL Reifer
+        - 14.4:
+            batsman: CAK Walton
+            bowler: Umar Gul
+            non_striker: DJG Sammy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: CAK Walton
+        - 14.5:
+            batsman: NO Miller
+            bowler: Umar Gul
+            non_striker: DJG Sammy
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.6:
+            batsman: NO Miller
+            bowler: Umar Gul
+            non_striker: DJG Sammy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.1:
+            batsman: DJG Sammy
+            bowler: Mohammad Amir
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.2:
+            batsman: DJG Sammy
+            bowler: Mohammad Amir
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.3:
+            batsman: DJG Sammy
+            bowler: Mohammad Amir
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.4:
+            batsman: DJG Sammy
+            bowler: Mohammad Amir
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: DJG Sammy
+            bowler: Mohammad Amir
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.6:
+            batsman: DJG Sammy
+            bowler: Mohammad Amir
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.1:
+            batsman: NO Miller
+            bowler: Umar Gul
+            non_striker: DJG Sammy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.2:
+            batsman: NO Miller
+            bowler: Umar Gul
+            non_striker: DJG Sammy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.3:
+            batsman: NO Miller
+            bowler: Umar Gul
+            non_striker: DJG Sammy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.4:
+            batsman: NO Miller
+            bowler: Umar Gul
+            non_striker: DJG Sammy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.5:
+            batsman: NO Miller
+            bowler: Umar Gul
+            non_striker: DJG Sammy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.6:
+            batsman: NO Miller
+            bowler: Umar Gul
+            non_striker: DJG Sammy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.1:
+            batsman: DJG Sammy
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.2:
+            batsman: DJG Sammy
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.3:
+            batsman: DJG Sammy
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.4:
+            batsman: DJG Sammy
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.5:
+            batsman: DJG Sammy
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.6:
+            batsman: DJG Sammy
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.1:
+            batsman: DJG Sammy
+            bowler: Umar Gul
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.2:
+            batsman: DJG Sammy
+            bowler: Umar Gul
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.3:
+            batsman: DJG Sammy
+            bowler: Umar Gul
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: DJG Sammy
+            bowler: Umar Gul
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.5:
+            batsman: DJG Sammy
+            bowler: Umar Gul
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.6:
+            batsman: DJG Sammy
+            bowler: Umar Gul
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.1:
+            batsman: NO Miller
+            bowler: Shahid Afridi
+            non_striker: DJG Sammy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.2:
+            batsman: NO Miller
+            bowler: Shahid Afridi
+            non_striker: DJG Sammy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.3:
+            batsman: NO Miller
+            bowler: Shahid Afridi
+            non_striker: DJG Sammy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.4:
+            batsman: DJG Sammy
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.5:
+            batsman: DJG Sammy
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.6:
+            batsman: DJG Sammy
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.1:
+            batsman: NO Miller
+            bowler: Naved-ul-Hasan
+            non_striker: DJG Sammy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.2:
+            batsman: NO Miller
+            bowler: Naved-ul-Hasan
+            non_striker: DJG Sammy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.3:
+            batsman: DJG Sammy
+            bowler: Naved-ul-Hasan
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.4:
+            batsman: DJG Sammy
+            bowler: Naved-ul-Hasan
+            extras:
+              wides: 1
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 20.5:
+            batsman: DJG Sammy
+            bowler: Naved-ul-Hasan
+            non_striker: NO Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.6:
+            batsman: NO Miller
+            bowler: Naved-ul-Hasan
+            non_striker: DJG Sammy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.7:
+            batsman: NO Miller
+            bowler: Naved-ul-Hasan
+            non_striker: DJG Sammy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.1:
+            batsman: NO Miller
+            bowler: Shahid Afridi
+            non_striker: DJG Sammy
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 21.2:
+            batsman: NO Miller
+            bowler: Shahid Afridi
+            non_striker: DJG Sammy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.3:
+            batsman: NO Miller
+            bowler: Shahid Afridi
+            non_striker: DJG Sammy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.4:
+            batsman: DJG Sammy
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.5:
+            batsman: NO Miller
+            bowler: Shahid Afridi
+            non_striker: DJG Sammy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.6:
+            batsman: NO Miller
+            bowler: Shahid Afridi
+            non_striker: DJG Sammy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.1:
+            batsman: DJG Sammy
+            bowler: Naved-ul-Hasan
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.2:
+            batsman: DJG Sammy
+            bowler: Naved-ul-Hasan
+            non_striker: NO Miller
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 22.3:
+            batsman: DJG Sammy
+            bowler: Naved-ul-Hasan
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.4:
+            batsman: DJG Sammy
+            bowler: Naved-ul-Hasan
+            non_striker: NO Miller
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 22.5:
+            batsman: DJG Sammy
+            bowler: Naved-ul-Hasan
+            non_striker: NO Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.6:
+            batsman: NO Miller
+            bowler: Naved-ul-Hasan
+            non_striker: DJG Sammy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.1:
+            batsman: NO Miller
+            bowler: Shahid Afridi
+            non_striker: DJG Sammy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.2:
+            batsman: NO Miller
+            bowler: Shahid Afridi
+            non_striker: DJG Sammy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.3:
+            batsman: NO Miller
+            bowler: Shahid Afridi
+            non_striker: DJG Sammy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.4:
+            batsman: DJG Sammy
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.5:
+            batsman: DJG Sammy
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.6:
+            batsman: NO Miller
+            bowler: Shahid Afridi
+            non_striker: DJG Sammy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.1:
+            batsman: NO Miller
+            bowler: Saeed Ajmal
+            non_striker: DJG Sammy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.2:
+            batsman: NO Miller
+            bowler: Saeed Ajmal
+            non_striker: DJG Sammy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.3:
+            batsman: DJG Sammy
+            bowler: Saeed Ajmal
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.4:
+            batsman: DJG Sammy
+            bowler: Saeed Ajmal
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.5:
+            batsman: DJG Sammy
+            bowler: Saeed Ajmal
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: DJG Sammy
+        - 24.6:
+            batsman: TL Best
+            bowler: Saeed Ajmal
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.1:
+            batsman: NO Miller
+            bowler: Shahid Afridi
+            non_striker: TL Best
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.2:
+            batsman: TL Best
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.3:
+            batsman: TL Best
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.4:
+            batsman: TL Best
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.5:
+            batsman: NO Miller
+            bowler: Shahid Afridi
+            non_striker: TL Best
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.6:
+            batsman: TL Best
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.1:
+            batsman: NO Miller
+            bowler: Saeed Ajmal
+            non_striker: TL Best
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.2:
+            batsman: NO Miller
+            bowler: Saeed Ajmal
+            non_striker: TL Best
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 26.3:
+            batsman: NO Miller
+            bowler: Saeed Ajmal
+            non_striker: TL Best
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.4:
+            batsman: NO Miller
+            bowler: Saeed Ajmal
+            non_striker: TL Best
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.5:
+            batsman: NO Miller
+            bowler: Saeed Ajmal
+            non_striker: TL Best
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 26.6:
+            batsman: NO Miller
+            bowler: Saeed Ajmal
+            non_striker: TL Best
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 27.1:
+            batsman: TL Best
+            bowler: Umar Gul
+            non_striker: NO Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.2:
+            batsman: NO Miller
+            bowler: Umar Gul
+            non_striker: TL Best
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 27.3:
+            batsman: NO Miller
+            bowler: Umar Gul
+            extras:
+              wides: 1
+            non_striker: TL Best
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 27.4:
+            batsman: NO Miller
+            bowler: Umar Gul
+            non_striker: TL Best
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.5:
+            batsman: TL Best
+            bowler: Umar Gul
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.6:
+            batsman: TL Best
+            bowler: Umar Gul
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.7:
+            batsman: TL Best
+            bowler: Umar Gul
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.1:
+            batsman: NO Miller
+            bowler: Shahid Afridi
+            non_striker: TL Best
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 28.2:
+            batsman: TL Best
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 28.3:
+            batsman: TL Best
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.4:
+            batsman: TL Best
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.5:
+            batsman: TL Best
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.6:
+            batsman: TL Best
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.1:
+            batsman: NO Miller
+            bowler: Umar Gul
+            non_striker: TL Best
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.2:
+            batsman: NO Miller
+            bowler: Umar Gul
+            non_striker: TL Best
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 29.3:
+            batsman: NO Miller
+            bowler: Umar Gul
+            non_striker: TL Best
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 29.4:
+            batsman: NO Miller
+            bowler: Umar Gul
+            non_striker: TL Best
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.5:
+            batsman: TL Best
+            bowler: Umar Gul
+            non_striker: NO Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.6:
+            batsman: NO Miller
+            bowler: Umar Gul
+            non_striker: TL Best
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.1:
+            batsman: TL Best
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.2:
+            batsman: TL Best
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.3:
+            batsman: TL Best
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.4:
+            batsman: NO Miller
+            bowler: Shahid Afridi
+            non_striker: TL Best
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.5:
+            batsman: NO Miller
+            bowler: Shahid Afridi
+            non_striker: TL Best
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.6:
+            batsman: NO Miller
+            bowler: Shahid Afridi
+            non_striker: TL Best
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.1:
+            batsman: TL Best
+            bowler: Saeed Ajmal
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Kamran Akmal
+              kind: stumped
+              player_out: TL Best
+        - 31.2:
+            batsman: GC Tonge
+            bowler: Saeed Ajmal
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.3:
+            batsman: GC Tonge
+            bowler: Saeed Ajmal
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.4:
+            batsman: GC Tonge
+            bowler: Saeed Ajmal
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.5:
+            batsman: GC Tonge
+            bowler: Saeed Ajmal
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.6:
+            batsman: GC Tonge
+            bowler: Saeed Ajmal
+            non_striker: NO Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.1:
+            batsman: GC Tonge
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.2:
+            batsman: NO Miller
+            bowler: Shahid Afridi
+            non_striker: GC Tonge
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 32.3:
+            batsman: NO Miller
+            bowler: Shahid Afridi
+            non_striker: GC Tonge
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.4:
+            batsman: NO Miller
+            bowler: Shahid Afridi
+            non_striker: GC Tonge
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.5:
+            batsman: NO Miller
+            bowler: Shahid Afridi
+            non_striker: GC Tonge
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.6:
+            batsman: NO Miller
+            bowler: Shahid Afridi
+            non_striker: GC Tonge
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.1:
+            batsman: NO Miller
+            bowler: Saeed Ajmal
+            non_striker: GC Tonge
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.2:
+            batsman: NO Miller
+            bowler: Saeed Ajmal
+            non_striker: GC Tonge
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.3:
+            batsman: NO Miller
+            bowler: Saeed Ajmal
+            non_striker: GC Tonge
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.4:
+            batsman: GC Tonge
+            bowler: Saeed Ajmal
+            non_striker: NO Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.5:
+            batsman: NO Miller
+            bowler: Saeed Ajmal
+            non_striker: GC Tonge
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.6:
+            batsman: NO Miller
+            bowler: Saeed Ajmal
+            non_striker: GC Tonge
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.1:
+            batsman: GC Tonge
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.2:
+            batsman: GC Tonge
+            bowler: Shahid Afridi
+            non_striker: NO Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.3:
+            batsman: NO Miller
+            bowler: Shahid Afridi
+            non_striker: GC Tonge
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Shoaib Malik
+              kind: caught
+              player_out: NO Miller
+  - 2nd innings:
+      team: Pakistan
+      deliveries:
+        - 0.1:
+            batsman: Imran Nazir
+            bowler: DJG Sammy
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: Imran Nazir
+            bowler: DJG Sammy
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: Imran Nazir
+            bowler: DJG Sammy
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.4:
+            batsman: Imran Nazir
+            bowler: DJG Sammy
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: Imran Nazir
+            bowler: DJG Sammy
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.6:
+            batsman: Kamran Akmal
+            bowler: DJG Sammy
+            non_striker: Imran Nazir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: Imran Nazir
+            bowler: GC Tonge
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: Imran Nazir
+        - 1.2:
+            batsman: Shoaib Malik
+            bowler: GC Tonge
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: Shoaib Malik
+            bowler: GC Tonge
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: Shoaib Malik
+            bowler: GC Tonge
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: Shoaib Malik
+            bowler: GC Tonge
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: Shoaib Malik
+            bowler: GC Tonge
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: Kamran Akmal
+            bowler: DJG Sammy
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: Kamran Akmal
+            bowler: DJG Sammy
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.3:
+            batsman: Kamran Akmal
+            bowler: DJG Sammy
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: Kamran Akmal
+            bowler: DJG Sammy
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: Kamran Akmal
+            bowler: DJG Sammy
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: Kamran Akmal
+            bowler: DJG Sammy
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: Shoaib Malik
+            bowler: GC Tonge
+            extras:
+              noballs: 1
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 3.2:
+            batsman: Shoaib Malik
+            bowler: GC Tonge
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 3.3:
+            batsman: Shoaib Malik
+            bowler: GC Tonge
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: Shoaib Malik
+            bowler: GC Tonge
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.5:
+            batsman: Kamran Akmal
+            bowler: GC Tonge
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: Kamran Akmal
+            bowler: GC Tonge
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.7:
+            batsman: Kamran Akmal
+            bowler: GC Tonge
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: Shoaib Malik
+            bowler: TL Best
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: Shoaib Malik
+            bowler: TL Best
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: Shoaib Malik
+            bowler: TL Best
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: Shoaib Malik
+            bowler: TL Best
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 4.5:
+            batsman: Shoaib Malik
+            bowler: TL Best
+            non_striker: Kamran Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.6:
+            batsman: Kamran Akmal
+            bowler: TL Best
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.1:
+            batsman: Kamran Akmal
+            bowler: GC Tonge
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - CAK Walton
+              kind: caught
+              player_out: Kamran Akmal
+        - 5.2:
+            batsman: Mohammad Yousuf
+            bowler: GC Tonge
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: Mohammad Yousuf
+            bowler: GC Tonge
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: Mohammad Yousuf
+            bowler: GC Tonge
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.5:
+            batsman: Shoaib Malik
+            bowler: GC Tonge
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: Shoaib Malik
+            bowler: GC Tonge
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.1:
+            batsman: Shoaib Malik
+            bowler: TL Best
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: Shoaib Malik
+            bowler: TL Best
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: Shoaib Malik
+            bowler: TL Best
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.4:
+            batsman: Shoaib Malik
+            bowler: TL Best
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: Shoaib Malik
+            bowler: TL Best
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: Shoaib Malik
+            bowler: TL Best
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.1:
+            batsman: Mohammad Yousuf
+            bowler: GC Tonge
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: Mohammad Yousuf
+            bowler: GC Tonge
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: Mohammad Yousuf
+            bowler: GC Tonge
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: Mohammad Yousuf
+            bowler: GC Tonge
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: Mohammad Yousuf
+            bowler: GC Tonge
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: Mohammad Yousuf
+            bowler: GC Tonge
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: Mohammad Yousuf
+            bowler: TL Best
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: Mohammad Yousuf
+            bowler: TL Best
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.3:
+            batsman: Mohammad Yousuf
+            bowler: TL Best
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: Shoaib Malik
+            bowler: TL Best
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: Shoaib Malik
+            bowler: TL Best
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: Shoaib Malik
+            bowler: TL Best
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: Mohammad Yousuf
+            bowler: GC Tonge
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.2:
+            batsman: Mohammad Yousuf
+            bowler: GC Tonge
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: Mohammad Yousuf
+            bowler: GC Tonge
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: Mohammad Yousuf
+            bowler: GC Tonge
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: Mohammad Yousuf
+            bowler: GC Tonge
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.6:
+            batsman: Mohammad Yousuf
+            bowler: GC Tonge
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: Shoaib Malik
+            bowler: TL Best
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.2:
+            batsman: Shoaib Malik
+            bowler: TL Best
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: Shoaib Malik
+            bowler: TL Best
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 10.4:
+            batsman: Mohammad Yousuf
+            bowler: TL Best
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: Mohammad Yousuf
+            bowler: TL Best
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.6:
+            batsman: Shoaib Malik
+            bowler: TL Best
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: Shoaib Malik
+            bowler: GC Tonge
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: Shoaib Malik
+            bowler: GC Tonge
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.3:
+            batsman: Shoaib Malik
+            bowler: GC Tonge
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.4:
+            batsman: Shoaib Malik
+            bowler: GC Tonge
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: Shoaib Malik
+            bowler: GC Tonge
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: Shoaib Malik
+            bowler: GC Tonge
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: Mohammad Yousuf
+            bowler: TL Best
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.2:
+            batsman: Mohammad Yousuf
+            bowler: TL Best
+            extras:
+              wides: 1
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 12.3:
+            batsman: Mohammad Yousuf
+            bowler: TL Best
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.4:
+            batsman: Mohammad Yousuf
+            bowler: TL Best
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.5:
+            batsman: Mohammad Yousuf
+            bowler: TL Best
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.6:
+            batsman: Mohammad Yousuf
+            bowler: TL Best
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.7:
+            batsman: Mohammad Yousuf
+            bowler: TL Best
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 13.1:
+            batsman: Shoaib Malik
+            bowler: GC Tonge
+            extras:
+              noballs: 1
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 13.2:
+            batsman: Shoaib Malik
+            bowler: GC Tonge
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: Shoaib Malik
+            bowler: GC Tonge
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.4:
+            batsman: Shoaib Malik
+            bowler: GC Tonge
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - CAK Walton
+              kind: caught
+              player_out: Shoaib Malik
+        - 13.5:
+            batsman: Misbah-ul-Haq
+            bowler: GC Tonge
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: Misbah-ul-Haq
+            bowler: GC Tonge
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.7:
+            batsman: Misbah-ul-Haq
+            bowler: GC Tonge
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: Mohammad Yousuf
+            bowler: DE Bernard
+            extras:
+              wides: 1
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 14.2:
+            batsman: Mohammad Yousuf
+            bowler: DE Bernard
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: Mohammad Yousuf
+            bowler: DE Bernard
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: Mohammad Yousuf
+            bowler: DE Bernard
+            extras:
+              wides: 1
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 14.5:
+            batsman: Mohammad Yousuf
+            bowler: DE Bernard
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.6:
+            batsman: Mohammad Yousuf
+            bowler: DE Bernard
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.7:
+            batsman: Misbah-ul-Haq
+            bowler: DE Bernard
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.8:
+            batsman: Misbah-ul-Haq
+            bowler: DE Bernard
+            non_striker: Mohammad Yousuf
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.1:
+            batsman: Mohammad Yousuf
+            bowler: GC Tonge
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - CAK Walton
+              kind: caught
+              player_out: Mohammad Yousuf
+        - 15.2:
+            batsman: Umar Akmal
+            bowler: GC Tonge
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.3:
+            batsman: Umar Akmal
+            bowler: GC Tonge
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.4:
+            batsman: Umar Akmal
+            bowler: GC Tonge
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: Umar Akmal
+            bowler: GC Tonge
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.6:
+            batsman: Umar Akmal
+            bowler: GC Tonge
+            extras:
+              legbyes: 1
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 16.1:
+            batsman: Umar Akmal
+            bowler: DE Bernard
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.2:
+            batsman: Umar Akmal
+            bowler: DE Bernard
+            extras:
+              wides: 1
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 16.3:
+            batsman: Umar Akmal
+            bowler: DE Bernard
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.4:
+            batsman: Umar Akmal
+            bowler: DE Bernard
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.5:
+            batsman: Umar Akmal
+            bowler: DE Bernard
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.6:
+            batsman: Umar Akmal
+            bowler: DE Bernard
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.7:
+            batsman: Umar Akmal
+            bowler: DE Bernard
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.1:
+            batsman: Misbah-ul-Haq
+            bowler: GC Tonge
+            non_striker: Umar Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.2:
+            batsman: Umar Akmal
+            bowler: GC Tonge
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.3:
+            batsman: Umar Akmal
+            bowler: GC Tonge
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.4:
+            batsman: Umar Akmal
+            bowler: GC Tonge
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.5:
+            batsman: Umar Akmal
+            bowler: GC Tonge
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.6:
+            batsman: Umar Akmal
+            bowler: GC Tonge
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.1:
+            batsman: Umar Akmal
+            bowler: DE Bernard
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.2:
+            batsman: Umar Akmal
+            bowler: DE Bernard
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.3:
+            batsman: Umar Akmal
+            bowler: DE Bernard
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.4:
+            batsman: Umar Akmal
+            bowler: DE Bernard
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.5:
+            batsman: Umar Akmal
+            bowler: DE Bernard
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.6:
+            batsman: Umar Akmal
+            bowler: DE Bernard
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.1:
+            batsman: Misbah-ul-Haq
+            bowler: DJG Sammy
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.2:
+            batsman: Misbah-ul-Haq
+            bowler: DJG Sammy
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.3:
+            batsman: Misbah-ul-Haq
+            bowler: DJG Sammy
+            non_striker: Umar Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.4:
+            batsman: Umar Akmal
+            bowler: DJG Sammy
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 19.5:
+            batsman: Umar Akmal
+            bowler: DJG Sammy
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.6:
+            batsman: Umar Akmal
+            bowler: DJG Sammy
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.1:
+            batsman: Misbah-ul-Haq
+            bowler: DE Bernard
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.2:
+            batsman: Misbah-ul-Haq
+            bowler: DE Bernard
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.3:
+            batsman: Misbah-ul-Haq
+            bowler: DE Bernard
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.4:
+            batsman: Misbah-ul-Haq
+            bowler: DE Bernard
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.5:
+            batsman: Misbah-ul-Haq
+            bowler: DE Bernard
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.6:
+            batsman: Misbah-ul-Haq
+            bowler: DE Bernard
+            non_striker: Umar Akmal
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 21.1:
+            batsman: Misbah-ul-Haq
+            bowler: DJG Sammy
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.2:
+            batsman: Misbah-ul-Haq
+            bowler: DJG Sammy
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.3:
+            batsman: Misbah-ul-Haq
+            bowler: DJG Sammy
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.4:
+            batsman: Misbah-ul-Haq
+            bowler: DJG Sammy
+            non_striker: Umar Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.5:
+            batsman: Umar Akmal
+            bowler: DJG Sammy
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.6:
+            batsman: Umar Akmal
+            bowler: DJG Sammy
+            non_striker: Misbah-ul-Haq
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.1:
+            batsman: Misbah-ul-Haq
+            bowler: DE Bernard
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.2:
+            batsman: Misbah-ul-Haq
+            bowler: DE Bernard
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.3:
+            batsman: Misbah-ul-Haq
+            bowler: DE Bernard
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - CAK Walton
+              kind: caught
+              player_out: Misbah-ul-Haq
+        - 22.4:
+            batsman: Shahid Afridi
+            bowler: DE Bernard
+            non_striker: Umar Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.5:
+            batsman: Umar Akmal
+            bowler: DE Bernard
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.6:
+            batsman: Shahid Afridi
+            bowler: DE Bernard
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.1:
+            batsman: Umar Akmal
+            bowler: DJG Sammy
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.2:
+            batsman: Umar Akmal
+            bowler: DJG Sammy
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.3:
+            batsman: Umar Akmal
+            bowler: DJG Sammy
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 23.4:
+            batsman: Umar Akmal
+            bowler: DJG Sammy
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.5:
+            batsman: Shahid Afridi
+            bowler: DJG Sammy
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.6:
+            batsman: Shahid Afridi
+            bowler: DJG Sammy
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.1:
+            batsman: Umar Akmal
+            bowler: DE Bernard
+            extras:
+              legbyes: 1
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 24.2:
+            batsman: Shahid Afridi
+            bowler: DE Bernard
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.3:
+            batsman: Shahid Afridi
+            bowler: DE Bernard
+            non_striker: Umar Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.4:
+            batsman: Umar Akmal
+            bowler: DE Bernard
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.5:
+            batsman: Shahid Afridi
+            bowler: DE Bernard
+            non_striker: Umar Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.6:
+            batsman: Umar Akmal
+            bowler: DE Bernard
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 25.1:
+            batsman: Shahid Afridi
+            bowler: GC Tonge
+            extras:
+              wides: 1
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 25.2:
+            batsman: Shahid Afridi
+            bowler: GC Tonge
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.3:
+            batsman: Shahid Afridi
+            bowler: GC Tonge
+            non_striker: Umar Akmal
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 25.4:
+            batsman: Shahid Afridi
+            bowler: GC Tonge
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.5:
+            batsman: Shahid Afridi
+            bowler: GC Tonge
+            non_striker: Umar Akmal
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 25.6:
+            batsman: Shahid Afridi
+            bowler: GC Tonge
+            non_striker: Umar Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.7:
+            batsman: Umar Akmal
+            bowler: GC Tonge
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.1:
+            batsman: Umar Akmal
+            bowler: DE Bernard
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.2:
+            batsman: Umar Akmal
+            bowler: DE Bernard
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.3:
+            batsman: Umar Akmal
+            bowler: DE Bernard
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.4:
+            batsman: Shahid Afridi
+            bowler: DE Bernard
+            non_striker: Umar Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.5:
+            batsman: Umar Akmal
+            bowler: DE Bernard
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.6:
+            batsman: Umar Akmal
+            bowler: DE Bernard
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 27.1:
+            batsman: Shahid Afridi
+            bowler: DJG Sammy
+            non_striker: Umar Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.2:
+            batsman: Umar Akmal
+            bowler: DJG Sammy
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 27.3:
+            batsman: Umar Akmal
+            bowler: DJG Sammy
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.4:
+            batsman: Shahid Afridi
+            bowler: DJG Sammy
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.5:
+            batsman: Shahid Afridi
+            bowler: DJG Sammy
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.6:
+            batsman: Shahid Afridi
+            bowler: DJG Sammy
+            non_striker: Umar Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.1:
+            batsman: Shahid Afridi
+            bowler: TL Best
+            extras:
+              wides: 1
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 28.2:
+            batsman: Shahid Afridi
+            bowler: TL Best
+            non_striker: Umar Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.3:
+            batsman: Umar Akmal
+            bowler: TL Best
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 28.4:
+            batsman: Umar Akmal
+            bowler: TL Best
+            extras:
+              wides: 1
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 28.5:
+            batsman: Umar Akmal
+            bowler: TL Best
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 28.6:
+            batsman: Umar Akmal
+            bowler: TL Best
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 28.7:
+            batsman: Umar Akmal
+            bowler: TL Best
+            extras:
+              noballs: 1
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 28.8:
+            batsman: Umar Akmal
+            bowler: TL Best
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.9:
+            batsman: Shahid Afridi
+            bowler: TL Best
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.1:
+            batsman: Umar Akmal
+            bowler: DJG Sammy
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.2:
+            batsman: Shahid Afridi
+            bowler: DJG Sammy
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.3:
+            batsman: Shahid Afridi
+            bowler: DJG Sammy
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.4:
+            batsman: Shahid Afridi
+            bowler: DJG Sammy
+            non_striker: Umar Akmal
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.5:
+            batsman: Umar Akmal
+            bowler: DJG Sammy
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 29.6:
+            batsman: Umar Akmal
+            bowler: DJG Sammy
+            non_striker: Shahid Afridi
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.1:
+            batsman: Shahid Afridi
+            bowler: TL Best
+            non_striker: Umar Akmal
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 30.2:
+            batsman: Shahid Afridi
+            bowler: TL Best
+            extras:
+              wides: 1
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 30.3:
+            batsman: Shahid Afridi
+            bowler: TL Best
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.4:
+            batsman: Shahid Afridi
+            bowler: TL Best
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.5:
+            batsman: Shahid Afridi
+            bowler: TL Best
+            extras:
+              wides: 1
+            non_striker: Umar Akmal
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1

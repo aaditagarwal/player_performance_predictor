@@ -1,0 +1,3784 @@
+---
+meta:
+  data_version: 0.9
+  created: '2020-02-08'
+  revision: 1
+info:
+  city: Hamilton
+  dates:
+  - '2020-01-30'
+  gender: female
+  match_type: ODI
+  match_type_number: 1180
+  outcome:
+    winner: South Africa
+    by:
+      wickets: 6
+  overs: 50
+  player_of_match:
+  - S Luus
+  teams:
+  - New Zealand
+  - South Africa
+  toss:
+    decision: field
+    winner: South Africa
+  umpires:
+  - JM Dempsey
+  - Kim Cotton
+  venue: Seddon Park
+innings:
+- 1st innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Green
+        batsman: LR Down
+    - 0.2:
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Green
+        batsman: LR Down
+    - 0.3:
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Green
+        batsman: LR Down
+    - 0.4:
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: ML Green
+        batsman: LR Down
+    - 0.5:
+        non_striker: LR Down
+        bowler: M Kapp
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Green
+    - 0.6:
+        non_striker: LR Down
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 0.7:
+        non_striker: LR Down
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 1.1:
+        non_striker: ML Green
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 1.2:
+        non_striker: ML Green
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LR Down
+    - 1.3:
+        non_striker: ML Green
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 1.4:
+        non_striker: ML Green
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 1.5:
+        non_striker: ML Green
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LR Down
+    - 1.6:
+        non_striker: ML Green
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 2.1:
+        non_striker: LR Down
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 2.2:
+        non_striker: LR Down
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 2.3:
+        non_striker: LR Down
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 2.4:
+        non_striker: LR Down
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 2.5:
+        non_striker: LR Down
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 2.6:
+        non_striker: LR Down
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 3.1:
+        non_striker: LR Down
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 3.2:
+        non_striker: LR Down
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 3.3:
+        non_striker: LR Down
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 3.4:
+        non_striker: LR Down
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 3.5:
+        non_striker: ML Green
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 3.6:
+        non_striker: ML Green
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+        wicket:
+          player_out: LR Down
+          kind: bowled
+    - 4.1:
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SW Bates
+        batsman: ML Green
+    - 4.2:
+        non_striker: ML Green
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.3:
+        non_striker: ML Green
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.4:
+        non_striker: ML Green
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.5:
+        non_striker: ML Green
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.6:
+        non_striker: ML Green
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 5.1:
+        non_striker: SW Bates
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 5.2:
+        non_striker: ML Green
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 5.3:
+        non_striker: ML Green
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 5.4:
+        non_striker: ML Green
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 5.5:
+        non_striker: ML Green
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 5.6:
+        non_striker: SW Bates
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 6.1:
+        non_striker: SW Bates
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+        wicket:
+          player_out: ML Green
+          fielders:
+          - T Chetty
+          kind: caught
+    - 6.2:
+        non_striker: SW Bates
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 6.3:
+        non_striker: SW Bates
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 6.4:
+        non_striker: SW Bates
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 6.5:
+        non_striker: SW Bates
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 6.6:
+        non_striker: SFM Devine
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 7.1:
+        non_striker: SW Bates
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 7.2:
+        non_striker: SFM Devine
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 7.3:
+        non_striker: SFM Devine
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 7.4:
+        non_striker: SW Bates
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 7.5:
+        non_striker: SW Bates
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 7.6:
+        non_striker: SFM Devine
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 8.1:
+        non_striker: SW Bates
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 8.2:
+        non_striker: SW Bates
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 8.3:
+        non_striker: SW Bates
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 8.4:
+        non_striker: SW Bates
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 8.5:
+        non_striker: SW Bates
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 8.6:
+        non_striker: SFM Devine
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 9.1:
+        non_striker: SW Bates
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 9.2:
+        non_striker: SW Bates
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 9.3:
+        non_striker: SW Bates
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 9.4:
+        non_striker: SFM Devine
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 9.5:
+        non_striker: SFM Devine
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 9.6:
+        non_striker: SW Bates
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 10.1:
+        non_striker: SFM Devine
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 10.2:
+        non_striker: SFM Devine
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 10.3:
+        non_striker: SFM Devine
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SW Bates
+    - 10.4:
+        non_striker: SW Bates
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 10.5:
+        non_striker: SW Bates
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 10.6:
+        non_striker: SFM Devine
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 11.1:
+        non_striker: SW Bates
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 11.2:
+        non_striker: SFM Devine
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 11.3:
+        non_striker: SFM Devine
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 11.4:
+        non_striker: SFM Devine
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 11.5:
+        non_striker: SFM Devine
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 11.6:
+        non_striker: SFM Devine
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 12.1:
+        non_striker: SW Bates
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 12.2:
+        non_striker: SFM Devine
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 12.3:
+        non_striker: SW Bates
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SFM Devine
+    - 12.4:
+        non_striker: SW Bates
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 12.5:
+        non_striker: SFM Devine
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 12.6:
+        non_striker: SFM Devine
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 13.1:
+        non_striker: SFM Devine
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 13.2:
+        non_striker: SW Bates
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 13.3:
+        non_striker: SW Bates
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 13.4:
+        non_striker: SFM Devine
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 13.5:
+        non_striker: SFM Devine
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 13.6:
+        non_striker: SW Bates
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 14.1:
+        non_striker: SW Bates
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 14.2:
+        non_striker: SFM Devine
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 14.3:
+        non_striker: SFM Devine
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 14.4:
+        non_striker: SW Bates
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 14.5:
+        non_striker: SW Bates
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 14.6:
+        non_striker: SW Bates
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 15.1:
+        non_striker: SW Bates
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 15.2:
+        non_striker: SFM Devine
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 15.3:
+        non_striker: SFM Devine
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 15.4:
+        non_striker: SFM Devine
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 15.5:
+        non_striker: SFM Devine
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 15.6:
+        non_striker: SW Bates
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 16.1:
+        non_striker: SW Bates
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 16.2:
+        non_striker: SW Bates
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 16.3:
+        non_striker: SW Bates
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 16.4:
+        non_striker: SFM Devine
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 16.5:
+        non_striker: SW Bates
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SFM Devine
+    - 16.6:
+        non_striker: SW Bates
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 17.1:
+        non_striker: SFM Devine
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 17.2:
+        non_striker: SFM Devine
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 17.3:
+        non_striker: SFM Devine
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 17.4:
+        non_striker: SW Bates
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+        wicket:
+          player_out: SFM Devine
+          kind: lbw
+    - 17.5:
+        non_striker: SW Bates
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 17.6:
+        non_striker: SW Bates
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 18.1:
+        non_striker: KT Perkins
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 18.2:
+        non_striker: KT Perkins
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 18.3:
+        non_striker: KT Perkins
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 18.4:
+        non_striker: SW Bates
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KT Perkins
+    - 18.5:
+        non_striker: SW Bates
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 18.6:
+        non_striker: SW Bates
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 19.1:
+        non_striker: KT Perkins
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 19.2:
+        non_striker: KT Perkins
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 19.3:
+        non_striker: SW Bates
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 19.4:
+        non_striker: SW Bates
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 19.5:
+        non_striker: SW Bates
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 19.6:
+        non_striker: SW Bates
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 20.1:
+        non_striker: KT Perkins
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 20.2:
+        non_striker: KT Perkins
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 20.3:
+        non_striker: SW Bates
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KT Perkins
+    - 20.4:
+        non_striker: SW Bates
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 20.5:
+        non_striker: SW Bates
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 20.6:
+        non_striker: KT Perkins
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 21.1:
+        non_striker: KT Perkins
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 21.2:
+        non_striker: SW Bates
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 21.3:
+        non_striker: KT Perkins
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 21.4:
+        non_striker: SW Bates
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 21.5:
+        non_striker: SW Bates
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KT Perkins
+    - 21.6:
+        non_striker: SW Bates
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 22.1:
+        non_striker: KT Perkins
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 22.2:
+        non_striker: SW Bates
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 22.3:
+        non_striker: KT Perkins
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 22.4:
+        non_striker: SW Bates
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+        wicket:
+          player_out: KT Perkins
+          fielders:
+          - T Chetty
+          kind: stumped
+    - 22.5:
+        non_striker: SW Bates
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 22.6:
+        non_striker: KJ Martin
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 23.1:
+        non_striker: KJ Martin
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 23.2:
+        non_striker: SW Bates
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 23.3:
+        non_striker: SW Bates
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Martin
+    - 23.4:
+        non_striker: SW Bates
+        bowler: D van Niekerk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KJ Martin
+    - 23.5:
+        non_striker: SW Bates
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 23.6:
+        non_striker: KJ Martin
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 23.7:
+        non_striker: SW Bates
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 24.1:
+        non_striker: KJ Martin
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+        wicket:
+          player_out: SW Bates
+          fielders:
+          - CL Tryon
+          kind: caught
+    - 24.2:
+        non_striker: KJ Martin
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 24.3:
+        non_striker: AC Kerr
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 24.4:
+        non_striker: KJ Martin
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 24.5:
+        non_striker: AC Kerr
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 24.6:
+        non_striker: AC Kerr
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 25.1:
+        non_striker: AC Kerr
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 25.2:
+        non_striker: AC Kerr
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 25.3:
+        non_striker: AC Kerr
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 25.4:
+        non_striker: KJ Martin
+        bowler: D van Niekerk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AC Kerr
+    - 25.5:
+        non_striker: AC Kerr
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 25.6:
+        non_striker: AC Kerr
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 26.1:
+        non_striker: KJ Martin
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 26.2:
+        non_striker: AC Kerr
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 26.3:
+        non_striker: KJ Martin
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 26.4:
+        non_striker: KJ Martin
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 26.5:
+        non_striker: KJ Martin
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 26.6:
+        non_striker: AC Kerr
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 27.1:
+        non_striker: AC Kerr
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 27.2:
+        non_striker: AC Kerr
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 27.3:
+        non_striker: KJ Martin
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 27.4:
+        non_striker: AC Kerr
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 27.5:
+        non_striker: AC Kerr
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 27.6:
+        non_striker: AC Kerr
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ Martin
+    - 28.1:
+        non_striker: KJ Martin
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 28.2:
+        non_striker: AC Kerr
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 28.3:
+        non_striker: AC Kerr
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 28.4:
+        non_striker: AC Kerr
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 28.5:
+        non_striker: KJ Martin
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 28.6:
+        non_striker: AC Kerr
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 29.1:
+        non_striker: AC Kerr
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 29.2:
+        non_striker: KJ Martin
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 29.3:
+        non_striker: AC Kerr
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 29.4:
+        non_striker: AC Kerr
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 29.5:
+        non_striker: AC Kerr
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 29.6:
+        non_striker: AC Kerr
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 30.1:
+        non_striker: AC Kerr
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 30.2:
+        non_striker: AC Kerr
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 30.3:
+        non_striker: KJ Martin
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 30.4:
+        non_striker: AC Kerr
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 30.5:
+        non_striker: AC Kerr
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 30.6:
+        non_striker: KJ Martin
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 31.1:
+        non_striker: KJ Martin
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 31.2:
+        non_striker: KJ Martin
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 31.3:
+        non_striker: AC Kerr
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 31.4:
+        non_striker: AC Kerr
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 31.5:
+        non_striker: KJ Martin
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 31.6:
+        non_striker: KJ Martin
+        bowler: D van Niekerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 32.1:
+        non_striker: KJ Martin
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 32.2:
+        non_striker: KJ Martin
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+        wicket:
+          player_out: AC Kerr
+          fielders:
+          - T Chetty
+          kind: stumped
+    - 32.3:
+        non_striker: KJ Martin
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+    - 32.4:
+        non_striker: KJ Martin
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HNK Jensen
+        wicket:
+          player_out: HNK Jensen
+          fielders:
+          - T Chetty
+          kind: stumped
+    - 32.5:
+        non_striker: KJ Martin
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LM Kasperek
+    - 32.6:
+        non_striker: KJ Martin
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 33.1:
+        non_striker: LM Kasperek
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 33.2:
+        non_striker: KJ Martin
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 33.3:
+        non_striker: KJ Martin
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 33.4:
+        non_striker: KJ Martin
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 33.5:
+        non_striker: KJ Martin
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 33.6:
+        non_striker: KJ Martin
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 34.1:
+        non_striker: LM Kasperek
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 34.2:
+        non_striker: KJ Martin
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 34.3:
+        non_striker: KJ Martin
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 34.4:
+        non_striker: LM Kasperek
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 34.5:
+        non_striker: LM Kasperek
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 34.6:
+        non_striker: LM Kasperek
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 35.1:
+        non_striker: LM Kasperek
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 35.2:
+        non_striker: KJ Martin
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 35.3:
+        non_striker: LM Kasperek
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 35.4:
+        non_striker: LM Kasperek
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 35.5:
+        non_striker: LM Kasperek
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 35.6:
+        non_striker: LM Kasperek
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 36.1:
+        non_striker: KJ Martin
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 36.2:
+        non_striker: LM Kasperek
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+        wicket:
+          player_out: KJ Martin
+          kind: bowled
+    - 36.3:
+        non_striker: LM Kasperek
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+        wicket:
+          player_out: JM Kerr
+          fielders:
+          - M Kapp
+          kind: caught
+    - 36.4:
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: RA Mair
+        batsman: LM Kasperek
+    - 36.5:
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RA Mair
+        batsman: LM Kasperek
+    - 36.6:
+        non_striker: RA Mair
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 37.1:
+        non_striker: LM Kasperek
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Mair
+    - 37.2:
+        non_striker: RA Mair
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 37.3:
+        non_striker: RA Mair
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 37.4:
+        non_striker: RA Mair
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 37.5:
+        non_striker: LM Kasperek
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Mair
+    - 37.6:
+        non_striker: LM Kasperek
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Mair
+    - 38.1:
+        non_striker: RA Mair
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+        wicket:
+          player_out: RA Mair
+          kind: run out
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Wolvaardt
+        batsman: L Lee
+    - 0.2:
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Wolvaardt
+        batsman: L Lee
+    - 0.3:
+        non_striker: L Lee
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 0.4:
+        non_striker: L Lee
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 0.5:
+        non_striker: L Lee
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 0.6:
+        non_striker: L Lee
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 1.1:
+        non_striker: L Wolvaardt
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Lee
+    - 1.2:
+        non_striker: L Wolvaardt
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 1.3:
+        non_striker: L Wolvaardt
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 1.4:
+        non_striker: L Wolvaardt
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 1.5:
+        non_striker: L Wolvaardt
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 1.6:
+        non_striker: L Wolvaardt
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 2.1:
+        non_striker: L Lee
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 2.2:
+        non_striker: L Lee
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Wolvaardt
+    - 2.3:
+        non_striker: L Lee
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 2.4:
+        non_striker: L Lee
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 2.5:
+        non_striker: L Lee
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 2.6:
+        non_striker: L Lee
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 3.1:
+        non_striker: L Wolvaardt
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 3.2:
+        non_striker: L Wolvaardt
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 3.3:
+        non_striker: L Wolvaardt
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 3.4:
+        non_striker: L Lee
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 3.5:
+        non_striker: L Lee
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 3.6:
+        non_striker: L Lee
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 4.1:
+        non_striker: L Wolvaardt
+        bowler: RA Mair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Lee
+    - 4.2:
+        non_striker: L Wolvaardt
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 4.3:
+        non_striker: L Wolvaardt
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 4.4:
+        non_striker: L Wolvaardt
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lee
+    - 4.5:
+        non_striker: L Wolvaardt
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lee
+    - 4.6:
+        non_striker: L Wolvaardt
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 4.7:
+        non_striker: L Wolvaardt
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 5.1:
+        non_striker: L Lee
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 5.2:
+        non_striker: L Lee
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 5.3:
+        non_striker: L Lee
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 5.4:
+        non_striker: L Lee
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 5.5:
+        non_striker: L Lee
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 5.6:
+        non_striker: L Lee
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 6.1:
+        non_striker: L Wolvaardt
+        bowler: JM Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Lee
+    - 6.2:
+        non_striker: L Wolvaardt
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 6.3:
+        non_striker: L Wolvaardt
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lee
+    - 6.4:
+        non_striker: L Wolvaardt
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 6.5:
+        non_striker: L Wolvaardt
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 6.6:
+        non_striker: L Wolvaardt
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lee
+    - 6.7:
+        non_striker: L Wolvaardt
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+        wicket:
+          player_out: L Lee
+          fielders:
+          - SW Bates
+          kind: caught
+    - 7.1:
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Luus
+        batsman: L Wolvaardt
+    - 7.2:
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Luus
+        batsman: L Wolvaardt
+    - 7.3:
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Luus
+        batsman: L Wolvaardt
+    - 7.4:
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Luus
+        batsman: L Wolvaardt
+    - 7.5:
+        non_striker: L Wolvaardt
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 7.6:
+        non_striker: L Wolvaardt
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Luus
+    - 7.7:
+        non_striker: L Wolvaardt
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 8.1:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 8.2:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 8.3:
+        non_striker: S Luus
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 8.4:
+        non_striker: S Luus
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 8.5:
+        non_striker: S Luus
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 8.6:
+        non_striker: S Luus
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 9.1:
+        non_striker: L Wolvaardt
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 9.2:
+        non_striker: L Wolvaardt
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 9.3:
+        non_striker: L Wolvaardt
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 9.4:
+        non_striker: L Wolvaardt
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 9.5:
+        non_striker: L Wolvaardt
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 9.6:
+        non_striker: L Wolvaardt
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 10.1:
+        non_striker: L Wolvaardt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 10.2:
+        non_striker: L Wolvaardt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 10.3:
+        non_striker: L Wolvaardt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 10.4:
+        non_striker: L Wolvaardt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 10.5:
+        non_striker: L Wolvaardt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Luus
+    - 10.6:
+        non_striker: L Wolvaardt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 11.1:
+        non_striker: S Luus
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Wolvaardt
+    - 11.2:
+        non_striker: S Luus
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 11.3:
+        non_striker: S Luus
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 11.4:
+        non_striker: S Luus
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 11.5:
+        non_striker: S Luus
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 11.6:
+        non_striker: S Luus
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 12.1:
+        non_striker: L Wolvaardt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 12.2:
+        non_striker: L Wolvaardt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 12.3:
+        non_striker: L Wolvaardt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 12.4:
+        non_striker: L Wolvaardt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 12.5:
+        non_striker: L Wolvaardt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 12.6:
+        non_striker: L Wolvaardt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 13.1:
+        non_striker: S Luus
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 13.2:
+        non_striker: S Luus
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 13.3:
+        non_striker: S Luus
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 13.4:
+        non_striker: S Luus
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 13.5:
+        non_striker: S Luus
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 13.6:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 14.1:
+        non_striker: L Wolvaardt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 14.2:
+        non_striker: L Wolvaardt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 14.3:
+        non_striker: L Wolvaardt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 14.4:
+        non_striker: L Wolvaardt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 14.5:
+        non_striker: L Wolvaardt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 14.6:
+        non_striker: L Wolvaardt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 15.1:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 15.2:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 15.3:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 15.4:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+        wicket:
+          player_out: S Luus
+          fielders:
+          - LM Kasperek
+          kind: caught
+    - 15.5:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D van Niekerk
+    - 15.6:
+        non_striker: D van Niekerk
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 16.1:
+        non_striker: L Wolvaardt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D van Niekerk
+    - 16.2:
+        non_striker: L Wolvaardt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D van Niekerk
+    - 16.3:
+        non_striker: L Wolvaardt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D van Niekerk
+    - 16.4:
+        non_striker: L Wolvaardt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D van Niekerk
+    - 16.5:
+        non_striker: L Wolvaardt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D van Niekerk
+    - 16.6:
+        non_striker: L Wolvaardt
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D van Niekerk
+    - 17.1:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D van Niekerk
+    - 17.2:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D van Niekerk
+    - 17.3:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D van Niekerk
+    - 17.4:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D van Niekerk
+    - 17.5:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D van Niekerk
+    - 17.6:
+        non_striker: D van Niekerk
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 18.1:
+        non_striker: D van Niekerk
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 18.2:
+        non_striker: L Wolvaardt
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D van Niekerk
+    - 18.3:
+        non_striker: L Wolvaardt
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: D van Niekerk
+    - 18.4:
+        non_striker: D van Niekerk
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 18.5:
+        non_striker: D van Niekerk
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 18.6:
+        non_striker: D van Niekerk
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 19.1:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D van Niekerk
+    - 19.2:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D van Niekerk
+    - 19.3:
+        non_striker: D van Niekerk
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 19.4:
+        non_striker: D van Niekerk
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 19.5:
+        non_striker: L Wolvaardt
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D van Niekerk
+    - 19.6:
+        non_striker: D van Niekerk
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 20.1:
+        non_striker: D van Niekerk
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 20.2:
+        non_striker: D van Niekerk
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 20.3:
+        non_striker: D van Niekerk
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 20.4:
+        non_striker: D van Niekerk
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+        wicket:
+          player_out: L Wolvaardt
+          kind: caught and bowled
+    - 20.5:
+        non_striker: D van Niekerk
+        bowler: SFM Devine
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: M du Preez
+    - 20.6:
+        non_striker: D van Niekerk
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 21.1:
+        non_striker: D van Niekerk
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 21.2:
+        non_striker: D van Niekerk
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 21.3:
+        non_striker: M du Preez
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D van Niekerk
+    - 21.4:
+        non_striker: M du Preez
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D van Niekerk
+    - 21.5:
+        non_striker: D van Niekerk
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 21.6:
+        non_striker: D van Niekerk
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 22.1:
+        non_striker: D van Niekerk
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 22.2:
+        non_striker: D van Niekerk
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 22.3:
+        non_striker: D van Niekerk
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 22.4:
+        non_striker: D van Niekerk
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 22.5:
+        non_striker: D van Niekerk
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 22.6:
+        non_striker: D van Niekerk
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 23.1:
+        non_striker: M du Preez
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D van Niekerk
+    - 23.2:
+        non_striker: M du Preez
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D van Niekerk
+    - 23.3:
+        non_striker: D van Niekerk
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 23.4:
+        non_striker: M du Preez
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D van Niekerk
+    - 23.5:
+        non_striker: D van Niekerk
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 23.6:
+        non_striker: D van Niekerk
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 24.1:
+        non_striker: D van Niekerk
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 24.2:
+        non_striker: D van Niekerk
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 24.3:
+        non_striker: D van Niekerk
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 24.4:
+        non_striker: D van Niekerk
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 24.5:
+        non_striker: D van Niekerk
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 24.6:
+        non_striker: D van Niekerk
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 25.1:
+        non_striker: M du Preez
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D van Niekerk
+    - 25.2:
+        non_striker: M du Preez
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D van Niekerk
+    - 25.3:
+        non_striker: M du Preez
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D van Niekerk
+    - 25.4:
+        non_striker: D van Niekerk
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 25.5:
+        non_striker: M du Preez
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D van Niekerk
+    - 25.6:
+        non_striker: D van Niekerk
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 26.1:
+        non_striker: M du Preez
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D van Niekerk
+    - 26.2:
+        non_striker: M du Preez
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D van Niekerk
+    - 26.3:
+        non_striker: M du Preez
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D van Niekerk
+    - 26.4:
+        non_striker: M du Preez
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D van Niekerk
+    - 26.5:
+        non_striker: M du Preez
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D van Niekerk
+    - 26.6:
+        non_striker: M du Preez
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D van Niekerk
+    - 27.1:
+        non_striker: M du Preez
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D van Niekerk
+    - 27.2:
+        non_striker: M du Preez
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D van Niekerk
+    - 27.3:
+        non_striker: M du Preez
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D van Niekerk
+    - 27.4:
+        non_striker: D van Niekerk
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 27.5:
+        non_striker: D van Niekerk
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 27.6:
+        non_striker: M du Preez
+        bowler: HNK Jensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D van Niekerk
+    - 28.1:
+        non_striker: M du Preez
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D van Niekerk
+    - 28.2:
+        non_striker: M du Preez
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D van Niekerk
+    - 28.3:
+        non_striker: M du Preez
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D van Niekerk
+    - 28.4:
+        non_striker: M du Preez
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D van Niekerk
+        wicket:
+          player_out: D van Niekerk
+          fielders:
+          - SW Bates
+          kind: caught
+    - 28.5:
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Kapp
+        batsman: M du Preez
+    - 28.6:
+        non_striker: M Kapp
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 29.1:
+        non_striker: M Kapp
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 29.2:
+        non_striker: M Kapp
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 29.3:
+        non_striker: M Kapp
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 29.4:
+        non_striker: M du Preez
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 29.5:
+        non_striker: M du Preez
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 29.6:
+        non_striker: M Kapp
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 30.1:
+        non_striker: M du Preez
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 30.2:
+        non_striker: M du Preez
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 30.3:
+        non_striker: M du Preez
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 30.4:
+        non_striker: M du Preez
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 30.5:
+        non_striker: M du Preez
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 30.6:
+        non_striker: M du Preez
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 31.1:
+        non_striker: M du Preez
+        bowler: AC Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Kapp
+    - 31.2:
+        non_striker: M du Preez
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 31.3:
+        non_striker: M du Preez
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 31.4:
+        non_striker: M du Preez
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 31.5:
+        non_striker: M du Preez
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 31.6:
+        non_striker: M du Preez
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 31.7:
+        non_striker: M du Preez
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 32.1:
+        non_striker: M Kapp
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 32.2:
+        non_striker: M Kapp
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 32.3:
+        non_striker: M Kapp
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 32.4:
+        non_striker: M Kapp
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 32.5:
+        non_striker: M Kapp
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 32.6:
+        non_striker: M Kapp
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 33.1:
+        non_striker: M du Preez
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 33.2:
+        non_striker: M du Preez
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 33.3:
+        non_striker: M du Preez
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 33.4:
+        non_striker: M Kapp
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 33.5:
+        non_striker: M Kapp
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 33.6:
+        non_striker: M Kapp
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 34.1:
+        non_striker: M du Preez
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 34.2:
+        non_striker: M du Preez
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 34.3:
+        non_striker: M du Preez
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 34.4:
+        non_striker: M du Preez
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 34.5:
+        non_striker: M du Preez
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kapp
+    - 34.6:
+        non_striker: M du Preez
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 35.1:
+        non_striker: M Kapp
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 35.2:
+        non_striker: M Kapp
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 35.3:
+        non_striker: M du Preez
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 35.4:
+        non_striker: M Kapp
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 35.5:
+        non_striker: M Kapp
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 35.6:
+        non_striker: M Kapp
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 36.1:
+        non_striker: M du Preez
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 36.2:
+        non_striker: M du Preez
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 36.3:
+        non_striker: M du Preez
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 36.4:
+        non_striker: M du Preez
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 36.5:
+        non_striker: M du Preez
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 36.6:
+        non_striker: M du Preez
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 37.1:
+        non_striker: M Kapp
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 37.2:
+        non_striker: M Kapp
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez

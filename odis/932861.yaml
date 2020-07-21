@@ -1,0 +1,107 @@
+---
+meta:
+  data_version: 0.9
+  created: 2016-06-20
+  revision: 1
+info:
+  city: Barbados
+  dates:
+    - 2016-06-19
+  gender: male
+  match_type: ODI
+  neutral_venue: 1
+  outcome:
+    result: no result
+  overs: 50
+  teams:
+    - Australia
+    - South Africa
+  toss:
+    decision: field
+    winner: Australia
+  umpires:
+    - HDPK Dharmasena
+    - JS Wilson
+  venue: 'Kensington Oval, Bridgetown'
+innings:
+  - 1st innings:
+      team: South Africa
+      deliveries:
+        - 0.1:
+            batsman: Q de Kock
+            bowler: MA Starc
+            extras:
+              wides: 1
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.2:
+            batsman: Q de Kock
+            bowler: MA Starc
+            non_striker: HM Amla
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.3:
+            batsman: Q de Kock
+            bowler: MA Starc
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: Q de Kock
+            bowler: MA Starc
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: Q de Kock
+            bowler: MA Starc
+            extras:
+              wides: 1
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.6:
+            batsman: Q de Kock
+            bowler: MA Starc
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.7:
+            batsman: Q de Kock
+            bowler: MA Starc
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.8:
+            batsman: HM Amla
+            bowler: MA Starc
+            extras:
+              wides: 1
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.9:
+            batsman: HM Amla
+            bowler: MA Starc
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0

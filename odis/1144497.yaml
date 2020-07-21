@@ -1,0 +1,409 @@
+---
+meta:
+  data_version: 0.9
+  created: '2019-06-10'
+  revision: 1
+info:
+  venue: The Rose Bowl
+  dates:
+  - '2019-06-10'
+  gender: male
+  teams:
+  - South Africa
+  - West Indies
+  outcome:
+    result: no result
+  toss:
+    decision: field
+    winner: West Indies
+  match_type: ODI
+  match_type_number: 4156
+  overs: 50
+  city: Southampton
+  umpires:
+  - P Wilson
+  - RJ Tucker
+innings:
+- 1st innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: HM Amla
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.2:
+        non_striker: HM Amla
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.3:
+        non_striker: HM Amla
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.4:
+        non_striker: HM Amla
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 0.5:
+        non_striker: HM Amla
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 0.6:
+        non_striker: Q de Kock
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Amla
+    - 1.1:
+        non_striker: HM Amla
+        bowler: KAJ Roach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.2:
+        non_striker: HM Amla
+        bowler: KAJ Roach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 1.3:
+        non_striker: HM Amla
+        bowler: KAJ Roach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 1.4:
+        non_striker: Q de Kock
+        bowler: KAJ Roach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Amla
+    - 1.5:
+        non_striker: Q de Kock
+        bowler: KAJ Roach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Amla
+    - 1.6:
+        non_striker: Q de Kock
+        bowler: KAJ Roach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Amla
+    - 2.1:
+        non_striker: HM Amla
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.2:
+        non_striker: HM Amla
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Q de Kock
+    - 2.3:
+        non_striker: Q de Kock
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Amla
+    - 2.4:
+        non_striker: Q de Kock
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Amla
+    - 2.5:
+        non_striker: Q de Kock
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Amla
+        wicket:
+          player_out: HM Amla
+          fielders:
+          - CH Gayle
+          kind: caught
+    - 2.6:
+        non_striker: Q de Kock
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 3.1:
+        non_striker: AK Markram
+        bowler: KAJ Roach
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Q de Kock
+    - 3.2:
+        non_striker: AK Markram
+        bowler: KAJ Roach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.3:
+        non_striker: AK Markram
+        bowler: KAJ Roach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 3.4:
+        non_striker: Q de Kock
+        bowler: KAJ Roach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 3.5:
+        non_striker: Q de Kock
+        bowler: KAJ Roach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 3.6:
+        non_striker: Q de Kock
+        bowler: KAJ Roach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 3.7:
+        non_striker: Q de Kock
+        bowler: KAJ Roach
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Markram
+    - 4.1:
+        non_striker: AK Markram
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 4.2:
+        non_striker: AK Markram
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 4.3:
+        non_striker: AK Markram
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 4.4:
+        non_striker: AK Markram
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 4.5:
+        non_striker: AK Markram
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 4.6:
+        non_striker: AK Markram
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 5.1:
+        non_striker: Q de Kock
+        bowler: KAJ Roach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 5.2:
+        non_striker: Q de Kock
+        bowler: KAJ Roach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 5.3:
+        non_striker: Q de Kock
+        bowler: KAJ Roach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 5.4:
+        non_striker: Q de Kock
+        bowler: KAJ Roach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 5.5:
+        non_striker: AK Markram
+        bowler: KAJ Roach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 5.6:
+        non_striker: AK Markram
+        bowler: KAJ Roach
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 6.1:
+        non_striker: Q de Kock
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+        wicket:
+          player_out: AK Markram
+          fielders:
+          - SD Hope
+          kind: caught
+    - 6.2:
+        non_striker: Q de Kock
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 6.3:
+        non_striker: Q de Kock
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 6.4:
+        non_striker: Q de Kock
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 6.5:
+        non_striker: Q de Kock
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 6.6:
+        non_striker: Q de Kock
+        bowler: SS Cottrell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 7.1:
+        non_striker: F du Plessis
+        bowler: O Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 7.2:
+        non_striker: Q de Kock
+        bowler: O Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 7.3:
+        non_striker: Q de Kock
+        bowler: O Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis

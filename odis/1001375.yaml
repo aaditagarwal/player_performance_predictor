@@ -1,0 +1,4424 @@
+---
+meta:
+  data_version: 0.9
+  created: 2016-12-11
+  revision: 1
+info:
+  dates:
+    - 2016-12-09
+  gender: male
+  match_type: ODI
+  outcome:
+    by:
+      runs: 117
+    winner: Australia
+  overs: 50
+  player_of_match:
+    - DA Warner
+  teams:
+    - Australia
+    - New Zealand
+  toss:
+    decision: bat
+    winner: Australia
+  umpires:
+    - NJ Llong
+    - MD Martell
+  venue: Melbourne Cricket Ground
+innings:
+  - 1st innings:
+      team: Australia
+      deliveries:
+        - 0.1:
+            batsman: DA Warner
+            bowler: TG Southee
+            extras:
+              wides: 1
+            non_striker: AJ Finch
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.2:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: AJ Finch
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.3:
+            batsman: AJ Finch
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: AJ Finch
+            bowler: TG Southee
+            extras:
+              wides: 1
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.5:
+            batsman: AJ Finch
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: AJ Finch
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 0.7:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: AJ Finch
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.8:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: AJ Finch
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: AJ Finch
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: AJ Finch
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: AJ Finch
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: AJ Finch
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: AJ Finch
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - HM Nicholls
+              kind: caught
+              player_out: AJ Finch
+        - 1.6:
+            batsman: SPD Smith
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: SPD Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: SPD Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: SPD Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: SPD Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: SPD Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: SPD Smith
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.1:
+            batsman: SPD Smith
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: SPD Smith
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: SPD Smith
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: SPD Smith
+            bowler: TA Boult
+            extras:
+              wides: 1
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 3.5:
+            batsman: SPD Smith
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: SPD Smith
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.7:
+            batsman: SPD Smith
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - HM Nicholls
+              kind: caught
+              player_out: SPD Smith
+        - 4.1:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: GJ Bailey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: GJ Bailey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: GJ Bailey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: GJ Bailey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: GJ Bailey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.6:
+            batsman: GJ Bailey
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.1:
+            batsman: DA Warner
+            bowler: TA Boult
+            extras:
+              legbyes: 1
+            non_striker: GJ Bailey
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.2:
+            batsman: GJ Bailey
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: GJ Bailey
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: GJ Bailey
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: GJ Bailey
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: GJ Bailey
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 6.1:
+            batsman: GJ Bailey
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: GJ Bailey
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: GJ Bailey
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.4:
+            batsman: GJ Bailey
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: GJ Bailey
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: GJ Bailey
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.1:
+            batsman: DA Warner
+            bowler: TA Boult
+            non_striker: GJ Bailey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: DA Warner
+            bowler: TA Boult
+            non_striker: GJ Bailey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: DA Warner
+            bowler: TA Boult
+            non_striker: GJ Bailey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.4:
+            batsman: GJ Bailey
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: GJ Bailey
+            bowler: TA Boult
+            extras:
+              wides: 1
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 7.6:
+            batsman: GJ Bailey
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.7:
+            batsman: GJ Bailey
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: GJ Bailey
+            bowler: LH Ferguson
+            extras:
+              noballs: 1
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 8.2:
+            batsman: GJ Bailey
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: GJ Bailey
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: GJ Bailey
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: GJ Bailey
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: GJ Bailey
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.7:
+            batsman: GJ Bailey
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: DA Warner
+            bowler: TA Boult
+            non_striker: GJ Bailey
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.2:
+            batsman: DA Warner
+            bowler: TA Boult
+            non_striker: GJ Bailey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: DA Warner
+            bowler: TA Boult
+            non_striker: GJ Bailey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.4:
+            batsman: GJ Bailey
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: GJ Bailey
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.6:
+            batsman: GJ Bailey
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: DA Warner
+            bowler: LH Ferguson
+            non_striker: GJ Bailey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.2:
+            batsman: DA Warner
+            bowler: LH Ferguson
+            non_striker: GJ Bailey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.3:
+            batsman: GJ Bailey
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.4:
+            batsman: DA Warner
+            bowler: LH Ferguson
+            non_striker: GJ Bailey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: DA Warner
+            bowler: LH Ferguson
+            extras:
+              wides: 1
+            non_striker: GJ Bailey
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 10.6:
+            batsman: DA Warner
+            bowler: LH Ferguson
+            non_striker: GJ Bailey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.7:
+            batsman: DA Warner
+            bowler: LH Ferguson
+            non_striker: GJ Bailey
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 11.1:
+            batsman: GJ Bailey
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: DA Warner
+            bowler: MJ Santner
+            non_striker: GJ Bailey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.3:
+            batsman: DA Warner
+            bowler: MJ Santner
+            non_striker: GJ Bailey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.4:
+            batsman: DA Warner
+            bowler: MJ Santner
+            non_striker: GJ Bailey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: DA Warner
+            bowler: MJ Santner
+            non_striker: GJ Bailey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.6:
+            batsman: GJ Bailey
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.1:
+            batsman: GJ Bailey
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.2:
+            batsman: GJ Bailey
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 12.3:
+            batsman: GJ Bailey
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 12.4:
+            batsman: GJ Bailey
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: DA Warner
+            bowler: LH Ferguson
+            non_striker: GJ Bailey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.6:
+            batsman: DA Warner
+            bowler: LH Ferguson
+            non_striker: GJ Bailey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: DA Warner
+            bowler: MJ Santner
+            non_striker: GJ Bailey
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 13.2:
+            batsman: DA Warner
+            bowler: MJ Santner
+            non_striker: GJ Bailey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: DA Warner
+            bowler: MJ Santner
+            non_striker: GJ Bailey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.4:
+            batsman: GJ Bailey
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: DA Warner
+            bowler: MJ Santner
+            non_striker: GJ Bailey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.6:
+            batsman: GJ Bailey
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: DA Warner
+            bowler: LH Ferguson
+            non_striker: GJ Bailey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.2:
+            batsman: GJ Bailey
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: GJ Bailey
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: GJ Bailey
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.5:
+            batsman: GJ Bailey
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.6:
+            batsman: GJ Bailey
+            bowler: LH Ferguson
+            extras:
+              wides: 1
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 14.7:
+            batsman: GJ Bailey
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: GJ Bailey
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.2:
+            batsman: DA Warner
+            bowler: MJ Santner
+            non_striker: GJ Bailey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.3:
+            batsman: GJ Bailey
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.4:
+            batsman: GJ Bailey
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: GJ Bailey
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.6:
+            batsman: GJ Bailey
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.1:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: GJ Bailey
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 16.2:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: GJ Bailey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.3:
+            batsman: GJ Bailey
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.4:
+            batsman: GJ Bailey
+            bowler: C de Grandhomme
+            extras:
+              wides: 1
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 16.5:
+            batsman: GJ Bailey
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.6:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: GJ Bailey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.7:
+            batsman: GJ Bailey
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.1:
+            batsman: DA Warner
+            bowler: MJ Santner
+            non_striker: GJ Bailey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.2:
+            batsman: GJ Bailey
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.3:
+            batsman: GJ Bailey
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.4:
+            batsman: DA Warner
+            bowler: MJ Santner
+            non_striker: GJ Bailey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.5:
+            batsman: DA Warner
+            bowler: MJ Santner
+            non_striker: GJ Bailey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.6:
+            batsman: GJ Bailey
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.1:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: GJ Bailey
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.2:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: GJ Bailey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.3:
+            batsman: GJ Bailey
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MJ Santner
+              kind: caught
+              player_out: GJ Bailey
+        - 18.4:
+            batsman: MR Marsh
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.5:
+            batsman: MR Marsh
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: MR Marsh
+        - 18.6:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.1:
+            batsman: DA Warner
+            bowler: KS Williamson
+            non_striker: TM Head
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.2:
+            batsman: DA Warner
+            bowler: KS Williamson
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.3:
+            batsman: TM Head
+            bowler: KS Williamson
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.4:
+            batsman: DA Warner
+            bowler: KS Williamson
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.5:
+            batsman: TM Head
+            bowler: KS Williamson
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.6:
+            batsman: TM Head
+            bowler: KS Williamson
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.1:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.2:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.3:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.4:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.5:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.6:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.1:
+            batsman: TM Head
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.2:
+            batsman: TM Head
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.3:
+            batsman: TM Head
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.4:
+            batsman: TM Head
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.5:
+            batsman: TM Head
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.6:
+            batsman: TM Head
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.1:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: TM Head
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.2:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: TM Head
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.3:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            extras:
+              wides: 1
+            non_striker: TM Head
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 22.4:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.5:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.6:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.7:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.1:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: TM Head
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.2:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.3:
+            batsman: TM Head
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.4:
+            batsman: TM Head
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.5:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: TM Head
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 23.6:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: TM Head
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.1:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.2:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: TM Head
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.3:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.4:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.5:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: TM Head
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 24.6:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.1:
+            batsman: DA Warner
+            bowler: LH Ferguson
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.2:
+            batsman: TM Head
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.3:
+            batsman: DA Warner
+            bowler: LH Ferguson
+            non_striker: TM Head
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 25.4:
+            batsman: DA Warner
+            bowler: LH Ferguson
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.5:
+            batsman: TM Head
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.6:
+            batsman: TM Head
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.1:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: TM Head
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.2:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.3:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.4:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.5:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.6:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: TM Head
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 27.1:
+            batsman: TM Head
+            bowler: LH Ferguson
+            extras:
+              wides: 1
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 27.2:
+            batsman: TM Head
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 27.3:
+            batsman: TM Head
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.4:
+            batsman: TM Head
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.5:
+            batsman: DA Warner
+            bowler: LH Ferguson
+            non_striker: TM Head
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 27.6:
+            batsman: TM Head
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.7:
+            batsman: TM Head
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.1:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.2:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.3:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.4:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.5:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.6:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 29.1:
+            batsman: DA Warner
+            bowler: TA Boult
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.2:
+            batsman: TM Head
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.3:
+            batsman: TM Head
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.4:
+            batsman: TM Head
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.5:
+            batsman: DA Warner
+            bowler: TA Boult
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.6:
+            batsman: TM Head
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.1:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.2:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.3:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.4:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: TM Head
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 30.5:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: TM Head
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.6:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.1:
+            batsman: DA Warner
+            bowler: TA Boult
+            non_striker: TM Head
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 31.2:
+            batsman: DA Warner
+            bowler: TA Boult
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.3:
+            batsman: TM Head
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 31.4:
+            batsman: TM Head
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.5:
+            batsman: TM Head
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.6:
+            batsman: DA Warner
+            bowler: TA Boult
+            non_striker: TM Head
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.1:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.2:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.3:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.4:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.5:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 32.6:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.1:
+            batsman: DA Warner
+            bowler: LH Ferguson
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.2:
+            batsman: TM Head
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.3:
+            batsman: TM Head
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.4:
+            batsman: DA Warner
+            bowler: LH Ferguson
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.5:
+            batsman: TM Head
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 33.6:
+            batsman: TM Head
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.1:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: TM Head
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.2:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.3:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.4:
+            batsman: TM Head
+            bowler: C de Grandhomme
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.5:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: TM Head
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 34.6:
+            batsman: DA Warner
+            bowler: C de Grandhomme
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.1:
+            batsman: DA Warner
+            bowler: MJ Santner
+            non_striker: TM Head
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 35.2:
+            batsman: DA Warner
+            bowler: MJ Santner
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.3:
+            batsman: TM Head
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.4:
+            batsman: DA Warner
+            bowler: MJ Santner
+            non_striker: TM Head
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.5:
+            batsman: DA Warner
+            bowler: MJ Santner
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.6:
+            batsman: TM Head
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.1:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.2:
+            batsman: TM Head
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.3:
+            batsman: TM Head
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.4:
+            batsman: TM Head
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.5:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: TM Head
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.6:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: TM Head
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 37.1:
+            batsman: TM Head
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.2:
+            batsman: DA Warner
+            bowler: MJ Santner
+            non_striker: TM Head
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 37.3:
+            batsman: DA Warner
+            bowler: MJ Santner
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.4:
+            batsman: TM Head
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.5:
+            batsman: DA Warner
+            bowler: MJ Santner
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.6:
+            batsman: TM Head
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.1:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: TM Head
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.2:
+            batsman: TM Head
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.3:
+            batsman: TM Head
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.4:
+            batsman: TM Head
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.5:
+            batsman: TM Head
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 38.6:
+            batsman: TM Head
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.1:
+            batsman: TM Head
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: TM Head
+        - 39.2:
+            batsman: MS Wade
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.3:
+            batsman: MS Wade
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.4:
+            batsman: MS Wade
+            bowler: MJ Santner
+            extras:
+              wides: 1
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 39.5:
+            batsman: MS Wade
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.6:
+            batsman: MS Wade
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.7:
+            batsman: MS Wade
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 40.1:
+            batsman: DA Warner
+            bowler: C Munro
+            non_striker: MS Wade
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.2:
+            batsman: MS Wade
+            bowler: C Munro
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.3:
+            batsman: MS Wade
+            bowler: C Munro
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.4:
+            batsman: MS Wade
+            bowler: C Munro
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.5:
+            batsman: DA Warner
+            bowler: C Munro
+            non_striker: MS Wade
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.6:
+            batsman: MS Wade
+            bowler: C Munro
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.1:
+            batsman: MS Wade
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.2:
+            batsman: MS Wade
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.3:
+            batsman: DA Warner
+            bowler: MJ Santner
+            non_striker: MS Wade
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 41.4:
+            batsman: DA Warner
+            bowler: MJ Santner
+            non_striker: MS Wade
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.5:
+            batsman: DA Warner
+            bowler: MJ Santner
+            non_striker: MS Wade
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 41.6:
+            batsman: DA Warner
+            bowler: MJ Santner
+            non_striker: MS Wade
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.1:
+            batsman: MS Wade
+            bowler: C Munro
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.2:
+            batsman: DA Warner
+            bowler: C Munro
+            non_striker: MS Wade
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 42.3:
+            batsman: DA Warner
+            bowler: C Munro
+            non_striker: MS Wade
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 42.4:
+            batsman: DA Warner
+            bowler: C Munro
+            non_striker: MS Wade
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.5:
+            batsman: MS Wade
+            bowler: C Munro
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.6:
+            batsman: MS Wade
+            bowler: C Munro
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.1:
+            batsman: MS Wade
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.2:
+            batsman: DA Warner
+            bowler: TA Boult
+            non_striker: MS Wade
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 43.3:
+            batsman: DA Warner
+            bowler: TA Boult
+            non_striker: MS Wade
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.4:
+            batsman: MS Wade
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 43.5:
+            batsman: MS Wade
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.6:
+            batsman: MS Wade
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.1:
+            batsman: MS Wade
+            bowler: LH Ferguson
+            extras:
+              noballs: 1
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 1
+              total: 2
+        - 44.2:
+            batsman: DA Warner
+            bowler: LH Ferguson
+            non_striker: MS Wade
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 44.3:
+            batsman: DA Warner
+            bowler: LH Ferguson
+            non_striker: MS Wade
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.4:
+            batsman: MS Wade
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.5:
+            batsman: DA Warner
+            bowler: LH Ferguson
+            non_striker: MS Wade
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.6:
+            batsman: MS Wade
+            bowler: LH Ferguson
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.7:
+            batsman: DA Warner
+            bowler: LH Ferguson
+            non_striker: MS Wade
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.1:
+            batsman: MS Wade
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.2:
+            batsman: MS Wade
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - C de Grandhomme
+              kind: caught
+              player_out: MS Wade
+        - 45.3:
+            batsman: DA Warner
+            bowler: MJ Santner
+            non_striker: JP Faulkner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.4:
+            batsman: JP Faulkner
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 45.5:
+            batsman: JP Faulkner
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.6:
+            batsman: JP Faulkner
+            bowler: MJ Santner
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.1:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: JP Faulkner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.2:
+            batsman: JP Faulkner
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.3:
+            batsman: DA Warner
+            bowler: TG Southee
+            extras:
+              wides: 1
+            non_striker: JP Faulkner
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 46.4:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: JP Faulkner
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 46.5:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: JP Faulkner
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 46.6:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: JP Faulkner
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 46.7:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: JP Faulkner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.1:
+            batsman: JP Faulkner
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.2:
+            batsman: JP Faulkner
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.3:
+            batsman: JP Faulkner
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 47.4:
+            batsman: DA Warner
+            bowler: TA Boult
+            non_striker: JP Faulkner
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 47.5:
+            batsman: DA Warner
+            bowler: TA Boult
+            non_striker: JP Faulkner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.6:
+            batsman: DA Warner
+            bowler: TA Boult
+            extras:
+              legbyes: 4
+            non_striker: JP Faulkner
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 48.1:
+            batsman: JP Faulkner
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.2:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: JP Faulkner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.3:
+            batsman: JP Faulkner
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.4:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: JP Faulkner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.5:
+            batsman: JP Faulkner
+            bowler: TG Southee
+            non_striker: DA Warner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.6:
+            batsman: DA Warner
+            bowler: TG Southee
+            non_striker: JP Faulkner
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 49.1:
+            batsman: JP Faulkner
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 49.2:
+            batsman: JP Faulkner
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 49.3:
+            batsman: JP Faulkner
+            bowler: TA Boult
+            non_striker: DA Warner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MJ Guptill
+              kind: caught
+              player_out: JP Faulkner
+        - 49.4:
+            batsman: DA Warner
+            bowler: TA Boult
+            non_striker: MA Starc
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 49.5:
+            batsman: DA Warner
+            bowler: TA Boult
+            non_striker: MA Starc
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 49.6:
+            batsman: DA Warner
+            bowler: TA Boult
+            non_striker: MA Starc
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - TA Boult
+              kind: run out
+              player_out: DA Warner
+  - 2nd innings:
+      team: New Zealand
+      deliveries:
+        - 0.1:
+            batsman: MJ Guptill
+            bowler: MA Starc
+            non_striker: TWM Latham
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: MJ Guptill
+            bowler: MA Starc
+            non_striker: TWM Latham
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: MJ Guptill
+            bowler: MA Starc
+            non_striker: TWM Latham
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: MJ Guptill
+            bowler: MA Starc
+            non_striker: TWM Latham
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.5:
+            batsman: TWM Latham
+            bowler: MA Starc
+            non_striker: MJ Guptill
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 0.6:
+            batsman: MJ Guptill
+            bowler: MA Starc
+            non_striker: TWM Latham
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: TWM Latham
+            bowler: JR Hazlewood
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: TWM Latham
+            bowler: JR Hazlewood
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: TWM Latham
+            bowler: JR Hazlewood
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: TWM Latham
+            bowler: JR Hazlewood
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: TWM Latham
+            bowler: JR Hazlewood
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: TWM Latham
+            bowler: JR Hazlewood
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.1:
+            batsman: TWM Latham
+            bowler: MA Starc
+            extras:
+              wides: 1
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.2:
+            batsman: TWM Latham
+            bowler: MA Starc
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: TWM Latham
+            bowler: MA Starc
+            extras:
+              wides: 1
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.4:
+            batsman: TWM Latham
+            bowler: MA Starc
+            non_striker: MJ Guptill
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.5:
+            batsman: TWM Latham
+            bowler: MA Starc
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: TWM Latham
+            bowler: MA Starc
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.7:
+            batsman: MJ Guptill
+            bowler: MA Starc
+            non_striker: TWM Latham
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.8:
+            batsman: MJ Guptill
+            bowler: MA Starc
+            non_striker: TWM Latham
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: TWM Latham
+            bowler: JR Hazlewood
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: TWM Latham
+            bowler: JR Hazlewood
+            non_striker: MJ Guptill
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.3:
+            batsman: TWM Latham
+            bowler: JR Hazlewood
+            non_striker: MJ Guptill
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 3.4:
+            batsman: TWM Latham
+            bowler: JR Hazlewood
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: TWM Latham
+            bowler: JR Hazlewood
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: TWM Latham
+            bowler: JR Hazlewood
+            extras:
+              wides: 1
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 3.7:
+            batsman: TWM Latham
+            bowler: JR Hazlewood
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: MJ Guptill
+            bowler: MA Starc
+            non_striker: TWM Latham
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: MJ Guptill
+            bowler: MA Starc
+            non_striker: TWM Latham
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 4.3:
+            batsman: TWM Latham
+            bowler: MA Starc
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: TWM Latham
+            bowler: MA Starc
+            non_striker: MJ Guptill
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 4.5:
+            batsman: TWM Latham
+            bowler: MA Starc
+            non_striker: MJ Guptill
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.6:
+            batsman: TWM Latham
+            bowler: MA Starc
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.1:
+            batsman: TWM Latham
+            bowler: JR Hazlewood
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: TWM Latham
+            bowler: JR Hazlewood
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: TWM Latham
+            bowler: JR Hazlewood
+            non_striker: MJ Guptill
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.4:
+            batsman: TWM Latham
+            bowler: JR Hazlewood
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.5:
+            batsman: MJ Guptill
+            bowler: JR Hazlewood
+            non_striker: TWM Latham
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: MJ Guptill
+            bowler: JR Hazlewood
+            non_striker: TWM Latham
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.1:
+            batsman: TWM Latham
+            bowler: PJ Cummins
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: TWM Latham
+            bowler: PJ Cummins
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.3:
+            batsman: MJ Guptill
+            bowler: PJ Cummins
+            non_striker: TWM Latham
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.4:
+            batsman: MJ Guptill
+            bowler: PJ Cummins
+            non_striker: TWM Latham
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: MJ Guptill
+            bowler: PJ Cummins
+            non_striker: TWM Latham
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.6:
+            batsman: MJ Guptill
+            bowler: PJ Cummins
+            non_striker: TWM Latham
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: MJ Guptill
+            bowler: JR Hazlewood
+            non_striker: TWM Latham
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 7.2:
+            batsman: TWM Latham
+            bowler: JR Hazlewood
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: TWM Latham
+            bowler: JR Hazlewood
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: TWM Latham
+            bowler: JR Hazlewood
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: TWM Latham
+            bowler: JR Hazlewood
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: MJ Guptill
+            bowler: JR Hazlewood
+            non_striker: TWM Latham
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.1:
+            batsman: TWM Latham
+            bowler: PJ Cummins
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: TWM Latham
+            bowler: PJ Cummins
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.3:
+            batsman: MJ Guptill
+            bowler: PJ Cummins
+            non_striker: TWM Latham
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: TWM Latham
+            bowler: PJ Cummins
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: TWM Latham
+            bowler: PJ Cummins
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: TWM Latham
+            bowler: PJ Cummins
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - JP Faulkner
+              kind: caught
+              player_out: TWM Latham
+        - 9.1:
+            batsman: MJ Guptill
+            bowler: JP Faulkner
+            non_striker: KS Williamson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.2:
+            batsman: MJ Guptill
+            bowler: JP Faulkner
+            non_striker: KS Williamson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: MJ Guptill
+            bowler: JP Faulkner
+            non_striker: KS Williamson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: MJ Guptill
+            bowler: JP Faulkner
+            non_striker: KS Williamson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: MJ Guptill
+            bowler: JP Faulkner
+            non_striker: KS Williamson
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.6:
+            batsman: MJ Guptill
+            bowler: JP Faulkner
+            non_striker: KS Williamson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: KS Williamson
+            bowler: PJ Cummins
+            extras:
+              wides: 1
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 10.2:
+            batsman: KS Williamson
+            bowler: PJ Cummins
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: KS Williamson
+            bowler: PJ Cummins
+            non_striker: MJ Guptill
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 10.4:
+            batsman: KS Williamson
+            bowler: PJ Cummins
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: KS Williamson
+            bowler: PJ Cummins
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.6:
+            batsman: KS Williamson
+            bowler: PJ Cummins
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.7:
+            batsman: MJ Guptill
+            bowler: PJ Cummins
+            non_striker: KS Williamson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: MJ Guptill
+            bowler: JP Faulkner
+            non_striker: KS Williamson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: MJ Guptill
+            bowler: JP Faulkner
+            non_striker: KS Williamson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.3:
+            batsman: KS Williamson
+            bowler: JP Faulkner
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: MJ Guptill
+            bowler: JP Faulkner
+            non_striker: KS Williamson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.5:
+            batsman: KS Williamson
+            bowler: JP Faulkner
+            non_striker: MJ Guptill
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 11.6:
+            batsman: KS Williamson
+            bowler: JP Faulkner
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.1:
+            batsman: KS Williamson
+            bowler: PJ Cummins
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: MJ Guptill
+            bowler: PJ Cummins
+            non_striker: KS Williamson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.3:
+            batsman: MJ Guptill
+            bowler: PJ Cummins
+            non_striker: KS Williamson
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.4:
+            batsman: MJ Guptill
+            bowler: PJ Cummins
+            non_striker: KS Williamson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.5:
+            batsman: MJ Guptill
+            bowler: PJ Cummins
+            non_striker: KS Williamson
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 12.6:
+            batsman: MJ Guptill
+            bowler: PJ Cummins
+            non_striker: KS Williamson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: MJ Guptill
+            bowler: JP Faulkner
+            non_striker: KS Williamson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.2:
+            batsman: MJ Guptill
+            bowler: JP Faulkner
+            non_striker: KS Williamson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.3:
+            batsman: KS Williamson
+            bowler: JP Faulkner
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.4:
+            batsman: KS Williamson
+            bowler: JP Faulkner
+            non_striker: MJ Guptill
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: MJ Guptill
+            bowler: JP Faulkner
+            non_striker: KS Williamson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.6:
+            batsman: KS Williamson
+            bowler: JP Faulkner
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: KS Williamson
+        - 14.1:
+            batsman: MJ Guptill
+            bowler: PJ Cummins
+            non_striker: HM Nicholls
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.2:
+            batsman: MJ Guptill
+            bowler: PJ Cummins
+            non_striker: HM Nicholls
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: MJ Guptill
+            bowler: PJ Cummins
+            non_striker: HM Nicholls
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.4:
+            batsman: HM Nicholls
+            bowler: PJ Cummins
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.5:
+            batsman: HM Nicholls
+            bowler: PJ Cummins
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.6:
+            batsman: HM Nicholls
+            bowler: PJ Cummins
+            non_striker: MJ Guptill
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.1:
+            batsman: MJ Guptill
+            bowler: TM Head
+            non_striker: HM Nicholls
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - GJ Bailey
+              kind: caught
+              player_out: MJ Guptill
+        - 15.2:
+            batsman: C Munro
+            bowler: TM Head
+            non_striker: HM Nicholls
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.3:
+            batsman: C Munro
+            bowler: TM Head
+            non_striker: HM Nicholls
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.4:
+            batsman: HM Nicholls
+            bowler: TM Head
+            non_striker: C Munro
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 15.5:
+            batsman: HM Nicholls
+            bowler: TM Head
+            non_striker: C Munro
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.6:
+            batsman: C Munro
+            bowler: TM Head
+            non_striker: HM Nicholls
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.1:
+            batsman: HM Nicholls
+            bowler: MA Starc
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.2:
+            batsman: HM Nicholls
+            bowler: MA Starc
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.3:
+            batsman: HM Nicholls
+            bowler: MA Starc
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.4:
+            batsman: HM Nicholls
+            bowler: MA Starc
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.5:
+            batsman: HM Nicholls
+            bowler: MA Starc
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.6:
+            batsman: HM Nicholls
+            bowler: MA Starc
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: HM Nicholls
+        - 17.1:
+            batsman: C Munro
+            bowler: TM Head
+            non_striker: BJ Watling
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.2:
+            batsman: BJ Watling
+            bowler: TM Head
+            extras:
+              legbyes: 1
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 17.3:
+            batsman: C Munro
+            bowler: TM Head
+            non_striker: BJ Watling
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.4:
+            batsman: C Munro
+            bowler: TM Head
+            non_striker: BJ Watling
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.5:
+            batsman: BJ Watling
+            bowler: TM Head
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.6:
+            batsman: BJ Watling
+            bowler: TM Head
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.1:
+            batsman: C Munro
+            bowler: MA Starc
+            non_striker: BJ Watling
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.2:
+            batsman: C Munro
+            bowler: MA Starc
+            non_striker: BJ Watling
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.3:
+            batsman: C Munro
+            bowler: MA Starc
+            non_striker: BJ Watling
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: C Munro
+            bowler: MA Starc
+            non_striker: BJ Watling
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.5:
+            batsman: C Munro
+            bowler: MA Starc
+            non_striker: BJ Watling
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.6:
+            batsman: C Munro
+            bowler: MA Starc
+            non_striker: BJ Watling
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.1:
+            batsman: BJ Watling
+            bowler: TM Head
+            non_striker: C Munro
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.2:
+            batsman: C Munro
+            bowler: TM Head
+            non_striker: BJ Watling
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.3:
+            batsman: BJ Watling
+            bowler: TM Head
+            non_striker: C Munro
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.4:
+            batsman: C Munro
+            bowler: TM Head
+            non_striker: BJ Watling
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.5:
+            batsman: BJ Watling
+            bowler: TM Head
+            non_striker: C Munro
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.6:
+            batsman: C Munro
+            bowler: TM Head
+            non_striker: BJ Watling
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.1:
+            batsman: C Munro
+            bowler: MA Starc
+            non_striker: BJ Watling
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.2:
+            batsman: C Munro
+            bowler: MA Starc
+            extras:
+              legbyes: 1
+            non_striker: BJ Watling
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 20.3:
+            batsman: BJ Watling
+            bowler: MA Starc
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.4:
+            batsman: BJ Watling
+            bowler: MA Starc
+            non_striker: C Munro
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.5:
+            batsman: C Munro
+            bowler: MA Starc
+            non_striker: BJ Watling
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.6:
+            batsman: C Munro
+            bowler: MA Starc
+            non_striker: BJ Watling
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.1:
+            batsman: BJ Watling
+            bowler: TM Head
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.2:
+            batsman: BJ Watling
+            bowler: TM Head
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.3:
+            batsman: BJ Watling
+            bowler: TM Head
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.4:
+            batsman: BJ Watling
+            bowler: TM Head
+            non_striker: C Munro
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 21.5:
+            batsman: BJ Watling
+            bowler: TM Head
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: BJ Watling
+        - 21.6:
+            batsman: C de Grandhomme
+            bowler: TM Head
+            non_striker: C Munro
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 22.1:
+            batsman: C Munro
+            bowler: JR Hazlewood
+            non_striker: C de Grandhomme
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.2:
+            batsman: C de Grandhomme
+            bowler: JR Hazlewood
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.3:
+            batsman: C de Grandhomme
+            bowler: JR Hazlewood
+            non_striker: C Munro
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.4:
+            batsman: C Munro
+            bowler: JR Hazlewood
+            non_striker: C de Grandhomme
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.5:
+            batsman: C Munro
+            bowler: JR Hazlewood
+            non_striker: C de Grandhomme
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.6:
+            batsman: C Munro
+            bowler: JR Hazlewood
+            non_striker: C de Grandhomme
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.1:
+            batsman: C Munro
+            bowler: TM Head
+            non_striker: C de Grandhomme
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.2:
+            batsman: C Munro
+            bowler: TM Head
+            non_striker: C de Grandhomme
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.3:
+            batsman: C de Grandhomme
+            bowler: TM Head
+            non_striker: C Munro
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.4:
+            batsman: C Munro
+            bowler: TM Head
+            non_striker: C de Grandhomme
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.5:
+            batsman: C de Grandhomme
+            bowler: TM Head
+            non_striker: C Munro
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 23.6:
+            batsman: C de Grandhomme
+            bowler: TM Head
+            non_striker: C Munro
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.1:
+            batsman: C de Grandhomme
+            bowler: JR Hazlewood
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.2:
+            batsman: C de Grandhomme
+            bowler: JR Hazlewood
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.3:
+            batsman: C de Grandhomme
+            bowler: JR Hazlewood
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.4:
+            batsman: C de Grandhomme
+            bowler: JR Hazlewood
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - TM Head
+              kind: caught
+              player_out: C de Grandhomme
+        - 24.5:
+            batsman: MJ Santner
+            bowler: JR Hazlewood
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.6:
+            batsman: MJ Santner
+            bowler: JR Hazlewood
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.1:
+            batsman: C Munro
+            bowler: TM Head
+            non_striker: MJ Santner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.2:
+            batsman: C Munro
+            bowler: TM Head
+            non_striker: MJ Santner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.3:
+            batsman: MJ Santner
+            bowler: TM Head
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.4:
+            batsman: MJ Santner
+            bowler: TM Head
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.5:
+            batsman: MJ Santner
+            bowler: TM Head
+            non_striker: C Munro
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.6:
+            batsman: C Munro
+            bowler: TM Head
+            non_striker: MJ Santner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.1:
+            batsman: MJ Santner
+            bowler: JR Hazlewood
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.2:
+            batsman: MJ Santner
+            bowler: JR Hazlewood
+            non_striker: C Munro
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.3:
+            batsman: C Munro
+            bowler: JR Hazlewood
+            non_striker: MJ Santner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.4:
+            batsman: C Munro
+            bowler: JR Hazlewood
+            non_striker: MJ Santner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.5:
+            batsman: MJ Santner
+            bowler: JR Hazlewood
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.6:
+            batsman: MJ Santner
+            bowler: JR Hazlewood
+            non_striker: C Munro
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.1:
+            batsman: C Munro
+            bowler: TM Head
+            non_striker: MJ Santner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.2:
+            batsman: C Munro
+            bowler: TM Head
+            non_striker: MJ Santner
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 27.3:
+            batsman: C Munro
+            bowler: TM Head
+            non_striker: MJ Santner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.4:
+            batsman: MJ Santner
+            bowler: TM Head
+            non_striker: C Munro
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.5:
+            batsman: C Munro
+            bowler: TM Head
+            non_striker: MJ Santner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.6:
+            batsman: C Munro
+            bowler: TM Head
+            non_striker: MJ Santner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.1:
+            batsman: C Munro
+            bowler: MA Starc
+            non_striker: MJ Santner
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 28.2:
+            batsman: C Munro
+            bowler: MA Starc
+            non_striker: MJ Santner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: C Munro
+        - 28.3:
+            batsman: TG Southee
+            bowler: MA Starc
+            non_striker: MJ Santner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.4:
+            batsman: TG Southee
+            bowler: MA Starc
+            non_striker: MJ Santner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.5:
+            batsman: TG Southee
+            bowler: MA Starc
+            non_striker: MJ Santner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.6:
+            batsman: TG Southee
+            bowler: MA Starc
+            non_striker: MJ Santner
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.1:
+            batsman: MJ Santner
+            bowler: JP Faulkner
+            non_striker: TG Southee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.2:
+            batsman: MJ Santner
+            bowler: JP Faulkner
+            non_striker: TG Southee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.3:
+            batsman: MJ Santner
+            bowler: JP Faulkner
+            non_striker: TG Southee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.4:
+            batsman: MJ Santner
+            bowler: JP Faulkner
+            non_striker: TG Southee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.5:
+            batsman: MJ Santner
+            bowler: JP Faulkner
+            non_striker: TG Southee
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 29.6:
+            batsman: MJ Santner
+            bowler: JP Faulkner
+            non_striker: TG Southee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.1:
+            batsman: TG Southee
+            bowler: MA Starc
+            non_striker: MJ Santner
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.2:
+            batsman: MJ Santner
+            bowler: MA Starc
+            non_striker: TG Southee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.3:
+            batsman: MJ Santner
+            bowler: MA Starc
+            non_striker: TG Southee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.4:
+            batsman: MJ Santner
+            bowler: MA Starc
+            non_striker: TG Southee
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 30.5:
+            batsman: MJ Santner
+            bowler: MA Starc
+            non_striker: TG Southee
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 30.6:
+            batsman: MJ Santner
+            bowler: MA Starc
+            non_striker: TG Southee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: MJ Santner
+        - 31.1:
+            batsman: TG Southee
+            bowler: JP Faulkner
+            non_striker: LH Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.2:
+            batsman: TG Southee
+            bowler: JP Faulkner
+            non_striker: LH Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.3:
+            batsman: TG Southee
+            bowler: JP Faulkner
+            non_striker: LH Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.4:
+            batsman: TG Southee
+            bowler: JP Faulkner
+            non_striker: LH Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.5:
+            batsman: TG Southee
+            bowler: JP Faulkner
+            non_striker: LH Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.6:
+            batsman: TG Southee
+            bowler: JP Faulkner
+            non_striker: LH Ferguson
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 32.1:
+            batsman: LH Ferguson
+            bowler: MA Starc
+            non_striker: TG Southee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.2:
+            batsman: LH Ferguson
+            bowler: MA Starc
+            non_striker: TG Southee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.3:
+            batsman: LH Ferguson
+            bowler: MA Starc
+            non_striker: TG Southee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.4:
+            batsman: LH Ferguson
+            bowler: MA Starc
+            non_striker: TG Southee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.5:
+            batsman: LH Ferguson
+            bowler: MA Starc
+            non_striker: TG Southee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.6:
+            batsman: LH Ferguson
+            bowler: MA Starc
+            non_striker: TG Southee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.1:
+            batsman: TG Southee
+            bowler: JP Faulkner
+            non_striker: LH Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.2:
+            batsman: TG Southee
+            bowler: JP Faulkner
+            non_striker: LH Ferguson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.3:
+            batsman: LH Ferguson
+            bowler: JP Faulkner
+            non_striker: TG Southee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.4:
+            batsman: TG Southee
+            bowler: JP Faulkner
+            non_striker: LH Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - DA Warner
+              kind: caught
+              player_out: TG Southee
+        - 33.5:
+            batsman: LH Ferguson
+            bowler: JP Faulkner
+            non_striker: TA Boult
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.6:
+            batsman: TA Boult
+            bowler: JP Faulkner
+            non_striker: LH Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.1:
+            batsman: LH Ferguson
+            bowler: MA Starc
+            non_striker: TA Boult
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.2:
+            batsman: LH Ferguson
+            bowler: MA Starc
+            non_striker: TA Boult
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.3:
+            batsman: LH Ferguson
+            bowler: MA Starc
+            non_striker: TA Boult
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.4:
+            batsman: TA Boult
+            bowler: MA Starc
+            non_striker: LH Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.5:
+            batsman: TA Boult
+            bowler: MA Starc
+            non_striker: LH Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.6:
+            batsman: TA Boult
+            bowler: MA Starc
+            non_striker: LH Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.1:
+            batsman: LH Ferguson
+            bowler: JP Faulkner
+            non_striker: TA Boult
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.2:
+            batsman: LH Ferguson
+            bowler: JP Faulkner
+            non_striker: TA Boult
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.3:
+            batsman: LH Ferguson
+            bowler: JP Faulkner
+            non_striker: TA Boult
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.4:
+            batsman: LH Ferguson
+            bowler: JP Faulkner
+            non_striker: TA Boult
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.5:
+            batsman: TA Boult
+            bowler: JP Faulkner
+            non_striker: LH Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.6:
+            batsman: TA Boult
+            bowler: JP Faulkner
+            non_striker: LH Ferguson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.1:
+            batsman: TA Boult
+            bowler: PJ Cummins
+            non_striker: LH Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - SPD Smith
+              kind: caught
+              player_out: TA Boult

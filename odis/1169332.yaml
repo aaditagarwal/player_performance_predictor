@@ -1,0 +1,4259 @@
+---
+meta:
+  data_version: 0.9
+  created: '2019-10-19'
+  revision: 1
+info:
+  city: Edinburgh
+  dates:
+  - '2019-05-21'
+  gender: male
+  match_type: ODI
+  match_type_number: 4142
+  outcome:
+    winner: Sri Lanka
+    by:
+      runs: 35
+    method: D/L
+  overs: 50
+  player_of_match:
+  - N Pradeep
+  teams:
+  - Scotland
+  - Sri Lanka
+  toss:
+    decision: field
+    winner: Scotland
+  umpires:
+  - DH Mclean
+  - GO Brathwaite
+  venue: Grange Cricket Club, Raeburn Place
+innings:
+- 1st innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: FDM Karunaratne
+        batsman: WIA Fernando
+    - 0.2:
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: FDM Karunaratne
+        batsman: WIA Fernando
+    - 0.3:
+        bowler: BTJ Wheal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: FDM Karunaratne
+        batsman: WIA Fernando
+    - 0.4:
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: FDM Karunaratne
+        batsman: WIA Fernando
+    - 0.5:
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: FDM Karunaratne
+        batsman: WIA Fernando
+    - 0.6:
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: FDM Karunaratne
+        batsman: WIA Fernando
+    - 0.7:
+        non_striker: FDM Karunaratne
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WIA Fernando
+    - 1.1:
+        non_striker: WIA Fernando
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 1.2:
+        non_striker: FDM Karunaratne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 1.3:
+        non_striker: FDM Karunaratne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 1.4:
+        non_striker: FDM Karunaratne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 1.5:
+        non_striker: FDM Karunaratne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WIA Fernando
+    - 1.6:
+        non_striker: FDM Karunaratne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 2.1:
+        non_striker: WIA Fernando
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 2.2:
+        non_striker: WIA Fernando
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FDM Karunaratne
+    - 2.3:
+        non_striker: WIA Fernando
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 2.4:
+        non_striker: WIA Fernando
+        bowler: BTJ Wheal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: FDM Karunaratne
+    - 2.5:
+        non_striker: FDM Karunaratne
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 2.6:
+        non_striker: FDM Karunaratne
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 3.1:
+        non_striker: WIA Fernando
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 3.2:
+        non_striker: WIA Fernando
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 3.3:
+        non_striker: WIA Fernando
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FDM Karunaratne
+    - 3.4:
+        non_striker: WIA Fernando
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 3.5:
+        non_striker: WIA Fernando
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 3.6:
+        non_striker: WIA Fernando
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FDM Karunaratne
+    - 4.1:
+        non_striker: FDM Karunaratne
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 4.2:
+        non_striker: WIA Fernando
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 4.3:
+        non_striker: WIA Fernando
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 4.4:
+        non_striker: WIA Fernando
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 4.5:
+        non_striker: WIA Fernando
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 4.6:
+        non_striker: WIA Fernando
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 5.1:
+        non_striker: FDM Karunaratne
+        bowler: SM Sharif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: WIA Fernando
+    - 5.2:
+        non_striker: FDM Karunaratne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 5.3:
+        non_striker: FDM Karunaratne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WIA Fernando
+    - 5.4:
+        non_striker: FDM Karunaratne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 5.5:
+        non_striker: FDM Karunaratne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 5.6:
+        non_striker: FDM Karunaratne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 5.7:
+        non_striker: FDM Karunaratne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 6.1:
+        non_striker: FDM Karunaratne
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 6.2:
+        non_striker: FDM Karunaratne
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 6.3:
+        non_striker: WIA Fernando
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 6.4:
+        non_striker: WIA Fernando
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 6.5:
+        non_striker: WIA Fernando
+        bowler: BTJ Wheal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FDM Karunaratne
+    - 6.6:
+        non_striker: WIA Fernando
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 6.7:
+        non_striker: WIA Fernando
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 7.1:
+        non_striker: FDM Karunaratne
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WIA Fernando
+    - 7.2:
+        non_striker: FDM Karunaratne
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 7.3:
+        non_striker: WIA Fernando
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FDM Karunaratne
+    - 7.4:
+        non_striker: WIA Fernando
+        bowler: AC Evans
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FDM Karunaratne
+    - 7.5:
+        non_striker: WIA Fernando
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 7.6:
+        non_striker: WIA Fernando
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 7.7:
+        non_striker: FDM Karunaratne
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 8.1:
+        non_striker: WIA Fernando
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 8.2:
+        non_striker: WIA Fernando
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 8.3:
+        non_striker: WIA Fernando
+        bowler: BTJ Wheal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: FDM Karunaratne
+    - 8.4:
+        non_striker: FDM Karunaratne
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WIA Fernando
+    - 8.5:
+        non_striker: FDM Karunaratne
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 8.6:
+        non_striker: FDM Karunaratne
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 9.1:
+        non_striker: WIA Fernando
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 9.2:
+        non_striker: WIA Fernando
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 9.3:
+        non_striker: FDM Karunaratne
+        bowler: AC Evans
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WIA Fernando
+    - 9.4:
+        non_striker: FDM Karunaratne
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WIA Fernando
+    - 9.5:
+        non_striker: FDM Karunaratne
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 9.6:
+        non_striker: FDM Karunaratne
+        bowler: AC Evans
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WIA Fernando
+    - 9.7:
+        non_striker: WIA Fernando
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 10.1:
+        non_striker: FDM Karunaratne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 10.2:
+        non_striker: FDM Karunaratne
+        bowler: SM Sharif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WIA Fernando
+    - 10.3:
+        non_striker: WIA Fernando
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 10.4:
+        non_striker: FDM Karunaratne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 10.5:
+        non_striker: FDM Karunaratne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WIA Fernando
+    - 10.6:
+        non_striker: FDM Karunaratne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 11.1:
+        non_striker: WIA Fernando
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 11.2:
+        non_striker: WIA Fernando
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 11.3:
+        non_striker: FDM Karunaratne
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 11.4:
+        non_striker: FDM Karunaratne
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 11.5:
+        non_striker: FDM Karunaratne
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 11.6:
+        non_striker: FDM Karunaratne
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WIA Fernando
+    - 12.1:
+        non_striker: WIA Fernando
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 12.2:
+        non_striker: FDM Karunaratne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 12.3:
+        non_striker: FDM Karunaratne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WIA Fernando
+    - 12.4:
+        non_striker: FDM Karunaratne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 12.5:
+        non_striker: FDM Karunaratne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 12.6:
+        non_striker: FDM Karunaratne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 13.1:
+        non_striker: WIA Fernando
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 13.2:
+        non_striker: WIA Fernando
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 13.3:
+        non_striker: WIA Fernando
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 13.4:
+        non_striker: WIA Fernando
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 13.5:
+        non_striker: FDM Karunaratne
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 13.6:
+        non_striker: FDM Karunaratne
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 14.1:
+        non_striker: FDM Karunaratne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 14.2:
+        non_striker: WIA Fernando
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FDM Karunaratne
+    - 14.3:
+        non_striker: WIA Fernando
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 14.4:
+        non_striker: FDM Karunaratne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 14.5:
+        non_striker: WIA Fernando
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 14.6:
+        non_striker: FDM Karunaratne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 15.1:
+        non_striker: FDM Karunaratne
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 15.2:
+        non_striker: WIA Fernando
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 15.3:
+        non_striker: FDM Karunaratne
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 15.4:
+        non_striker: FDM Karunaratne
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 15.5:
+        non_striker: WIA Fernando
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 15.6:
+        non_striker: FDM Karunaratne
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 16.1:
+        non_striker: FDM Karunaratne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 16.2:
+        non_striker: FDM Karunaratne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 16.3:
+        non_striker: FDM Karunaratne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 16.4:
+        non_striker: FDM Karunaratne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 16.5:
+        non_striker: FDM Karunaratne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 16.6:
+        non_striker: FDM Karunaratne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 17.1:
+        non_striker: FDM Karunaratne
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 17.2:
+        non_striker: WIA Fernando
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 17.3:
+        non_striker: FDM Karunaratne
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 17.4:
+        non_striker: WIA Fernando
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 17.5:
+        non_striker: WIA Fernando
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: FDM Karunaratne
+    - 17.6:
+        non_striker: FDM Karunaratne
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 18.1:
+        non_striker: FDM Karunaratne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 18.2:
+        non_striker: WIA Fernando
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FDM Karunaratne
+    - 18.3:
+        non_striker: WIA Fernando
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 18.4:
+        non_striker: FDM Karunaratne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 18.5:
+        non_striker: WIA Fernando
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 18.6:
+        non_striker: FDM Karunaratne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 19.1:
+        non_striker: WIA Fernando
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 19.2:
+        non_striker: WIA Fernando
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 19.3:
+        non_striker: FDM Karunaratne
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WIA Fernando
+    - 19.4:
+        non_striker: FDM Karunaratne
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 19.5:
+        non_striker: FDM Karunaratne
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WIA Fernando
+    - 19.6:
+        non_striker: FDM Karunaratne
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 20.1:
+        non_striker: FDM Karunaratne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 20.2:
+        non_striker: WIA Fernando
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 20.3:
+        non_striker: WIA Fernando
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 20.4:
+        non_striker: WIA Fernando
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 20.5:
+        non_striker: FDM Karunaratne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 20.6:
+        non_striker: FDM Karunaratne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 21.1:
+        non_striker: WIA Fernando
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 21.2:
+        non_striker: WIA Fernando
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 21.3:
+        non_striker: FDM Karunaratne
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WIA Fernando
+    - 21.4:
+        non_striker: FDM Karunaratne
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 21.5:
+        non_striker: FDM Karunaratne
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WIA Fernando
+    - 21.6:
+        non_striker: WIA Fernando
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FDM Karunaratne
+    - 22.1:
+        non_striker: FDM Karunaratne
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+        wicket:
+          player_out: WIA Fernando
+          fielders:
+          - HG Munsey
+          kind: caught
+    - 22.2:
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BKG Mendis
+        batsman: FDM Karunaratne
+    - 22.3:
+        non_striker: FDM Karunaratne
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 22.4:
+        non_striker: FDM Karunaratne
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 22.5:
+        non_striker: FDM Karunaratne
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 22.6:
+        non_striker: FDM Karunaratne
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 23.1:
+        non_striker: BKG Mendis
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 23.2:
+        non_striker: FDM Karunaratne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 23.3:
+        non_striker: BKG Mendis
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 23.4:
+        non_striker: BKG Mendis
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 23.5:
+        non_striker: BKG Mendis
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 23.6:
+        non_striker: FDM Karunaratne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 24.1:
+        non_striker: BKG Mendis
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FDM Karunaratne
+    - 24.2:
+        non_striker: BKG Mendis
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 24.3:
+        non_striker: FDM Karunaratne
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 24.4:
+        non_striker: FDM Karunaratne
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 24.5:
+        non_striker: BKG Mendis
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 24.6:
+        non_striker: FDM Karunaratne
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 25.1:
+        non_striker: BKG Mendis
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FDM Karunaratne
+    - 25.2:
+        non_striker: BKG Mendis
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FDM Karunaratne
+    - 25.3:
+        non_striker: BKG Mendis
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 25.4:
+        non_striker: FDM Karunaratne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 25.5:
+        non_striker: FDM Karunaratne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 25.6:
+        non_striker: BKG Mendis
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 26.1:
+        non_striker: BKG Mendis
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 26.2:
+        non_striker: FDM Karunaratne
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 26.3:
+        non_striker: FDM Karunaratne
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 26.4:
+        non_striker: FDM Karunaratne
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 26.5:
+        non_striker: BKG Mendis
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 26.6:
+        non_striker: FDM Karunaratne
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 27.1:
+        non_striker: BKG Mendis
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 27.2:
+        non_striker: BKG Mendis
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 27.3:
+        non_striker: BKG Mendis
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 27.4:
+        non_striker: FDM Karunaratne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 27.5:
+        non_striker: FDM Karunaratne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 27.6:
+        non_striker: FDM Karunaratne
+        bowler: MRJ Watt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BKG Mendis
+    - 27.7:
+        non_striker: FDM Karunaratne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 28.1:
+        non_striker: BKG Mendis
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 28.2:
+        non_striker: FDM Karunaratne
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 28.3:
+        non_striker: FDM Karunaratne
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 28.4:
+        non_striker: FDM Karunaratne
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 28.5:
+        non_striker: FDM Karunaratne
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 28.6:
+        non_striker: BKG Mendis
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FDM Karunaratne
+    - 29.1:
+        non_striker: FDM Karunaratne
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 29.2:
+        non_striker: FDM Karunaratne
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 29.3:
+        non_striker: BKG Mendis
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FDM Karunaratne
+    - 29.4:
+        non_striker: BKG Mendis
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 29.5:
+        non_striker: FDM Karunaratne
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 29.6:
+        non_striker: BKG Mendis
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 30.1:
+        non_striker: BKG Mendis
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 30.2:
+        non_striker: BKG Mendis
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FDM Karunaratne
+    - 30.3:
+        non_striker: BKG Mendis
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FDM Karunaratne
+    - 30.4:
+        non_striker: BKG Mendis
+        bowler: AC Evans
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FDM Karunaratne
+    - 30.5:
+        non_striker: BKG Mendis
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 30.6:
+        non_striker: BKG Mendis
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 30.7:
+        non_striker: FDM Karunaratne
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 31.1:
+        non_striker: FDM Karunaratne
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 31.2:
+        non_striker: FDM Karunaratne
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BKG Mendis
+    - 31.3:
+        non_striker: FDM Karunaratne
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 31.4:
+        non_striker: FDM Karunaratne
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 31.5:
+        non_striker: FDM Karunaratne
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 31.6:
+        non_striker: BKG Mendis
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 32.1:
+        non_striker: FDM Karunaratne
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 32.2:
+        non_striker: BKG Mendis
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 32.3:
+        non_striker: BKG Mendis
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FDM Karunaratne
+    - 32.4:
+        non_striker: FDM Karunaratne
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 32.5:
+        non_striker: FDM Karunaratne
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BKG Mendis
+    - 32.6:
+        non_striker: FDM Karunaratne
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 33.1:
+        non_striker: FDM Karunaratne
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 33.2:
+        non_striker: BKG Mendis
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+    - 33.3:
+        non_striker: BKG Mendis
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FDM Karunaratne
+        wicket:
+          player_out: FDM Karunaratne
+          fielders:
+          - GT Main (sub)
+          kind: caught
+    - 33.4:
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NLTC Perera
+        batsman: BKG Mendis
+    - 33.5:
+        non_striker: BKG Mendis
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLTC Perera
+        wicket:
+          player_out: NLTC Perera
+          fielders:
+          - MH Cross
+          kind: caught
+    - 33.6:
+        non_striker: BKG Mendis
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 34.1:
+        non_striker: AD Mathews
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 34.2:
+        non_striker: BKG Mendis
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 34.3:
+        non_striker: BKG Mendis
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 34.4:
+        non_striker: BKG Mendis
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 34.5:
+        non_striker: BKG Mendis
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 34.6:
+        non_striker: BKG Mendis
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 35.1:
+        non_striker: AD Mathews
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 35.2:
+        non_striker: BKG Mendis
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Mathews
+    - 35.3:
+        non_striker: AD Mathews
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 35.4:
+        non_striker: AD Mathews
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 35.5:
+        non_striker: AD Mathews
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 35.6:
+        non_striker: AD Mathews
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 36.1:
+        non_striker: AD Mathews
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 36.2:
+        non_striker: BKG Mendis
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 36.3:
+        non_striker: BKG Mendis
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+    - 36.4:
+        non_striker: BKG Mendis
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Mathews
+        wicket:
+          player_out: AD Mathews
+          fielders:
+          - MA Leask
+          kind: caught
+    - 36.5:
+        non_striker: BKG Mendis
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDRL Thirimanne
+    - 36.6:
+        non_striker: HDRL Thirimanne
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 37.1:
+        non_striker: HDRL Thirimanne
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 37.2:
+        non_striker: BKG Mendis
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDRL Thirimanne
+    - 37.3:
+        non_striker: BKG Mendis
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDRL Thirimanne
+    - 37.4:
+        non_striker: BKG Mendis
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDRL Thirimanne
+    - 37.5:
+        non_striker: BKG Mendis
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HDRL Thirimanne
+    - 37.6:
+        non_striker: BKG Mendis
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDRL Thirimanne
+    - 38.1:
+        non_striker: BKG Mendis
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDRL Thirimanne
+    - 38.2:
+        non_striker: HDRL Thirimanne
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 38.3:
+        non_striker: BKG Mendis
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDRL Thirimanne
+    - 38.4:
+        non_striker: BKG Mendis
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDRL Thirimanne
+    - 38.5:
+        non_striker: HDRL Thirimanne
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 38.6:
+        non_striker: BKG Mendis
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDRL Thirimanne
+    - 39.1:
+        non_striker: BKG Mendis
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDRL Thirimanne
+    - 39.2:
+        non_striker: BKG Mendis
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDRL Thirimanne
+    - 39.3:
+        non_striker: HDRL Thirimanne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 39.4:
+        non_striker: BKG Mendis
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDRL Thirimanne
+    - 39.5:
+        non_striker: BKG Mendis
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDRL Thirimanne
+    - 39.6:
+        non_striker: BKG Mendis
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDRL Thirimanne
+    - 40.1:
+        non_striker: HDRL Thirimanne
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 40.2:
+        non_striker: HDRL Thirimanne
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 40.3:
+        non_striker: BKG Mendis
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDRL Thirimanne
+    - 40.4:
+        non_striker: HDRL Thirimanne
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 40.5:
+        non_striker: HDRL Thirimanne
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BKG Mendis
+    - 40.6:
+        non_striker: HDRL Thirimanne
+        bowler: TB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 41.1:
+        non_striker: HDRL Thirimanne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 41.2:
+        non_striker: HDRL Thirimanne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+        wicket:
+          player_out: BKG Mendis
+          kind: bowled
+    - 41.3:
+        non_striker: HDRL Thirimanne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 41.4:
+        non_striker: HDRL Thirimanne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 41.5:
+        non_striker: DM de Silva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDRL Thirimanne
+    - 41.6:
+        non_striker: DM de Silva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDRL Thirimanne
+    - 42.1:
+        non_striker: DM de Silva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDRL Thirimanne
+    - 42.2:
+        non_striker: HDRL Thirimanne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 42.3:
+        non_striker: HDRL Thirimanne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 42.4:
+        non_striker: DM de Silva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDRL Thirimanne
+    - 42.5:
+        non_striker: HDRL Thirimanne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 42.6:
+        non_striker: DM de Silva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDRL Thirimanne
+    - 43.1:
+        non_striker: DM de Silva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDRL Thirimanne
+    - 43.2:
+        non_striker: HDRL Thirimanne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 43.3:
+        non_striker: DM de Silva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDRL Thirimanne
+    - 43.4:
+        non_striker: DM de Silva
+        bowler: SM Sharif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HDRL Thirimanne
+    - 43.5:
+        non_striker: DM de Silva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDRL Thirimanne
+    - 43.6:
+        non_striker: HDRL Thirimanne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DM de Silva
+    - 43.7:
+        non_striker: DM de Silva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDRL Thirimanne
+    - 44.1:
+        non_striker: DM de Silva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDRL Thirimanne
+    - 44.2:
+        non_striker: HDRL Thirimanne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+    - 44.3:
+        non_striker: HDRL Thirimanne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DM de Silva
+    - 44.4:
+        non_striker: HDRL Thirimanne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DM de Silva
+        wicket:
+          player_out: DM de Silva
+          fielders:
+          - TB Sole
+          kind: caught
+    - 44.5:
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BMAJ Mendis
+        batsman: HDRL Thirimanne
+    - 44.6:
+        non_striker: HDRL Thirimanne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMAJ Mendis
+    - 45.1:
+        non_striker: BMAJ Mendis
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDRL Thirimanne
+    - 45.2:
+        non_striker: HDRL Thirimanne
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BMAJ Mendis
+    - 45.3:
+        non_striker: HDRL Thirimanne
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMAJ Mendis
+    - 45.4:
+        non_striker: HDRL Thirimanne
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMAJ Mendis
+    - 45.5:
+        non_striker: BMAJ Mendis
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDRL Thirimanne
+    - 45.6:
+        non_striker: BMAJ Mendis
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDRL Thirimanne
+    - 46.1:
+        non_striker: HDRL Thirimanne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMAJ Mendis
+    - 46.2:
+        non_striker: BMAJ Mendis
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDRL Thirimanne
+    - 46.3:
+        non_striker: BMAJ Mendis
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDRL Thirimanne
+    - 46.4:
+        non_striker: HDRL Thirimanne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BMAJ Mendis
+    - 46.5:
+        non_striker: HDRL Thirimanne
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMAJ Mendis
+    - 46.6:
+        non_striker: BMAJ Mendis
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDRL Thirimanne
+    - 47.1:
+        non_striker: BMAJ Mendis
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDRL Thirimanne
+    - 47.2:
+        non_striker: HDRL Thirimanne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMAJ Mendis
+        wicket:
+          player_out: BMAJ Mendis
+          fielders:
+          - HG Munsey
+          kind: caught
+    - 47.3:
+        non_striker: HDRL Thirimanne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 47.4:
+        non_striker: HDRL Thirimanne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 47.5:
+        non_striker: HDRL Thirimanne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 47.6:
+        non_striker: I Udana
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HDRL Thirimanne
+    - 48.1:
+        non_striker: HDRL Thirimanne
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: I Udana
+    - 48.2:
+        non_striker: HDRL Thirimanne
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Udana
+    - 48.3:
+        non_striker: HDRL Thirimanne
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: I Udana
+    - 48.4:
+        non_striker: HDRL Thirimanne
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+        wicket:
+          player_out: I Udana
+          fielders:
+          - TB Sole
+          kind: caught
+    - 48.5:
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: RAS Lakmal
+        batsman: HDRL Thirimanne
+    - 48.6:
+        non_striker: RAS Lakmal
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDRL Thirimanne
+    - 49.1:
+        non_striker: HDRL Thirimanne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RAS Lakmal
+    - 49.2:
+        non_striker: RAS Lakmal
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HDRL Thirimanne
+    - 49.3:
+        non_striker: HDRL Thirimanne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RAS Lakmal
+    - 49.4:
+        non_striker: RAS Lakmal
+        bowler: SM Sharif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: HDRL Thirimanne
+    - 49.5:
+        non_striker: RAS Lakmal
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDRL Thirimanne
+    - 49.6:
+        non_striker: HDRL Thirimanne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RAS Lakmal
+    - 49.7:
+        non_striker: HDRL Thirimanne
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RAS Lakmal
+- 2nd innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KJ Coetzer
+        batsman: MH Cross
+    - 0.2:
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KJ Coetzer
+        batsman: MH Cross
+    - 0.3:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 0.4:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 0.5:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 0.6:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Coetzer
+    - 1.1:
+        non_striker: KJ Coetzer
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 1.2:
+        non_striker: KJ Coetzer
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 1.3:
+        non_striker: KJ Coetzer
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 1.4:
+        non_striker: MH Cross
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Coetzer
+    - 1.5:
+        non_striker: KJ Coetzer
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 1.6:
+        non_striker: KJ Coetzer
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 2.1:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 2.2:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 2.3:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 2.4:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 2.5:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Coetzer
+    - 2.6:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 3.1:
+        non_striker: KJ Coetzer
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 3.2:
+        non_striker: MH Cross
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Coetzer
+    - 3.3:
+        non_striker: KJ Coetzer
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MH Cross
+    - 3.4:
+        non_striker: KJ Coetzer
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MH Cross
+    - 3.5:
+        non_striker: KJ Coetzer
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 3.6:
+        non_striker: KJ Coetzer
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 4.1:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Coetzer
+    - 4.2:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 4.3:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Coetzer
+    - 4.4:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 4.5:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KJ Coetzer
+    - 4.6:
+        non_striker: KJ Coetzer
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 5.1:
+        non_striker: MH Cross
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 5.2:
+        non_striker: MH Cross
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Coetzer
+    - 5.3:
+        non_striker: MH Cross
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 5.4:
+        non_striker: MH Cross
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 5.5:
+        non_striker: MH Cross
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Coetzer
+    - 5.6:
+        non_striker: MH Cross
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 6.1:
+        non_striker: KJ Coetzer
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 6.2:
+        non_striker: KJ Coetzer
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 6.3:
+        non_striker: MH Cross
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 6.4:
+        non_striker: MH Cross
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Coetzer
+    - 6.5:
+        non_striker: KJ Coetzer
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 6.6:
+        non_striker: KJ Coetzer
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 7.1:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 7.2:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 7.3:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Coetzer
+    - 7.4:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 7.5:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 7.6:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 8.1:
+        non_striker: KJ Coetzer
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MH Cross
+    - 8.2:
+        non_striker: MH Cross
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 8.3:
+        non_striker: MH Cross
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 8.4:
+        non_striker: MH Cross
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 8.5:
+        non_striker: MH Cross
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ Coetzer
+    - 8.6:
+        non_striker: MH Cross
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Coetzer
+    - 9.1:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 9.2:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 9.3:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 9.4:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 9.5:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 9.6:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 10.1:
+        non_striker: KJ Coetzer
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 10.2:
+        non_striker: KJ Coetzer
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 10.3:
+        non_striker: MH Cross
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 10.4:
+        non_striker: MH Cross
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+        wicket:
+          player_out: KJ Coetzer
+          fielders:
+          - HDRL Thirimanne
+          kind: caught
+    - 10.5:
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CS MacLeod
+        batsman: MH Cross
+    - 10.6:
+        non_striker: CS MacLeod
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 11.1:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 11.2:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 11.3:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 11.4:
+        non_striker: CS MacLeod
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 11.5:
+        non_striker: CS MacLeod
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 11.6:
+        non_striker: CS MacLeod
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 12.1:
+        non_striker: MH Cross
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+        wicket:
+          player_out: CS MacLeod
+          kind: bowled
+    - 12.2:
+        non_striker: MH Cross
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Wallace
+    - 12.3:
+        non_striker: MH Cross
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Wallace
+    - 12.4:
+        non_striker: CD Wallace
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 12.5:
+        non_striker: MH Cross
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Wallace
+    - 12.6:
+        non_striker: MH Cross
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Wallace
+    - 13.1:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Wallace
+    - 13.2:
+        non_striker: CD Wallace
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 13.3:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Wallace
+    - 13.4:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Wallace
+    - 13.5:
+        non_striker: CD Wallace
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 13.6:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Wallace
+    - 14.1:
+        non_striker: MH Cross
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Wallace
+    - 14.2:
+        non_striker: CD Wallace
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 14.3:
+        non_striker: CD Wallace
+        bowler: N Pradeep
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MH Cross
+    - 14.4:
+        non_striker: CD Wallace
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 14.5:
+        non_striker: CD Wallace
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 14.6:
+        non_striker: CD Wallace
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 14.7:
+        non_striker: MH Cross
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Wallace
+    - 15.1:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CD Wallace
+    - 15.2:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Wallace
+    - 15.3:
+        non_striker: CD Wallace
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 15.4:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Wallace
+    - 15.5:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Wallace
+    - 15.6:
+        non_striker: CD Wallace
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 16.1:
+        non_striker: CD Wallace
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 16.2:
+        non_striker: CD Wallace
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 16.3:
+        non_striker: CD Wallace
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 16.4:
+        non_striker: MH Cross
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Wallace
+    - 16.5:
+        non_striker: CD Wallace
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 16.6:
+        non_striker: CD Wallace
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 17.1:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Wallace
+    - 17.2:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Wallace
+    - 17.3:
+        non_striker: CD Wallace
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 17.4:
+        non_striker: CD Wallace
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MH Cross
+    - 17.5:
+        non_striker: CD Wallace
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MH Cross
+    - 17.6:
+        non_striker: CD Wallace
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 18.1:
+        non_striker: CD Wallace
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MH Cross
+    - 18.2:
+        non_striker: CD Wallace
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 18.3:
+        non_striker: MH Cross
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Wallace
+    - 18.4:
+        non_striker: MH Cross
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Wallace
+    - 18.5:
+        non_striker: CD Wallace
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 18.6:
+        non_striker: CD Wallace
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 19.1:
+        non_striker: CD Wallace
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 19.2:
+        non_striker: MH Cross
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Wallace
+    - 19.3:
+        non_striker: CD Wallace
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 19.4:
+        non_striker: CD Wallace
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MH Cross
+    - 19.5:
+        non_striker: CD Wallace
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 19.6:
+        non_striker: CD Wallace
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 20.1:
+        non_striker: CD Wallace
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 20.2:
+        non_striker: MH Cross
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CD Wallace
+    - 20.3:
+        non_striker: MH Cross
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Wallace
+    - 20.4:
+        non_striker: CD Wallace
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 20.5:
+        non_striker: MH Cross
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Wallace
+        wicket:
+          player_out: CD Wallace
+          fielders:
+          - BKG Mendis
+          kind: caught
+    - 20.6:
+        non_striker: MH Cross
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 21.1:
+        non_striker: HG Munsey
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 21.2:
+        non_striker: MH Cross
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 21.3:
+        non_striker: MH Cross
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 21.4:
+        non_striker: MH Cross
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 21.5:
+        non_striker: MH Cross
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 21.6:
+        non_striker: MH Cross
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 22.1:
+        non_striker: MH Cross
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 22.2:
+        non_striker: HG Munsey
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 22.3:
+        non_striker: HG Munsey
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 22.4:
+        non_striker: MH Cross
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 22.5:
+        non_striker: MH Cross
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 22.6:
+        non_striker: MH Cross
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 23.1:
+        non_striker: HG Munsey
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 23.2:
+        non_striker: MH Cross
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 23.3:
+        non_striker: MH Cross
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 23.4:
+        non_striker: MH Cross
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 23.5:
+        non_striker: MH Cross
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 23.6:
+        non_striker: HG Munsey
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 24.1:
+        non_striker: MH Cross
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 24.2:
+        non_striker: HG Munsey
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 24.3:
+        non_striker: MH Cross
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 24.4:
+        non_striker: HG Munsey
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 24.5:
+        non_striker: MH Cross
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 24.6:
+        non_striker: MH Cross
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 25.1:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 25.2:
+        non_striker: HG Munsey
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 25.3:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 25.4:
+        non_striker: HG Munsey
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 25.5:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 25.6:
+        non_striker: HG Munsey
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MH Cross
+    - 26.1:
+        non_striker: MH Cross
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 26.2:
+        non_striker: MH Cross
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 26.3:
+        non_striker: HG Munsey
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MH Cross
+    - 26.4:
+        non_striker: HG Munsey
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 26.5:
+        non_striker: HG Munsey
+        bowler: I Udana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MH Cross
+    - 26.6:
+        non_striker: MH Cross
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 27.1:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HG Munsey
+    - 27.2:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 27.3:
+        non_striker: HG Munsey
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 27.4:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 27.5:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 27.6:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Munsey
+    - 27.7:
+        non_striker: MH Cross
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Munsey
+    - 28.1:
+        non_striker: HG Munsey
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 28.2:
+        non_striker: MH Cross
+        bowler: RAS Lakmal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HG Munsey
+    - 28.3:
+        non_striker: HG Munsey
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 28.4:
+        non_striker: HG Munsey
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+        wicket:
+          player_out: MH Cross
+          fielders:
+          - WIA Fernando
+          kind: caught
+    - 28.5:
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MA Leask
+        batsman: HG Munsey
+    - 28.6:
+        non_striker: HG Munsey
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MA Leask
+    - 29.1:
+        non_striker: MA Leask
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 29.2:
+        non_striker: HG Munsey
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 29.3:
+        non_striker: MA Leask
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 29.4:
+        non_striker: MA Leask
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 29.5:
+        non_striker: MA Leask
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 29.6:
+        non_striker: MA Leask
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HG Munsey
+    - 30.1:
+        non_striker: HG Munsey
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 30.2:
+        non_striker: MA Leask
+        bowler: RAS Lakmal
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: HG Munsey
+    - 30.3:
+        non_striker: HG Munsey
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+        wicket:
+          player_out: MA Leask
+          fielders:
+          - WIA Fernando
+          kind: caught
+    - 30.4:
+        bowler: RAS Lakmal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: TB Sole
+        batsman: HG Munsey
+    - 30.5:
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: TB Sole
+        batsman: HG Munsey
+    - 30.6:
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: TB Sole
+        batsman: HG Munsey
+    - 30.7:
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TB Sole
+        batsman: HG Munsey
+    - 30.8:
+        non_striker: HG Munsey
+        bowler: RAS Lakmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Sole
+    - 31.1:
+        non_striker: TB Sole
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 31.2:
+        non_striker: TB Sole
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 31.3:
+        non_striker: TB Sole
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+        wicket:
+          player_out: HG Munsey
+          kind: bowled
+    - 31.4:
+        non_striker: TB Sole
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+        wicket:
+          player_out: SM Sharif
+          kind: bowled
+    - 31.5:
+        non_striker: TB Sole
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 31.6:
+        non_striker: MRJ Watt
+        bowler: N Pradeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Sole
+    - 32.1:
+        non_striker: MRJ Watt
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Sole
+        wicket:
+          player_out: TB Sole
+          fielders:
+          - FDM Karunaratne
+          kind: caught
+    - 32.2:
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AC Evans
+        batsman: MRJ Watt
+    - 32.3:
+        non_striker: MRJ Watt
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Evans
+    - 32.4:
+        non_striker: MRJ Watt
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Evans
+    - 32.5:
+        non_striker: AC Evans
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MRJ Watt
+    - 32.6:
+        non_striker: AC Evans
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 33.1:
+        non_striker: AC Evans
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+        wicket:
+          player_out: AC Evans
+          kind: run out
+    - 33.2:
+        non_striker: BTJ Wheal
+        bowler: DM de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+        wicket:
+          player_out: BTJ Wheal
+          kind: run out

@@ -1,0 +1,4956 @@
+---
+meta:
+  data_version: 0.9
+  created: 2016-06-26
+  revision: 2
+info:
+  city: Melbourne
+  dates:
+    - 2006-01-20
+  gender: male
+  match_type: ODI
+  outcome:
+    by:
+      runs: 59
+    winner: Australia
+  overs: 50
+  player_of_match:
+    - B Lee
+  supersubs:
+    Australia: GB Hogg
+    South Africa: JJ van der Wath
+  teams:
+    - Australia
+    - South Africa
+  toss:
+    decision: bat
+    winner: Australia
+  umpires:
+    - MR Benson
+    - DJ Harper
+  venue: Docklands Stadium
+innings:
+  - 1st innings:
+      team: Australia
+      deliveries:
+        - 0.1:
+            batsman: DR Martyn
+            bowler: SM Pollock
+            non_striker: PA Jaques
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.2:
+            batsman: DR Martyn
+            bowler: SM Pollock
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: DR Martyn
+            bowler: SM Pollock
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: DR Martyn
+            bowler: SM Pollock
+            non_striker: PA Jaques
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.5:
+            batsman: PA Jaques
+            bowler: SM Pollock
+            non_striker: DR Martyn
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.6:
+            batsman: DR Martyn
+            bowler: SM Pollock
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            non_striker: DR Martyn
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            non_striker: DR Martyn
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            non_striker: DR Martyn
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            extras:
+              noballs: 1
+            non_striker: DR Martyn
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 1.5:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            non_striker: DR Martyn
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.6:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            non_striker: DR Martyn
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.7:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            non_striker: DR Martyn
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: DR Martyn
+            bowler: SM Pollock
+            non_striker: PA Jaques
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.2:
+            batsman: DR Martyn
+            bowler: SM Pollock
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: DR Martyn
+            bowler: SM Pollock
+            non_striker: PA Jaques
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 2.4:
+            batsman: DR Martyn
+            bowler: SM Pollock
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: DR Martyn
+        - 2.5:
+            batsman: RT Ponting
+            bowler: SM Pollock
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: RT Ponting
+            bowler: SM Pollock
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.3:
+            batsman: RT Ponting
+            bowler: DW Steyn
+            extras:
+              noballs: 1
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 3.4:
+            batsman: RT Ponting
+            bowler: DW Steyn
+            non_striker: PA Jaques
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 3.5:
+            batsman: RT Ponting
+            bowler: DW Steyn
+            non_striker: PA Jaques
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.6:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.7:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: RT Ponting
+            bowler: SM Pollock
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: RT Ponting
+            bowler: SM Pollock
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: RT Ponting
+            bowler: SM Pollock
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: RT Ponting
+            bowler: SM Pollock
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: RT Ponting
+            bowler: SM Pollock
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: RT Ponting
+            bowler: SM Pollock
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            non_striker: RT Ponting
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.2:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.4:
+            batsman: RT Ponting
+            bowler: DW Steyn
+            extras:
+              noballs: 1
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.5:
+            batsman: RT Ponting
+            bowler: DW Steyn
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: RT Ponting
+            bowler: DW Steyn
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.7:
+            batsman: RT Ponting
+            bowler: DW Steyn
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: PA Jaques
+            bowler: SM Pollock
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: PA Jaques
+            bowler: SM Pollock
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: PA Jaques
+            bowler: SM Pollock
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.4:
+            batsman: PA Jaques
+            bowler: SM Pollock
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: PA Jaques
+            bowler: SM Pollock
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.6:
+            batsman: RT Ponting
+            bowler: SM Pollock
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.1:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            non_striker: RT Ponting
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.3:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            extras:
+              wides: 1
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 7.5:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            non_striker: RT Ponting
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.6:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            extras:
+              noballs: 1
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 7.7:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.8:
+            batsman: RT Ponting
+            bowler: DW Steyn
+            extras:
+              noballs: 1
+            non_striker: PA Jaques
+            runs:
+              batsman: 2
+              extras: 1
+              total: 3
+        - 7.9:
+            batsman: RT Ponting
+            bowler: DW Steyn
+            non_striker: PA Jaques
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.1:
+            batsman: PA Jaques
+            bowler: SM Pollock
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: PA Jaques
+            bowler: SM Pollock
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: PA Jaques
+            bowler: SM Pollock
+            non_striker: RT Ponting
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.4:
+            batsman: PA Jaques
+            bowler: SM Pollock
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: PA Jaques
+            bowler: SM Pollock
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: PA Jaques
+            bowler: SM Pollock
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.1:
+            batsman: PA Jaques
+            bowler: AJ Hall
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.2:
+            batsman: PA Jaques
+            bowler: AJ Hall
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: PA Jaques
+            bowler: AJ Hall
+            non_striker: RT Ponting
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.4:
+            batsman: PA Jaques
+            bowler: AJ Hall
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: PA Jaques
+            bowler: AJ Hall
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: RT Ponting
+            bowler: AJ Hall
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - GC Smith
+              kind: caught
+              player_out: RT Ponting
+        - 10.1:
+            batsman: PA Jaques
+            bowler: SM Pollock
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.2:
+            batsman: PA Jaques
+            bowler: SM Pollock
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: PA Jaques
+            bowler: SM Pollock
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: PA Jaques
+            bowler: SM Pollock
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: PA Jaques
+            bowler: SM Pollock
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.6:
+            batsman: PA Jaques
+            bowler: SM Pollock
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.1:
+            batsman: A Symonds
+            bowler: AJ Hall
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: A Symonds
+            bowler: AJ Hall
+            non_striker: PA Jaques
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 11.3:
+            batsman: PA Jaques
+            bowler: AJ Hall
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.4:
+            batsman: PA Jaques
+            bowler: AJ Hall
+            extras:
+              wides: 1
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 11.5:
+            batsman: PA Jaques
+            bowler: AJ Hall
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: PA Jaques
+            bowler: AJ Hall
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.7:
+            batsman: PA Jaques
+            bowler: AJ Hall
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: A Symonds
+            bowler: SM Pollock
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.2:
+            batsman: A Symonds
+            bowler: SM Pollock
+            extras:
+              wides: 1
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 12.3:
+            batsman: A Symonds
+            bowler: SM Pollock
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.4:
+            batsman: A Symonds
+            bowler: SM Pollock
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.5:
+            batsman: A Symonds
+            bowler: SM Pollock
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.6:
+            batsman: A Symonds
+            bowler: SM Pollock
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.7:
+            batsman: A Symonds
+            bowler: SM Pollock
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.1:
+            batsman: PA Jaques
+            bowler: AJ Hall
+            non_striker: A Symonds
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.2:
+            batsman: A Symonds
+            bowler: AJ Hall
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: A Symonds
+            bowler: AJ Hall
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.4:
+            batsman: A Symonds
+            bowler: AJ Hall
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.5:
+            batsman: A Symonds
+            bowler: AJ Hall
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: A Symonds
+            bowler: AJ Hall
+            non_striker: PA Jaques
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.1:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            non_striker: A Symonds
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.2:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            non_striker: A Symonds
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.3:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            non_striker: A Symonds
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.4:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            non_striker: A Symonds
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.5:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            extras:
+              noballs: 1
+            non_striker: A Symonds
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 14.6:
+            batsman: PA Jaques
+            bowler: DW Steyn
+            extras:
+              noballs: 1
+            non_striker: A Symonds
+            runs:
+              batsman: 1
+              extras: 1
+              total: 2
+        - 14.7:
+            batsman: A Symonds
+            bowler: DW Steyn
+            extras:
+              wides: 1
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 14.8:
+            batsman: A Symonds
+            bowler: DW Steyn
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - AG Prince
+              kind: caught
+              player_out: A Symonds
+        - 14.9:
+            batsman: MJ Clarke
+            bowler: DW Steyn
+            non_striker: PA Jaques
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.1:
+            batsman: PA Jaques
+            bowler: AJ Hall
+            non_striker: MJ Clarke
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.2:
+            batsman: PA Jaques
+            bowler: AJ Hall
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.3:
+            batsman: PA Jaques
+            bowler: AJ Hall
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.4:
+            batsman: PA Jaques
+            bowler: AJ Hall
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: PA Jaques
+            bowler: AJ Hall
+            non_striker: MJ Clarke
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.6:
+            batsman: MJ Clarke
+            bowler: AJ Hall
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.1:
+            batsman: PA Jaques
+            bowler: GJP Kruger
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.2:
+            batsman: PA Jaques
+            bowler: GJP Kruger
+            non_striker: MJ Clarke
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 16.3:
+            batsman: PA Jaques
+            bowler: GJP Kruger
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.4:
+            batsman: PA Jaques
+            bowler: GJP Kruger
+            extras:
+              legbyes: 1
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 16.5:
+            batsman: MJ Clarke
+            bowler: GJP Kruger
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.6:
+            batsman: MJ Clarke
+            bowler: GJP Kruger
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.1:
+            batsman: PA Jaques
+            bowler: AJ Hall
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.2:
+            batsman: PA Jaques
+            bowler: AJ Hall
+            non_striker: MJ Clarke
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.3:
+            batsman: MJ Clarke
+            bowler: AJ Hall
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.4:
+            batsman: MJ Clarke
+            bowler: AJ Hall
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.5:
+            batsman: MJ Clarke
+            bowler: AJ Hall
+            extras:
+              legbyes: 2
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 2
+              total: 2
+        - 17.6:
+            batsman: MJ Clarke
+            bowler: AJ Hall
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.1:
+            batsman: PA Jaques
+            bowler: GJP Kruger
+            non_striker: MJ Clarke
+            replacements:
+              match:
+                - in: JJ van der Wath
+                  out: DW Steyn
+                  reason: supersub
+                  team: South Africa
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.2:
+            batsman: PA Jaques
+            bowler: GJP Kruger
+            non_striker: MJ Clarke
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.3:
+            batsman: PA Jaques
+            bowler: GJP Kruger
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: PA Jaques
+            bowler: GJP Kruger
+            non_striker: MJ Clarke
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.5:
+            batsman: MJ Clarke
+            bowler: GJP Kruger
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.6:
+            batsman: MJ Clarke
+            bowler: GJP Kruger
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.1:
+            batsman: PA Jaques
+            bowler: AJ Hall
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.2:
+            batsman: PA Jaques
+            bowler: AJ Hall
+            non_striker: MJ Clarke
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.3:
+            batsman: MJ Clarke
+            bowler: AJ Hall
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.4:
+            batsman: MJ Clarke
+            bowler: AJ Hall
+            non_striker: PA Jaques
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.5:
+            batsman: PA Jaques
+            bowler: AJ Hall
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.6:
+            batsman: PA Jaques
+            bowler: AJ Hall
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.1:
+            batsman: MJ Clarke
+            bowler: GJP Kruger
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.2:
+            batsman: MJ Clarke
+            bowler: GJP Kruger
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.3:
+            batsman: MJ Clarke
+            bowler: GJP Kruger
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.4:
+            batsman: MJ Clarke
+            bowler: GJP Kruger
+            extras:
+              wides: 5
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 5
+              total: 5
+        - 20.5:
+            batsman: MJ Clarke
+            bowler: GJP Kruger
+            extras:
+              wides: 1
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 20.6:
+            batsman: MJ Clarke
+            bowler: GJP Kruger
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.7:
+            batsman: MJ Clarke
+            bowler: GJP Kruger
+            non_striker: PA Jaques
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.8:
+            batsman: PA Jaques
+            bowler: GJP Kruger
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.1:
+            batsman: MJ Clarke
+            bowler: J Botha
+            non_striker: PA Jaques
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.2:
+            batsman: PA Jaques
+            bowler: J Botha
+            non_striker: MJ Clarke
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 21.3:
+            batsman: MJ Clarke
+            bowler: J Botha
+            non_striker: PA Jaques
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.4:
+            batsman: PA Jaques
+            bowler: J Botha
+            non_striker: MJ Clarke
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.5:
+            batsman: MJ Clarke
+            bowler: J Botha
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.6:
+            batsman: MJ Clarke
+            bowler: J Botha
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.1:
+            batsman: PA Jaques
+            bowler: GJP Kruger
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.2:
+            batsman: PA Jaques
+            bowler: GJP Kruger
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.3:
+            batsman: PA Jaques
+            bowler: GJP Kruger
+            non_striker: MJ Clarke
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 22.4:
+            batsman: PA Jaques
+            bowler: GJP Kruger
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.5:
+            batsman: PA Jaques
+            bowler: GJP Kruger
+            non_striker: MJ Clarke
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.6:
+            batsman: MJ Clarke
+            bowler: GJP Kruger
+            non_striker: PA Jaques
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 23.1:
+            batsman: PA Jaques
+            bowler: J Botha
+            non_striker: MJ Clarke
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.2:
+            batsman: MJ Clarke
+            bowler: J Botha
+            non_striker: PA Jaques
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.3:
+            batsman: PA Jaques
+            bowler: J Botha
+            non_striker: MJ Clarke
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.4:
+            batsman: MJ Clarke
+            bowler: J Botha
+            non_striker: PA Jaques
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 23.5:
+            batsman: MJ Clarke
+            bowler: J Botha
+            non_striker: PA Jaques
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.6:
+            batsman: PA Jaques
+            bowler: J Botha
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.1:
+            batsman: MJ Clarke
+            bowler: GJP Kruger
+            non_striker: PA Jaques
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.2:
+            batsman: PA Jaques
+            bowler: GJP Kruger
+            non_striker: MJ Clarke
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 24.3:
+            batsman: PA Jaques
+            bowler: GJP Kruger
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.4:
+            batsman: PA Jaques
+            bowler: GJP Kruger
+            non_striker: MJ Clarke
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.5:
+            batsman: MJ Clarke
+            bowler: GJP Kruger
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.6:
+            batsman: MJ Clarke
+            bowler: GJP Kruger
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.1:
+            batsman: PA Jaques
+            bowler: J Botha
+            non_striker: MJ Clarke
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.2:
+            batsman: MJ Clarke
+            bowler: J Botha
+            non_striker: PA Jaques
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.3:
+            batsman: PA Jaques
+            bowler: J Botha
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.4:
+            batsman: PA Jaques
+            bowler: J Botha
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.5:
+            batsman: PA Jaques
+            bowler: J Botha
+            non_striker: MJ Clarke
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.6:
+            batsman: MJ Clarke
+            bowler: J Botha
+            non_striker: PA Jaques
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.1:
+            batsman: MJ Clarke
+            bowler: GJP Kruger
+            non_striker: PA Jaques
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.2:
+            batsman: PA Jaques
+            bowler: GJP Kruger
+            non_striker: MJ Clarke
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 26.3:
+            batsman: PA Jaques
+            bowler: GJP Kruger
+            non_striker: MJ Clarke
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.4:
+            batsman: MJ Clarke
+            bowler: GJP Kruger
+            non_striker: PA Jaques
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.5:
+            batsman: PA Jaques
+            bowler: GJP Kruger
+            non_striker: MJ Clarke
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.6:
+            batsman: MJ Clarke
+            bowler: GJP Kruger
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.1:
+            batsman: PA Jaques
+            bowler: J Botha
+            non_striker: MJ Clarke
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.2:
+            batsman: MJ Clarke
+            bowler: J Botha
+            non_striker: PA Jaques
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.3:
+            batsman: PA Jaques
+            bowler: J Botha
+            non_striker: MJ Clarke
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.4:
+            batsman: MJ Clarke
+            bowler: J Botha
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.5:
+            batsman: MJ Clarke
+            bowler: J Botha
+            non_striker: PA Jaques
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 27.6:
+            batsman: MJ Clarke
+            bowler: J Botha
+            non_striker: PA Jaques
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.1:
+            batsman: MJ Clarke
+            bowler: JJ van der Wath
+            non_striker: PA Jaques
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.2:
+            batsman: PA Jaques
+            bowler: JJ van der Wath
+            extras:
+              wides: 1
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 28.3:
+            batsman: PA Jaques
+            bowler: JJ van der Wath
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.4:
+            batsman: PA Jaques
+            bowler: JJ van der Wath
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.5:
+            batsman: PA Jaques
+            bowler: JJ van der Wath
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.6:
+            batsman: PA Jaques
+            bowler: JJ van der Wath
+            non_striker: MJ Clarke
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 28.7:
+            batsman: PA Jaques
+            bowler: JJ van der Wath
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.1:
+            batsman: MJ Clarke
+            bowler: J Botha
+            non_striker: PA Jaques
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.2:
+            batsman: PA Jaques
+            bowler: J Botha
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.3:
+            batsman: PA Jaques
+            bowler: J Botha
+            non_striker: MJ Clarke
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.4:
+            batsman: MJ Clarke
+            bowler: J Botha
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.5:
+            batsman: MJ Clarke
+            bowler: J Botha
+            non_striker: PA Jaques
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.6:
+            batsman: PA Jaques
+            bowler: J Botha
+            non_striker: MJ Clarke
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.1:
+            batsman: MJ Clarke
+            bowler: JJ van der Wath
+            non_striker: PA Jaques
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 30.2:
+            batsman: MJ Clarke
+            bowler: JJ van der Wath
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.3:
+            batsman: MJ Clarke
+            bowler: JJ van der Wath
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MV Boucher
+              kind: caught
+              player_out: MJ Clarke
+        - 30.4:
+            batsman: MEK Hussey
+            bowler: JJ van der Wath
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.5:
+            batsman: MEK Hussey
+            bowler: JJ van der Wath
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.6:
+            batsman: MEK Hussey
+            bowler: JJ van der Wath
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.1:
+            batsman: PA Jaques
+            bowler: J Botha
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.2:
+            batsman: MEK Hussey
+            bowler: J Botha
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.3:
+            batsman: MEK Hussey
+            bowler: J Botha
+            non_striker: PA Jaques
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.4:
+            batsman: PA Jaques
+            bowler: J Botha
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.5:
+            batsman: PA Jaques
+            bowler: J Botha
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.6:
+            batsman: MEK Hussey
+            bowler: J Botha
+            non_striker: PA Jaques
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.1:
+            batsman: PA Jaques
+            bowler: JJ van der Wath
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.2:
+            batsman: PA Jaques
+            bowler: JJ van der Wath
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.3:
+            batsman: PA Jaques
+            bowler: JJ van der Wath
+            non_striker: MEK Hussey
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 32.4:
+            batsman: PA Jaques
+            bowler: JJ van der Wath
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.5:
+            batsman: PA Jaques
+            bowler: JJ van der Wath
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MV Boucher
+              kind: caught
+              player_out: PA Jaques
+        - 32.6:
+            batsman: BJ Haddin
+            bowler: JJ van der Wath
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.1:
+            batsman: MEK Hussey
+            bowler: J Botha
+            non_striker: BJ Haddin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.2:
+            batsman: BJ Haddin
+            bowler: J Botha
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.3:
+            batsman: BJ Haddin
+            bowler: J Botha
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.4:
+            batsman: MEK Hussey
+            bowler: J Botha
+            non_striker: BJ Haddin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.5:
+            batsman: MEK Hussey
+            bowler: J Botha
+            non_striker: BJ Haddin
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 33.6:
+            batsman: MEK Hussey
+            bowler: J Botha
+            non_striker: BJ Haddin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.1:
+            batsman: BJ Haddin
+            bowler: SM Pollock
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: BJ Haddin
+        - 34.2:
+            batsman: JR Hopes
+            bowler: SM Pollock
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.3:
+            batsman: MEK Hussey
+            bowler: SM Pollock
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.4:
+            batsman: MEK Hussey
+            bowler: SM Pollock
+            non_striker: JR Hopes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.5:
+            batsman: JR Hopes
+            bowler: SM Pollock
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.6:
+            batsman: MEK Hussey
+            bowler: SM Pollock
+            non_striker: JR Hopes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.1:
+            batsman: MEK Hussey
+            bowler: J Botha
+            non_striker: JR Hopes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.2:
+            batsman: JR Hopes
+            bowler: J Botha
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.3:
+            batsman: MEK Hussey
+            bowler: J Botha
+            non_striker: JR Hopes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.4:
+            batsman: JR Hopes
+            bowler: J Botha
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.5:
+            batsman: MEK Hussey
+            bowler: J Botha
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.6:
+            batsman: MEK Hussey
+            bowler: J Botha
+            non_striker: JR Hopes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.1:
+            batsman: MEK Hussey
+            bowler: SM Pollock
+            non_striker: JR Hopes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.2:
+            batsman: JR Hopes
+            bowler: SM Pollock
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.3:
+            batsman: MEK Hussey
+            bowler: SM Pollock
+            non_striker: JR Hopes
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 36.4:
+            batsman: MEK Hussey
+            bowler: SM Pollock
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.5:
+            batsman: MEK Hussey
+            bowler: SM Pollock
+            non_striker: JR Hopes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.6:
+            batsman: JR Hopes
+            bowler: SM Pollock
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.1:
+            batsman: JR Hopes
+            bowler: J Botha
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.2:
+            batsman: JR Hopes
+            bowler: J Botha
+            non_striker: MEK Hussey
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 37.3:
+            batsman: JR Hopes
+            bowler: J Botha
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.4:
+            batsman: MEK Hussey
+            bowler: J Botha
+            non_striker: JR Hopes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.5:
+            batsman: JR Hopes
+            bowler: J Botha
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.6:
+            batsman: JR Hopes
+            bowler: J Botha
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.1:
+            batsman: MEK Hussey
+            bowler: SM Pollock
+            non_striker: JR Hopes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.2:
+            batsman: JR Hopes
+            bowler: SM Pollock
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.3:
+            batsman: MEK Hussey
+            bowler: SM Pollock
+            non_striker: JR Hopes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.4:
+            batsman: JR Hopes
+            bowler: SM Pollock
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.5:
+            batsman: MEK Hussey
+            bowler: SM Pollock
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.6:
+            batsman: MEK Hussey
+            bowler: SM Pollock
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.1:
+            batsman: JR Hopes
+            bowler: J Botha
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.2:
+            batsman: MEK Hussey
+            bowler: J Botha
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.3:
+            batsman: MEK Hussey
+            bowler: J Botha
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.4:
+            batsman: MEK Hussey
+            bowler: J Botha
+            non_striker: JR Hopes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.5:
+            batsman: JR Hopes
+            bowler: J Botha
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.6:
+            batsman: JR Hopes
+            bowler: J Botha
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.1:
+            batsman: MEK Hussey
+            bowler: AJ Hall
+            non_striker: JR Hopes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.2:
+            batsman: JR Hopes
+            bowler: AJ Hall
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.3:
+            batsman: MEK Hussey
+            bowler: AJ Hall
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - GJP Kruger
+              kind: caught
+              player_out: MEK Hussey
+        - 40.4:
+            batsman: JR Hopes
+            bowler: AJ Hall
+            non_striker: B Lee
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 40.5:
+            batsman: JR Hopes
+            bowler: AJ Hall
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.6:
+            batsman: JR Hopes
+            bowler: AJ Hall
+            non_striker: B Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.1:
+            batsman: JR Hopes
+            bowler: GC Smith
+            non_striker: B Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.2:
+            batsman: B Lee
+            bowler: GC Smith
+            non_striker: JR Hopes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.3:
+            batsman: JR Hopes
+            bowler: GC Smith
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.4:
+            batsman: JR Hopes
+            bowler: GC Smith
+            non_striker: B Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.5:
+            batsman: B Lee
+            bowler: GC Smith
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.6:
+            batsman: B Lee
+            bowler: GC Smith
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.1:
+            batsman: JR Hopes
+            bowler: AJ Hall
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.2:
+            batsman: JR Hopes
+            bowler: AJ Hall
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.3:
+            batsman: JR Hopes
+            bowler: AJ Hall
+            non_striker: B Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.4:
+            batsman: B Lee
+            bowler: AJ Hall
+            non_striker: JR Hopes
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 42.5:
+            batsman: B Lee
+            bowler: AJ Hall
+            non_striker: JR Hopes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.6:
+            batsman: JR Hopes
+            bowler: AJ Hall
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.1:
+            batsman: B Lee
+            bowler: GC Smith
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.2:
+            batsman: B Lee
+            bowler: GC Smith
+            extras:
+              wides: 1
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 43.3:
+            batsman: B Lee
+            bowler: GC Smith
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.4:
+            batsman: B Lee
+            bowler: GC Smith
+            non_striker: JR Hopes
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 43.5:
+            batsman: B Lee
+            bowler: GC Smith
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: B Lee
+        - 43.6:
+            batsman: BR Dorey
+            bowler: GC Smith
+            extras:
+              wides: 1
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 43.7:
+            batsman: BR Dorey
+            bowler: GC Smith
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.8:
+            batsman: BR Dorey
+            bowler: GC Smith
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.1:
+            batsman: JR Hopes
+            bowler: JJ van der Wath
+            non_striker: BR Dorey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.2:
+            batsman: JR Hopes
+            bowler: JJ van der Wath
+            non_striker: BR Dorey
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 44.3:
+            batsman: JR Hopes
+            bowler: JJ van der Wath
+            non_striker: BR Dorey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.4:
+            batsman: JR Hopes
+            bowler: JJ van der Wath
+            non_striker: BR Dorey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.5:
+            batsman: JR Hopes
+            bowler: JJ van der Wath
+            non_striker: BR Dorey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.6:
+            batsman: BR Dorey
+            bowler: JJ van der Wath
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.1:
+            batsman: JR Hopes
+            bowler: GC Smith
+            non_striker: BR Dorey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.2:
+            batsman: BR Dorey
+            bowler: GC Smith
+            non_striker: JR Hopes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.3:
+            batsman: JR Hopes
+            bowler: GC Smith
+            non_striker: BR Dorey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.4:
+            batsman: JR Hopes
+            bowler: GC Smith
+            non_striker: BR Dorey
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 45.5:
+            batsman: JR Hopes
+            bowler: GC Smith
+            non_striker: BR Dorey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.6:
+            batsman: JR Hopes
+            bowler: GC Smith
+            non_striker: BR Dorey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.1:
+            batsman: JR Hopes
+            bowler: JJ van der Wath
+            non_striker: BR Dorey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.2:
+            batsman: BR Dorey
+            bowler: JJ van der Wath
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.3:
+            batsman: BR Dorey
+            bowler: JJ van der Wath
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.4:
+            batsman: BR Dorey
+            bowler: JJ van der Wath
+            non_striker: JR Hopes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.5:
+            batsman: JR Hopes
+            bowler: JJ van der Wath
+            non_striker: BR Dorey
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 46.6:
+            batsman: JR Hopes
+            bowler: JJ van der Wath
+            non_striker: BR Dorey
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 47.1:
+            batsman: BR Dorey
+            bowler: AJ Hall
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - JM Kemp
+              kind: caught
+              player_out: BR Dorey
+        - 47.2:
+            batsman: GD McGrath
+            bowler: AJ Hall
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.3:
+            batsman: GD McGrath
+            bowler: AJ Hall
+            non_striker: JR Hopes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 47.4:
+            batsman: JR Hopes
+            bowler: AJ Hall
+            non_striker: GD McGrath
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.5:
+            batsman: JR Hopes
+            bowler: AJ Hall
+            non_striker: GD McGrath
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.6:
+            batsman: JR Hopes
+            bowler: AJ Hall
+            non_striker: GD McGrath
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.1:
+            batsman: JR Hopes
+            bowler: GC Smith
+            non_striker: GD McGrath
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.2:
+            batsman: GD McGrath
+            bowler: GC Smith
+            non_striker: JR Hopes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.3:
+            batsman: JR Hopes
+            bowler: GC Smith
+            non_striker: GD McGrath
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.4:
+            batsman: GD McGrath
+            bowler: GC Smith
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 48.5:
+            batsman: GD McGrath
+            bowler: GC Smith
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 48.6:
+            batsman: GD McGrath
+            bowler: GC Smith
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 49.1:
+            batsman: JR Hopes
+            bowler: AJ Hall
+            non_striker: GD McGrath
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 49.2:
+            batsman: JR Hopes
+            bowler: AJ Hall
+            non_striker: GD McGrath
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - J Botha
+              kind: caught
+              player_out: JR Hopes
+  - 2nd innings:
+      team: South Africa
+      deliveries:
+        - 0.1:
+            batsman: GC Smith
+            bowler: B Lee
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: GC Smith
+            bowler: B Lee
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: GC Smith
+            bowler: B Lee
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: GC Smith
+            bowler: B Lee
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: GC Smith
+            bowler: B Lee
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.6:
+            batsman: HH Dippenaar
+            bowler: B Lee
+            non_striker: GC Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.1:
+            batsman: HH Dippenaar
+            bowler: GD McGrath
+            non_striker: GC Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: HH Dippenaar
+            bowler: GD McGrath
+            non_striker: GC Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: HH Dippenaar
+            bowler: GD McGrath
+            non_striker: GC Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: HH Dippenaar
+            bowler: GD McGrath
+            non_striker: GC Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: HH Dippenaar
+            bowler: GD McGrath
+            non_striker: GC Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: HH Dippenaar
+            bowler: GD McGrath
+            non_striker: GC Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: GC Smith
+            bowler: B Lee
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: GC Smith
+            bowler: B Lee
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.3:
+            batsman: HH Dippenaar
+            bowler: B Lee
+            non_striker: GC Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.4:
+            batsman: GC Smith
+            bowler: B Lee
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 2.5:
+            batsman: GC Smith
+            bowler: B Lee
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.6:
+            batsman: HH Dippenaar
+            bowler: B Lee
+            non_striker: GC Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: GC Smith
+            bowler: GD McGrath
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.2:
+            batsman: GC Smith
+            bowler: GD McGrath
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: GC Smith
+            bowler: GD McGrath
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: GC Smith
+            bowler: GD McGrath
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: GC Smith
+            bowler: GD McGrath
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: GC Smith
+            bowler: GD McGrath
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: HH Dippenaar
+            bowler: B Lee
+            non_striker: GC Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.2:
+            batsman: GC Smith
+            bowler: B Lee
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: GC Smith
+            bowler: B Lee
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - BJ Haddin
+              kind: caught
+              player_out: GC Smith
+        - 4.4:
+            batsman: AJ Hall
+            bowler: B Lee
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.5:
+            batsman: HH Dippenaar
+            bowler: B Lee
+            non_striker: AJ Hall
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.6:
+            batsman: AJ Hall
+            bowler: B Lee
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: HH Dippenaar
+            bowler: GD McGrath
+            non_striker: AJ Hall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: HH Dippenaar
+            bowler: GD McGrath
+            non_striker: AJ Hall
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.3:
+            batsman: HH Dippenaar
+            bowler: GD McGrath
+            non_striker: AJ Hall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: HH Dippenaar
+            bowler: GD McGrath
+            non_striker: AJ Hall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: HH Dippenaar
+            bowler: GD McGrath
+            non_striker: AJ Hall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: HH Dippenaar
+            bowler: GD McGrath
+            non_striker: AJ Hall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: AJ Hall
+            bowler: B Lee
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: AJ Hall
+            bowler: B Lee
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: AJ Hall
+        - 6.3:
+            batsman: HH Gibbs
+            bowler: B Lee
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.4:
+            batsman: HH Gibbs
+            bowler: B Lee
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.5:
+            batsman: HH Dippenaar
+            bowler: B Lee
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: HH Dippenaar
+            bowler: B Lee
+            non_striker: HH Gibbs
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: HH Dippenaar
+            bowler: GD McGrath
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: HH Dippenaar
+            bowler: GD McGrath
+            non_striker: HH Gibbs
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 7.3:
+            batsman: HH Dippenaar
+            bowler: GD McGrath
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: HH Dippenaar
+            bowler: GD McGrath
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: HH Dippenaar
+            bowler: GD McGrath
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: HH Dippenaar
+            bowler: GD McGrath
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.1:
+            batsman: HH Gibbs
+            bowler: B Lee
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: HH Gibbs
+            bowler: B Lee
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: HH Gibbs
+            bowler: B Lee
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: HH Gibbs
+            bowler: B Lee
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.5:
+            batsman: HH Dippenaar
+            bowler: B Lee
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: HH Dippenaar
+            bowler: B Lee
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: HH Gibbs
+            bowler: GD McGrath
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.2:
+            batsman: HH Gibbs
+            bowler: GD McGrath
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: HH Gibbs
+            bowler: GD McGrath
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.4:
+            batsman: HH Dippenaar
+            bowler: GD McGrath
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: HH Dippenaar
+            bowler: GD McGrath
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.6:
+            batsman: HH Dippenaar
+            bowler: GD McGrath
+            non_striker: HH Gibbs
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.1:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.2:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.6:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.1:
+            batsman: HH Gibbs
+            bowler: GD McGrath
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: HH Gibbs
+            bowler: GD McGrath
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.3:
+            batsman: HH Gibbs
+            bowler: GD McGrath
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: HH Dippenaar
+            bowler: GD McGrath
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: HH Dippenaar
+            bowler: GD McGrath
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: HH Dippenaar
+            bowler: GD McGrath
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: HH Gibbs
+            bowler: BR Dorey
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.2:
+            batsman: HH Gibbs
+            bowler: BR Dorey
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.3:
+            batsman: HH Gibbs
+            bowler: BR Dorey
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 12.4:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            non_striker: HH Gibbs
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: HH Gibbs
+            bowler: BR Dorey
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.6:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.1:
+            batsman: HH Gibbs
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.2:
+            batsman: HH Gibbs
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: HH Gibbs
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.4:
+            batsman: HH Gibbs
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.5:
+            batsman: HH Gibbs
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: HH Gibbs
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.2:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            non_striker: HH Gibbs
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: HH Gibbs
+            bowler: BR Dorey
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: HH Gibbs
+            bowler: BR Dorey
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.5:
+            batsman: HH Gibbs
+            bowler: BR Dorey
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.6:
+            batsman: HH Gibbs
+            bowler: BR Dorey
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.1:
+            batsman: HH Dippenaar
+            bowler: JR Hopes
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.2:
+            batsman: HH Dippenaar
+            bowler: JR Hopes
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.3:
+            batsman: HH Dippenaar
+            bowler: JR Hopes
+            non_striker: HH Gibbs
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.4:
+            batsman: HH Dippenaar
+            bowler: JR Hopes
+            non_striker: HH Gibbs
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.5:
+            batsman: HH Gibbs
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.6:
+            batsman: HH Gibbs
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.1:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.2:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.3:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.4:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.5:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            non_striker: HH Gibbs
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 16.6:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.1:
+            batsman: HH Gibbs
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 17.2:
+            batsman: HH Gibbs
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 17.3:
+            batsman: HH Gibbs
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.4:
+            batsman: HH Gibbs
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.5:
+            batsman: HH Gibbs
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.6:
+            batsman: HH Gibbs
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.1:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.2:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            non_striker: HH Gibbs
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.3:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            non_striker: HH Gibbs
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.4:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.5:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.6:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.1:
+            batsman: HH Gibbs
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 19.2:
+            batsman: HH Gibbs
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.3:
+            batsman: HH Dippenaar
+            bowler: JR Hopes
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.4:
+            batsman: HH Dippenaar
+            bowler: JR Hopes
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.5:
+            batsman: HH Dippenaar
+            bowler: JR Hopes
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.6:
+            batsman: HH Dippenaar
+            bowler: JR Hopes
+            non_striker: HH Gibbs
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.1:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            non_striker: HH Gibbs
+            replacements:
+              match:
+                - in: GB Hogg
+                  out: PA Jaques
+                  reason: supersub
+                  team: Australia
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.2:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            extras:
+              legbyes: 1
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 20.3:
+            batsman: HH Gibbs
+            bowler: BR Dorey
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.4:
+            batsman: HH Gibbs
+            bowler: BR Dorey
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 20.5:
+            batsman: HH Gibbs
+            bowler: BR Dorey
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.6:
+            batsman: HH Dippenaar
+            bowler: BR Dorey
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.1:
+            batsman: HH Gibbs
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.2:
+            batsman: HH Gibbs
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 21.3:
+            batsman: HH Gibbs
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.4:
+            batsman: HH Gibbs
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.5:
+            batsman: HH Gibbs
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.6:
+            batsman: HH Gibbs
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 22.1:
+            batsman: HH Dippenaar
+            bowler: GB Hogg
+            non_striker: HH Gibbs
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.2:
+            batsman: HH Gibbs
+            bowler: GB Hogg
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.3:
+            batsman: HH Dippenaar
+            bowler: GB Hogg
+            non_striker: HH Gibbs
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.4:
+            batsman: HH Gibbs
+            bowler: GB Hogg
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.5:
+            batsman: HH Gibbs
+            bowler: GB Hogg
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.6:
+            batsman: HH Gibbs
+            bowler: GB Hogg
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.1:
+            batsman: HH Dippenaar
+            bowler: JR Hopes
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.2:
+            batsman: HH Dippenaar
+            bowler: JR Hopes
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.3:
+            batsman: HH Dippenaar
+            bowler: JR Hopes
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.4:
+            batsman: HH Dippenaar
+            bowler: JR Hopes
+            non_striker: HH Gibbs
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.5:
+            batsman: HH Dippenaar
+            bowler: JR Hopes
+            non_striker: HH Gibbs
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.6:
+            batsman: HH Gibbs
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.1:
+            batsman: HH Dippenaar
+            bowler: GB Hogg
+            non_striker: HH Gibbs
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 24.2:
+            batsman: HH Dippenaar
+            bowler: GB Hogg
+            non_striker: HH Gibbs
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.3:
+            batsman: HH Gibbs
+            bowler: GB Hogg
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.4:
+            batsman: HH Gibbs
+            bowler: GB Hogg
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.5:
+            batsman: HH Gibbs
+            bowler: GB Hogg
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: HH Gibbs
+        - 24.6:
+            batsman: AG Prince
+            bowler: GB Hogg
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.1:
+            batsman: HH Dippenaar
+            bowler: JR Hopes
+            non_striker: AG Prince
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.2:
+            batsman: HH Dippenaar
+            bowler: JR Hopes
+            non_striker: AG Prince
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.3:
+            batsman: HH Dippenaar
+            bowler: JR Hopes
+            non_striker: AG Prince
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.4:
+            batsman: AG Prince
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.5:
+            batsman: AG Prince
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.6:
+            batsman: AG Prince
+            bowler: JR Hopes
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.1:
+            batsman: AG Prince
+            bowler: GB Hogg
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.2:
+            batsman: HH Dippenaar
+            bowler: GB Hogg
+            extras:
+              byes: 1
+            non_striker: AG Prince
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 26.3:
+            batsman: AG Prince
+            bowler: GB Hogg
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.4:
+            batsman: AG Prince
+            bowler: GB Hogg
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.5:
+            batsman: AG Prince
+            bowler: GB Hogg
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.6:
+            batsman: AG Prince
+            bowler: GB Hogg
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.1:
+            batsman: HH Dippenaar
+            bowler: A Symonds
+            non_striker: AG Prince
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.2:
+            batsman: HH Dippenaar
+            bowler: A Symonds
+            non_striker: AG Prince
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.3:
+            batsman: AG Prince
+            bowler: A Symonds
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.4:
+            batsman: AG Prince
+            bowler: A Symonds
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 27.5:
+            batsman: AG Prince
+            bowler: A Symonds
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.6:
+            batsman: HH Dippenaar
+            bowler: A Symonds
+            non_striker: AG Prince
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 28.1:
+            batsman: AG Prince
+            bowler: GB Hogg
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.2:
+            batsman: HH Dippenaar
+            bowler: GB Hogg
+            non_striker: AG Prince
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.3:
+            batsman: HH Dippenaar
+            bowler: GB Hogg
+            non_striker: AG Prince
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.4:
+            batsman: AG Prince
+            bowler: GB Hogg
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.5:
+            batsman: AG Prince
+            bowler: GB Hogg
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.6:
+            batsman: AG Prince
+            bowler: GB Hogg
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.1:
+            batsman: AG Prince
+            bowler: A Symonds
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.2:
+            batsman: HH Dippenaar
+            bowler: A Symonds
+            non_striker: AG Prince
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.3:
+            batsman: HH Dippenaar
+            bowler: A Symonds
+            non_striker: AG Prince
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.4:
+            batsman: HH Dippenaar
+            bowler: A Symonds
+            non_striker: AG Prince
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.5:
+            batsman: AG Prince
+            bowler: A Symonds
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 29.6:
+            batsman: AG Prince
+            bowler: A Symonds
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.1:
+            batsman: AG Prince
+            bowler: GB Hogg
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 30.2:
+            batsman: AG Prince
+            bowler: GB Hogg
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.3:
+            batsman: HH Dippenaar
+            bowler: GB Hogg
+            non_striker: AG Prince
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.4:
+            batsman: AG Prince
+            bowler: GB Hogg
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.5:
+            batsman: AG Prince
+            bowler: GB Hogg
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.6:
+            batsman: AG Prince
+            bowler: GB Hogg
+            non_striker: HH Dippenaar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.1:
+            batsman: HH Dippenaar
+            bowler: B Lee
+            extras:
+              wides: 1
+            non_striker: AG Prince
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 31.2:
+            batsman: HH Dippenaar
+            bowler: B Lee
+            non_striker: AG Prince
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.3:
+            batsman: HH Dippenaar
+            bowler: B Lee
+            non_striker: AG Prince
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.4:
+            batsman: HH Dippenaar
+            bowler: B Lee
+            non_striker: AG Prince
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.5:
+            batsman: HH Dippenaar
+            bowler: B Lee
+            extras:
+              wides: 1
+            non_striker: AG Prince
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 31.6:
+            batsman: HH Dippenaar
+            bowler: B Lee
+            non_striker: AG Prince
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.7:
+            batsman: HH Dippenaar
+            bowler: B Lee
+            non_striker: AG Prince
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: HH Dippenaar
+        - 31.8:
+            batsman: MV Boucher
+            bowler: B Lee
+            non_striker: AG Prince
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.1:
+            batsman: AG Prince
+            bowler: GB Hogg
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.2:
+            batsman: MV Boucher
+            bowler: GB Hogg
+            non_striker: AG Prince
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.3:
+            batsman: MV Boucher
+            bowler: GB Hogg
+            non_striker: AG Prince
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 32.4:
+            batsman: MV Boucher
+            bowler: GB Hogg
+            non_striker: AG Prince
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.5:
+            batsman: MV Boucher
+            bowler: GB Hogg
+            non_striker: AG Prince
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.6:
+            batsman: AG Prince
+            bowler: GB Hogg
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.1:
+            batsman: MV Boucher
+            bowler: B Lee
+            non_striker: AG Prince
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.2:
+            batsman: MV Boucher
+            bowler: B Lee
+            non_striker: AG Prince
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.3:
+            batsman: AG Prince
+            bowler: B Lee
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: AG Prince
+        - 33.4:
+            batsman: JM Kemp
+            bowler: B Lee
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.5:
+            batsman: JM Kemp
+            bowler: B Lee
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.6:
+            batsman: MV Boucher
+            bowler: B Lee
+            non_striker: JM Kemp
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.1:
+            batsman: JM Kemp
+            bowler: GB Hogg
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.2:
+            batsman: MV Boucher
+            bowler: GB Hogg
+            non_striker: JM Kemp
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.3:
+            batsman: MV Boucher
+            bowler: GB Hogg
+            non_striker: JM Kemp
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.4:
+            batsman: JM Kemp
+            bowler: GB Hogg
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.5:
+            batsman: JM Kemp
+            bowler: GB Hogg
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.6:
+            batsman: JM Kemp
+            bowler: GB Hogg
+            non_striker: MV Boucher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.1:
+            batsman: JM Kemp
+            bowler: B Lee
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.2:
+            batsman: JM Kemp
+            bowler: B Lee
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: JM Kemp
+        - 35.3:
+            batsman: JJ van der Wath
+            bowler: B Lee
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.4:
+            batsman: JJ van der Wath
+            bowler: B Lee
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.5:
+            batsman: JJ van der Wath
+            bowler: B Lee
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.6:
+            batsman: JJ van der Wath
+            bowler: B Lee
+            non_striker: MV Boucher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.1:
+            batsman: MV Boucher
+            bowler: GB Hogg
+            non_striker: JJ van der Wath
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.2:
+            batsman: MV Boucher
+            bowler: GB Hogg
+            non_striker: JJ van der Wath
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: MV Boucher
+        - 36.3:
+            batsman: SM Pollock
+            bowler: GB Hogg
+            non_striker: JJ van der Wath
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.4:
+            batsman: SM Pollock
+            bowler: GB Hogg
+            non_striker: JJ van der Wath
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.5:
+            batsman: JJ van der Wath
+            bowler: GB Hogg
+            non_striker: SM Pollock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.6:
+            batsman: JJ van der Wath
+            bowler: GB Hogg
+            non_striker: SM Pollock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - BJ Haddin
+              kind: caught
+              player_out: JJ van der Wath
+        - 37.1:
+            batsman: SM Pollock
+            bowler: B Lee
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.2:
+            batsman: SM Pollock
+            bowler: B Lee
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.3:
+            batsman: SM Pollock
+            bowler: B Lee
+            non_striker: J Botha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.4:
+            batsman: J Botha
+            bowler: B Lee
+            non_striker: SM Pollock
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.5:
+            batsman: SM Pollock
+            bowler: B Lee
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.6:
+            batsman: SM Pollock
+            bowler: B Lee
+            non_striker: J Botha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.1:
+            batsman: SM Pollock
+            bowler: GB Hogg
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.2:
+            batsman: SM Pollock
+            bowler: GB Hogg
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.3:
+            batsman: SM Pollock
+            bowler: GB Hogg
+            non_striker: J Botha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.4:
+            batsman: J Botha
+            bowler: GB Hogg
+            non_striker: SM Pollock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.5:
+            batsman: J Botha
+            bowler: GB Hogg
+            non_striker: SM Pollock
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.6:
+            batsman: SM Pollock
+            bowler: GB Hogg
+            non_striker: J Botha
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 39.1:
+            batsman: J Botha
+            bowler: B Lee
+            non_striker: SM Pollock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.2:
+            batsman: J Botha
+            bowler: B Lee
+            non_striker: SM Pollock
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.3:
+            batsman: SM Pollock
+            bowler: B Lee
+            non_striker: J Botha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.4:
+            batsman: J Botha
+            bowler: B Lee
+            non_striker: SM Pollock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.5:
+            batsman: J Botha
+            bowler: B Lee
+            non_striker: SM Pollock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.6:
+            batsman: J Botha
+            bowler: B Lee
+            non_striker: SM Pollock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.1:
+            batsman: SM Pollock
+            bowler: GB Hogg
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.2:
+            batsman: SM Pollock
+            bowler: GB Hogg
+            non_striker: J Botha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.3:
+            batsman: J Botha
+            bowler: GB Hogg
+            non_striker: SM Pollock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.4:
+            batsman: J Botha
+            bowler: GB Hogg
+            non_striker: SM Pollock
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.5:
+            batsman: SM Pollock
+            bowler: GB Hogg
+            non_striker: J Botha
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 40.6:
+            batsman: SM Pollock
+            bowler: GB Hogg
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.1:
+            batsman: J Botha
+            bowler: BR Dorey
+            non_striker: SM Pollock
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.2:
+            batsman: SM Pollock
+            bowler: BR Dorey
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.3:
+            batsman: SM Pollock
+            bowler: BR Dorey
+            non_striker: J Botha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.4:
+            batsman: J Botha
+            bowler: BR Dorey
+            non_striker: SM Pollock
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.5:
+            batsman: SM Pollock
+            bowler: BR Dorey
+            non_striker: J Botha
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 41.6:
+            batsman: SM Pollock
+            bowler: BR Dorey
+            non_striker: J Botha
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 42.1:
+            batsman: J Botha
+            bowler: GD McGrath
+            non_striker: SM Pollock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.2:
+            batsman: J Botha
+            bowler: GD McGrath
+            non_striker: SM Pollock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.3:
+            batsman: J Botha
+            bowler: GD McGrath
+            non_striker: SM Pollock
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.4:
+            batsman: SM Pollock
+            bowler: GD McGrath
+            non_striker: J Botha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.5:
+            batsman: J Botha
+            bowler: GD McGrath
+            non_striker: SM Pollock
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.6:
+            batsman: SM Pollock
+            bowler: GD McGrath
+            non_striker: J Botha
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 43.1:
+            batsman: J Botha
+            bowler: BR Dorey
+            non_striker: SM Pollock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.2:
+            batsman: J Botha
+            bowler: BR Dorey
+            non_striker: SM Pollock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.3:
+            batsman: J Botha
+            bowler: BR Dorey
+            non_striker: SM Pollock
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.4:
+            batsman: SM Pollock
+            bowler: BR Dorey
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.5:
+            batsman: SM Pollock
+            bowler: BR Dorey
+            non_striker: J Botha
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 43.6:
+            batsman: SM Pollock
+            bowler: BR Dorey
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.1:
+            batsman: J Botha
+            bowler: GD McGrath
+            non_striker: SM Pollock
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 44.2:
+            batsman: J Botha
+            bowler: GD McGrath
+            non_striker: SM Pollock
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.3:
+            batsman: SM Pollock
+            bowler: GD McGrath
+            extras:
+              noballs: 1
+            non_striker: J Botha
+            runs:
+              batsman: 6
+              extras: 1
+              total: 7
+        - 44.4:
+            batsman: SM Pollock
+            bowler: GD McGrath
+            non_striker: J Botha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.5:
+            batsman: J Botha
+            bowler: GD McGrath
+            non_striker: SM Pollock
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.6:
+            batsman: SM Pollock
+            bowler: GD McGrath
+            non_striker: J Botha
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.7:
+            batsman: J Botha
+            bowler: GD McGrath
+            non_striker: SM Pollock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.1:
+            batsman: SM Pollock
+            bowler: BR Dorey
+            non_striker: J Botha
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 45.2:
+            batsman: SM Pollock
+            bowler: BR Dorey
+            non_striker: J Botha
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 45.3:
+            batsman: SM Pollock
+            bowler: BR Dorey
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - BJ Haddin
+              kind: caught
+              player_out: SM Pollock
+        - 45.4:
+            batsman: GJP Kruger
+            bowler: BR Dorey
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.5:
+            batsman: GJP Kruger
+            bowler: BR Dorey
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.6:
+            batsman: GJP Kruger
+            bowler: BR Dorey
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.1:
+            batsman: J Botha
+            bowler: GD McGrath
+            non_striker: GJP Kruger
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.2:
+            batsman: J Botha
+            bowler: GD McGrath
+            extras:
+              legbyes: 1
+            non_striker: GJP Kruger
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 46.3:
+            batsman: GJP Kruger
+            bowler: GD McGrath
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.4:
+            batsman: GJP Kruger
+            bowler: GD McGrath
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.5:
+            batsman: GJP Kruger
+            bowler: GD McGrath
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.6:
+            batsman: GJP Kruger
+            bowler: GD McGrath
+            non_striker: J Botha
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - A Symonds
+              kind: caught
+              player_out: GJP Kruger

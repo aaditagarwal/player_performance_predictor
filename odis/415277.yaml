@@ -1,0 +1,5063 @@
+---
+meta:
+  data_version: 0.9
+  created: 2009-09-27
+  revision: 2
+info:
+  city: Johannesburg
+  dates:
+    - 2009-09-26
+  gender: male
+  match_type: ODI
+  neutral_venue: 1
+  outcome:
+    by:
+      runs: 50
+    winner: Australia
+  overs: 50
+  player_of_match:
+    - MG Johnson
+  teams:
+    - Australia
+    - West Indies
+  toss:
+    decision: field
+    winner: West Indies
+  umpires:
+    - Asad Rauf
+    - AL Hill
+  venue: New Wanderers Stadium
+innings:
+  - 1st innings:
+      team: Australia
+      deliveries:
+        - 0.1:
+            batsman: SR Watson
+            bowler: KAJ Roach
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: SR Watson
+        - 0.2:
+            batsman: RT Ponting
+            bowler: KAJ Roach
+            non_striker: TD Paine
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.3:
+            batsman: TD Paine
+            bowler: KAJ Roach
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.4:
+            batsman: RT Ponting
+            bowler: KAJ Roach
+            non_striker: TD Paine
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.5:
+            batsman: TD Paine
+            bowler: KAJ Roach
+            extras:
+              wides: 1
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.6:
+            batsman: TD Paine
+            bowler: KAJ Roach
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.7:
+            batsman: TD Paine
+            bowler: KAJ Roach
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: RT Ponting
+            bowler: GC Tonge
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: RT Ponting
+            bowler: GC Tonge
+            non_striker: TD Paine
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 1.3:
+            batsman: RT Ponting
+            bowler: GC Tonge
+            non_striker: TD Paine
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.4:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: RT Ponting
+            bowler: KAJ Roach
+            extras:
+              noballs: 2
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 2
+              total: 2
+        - 2.2:
+            batsman: TD Paine
+            bowler: KAJ Roach
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: TD Paine
+            bowler: KAJ Roach
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: TD Paine
+            bowler: KAJ Roach
+            extras:
+              noballs: 1
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.5:
+            batsman: TD Paine
+            bowler: KAJ Roach
+            non_striker: RT Ponting
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 2.6:
+            batsman: TD Paine
+            bowler: KAJ Roach
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.7:
+            batsman: RT Ponting
+            bowler: KAJ Roach
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.8:
+            batsman: RT Ponting
+            bowler: KAJ Roach
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.4:
+            batsman: RT Ponting
+            bowler: GC Tonge
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: RT Ponting
+            bowler: GC Tonge
+            non_striker: TD Paine
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.6:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.1:
+            batsman: TD Paine
+            bowler: KAJ Roach
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: TD Paine
+            bowler: KAJ Roach
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.3:
+            batsman: RT Ponting
+            bowler: KAJ Roach
+            extras:
+              legbyes: 1
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 4.4:
+            batsman: TD Paine
+            bowler: KAJ Roach
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: TD Paine
+            bowler: KAJ Roach
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: TD Paine
+            bowler: KAJ Roach
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: RT Ponting
+            bowler: GC Tonge
+            non_striker: TD Paine
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.2:
+            batsman: RT Ponting
+            bowler: GC Tonge
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: RT Ponting
+            bowler: GC Tonge
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: RT Ponting
+            bowler: GC Tonge
+            non_striker: TD Paine
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.5:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: RT Ponting
+            bowler: KAJ Roach
+            non_striker: TD Paine
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.2:
+            batsman: RT Ponting
+            bowler: KAJ Roach
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: RT Ponting
+            bowler: KAJ Roach
+            non_striker: TD Paine
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.4:
+            batsman: RT Ponting
+            bowler: KAJ Roach
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: RT Ponting
+            bowler: KAJ Roach
+            extras:
+              noballs: 1
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 6.6:
+            batsman: RT Ponting
+            bowler: KAJ Roach
+            non_striker: TD Paine
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.7:
+            batsman: RT Ponting
+            bowler: KAJ Roach
+            non_striker: TD Paine
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.1:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.4:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: RT Ponting
+            bowler: GC Tonge
+            extras:
+              legbyes: 1
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 7.6:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.1:
+            batsman: RT Ponting
+            bowler: DJG Sammy
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: RT Ponting
+            bowler: DJG Sammy
+            non_striker: TD Paine
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.3:
+            batsman: RT Ponting
+            bowler: DJG Sammy
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: RT Ponting
+            bowler: DJG Sammy
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: RT Ponting
+            bowler: DJG Sammy
+            extras:
+              noballs: 1
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 8.6:
+            batsman: RT Ponting
+            bowler: DJG Sammy
+            non_striker: TD Paine
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.7:
+            batsman: TD Paine
+            bowler: DJG Sammy
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: RT Ponting
+            bowler: GC Tonge
+            extras:
+              legbyes: 1
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 9.2:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.6:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: RT Ponting
+            bowler: DJG Sammy
+            non_striker: TD Paine
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: TD Paine
+            bowler: DJG Sammy
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.3:
+            batsman: RT Ponting
+            bowler: DJG Sammy
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: RT Ponting
+            bowler: DJG Sammy
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: RT Ponting
+            bowler: DJG Sammy
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.6:
+            batsman: RT Ponting
+            bowler: DJG Sammy
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.1:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 11.3:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: RT Ponting
+            bowler: GC Tonge
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: RT Ponting
+            bowler: GC Tonge
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: RT Ponting
+            bowler: GC Tonge
+            non_striker: TD Paine
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.1:
+            batsman: RT Ponting
+            bowler: DJG Sammy
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.2:
+            batsman: RT Ponting
+            bowler: DJG Sammy
+            non_striker: TD Paine
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.3:
+            batsman: TD Paine
+            bowler: DJG Sammy
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.4:
+            batsman: TD Paine
+            bowler: DJG Sammy
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.5:
+            batsman: TD Paine
+            bowler: DJG Sammy
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.6:
+            batsman: TD Paine
+            bowler: DJG Sammy
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.2:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 13.4:
+            batsman: TD Paine
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: RT Ponting
+            bowler: GC Tonge
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: RT Ponting
+            bowler: GC Tonge
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: TD Paine
+            bowler: DJG Sammy
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.2:
+            batsman: RT Ponting
+            bowler: DJG Sammy
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: RT Ponting
+            bowler: DJG Sammy
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: RT Ponting
+            bowler: DJG Sammy
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.5:
+            batsman: RT Ponting
+            bowler: DJG Sammy
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.6:
+            batsman: RT Ponting
+            bowler: DJG Sammy
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.1:
+            batsman: TD Paine
+            bowler: DE Bernard
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.2:
+            batsman: TD Paine
+            bowler: DE Bernard
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.3:
+            batsman: RT Ponting
+            bowler: DE Bernard
+            non_striker: TD Paine
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.4:
+            batsman: TD Paine
+            bowler: DE Bernard
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: TD Paine
+            bowler: DE Bernard
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.6:
+            batsman: TD Paine
+            bowler: DE Bernard
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.1:
+            batsman: TD Paine
+            bowler: DJG Sammy
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.2:
+            batsman: TD Paine
+            bowler: DJG Sammy
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.3:
+            batsman: TD Paine
+            bowler: DJG Sammy
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.4:
+            batsman: RT Ponting
+            bowler: DJG Sammy
+            non_striker: TD Paine
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.5:
+            batsman: TD Paine
+            bowler: DJG Sammy
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.6:
+            batsman: RT Ponting
+            bowler: DJG Sammy
+            non_striker: TD Paine
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: RT Ponting
+            bowler: DE Bernard
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.2:
+            batsman: RT Ponting
+            bowler: DE Bernard
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.3:
+            batsman: RT Ponting
+            bowler: DE Bernard
+            extras:
+              legbyes: 2
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 2
+              total: 2
+        - 17.4:
+            batsman: RT Ponting
+            bowler: DE Bernard
+            non_striker: TD Paine
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.5:
+            batsman: TD Paine
+            bowler: DE Bernard
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.6:
+            batsman: RT Ponting
+            bowler: DE Bernard
+            non_striker: TD Paine
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.1:
+            batsman: RT Ponting
+            bowler: DJG Sammy
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.2:
+            batsman: RT Ponting
+            bowler: DJG Sammy
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.3:
+            batsman: RT Ponting
+            bowler: DJG Sammy
+            non_striker: TD Paine
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.4:
+            batsman: TD Paine
+            bowler: DJG Sammy
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.5:
+            batsman: TD Paine
+            bowler: DJG Sammy
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.6:
+            batsman: RT Ponting
+            bowler: DJG Sammy
+            non_striker: TD Paine
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.1:
+            batsman: TD Paine
+            bowler: DE Bernard
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - CAK Walton
+              kind: caught
+              player_out: TD Paine
+        - 19.2:
+            batsman: MEK Hussey
+            bowler: DE Bernard
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.3:
+            batsman: MEK Hussey
+            bowler: DE Bernard
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.4:
+            batsman: MEK Hussey
+            bowler: DE Bernard
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.5:
+            batsman: RT Ponting
+            bowler: DE Bernard
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.6:
+            batsman: MEK Hussey
+            bowler: DE Bernard
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.1:
+            batsman: RT Ponting
+            bowler: KAJ Roach
+            non_striker: MEK Hussey
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 20.2:
+            batsman: RT Ponting
+            bowler: KAJ Roach
+            extras:
+              wides: 1
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 20.3:
+            batsman: RT Ponting
+            bowler: KAJ Roach
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.4:
+            batsman: RT Ponting
+            bowler: KAJ Roach
+            non_striker: MEK Hussey
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 20.5:
+            batsman: RT Ponting
+            bowler: KAJ Roach
+            non_striker: MEK Hussey
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 20.6:
+            batsman: RT Ponting
+            bowler: KAJ Roach
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.7:
+            batsman: MEK Hussey
+            bowler: KAJ Roach
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.1:
+            batsman: MEK Hussey
+            bowler: DE Bernard
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.2:
+            batsman: RT Ponting
+            bowler: DE Bernard
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.3:
+            batsman: RT Ponting
+            bowler: DE Bernard
+            non_striker: MEK Hussey
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 21.4:
+            batsman: RT Ponting
+            bowler: DE Bernard
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.5:
+            batsman: RT Ponting
+            bowler: DE Bernard
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.6:
+            batsman: MEK Hussey
+            bowler: DE Bernard
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.1:
+            batsman: RT Ponting
+            bowler: NO Miller
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.2:
+            batsman: RT Ponting
+            bowler: NO Miller
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.3:
+            batsman: MEK Hussey
+            bowler: NO Miller
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.4:
+            batsman: RT Ponting
+            bowler: NO Miller
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.5:
+            batsman: RT Ponting
+            bowler: NO Miller
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.6:
+            batsman: RT Ponting
+            bowler: NO Miller
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.1:
+            batsman: RT Ponting
+            bowler: DE Bernard
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.2:
+            batsman: MEK Hussey
+            bowler: DE Bernard
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.3:
+            batsman: RT Ponting
+            bowler: DE Bernard
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.4:
+            batsman: MEK Hussey
+            bowler: DE Bernard
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.5:
+            batsman: MEK Hussey
+            bowler: DE Bernard
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.6:
+            batsman: MEK Hussey
+            bowler: DE Bernard
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.1:
+            batsman: RT Ponting
+            bowler: NO Miller
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.2:
+            batsman: RT Ponting
+            bowler: NO Miller
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.3:
+            batsman: RT Ponting
+            bowler: NO Miller
+            non_striker: MEK Hussey
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 24.4:
+            batsman: RT Ponting
+            bowler: NO Miller
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.5:
+            batsman: MEK Hussey
+            bowler: NO Miller
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.6:
+            batsman: RT Ponting
+            bowler: NO Miller
+            non_striker: MEK Hussey
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.1:
+            batsman: RT Ponting
+            bowler: DE Bernard
+            extras:
+              legbyes: 1
+            non_striker: MEK Hussey
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 25.2:
+            batsman: MEK Hussey
+            bowler: DE Bernard
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - ADS Fletcher
+              kind: caught
+              player_out: MEK Hussey
+        - 25.3:
+            batsman: RT Ponting
+            bowler: DE Bernard
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 25.4:
+            batsman: RT Ponting
+            bowler: DE Bernard
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 25.5:
+            batsman: RT Ponting
+            bowler: DE Bernard
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.6:
+            batsman: CJ Ferguson
+            bowler: DE Bernard
+            extras:
+              wides: 2
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 2
+              total: 2
+        - 25.7:
+            batsman: RT Ponting
+            bowler: DE Bernard
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.1:
+            batsman: CJ Ferguson
+            bowler: NO Miller
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.2:
+            batsman: CJ Ferguson
+            bowler: NO Miller
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.3:
+            batsman: CJ Ferguson
+            bowler: NO Miller
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.4:
+            batsman: CJ Ferguson
+            bowler: NO Miller
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.5:
+            batsman: CJ Ferguson
+            bowler: NO Miller
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.6:
+            batsman: RT Ponting
+            bowler: NO Miller
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.1:
+            batsman: CJ Ferguson
+            bowler: DE Bernard
+            extras:
+              wides: 1
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 27.2:
+            batsman: CJ Ferguson
+            bowler: DE Bernard
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.3:
+            batsman: CJ Ferguson
+            bowler: DE Bernard
+            extras:
+              wides: 1
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 27.4:
+            batsman: CJ Ferguson
+            bowler: DE Bernard
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.5:
+            batsman: CJ Ferguson
+            bowler: DE Bernard
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.6:
+            batsman: CJ Ferguson
+            bowler: DE Bernard
+            non_striker: RT Ponting
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 27.7:
+            batsman: CJ Ferguson
+            bowler: DE Bernard
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.8:
+            batsman: RT Ponting
+            bowler: DE Bernard
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.1:
+            batsman: RT Ponting
+            bowler: NO Miller
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.2:
+            batsman: CJ Ferguson
+            bowler: NO Miller
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.3:
+            batsman: CJ Ferguson
+            bowler: NO Miller
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.4:
+            batsman: RT Ponting
+            bowler: NO Miller
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.5:
+            batsman: RT Ponting
+            bowler: NO Miller
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.6:
+            batsman: CJ Ferguson
+            bowler: NO Miller
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.1:
+            batsman: RT Ponting
+            bowler: GC Tonge
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.2:
+            batsman: CJ Ferguson
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.3:
+            batsman: CJ Ferguson
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.4:
+            batsman: CJ Ferguson
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 29.5:
+            batsman: CJ Ferguson
+            bowler: GC Tonge
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.6:
+            batsman: RT Ponting
+            bowler: GC Tonge
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.1:
+            batsman: CJ Ferguson
+            bowler: NO Miller
+            non_striker: RT Ponting
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.2:
+            batsman: RT Ponting
+            bowler: NO Miller
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.3:
+            batsman: RT Ponting
+            bowler: NO Miller
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - CAK Walton
+              kind: stumped
+              player_out: RT Ponting
+        - 30.4:
+            batsman: CL White
+            bowler: NO Miller
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.5:
+            batsman: CL White
+            bowler: NO Miller
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.6:
+            batsman: CJ Ferguson
+            bowler: NO Miller
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.1:
+            batsman: CL White
+            bowler: KAJ Roach
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.2:
+            batsman: CL White
+            bowler: KAJ Roach
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.3:
+            batsman: CL White
+            bowler: KAJ Roach
+            extras:
+              legbyes: 1
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 31.4:
+            batsman: CJ Ferguson
+            bowler: KAJ Roach
+            extras:
+              wides: 1
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 31.5:
+            batsman: CJ Ferguson
+            bowler: KAJ Roach
+            non_striker: CL White
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 31.6:
+            batsman: CJ Ferguson
+            bowler: KAJ Roach
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.7:
+            batsman: CJ Ferguson
+            bowler: KAJ Roach
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.1:
+            batsman: CL White
+            bowler: NO Miller
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.2:
+            batsman: CL White
+            bowler: NO Miller
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.3:
+            batsman: CL White
+            bowler: NO Miller
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.4:
+            batsman: CL White
+            bowler: NO Miller
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.5:
+            batsman: CL White
+            bowler: NO Miller
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.6:
+            batsman: CL White
+            bowler: NO Miller
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.1:
+            batsman: CJ Ferguson
+            bowler: KAJ Roach
+            non_striker: CL White
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.2:
+            batsman: CL White
+            bowler: KAJ Roach
+            extras:
+              wides: 1
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 33.3:
+            batsman: CL White
+            bowler: KAJ Roach
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.4:
+            batsman: CJ Ferguson
+            bowler: KAJ Roach
+            non_striker: CL White
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.5:
+            batsman: CL White
+            bowler: KAJ Roach
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.6:
+            batsman: CJ Ferguson
+            bowler: KAJ Roach
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.7:
+            batsman: CJ Ferguson
+            bowler: KAJ Roach
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.1:
+            batsman: CL White
+            bowler: NO Miller
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.2:
+            batsman: CJ Ferguson
+            bowler: NO Miller
+            non_striker: CL White
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.3:
+            batsman: CJ Ferguson
+            bowler: NO Miller
+            non_striker: CL White
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.4:
+            batsman: CL White
+            bowler: NO Miller
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.5:
+            batsman: CL White
+            bowler: NO Miller
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: CL White
+        - 34.6:
+            batsman: JR Hopes
+            bowler: NO Miller
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.1:
+            batsman: JR Hopes
+            bowler: KAJ Roach
+            non_striker: CJ Ferguson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.2:
+            batsman: CJ Ferguson
+            bowler: KAJ Roach
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.3:
+            batsman: CJ Ferguson
+            bowler: KAJ Roach
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: CJ Ferguson
+        - 35.4:
+            batsman: MG Johnson
+            bowler: KAJ Roach
+            non_striker: JR Hopes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.5:
+            batsman: JR Hopes
+            bowler: KAJ Roach
+            non_striker: MG Johnson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.6:
+            batsman: JR Hopes
+            bowler: KAJ Roach
+            non_striker: MG Johnson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.1:
+            batsman: MG Johnson
+            bowler: NO Miller
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.2:
+            batsman: MG Johnson
+            bowler: NO Miller
+            non_striker: JR Hopes
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 36.3:
+            batsman: MG Johnson
+            bowler: NO Miller
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.4:
+            batsman: MG Johnson
+            bowler: NO Miller
+            non_striker: JR Hopes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.5:
+            batsman: JR Hopes
+            bowler: NO Miller
+            non_striker: MG Johnson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.6:
+            batsman: JR Hopes
+            bowler: NO Miller
+            non_striker: MG Johnson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.1:
+            batsman: JR Hopes
+            bowler: DJG Sammy
+            non_striker: MG Johnson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.2:
+            batsman: JR Hopes
+            bowler: DJG Sammy
+            non_striker: MG Johnson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.3:
+            batsman: JR Hopes
+            bowler: DJG Sammy
+            non_striker: MG Johnson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.4:
+            batsman: JR Hopes
+            bowler: DJG Sammy
+            non_striker: MG Johnson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.5:
+            batsman: MG Johnson
+            bowler: DJG Sammy
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.6:
+            batsman: MG Johnson
+            bowler: DJG Sammy
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.1:
+            batsman: JR Hopes
+            bowler: NO Miller
+            non_striker: MG Johnson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.2:
+            batsman: MG Johnson
+            bowler: NO Miller
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.3:
+            batsman: MG Johnson
+            bowler: NO Miller
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.4:
+            batsman: MG Johnson
+            bowler: NO Miller
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.5:
+            batsman: MG Johnson
+            bowler: NO Miller
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.6:
+            batsman: MG Johnson
+            bowler: NO Miller
+            non_striker: JR Hopes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.1:
+            batsman: JR Hopes
+            bowler: DJG Sammy
+            non_striker: MG Johnson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.2:
+            batsman: JR Hopes
+            bowler: DJG Sammy
+            non_striker: MG Johnson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - CAK Walton
+              kind: caught
+              player_out: JR Hopes
+        - 39.3:
+            batsman: B Lee
+            bowler: DJG Sammy
+            non_striker: MG Johnson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.4:
+            batsman: B Lee
+            bowler: DJG Sammy
+            non_striker: MG Johnson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.5:
+            batsman: MG Johnson
+            bowler: DJG Sammy
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.6:
+            batsman: MG Johnson
+            bowler: DJG Sammy
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.1:
+            batsman: B Lee
+            bowler: NO Miller
+            non_striker: MG Johnson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.2:
+            batsman: B Lee
+            bowler: NO Miller
+            non_striker: MG Johnson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.3:
+            batsman: B Lee
+            bowler: NO Miller
+            non_striker: MG Johnson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.4:
+            batsman: B Lee
+            bowler: NO Miller
+            non_striker: MG Johnson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.5:
+            batsman: MG Johnson
+            bowler: NO Miller
+            non_striker: B Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.6:
+            batsman: B Lee
+            bowler: NO Miller
+            non_striker: MG Johnson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.1:
+            batsman: MG Johnson
+            bowler: DE Bernard
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.2:
+            batsman: MG Johnson
+            bowler: DE Bernard
+            non_striker: B Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.3:
+            batsman: B Lee
+            bowler: DE Bernard
+            non_striker: MG Johnson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.4:
+            batsman: B Lee
+            bowler: DE Bernard
+            non_striker: MG Johnson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.5:
+            batsman: B Lee
+            bowler: DE Bernard
+            non_striker: MG Johnson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.6:
+            batsman: MG Johnson
+            bowler: DE Bernard
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.1:
+            batsman: B Lee
+            bowler: GC Tonge
+            non_striker: MG Johnson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.2:
+            batsman: MG Johnson
+            bowler: GC Tonge
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.3:
+            batsman: MG Johnson
+            bowler: GC Tonge
+            non_striker: B Lee
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 42.4:
+            batsman: MG Johnson
+            bowler: GC Tonge
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.5:
+            batsman: MG Johnson
+            bowler: GC Tonge
+            non_striker: B Lee
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 42.6:
+            batsman: MG Johnson
+            bowler: GC Tonge
+            non_striker: B Lee
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 43.1:
+            batsman: B Lee
+            bowler: DE Bernard
+            non_striker: MG Johnson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.2:
+            batsman: B Lee
+            bowler: DE Bernard
+            non_striker: MG Johnson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.3:
+            batsman: MG Johnson
+            bowler: DE Bernard
+            non_striker: B Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.4:
+            batsman: B Lee
+            bowler: DE Bernard
+            non_striker: MG Johnson
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 43.5:
+            batsman: B Lee
+            bowler: DE Bernard
+            non_striker: MG Johnson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.6:
+            batsman: MG Johnson
+            bowler: DE Bernard
+            non_striker: B Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.1:
+            batsman: MG Johnson
+            bowler: DJG Sammy
+            non_striker: B Lee
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 44.2:
+            batsman: MG Johnson
+            bowler: DJG Sammy
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.3:
+            batsman: MG Johnson
+            bowler: DJG Sammy
+            extras:
+              wides: 1
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 44.4:
+            batsman: MG Johnson
+            bowler: DJG Sammy
+            non_striker: B Lee
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 44.5:
+            batsman: MG Johnson
+            bowler: DJG Sammy
+            non_striker: B Lee
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 44.6:
+            batsman: MG Johnson
+            bowler: DJG Sammy
+            non_striker: B Lee
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 44.7:
+            batsman: MG Johnson
+            bowler: DJG Sammy
+            non_striker: B Lee
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 45.1:
+            batsman: B Lee
+            bowler: KAJ Roach
+            non_striker: MG Johnson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.2:
+            batsman: MG Johnson
+            bowler: KAJ Roach
+            non_striker: B Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.3:
+            batsman: B Lee
+            bowler: KAJ Roach
+            non_striker: MG Johnson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.4:
+            batsman: B Lee
+            bowler: KAJ Roach
+            non_striker: MG Johnson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.5:
+            batsman: MG Johnson
+            bowler: KAJ Roach
+            non_striker: B Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.6:
+            batsman: B Lee
+            bowler: KAJ Roach
+            non_striker: MG Johnson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.1:
+            batsman: B Lee
+            bowler: GC Tonge
+            non_striker: MG Johnson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.2:
+            batsman: MG Johnson
+            bowler: GC Tonge
+            non_striker: B Lee
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.3:
+            batsman: MG Johnson
+            bowler: GC Tonge
+            non_striker: B Lee
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.4:
+            batsman: B Lee
+            bowler: GC Tonge
+            non_striker: MG Johnson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.5:
+            batsman: MG Johnson
+            bowler: GC Tonge
+            non_striker: B Lee
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 46.6:
+            batsman: MG Johnson
+            bowler: GC Tonge
+            non_striker: B Lee
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 47.1:
+            batsman: B Lee
+            bowler: KAJ Roach
+            non_striker: MG Johnson
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 47.2:
+            batsman: B Lee
+            bowler: KAJ Roach
+            extras:
+              noballs: 1
+            non_striker: MG Johnson
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 47.3:
+            batsman: B Lee
+            bowler: KAJ Roach
+            non_striker: MG Johnson
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 47.4:
+            batsman: B Lee
+            bowler: KAJ Roach
+            non_striker: MG Johnson
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 47.5:
+            batsman: B Lee
+            bowler: KAJ Roach
+            non_striker: MG Johnson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.6:
+            batsman: B Lee
+            bowler: KAJ Roach
+            non_striker: MG Johnson
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.7:
+            batsman: B Lee
+            bowler: KAJ Roach
+            non_striker: MG Johnson
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+            wicket:
+              fielders:
+                - CAK Walton
+              kind: run out
+              player_out: B Lee
+        - 48.1:
+            batsman: MG Johnson
+            bowler: DE Bernard
+            non_striker: NM Hauritz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 48.2:
+            batsman: MG Johnson
+            bowler: DE Bernard
+            non_striker: NM Hauritz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 48.3:
+            batsman: MG Johnson
+            bowler: DE Bernard
+            non_striker: NM Hauritz
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 48.4:
+            batsman: MG Johnson
+            bowler: DE Bernard
+            non_striker: NM Hauritz
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 48.5:
+            batsman: MG Johnson
+            bowler: DE Bernard
+            non_striker: NM Hauritz
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 48.6:
+            batsman: MG Johnson
+            bowler: DE Bernard
+            extras:
+              noballs: 1
+            non_striker: NM Hauritz
+            runs:
+              batsman: 4
+              extras: 1
+              total: 5
+        - 48.7:
+            batsman: MG Johnson
+            bowler: DE Bernard
+            non_striker: NM Hauritz
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 49.1:
+            batsman: NM Hauritz
+            bowler: DJG Sammy
+            non_striker: MG Johnson
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 49.2:
+            batsman: NM Hauritz
+            bowler: DJG Sammy
+            non_striker: MG Johnson
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 49.3:
+            batsman: NM Hauritz
+            bowler: DJG Sammy
+            non_striker: MG Johnson
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 49.4:
+            batsman: MG Johnson
+            bowler: DJG Sammy
+            non_striker: NM Hauritz
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 49.5:
+            batsman: MG Johnson
+            bowler: DJG Sammy
+            non_striker: NM Hauritz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 49.6:
+            batsman: MG Johnson
+            bowler: DJG Sammy
+            non_striker: NM Hauritz
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+  - 2nd innings:
+      team: West Indies
+      deliveries:
+        - 0.1:
+            batsman: DS Smith
+            bowler: B Lee
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.2:
+            batsman: DS Smith
+            bowler: B Lee
+            extras:
+              legbyes: 4
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 0.3:
+            batsman: DS Smith
+            bowler: B Lee
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: DS Smith
+            bowler: B Lee
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.5:
+            batsman: ADS Fletcher
+            bowler: B Lee
+            extras:
+              wides: 1
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.6:
+            batsman: ADS Fletcher
+            bowler: B Lee
+            non_striker: DS Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.7:
+            batsman: DS Smith
+            bowler: B Lee
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: ADS Fletcher
+            bowler: PM Siddle
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: ADS Fletcher
+            bowler: PM Siddle
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: ADS Fletcher
+            bowler: PM Siddle
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: ADS Fletcher
+            bowler: PM Siddle
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: ADS Fletcher
+            bowler: PM Siddle
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: ADS Fletcher
+            bowler: PM Siddle
+            extras:
+              legbyes: 1
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.1:
+            batsman: ADS Fletcher
+            bowler: B Lee
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: ADS Fletcher
+            bowler: B Lee
+            non_striker: DS Smith
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.3:
+            batsman: DS Smith
+            bowler: B Lee
+            extras:
+              legbyes: 1
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.4:
+            batsman: ADS Fletcher
+            bowler: B Lee
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: ADS Fletcher
+            bowler: B Lee
+            extras:
+              wides: 1
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.6:
+            batsman: ADS Fletcher
+            bowler: B Lee
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.7:
+            batsman: ADS Fletcher
+            bowler: B Lee
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: DS Smith
+            bowler: PM Siddle
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.2:
+            batsman: DS Smith
+            bowler: PM Siddle
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: DS Smith
+            bowler: PM Siddle
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: DS Smith
+            bowler: PM Siddle
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: DS Smith
+            bowler: PM Siddle
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: DS Smith
+            bowler: PM Siddle
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: ADS Fletcher
+            bowler: B Lee
+            extras:
+              wides: 1
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 4.2:
+            batsman: ADS Fletcher
+            bowler: B Lee
+            extras:
+              legbyes: 4
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 4.3:
+            batsman: ADS Fletcher
+            bowler: B Lee
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: ADS Fletcher
+            bowler: B Lee
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: ADS Fletcher
+            bowler: B Lee
+            non_striker: DS Smith
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 4.6:
+            batsman: ADS Fletcher
+            bowler: B Lee
+            non_striker: DS Smith
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.7:
+            batsman: ADS Fletcher
+            bowler: B Lee
+            non_striker: DS Smith
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.1:
+            batsman: DS Smith
+            bowler: PM Siddle
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.2:
+            batsman: DS Smith
+            bowler: PM Siddle
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.3:
+            batsman: DS Smith
+            bowler: PM Siddle
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: DS Smith
+            bowler: PM Siddle
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - TD Paine
+              kind: caught
+              player_out: DS Smith
+        - 5.5:
+            batsman: TM Dowlin
+            bowler: PM Siddle
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: TM Dowlin
+            bowler: PM Siddle
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: ADS Fletcher
+            bowler: B Lee
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: ADS Fletcher
+            bowler: B Lee
+            non_striker: TM Dowlin
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 6.3:
+            batsman: TM Dowlin
+            bowler: B Lee
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.4:
+            batsman: TM Dowlin
+            bowler: B Lee
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: TM Dowlin
+            bowler: B Lee
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: TM Dowlin
+            bowler: B Lee
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.1:
+            batsman: ADS Fletcher
+            bowler: PM Siddle
+            extras:
+              legbyes: 1
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 7.2:
+            batsman: TM Dowlin
+            bowler: PM Siddle
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.3:
+            batsman: ADS Fletcher
+            bowler: PM Siddle
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: ADS Fletcher
+            bowler: PM Siddle
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: ADS Fletcher
+            bowler: PM Siddle
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: ADS Fletcher
+            bowler: PM Siddle
+            non_striker: TM Dowlin
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.1:
+            batsman: TM Dowlin
+            bowler: MG Johnson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: TM Dowlin
+            bowler: MG Johnson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.3:
+            batsman: TM Dowlin
+            bowler: MG Johnson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: TM Dowlin
+            bowler: MG Johnson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: TM Dowlin
+            bowler: MG Johnson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: TM Dowlin
+            bowler: MG Johnson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: ADS Fletcher
+            bowler: PM Siddle
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.2:
+            batsman: ADS Fletcher
+            bowler: PM Siddle
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: ADS Fletcher
+            bowler: PM Siddle
+            non_striker: TM Dowlin
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 9.4:
+            batsman: ADS Fletcher
+            bowler: PM Siddle
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: ADS Fletcher
+            bowler: PM Siddle
+            non_striker: TM Dowlin
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.6:
+            batsman: ADS Fletcher
+            bowler: PM Siddle
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: TM Dowlin
+            bowler: MG Johnson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.2:
+            batsman: TM Dowlin
+            bowler: MG Johnson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: TM Dowlin
+            bowler: MG Johnson
+            extras:
+              wides: 1
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 10.4:
+            batsman: TM Dowlin
+            bowler: MG Johnson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.5:
+            batsman: ADS Fletcher
+            bowler: MG Johnson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.6:
+            batsman: ADS Fletcher
+            bowler: MG Johnson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.7:
+            batsman: TM Dowlin
+            bowler: MG Johnson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.1:
+            batsman: ADS Fletcher
+            bowler: SR Watson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: ADS Fletcher
+            bowler: SR Watson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.3:
+            batsman: ADS Fletcher
+            bowler: SR Watson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: TM Dowlin
+            bowler: SR Watson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: TM Dowlin
+            bowler: SR Watson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: TM Dowlin
+            bowler: SR Watson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: ADS Fletcher
+            bowler: MG Johnson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: TM Dowlin
+            bowler: MG Johnson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.3:
+            batsman: TM Dowlin
+            bowler: MG Johnson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.4:
+            batsman: TM Dowlin
+            bowler: MG Johnson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.5:
+            batsman: TM Dowlin
+            bowler: MG Johnson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.6:
+            batsman: ADS Fletcher
+            bowler: MG Johnson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.1:
+            batsman: TM Dowlin
+            bowler: SR Watson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.2:
+            batsman: TM Dowlin
+            bowler: SR Watson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: TM Dowlin
+            bowler: SR Watson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 13.4:
+            batsman: TM Dowlin
+            bowler: SR Watson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 13.5:
+            batsman: TM Dowlin
+            bowler: SR Watson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: TM Dowlin
+            bowler: SR Watson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: ADS Fletcher
+            bowler: MG Johnson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.2:
+            batsman: ADS Fletcher
+            bowler: MG Johnson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: ADS Fletcher
+            bowler: MG Johnson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: ADS Fletcher
+            bowler: MG Johnson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.5:
+            batsman: ADS Fletcher
+            bowler: MG Johnson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.6:
+            batsman: ADS Fletcher
+            bowler: MG Johnson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: ADS Fletcher
+            bowler: SR Watson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 15.2:
+            batsman: ADS Fletcher
+            bowler: SR Watson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.3:
+            batsman: TM Dowlin
+            bowler: SR Watson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.4:
+            batsman: ADS Fletcher
+            bowler: SR Watson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: ADS Fletcher
+            bowler: SR Watson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.6:
+            batsman: TM Dowlin
+            bowler: SR Watson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 16.1:
+            batsman: ADS Fletcher
+            bowler: MG Johnson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.2:
+            batsman: TM Dowlin
+            bowler: MG Johnson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.3:
+            batsman: TM Dowlin
+            bowler: MG Johnson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.4:
+            batsman: TM Dowlin
+            bowler: MG Johnson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.5:
+            batsman: TM Dowlin
+            bowler: MG Johnson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.6:
+            batsman: ADS Fletcher
+            bowler: MG Johnson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: ADS Fletcher
+            bowler: SR Watson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.2:
+            batsman: ADS Fletcher
+            bowler: SR Watson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.3:
+            batsman: ADS Fletcher
+            bowler: SR Watson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.4:
+            batsman: TM Dowlin
+            bowler: SR Watson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.5:
+            batsman: ADS Fletcher
+            bowler: SR Watson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.6:
+            batsman: TM Dowlin
+            bowler: SR Watson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.1:
+            batsman: TM Dowlin
+            bowler: NM Hauritz
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.2:
+            batsman: ADS Fletcher
+            bowler: NM Hauritz
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.3:
+            batsman: ADS Fletcher
+            bowler: NM Hauritz
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: ADS Fletcher
+            bowler: NM Hauritz
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.5:
+            batsman: ADS Fletcher
+            bowler: NM Hauritz
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.6:
+            batsman: ADS Fletcher
+            bowler: NM Hauritz
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.1:
+            batsman: TM Dowlin
+            bowler: SR Watson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.2:
+            batsman: ADS Fletcher
+            bowler: SR Watson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.3:
+            batsman: ADS Fletcher
+            bowler: SR Watson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.4:
+            batsman: TM Dowlin
+            bowler: SR Watson
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.5:
+            batsman: ADS Fletcher
+            bowler: SR Watson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.6:
+            batsman: ADS Fletcher
+            bowler: SR Watson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.1:
+            batsman: ADS Fletcher
+            bowler: NM Hauritz
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.2:
+            batsman: TM Dowlin
+            bowler: NM Hauritz
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.3:
+            batsman: TM Dowlin
+            bowler: NM Hauritz
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.4:
+            batsman: ADS Fletcher
+            bowler: NM Hauritz
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.5:
+            batsman: TM Dowlin
+            bowler: NM Hauritz
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.6:
+            batsman: TM Dowlin
+            bowler: NM Hauritz
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.1:
+            batsman: ADS Fletcher
+            bowler: JR Hopes
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.2:
+            batsman: TM Dowlin
+            bowler: JR Hopes
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.3:
+            batsman: TM Dowlin
+            bowler: JR Hopes
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.4:
+            batsman: ADS Fletcher
+            bowler: JR Hopes
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.5:
+            batsman: TM Dowlin
+            bowler: JR Hopes
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.6:
+            batsman: ADS Fletcher
+            bowler: JR Hopes
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.1:
+            batsman: ADS Fletcher
+            bowler: NM Hauritz
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.2:
+            batsman: TM Dowlin
+            bowler: NM Hauritz
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.3:
+            batsman: ADS Fletcher
+            bowler: NM Hauritz
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.4:
+            batsman: ADS Fletcher
+            bowler: NM Hauritz
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.5:
+            batsman: TM Dowlin
+            bowler: NM Hauritz
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.6:
+            batsman: ADS Fletcher
+            bowler: NM Hauritz
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.1:
+            batsman: ADS Fletcher
+            bowler: JR Hopes
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.2:
+            batsman: TM Dowlin
+            bowler: JR Hopes
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.3:
+            batsman: ADS Fletcher
+            bowler: JR Hopes
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.4:
+            batsman: TM Dowlin
+            bowler: JR Hopes
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.5:
+            batsman: ADS Fletcher
+            bowler: JR Hopes
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.6:
+            batsman: TM Dowlin
+            bowler: JR Hopes
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.1:
+            batsman: TM Dowlin
+            bowler: B Lee
+            extras:
+              wides: 1
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 24.2:
+            batsman: TM Dowlin
+            bowler: B Lee
+            non_striker: ADS Fletcher
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.3:
+            batsman: ADS Fletcher
+            bowler: B Lee
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.4:
+            batsman: ADS Fletcher
+            bowler: B Lee
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MG Johnson
+              kind: run out
+              player_out: ADS Fletcher
+        - 24.5:
+            batsman: TM Dowlin
+            bowler: B Lee
+            non_striker: CAK Walton
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.6:
+            batsman: TM Dowlin
+            bowler: B Lee
+            non_striker: CAK Walton
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 24.7:
+            batsman: TM Dowlin
+            bowler: B Lee
+            non_striker: CAK Walton
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.1:
+            batsman: CAK Walton
+            bowler: JR Hopes
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.2:
+            batsman: CAK Walton
+            bowler: JR Hopes
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: CAK Walton
+        - 25.3:
+            batsman: FL Reifer
+            bowler: JR Hopes
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.4:
+            batsman: FL Reifer
+            bowler: JR Hopes
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.5:
+            batsman: FL Reifer
+            bowler: JR Hopes
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.6:
+            batsman: FL Reifer
+            bowler: JR Hopes
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.1:
+            batsman: TM Dowlin
+            bowler: B Lee
+            extras:
+              wides: 1
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 26.2:
+            batsman: TM Dowlin
+            bowler: B Lee
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.3:
+            batsman: TM Dowlin
+            bowler: B Lee
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.4:
+            batsman: TM Dowlin
+            bowler: B Lee
+            non_striker: FL Reifer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.5:
+            batsman: FL Reifer
+            bowler: B Lee
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.6:
+            batsman: FL Reifer
+            bowler: B Lee
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.7:
+            batsman: FL Reifer
+            bowler: B Lee
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.1:
+            batsman: TM Dowlin
+            bowler: JR Hopes
+            non_striker: FL Reifer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.2:
+            batsman: FL Reifer
+            bowler: JR Hopes
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.3:
+            batsman: FL Reifer
+            bowler: JR Hopes
+            non_striker: TM Dowlin
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 27.4:
+            batsman: FL Reifer
+            bowler: JR Hopes
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.5:
+            batsman: TM Dowlin
+            bowler: JR Hopes
+            non_striker: FL Reifer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.6:
+            batsman: FL Reifer
+            bowler: JR Hopes
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.1:
+            batsman: TM Dowlin
+            bowler: NM Hauritz
+            non_striker: FL Reifer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.2:
+            batsman: FL Reifer
+            bowler: NM Hauritz
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.3:
+            batsman: TM Dowlin
+            bowler: NM Hauritz
+            non_striker: FL Reifer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.4:
+            batsman: FL Reifer
+            bowler: NM Hauritz
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.5:
+            batsman: TM Dowlin
+            bowler: NM Hauritz
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.6:
+            batsman: TM Dowlin
+            bowler: NM Hauritz
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.1:
+            batsman: FL Reifer
+            bowler: JR Hopes
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.2:
+            batsman: FL Reifer
+            bowler: JR Hopes
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.3:
+            batsman: FL Reifer
+            bowler: JR Hopes
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.4:
+            batsman: TM Dowlin
+            bowler: JR Hopes
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.5:
+            batsman: TM Dowlin
+            bowler: JR Hopes
+            extras:
+              legbyes: 1
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 29.6:
+            batsman: FL Reifer
+            bowler: JR Hopes
+            extras:
+              wides: 1
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 29.7:
+            batsman: FL Reifer
+            bowler: JR Hopes
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.1:
+            batsman: TM Dowlin
+            bowler: NM Hauritz
+            non_striker: FL Reifer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.2:
+            batsman: FL Reifer
+            bowler: NM Hauritz
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.3:
+            batsman: FL Reifer
+            bowler: NM Hauritz
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.4:
+            batsman: TM Dowlin
+            bowler: NM Hauritz
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.5:
+            batsman: TM Dowlin
+            bowler: NM Hauritz
+            non_striker: FL Reifer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.6:
+            batsman: FL Reifer
+            bowler: NM Hauritz
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.1:
+            batsman: TM Dowlin
+            bowler: MG Johnson
+            non_striker: FL Reifer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.2:
+            batsman: FL Reifer
+            bowler: MG Johnson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.3:
+            batsman: FL Reifer
+            bowler: MG Johnson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.4:
+            batsman: FL Reifer
+            bowler: MG Johnson
+            extras:
+              wides: 1
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 31.5:
+            batsman: FL Reifer
+            bowler: MG Johnson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.6:
+            batsman: FL Reifer
+            bowler: MG Johnson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 31.7:
+            batsman: FL Reifer
+            bowler: MG Johnson
+            extras:
+              legbyes: 4
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 32.1:
+            batsman: TM Dowlin
+            bowler: NM Hauritz
+            non_striker: FL Reifer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.2:
+            batsman: FL Reifer
+            bowler: NM Hauritz
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.3:
+            batsman: FL Reifer
+            bowler: NM Hauritz
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.4:
+            batsman: FL Reifer
+            bowler: NM Hauritz
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.5:
+            batsman: FL Reifer
+            bowler: NM Hauritz
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.6:
+            batsman: FL Reifer
+            bowler: NM Hauritz
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.1:
+            batsman: FL Reifer
+            bowler: MG Johnson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.2:
+            batsman: FL Reifer
+            bowler: MG Johnson
+            extras:
+              wides: 1
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 33.3:
+            batsman: FL Reifer
+            bowler: MG Johnson
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.4:
+            batsman: TM Dowlin
+            bowler: MG Johnson
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.5:
+            batsman: TM Dowlin
+            bowler: MG Johnson
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.6:
+            batsman: TM Dowlin
+            bowler: MG Johnson
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.7:
+            batsman: TM Dowlin
+            bowler: MG Johnson
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.1:
+            batsman: FL Reifer
+            bowler: NM Hauritz
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.2:
+            batsman: TM Dowlin
+            bowler: NM Hauritz
+            non_striker: FL Reifer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.3:
+            batsman: FL Reifer
+            bowler: NM Hauritz
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.4:
+            batsman: FL Reifer
+            bowler: NM Hauritz
+            extras:
+              legbyes: 1
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 34.5:
+            batsman: TM Dowlin
+            bowler: NM Hauritz
+            non_striker: FL Reifer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.6:
+            batsman: FL Reifer
+            bowler: NM Hauritz
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.1:
+            batsman: TM Dowlin
+            bowler: PM Siddle
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.2:
+            batsman: TM Dowlin
+            bowler: PM Siddle
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.3:
+            batsman: TM Dowlin
+            bowler: PM Siddle
+            non_striker: FL Reifer
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 35.4:
+            batsman: TM Dowlin
+            bowler: PM Siddle
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.5:
+            batsman: TM Dowlin
+            bowler: PM Siddle
+            non_striker: FL Reifer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.6:
+            batsman: FL Reifer
+            bowler: PM Siddle
+            non_striker: TM Dowlin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.1:
+            batsman: FL Reifer
+            bowler: B Lee
+            extras:
+              legbyes: 1
+            non_striker: TM Dowlin
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 36.2:
+            batsman: TM Dowlin
+            bowler: B Lee
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.3:
+            batsman: TM Dowlin
+            bowler: B Lee
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.4:
+            batsman: TM Dowlin
+            bowler: B Lee
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - TD Paine
+              kind: caught
+              player_out: TM Dowlin
+        - 36.5:
+            batsman: FL Reifer
+            bowler: B Lee
+            non_striker: DE Bernard
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.6:
+            batsman: FL Reifer
+            bowler: B Lee
+            extras:
+              wides: 5
+            non_striker: DE Bernard
+            runs:
+              batsman: 0
+              extras: 5
+              total: 5
+        - 36.7:
+            batsman: FL Reifer
+            bowler: B Lee
+            non_striker: DE Bernard
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.1:
+            batsman: FL Reifer
+            bowler: PM Siddle
+            non_striker: DE Bernard
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.2:
+            batsman: FL Reifer
+            bowler: PM Siddle
+            extras:
+              legbyes: 1
+            non_striker: DE Bernard
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 37.3:
+            batsman: DE Bernard
+            bowler: PM Siddle
+            non_striker: FL Reifer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.4:
+            batsman: FL Reifer
+            bowler: PM Siddle
+            non_striker: DE Bernard
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.5:
+            batsman: FL Reifer
+            bowler: PM Siddle
+            non_striker: DE Bernard
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.6:
+            batsman: DE Bernard
+            bowler: PM Siddle
+            non_striker: FL Reifer
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 38.1:
+            batsman: FL Reifer
+            bowler: B Lee
+            non_striker: DE Bernard
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.2:
+            batsman: FL Reifer
+            bowler: B Lee
+            non_striker: DE Bernard
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.3:
+            batsman: DE Bernard
+            bowler: B Lee
+            non_striker: FL Reifer
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 38.4:
+            batsman: DE Bernard
+            bowler: B Lee
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.5:
+            batsman: DE Bernard
+            bowler: B Lee
+            non_striker: FL Reifer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.6:
+            batsman: FL Reifer
+            bowler: B Lee
+            non_striker: DE Bernard
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.1:
+            batsman: DE Bernard
+            bowler: PM Siddle
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: DE Bernard
+        - 39.2:
+            batsman: DJG Sammy
+            bowler: PM Siddle
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.3:
+            batsman: DJG Sammy
+            bowler: PM Siddle
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.4:
+            batsman: DJG Sammy
+            bowler: PM Siddle
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.5:
+            batsman: DJG Sammy
+            bowler: PM Siddle
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.6:
+            batsman: DJG Sammy
+            bowler: PM Siddle
+            non_striker: FL Reifer
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 40.1:
+            batsman: FL Reifer
+            bowler: JR Hopes
+            non_striker: DJG Sammy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.2:
+            batsman: DJG Sammy
+            bowler: JR Hopes
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.3:
+            batsman: DJG Sammy
+            bowler: JR Hopes
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.4:
+            batsman: DJG Sammy
+            bowler: JR Hopes
+            extras:
+              wides: 1
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 40.5:
+            batsman: DJG Sammy
+            bowler: JR Hopes
+            non_striker: FL Reifer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.6:
+            batsman: FL Reifer
+            bowler: JR Hopes
+            non_striker: DJG Sammy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.7:
+            batsman: FL Reifer
+            bowler: JR Hopes
+            non_striker: DJG Sammy
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 41.1:
+            batsman: DJG Sammy
+            bowler: MG Johnson
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.2:
+            batsman: DJG Sammy
+            bowler: MG Johnson
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.3:
+            batsman: DJG Sammy
+            bowler: MG Johnson
+            non_striker: FL Reifer
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 41.4:
+            batsman: DJG Sammy
+            bowler: MG Johnson
+            non_striker: FL Reifer
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 41.5:
+            batsman: DJG Sammy
+            bowler: MG Johnson
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.6:
+            batsman: DJG Sammy
+            bowler: MG Johnson
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.1:
+            batsman: FL Reifer
+            bowler: SR Watson
+            non_striker: DJG Sammy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.2:
+            batsman: DJG Sammy
+            bowler: SR Watson
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.3:
+            batsman: DJG Sammy
+            bowler: SR Watson
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.4:
+            batsman: DJG Sammy
+            bowler: SR Watson
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.5:
+            batsman: DJG Sammy
+            bowler: SR Watson
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.6:
+            batsman: DJG Sammy
+            bowler: SR Watson
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.1:
+            batsman: FL Reifer
+            bowler: MG Johnson
+            non_striker: DJG Sammy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.2:
+            batsman: FL Reifer
+            bowler: MG Johnson
+            non_striker: DJG Sammy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.3:
+            batsman: FL Reifer
+            bowler: MG Johnson
+            non_striker: DJG Sammy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.4:
+            batsman: DJG Sammy
+            bowler: MG Johnson
+            non_striker: FL Reifer
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 43.5:
+            batsman: DJG Sammy
+            bowler: MG Johnson
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.6:
+            batsman: DJG Sammy
+            bowler: MG Johnson
+            non_striker: FL Reifer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.1:
+            batsman: DJG Sammy
+            bowler: SR Watson
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MEK Hussey
+              kind: caught
+              player_out: DJG Sammy
+        - 44.2:
+            batsman: NO Miller
+            bowler: SR Watson
+            non_striker: FL Reifer
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.3:
+            batsman: NO Miller
+            bowler: SR Watson
+            non_striker: FL Reifer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.4:
+            batsman: FL Reifer
+            bowler: SR Watson
+            extras:
+              noballs: 1
+            non_striker: NO Miller
+            runs:
+              batsman: 1
+              extras: 1
+              total: 2
+        - 44.5:
+            batsman: NO Miller
+            bowler: SR Watson
+            non_striker: FL Reifer
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.6:
+            batsman: FL Reifer
+            bowler: SR Watson
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - NM Hauritz
+              kind: caught
+              player_out: FL Reifer
+        - 44.7:
+            batsman: KAJ Roach
+            bowler: SR Watson
+            non_striker: NO Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.1:
+            batsman: KAJ Roach
+            bowler: MG Johnson
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.2:
+            batsman: KAJ Roach
+            bowler: MG Johnson
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.3:
+            batsman: KAJ Roach
+            bowler: MG Johnson
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.4:
+            batsman: KAJ Roach
+            bowler: MG Johnson
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.5:
+            batsman: KAJ Roach
+            bowler: MG Johnson
+            extras:
+              wides: 1
+            non_striker: NO Miller
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 45.6:
+            batsman: KAJ Roach
+            bowler: MG Johnson
+            non_striker: NO Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.7:
+            batsman: NO Miller
+            bowler: MG Johnson
+            non_striker: KAJ Roach
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.1:
+            batsman: NO Miller
+            bowler: NM Hauritz
+            non_striker: KAJ Roach
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.2:
+            batsman: NO Miller
+            bowler: NM Hauritz
+            non_striker: KAJ Roach
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.3:
+            batsman: KAJ Roach
+            bowler: NM Hauritz
+            non_striker: NO Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.4:
+            batsman: NO Miller
+            bowler: NM Hauritz
+            non_striker: KAJ Roach
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - RT Ponting
+              kind: caught
+              player_out: NO Miller
+        - 46.5:
+            batsman: KAJ Roach
+            bowler: NM Hauritz
+            non_striker: GC Tonge
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - MG Johnson
+              kind: caught
+              player_out: KAJ Roach
+      absent_hurt:
+        - DM Richards

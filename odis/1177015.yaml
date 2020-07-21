@@ -1,0 +1,1934 @@
+---
+meta:
+  data_version: 0.9
+  created: '2019-10-31'
+  revision: 1
+info:
+  city: Potchefstroom
+  dates:
+  - '2019-05-06'
+  gender: female
+  match_type: ODI
+  match_type_number: 1152
+  outcome:
+    winner: Pakistan
+    by:
+      wickets: 8
+  overs: 50
+  player_of_match:
+  - Sana Mir
+  teams:
+  - South Africa
+  - Pakistan
+  toss:
+    decision: field
+    winner: Pakistan
+  umpires:
+  - A Paleker
+  - BP Jele
+  venue: Senwes Park
+innings:
+- 1st innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: L Wolvaardt
+        batsman: L Lee
+    - 0.2:
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Wolvaardt
+        batsman: L Lee
+    - 0.3:
+        non_striker: L Wolvaardt
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+        wicket:
+          player_out: L Lee
+          fielders:
+          - Sidra Nawaz
+          kind: caught
+    - 0.4:
+        non_striker: L Wolvaardt
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Steyn
+    - 0.5:
+        non_striker: L Wolvaardt
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Steyn
+    - 0.6:
+        non_striker: L Wolvaardt
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Steyn
+    - 1.1:
+        non_striker: A Steyn
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 1.2:
+        non_striker: A Steyn
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 1.3:
+        non_striker: A Steyn
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 1.4:
+        non_striker: A Steyn
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 1.5:
+        non_striker: A Steyn
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+        wicket:
+          player_out: L Wolvaardt
+          kind: bowled
+    - 1.6:
+        non_striker: A Steyn
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+        wicket:
+          player_out: S Luus
+          kind: lbw
+    - 2.1:
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M du Preez
+        batsman: A Steyn
+    - 2.2:
+        non_striker: A Steyn
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 2.3:
+        non_striker: A Steyn
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 2.4:
+        non_striker: A Steyn
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 2.5:
+        non_striker: A Steyn
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 2.6:
+        non_striker: A Steyn
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 3.1:
+        non_striker: M du Preez
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Steyn
+    - 3.2:
+        non_striker: M du Preez
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Steyn
+    - 3.3:
+        non_striker: M du Preez
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Steyn
+    - 3.4:
+        non_striker: M du Preez
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Steyn
+    - 3.5:
+        non_striker: M du Preez
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Steyn
+    - 3.6:
+        non_striker: M du Preez
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Steyn
+    - 4.1:
+        non_striker: M du Preez
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Steyn
+    - 4.2:
+        non_striker: M du Preez
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Steyn
+    - 4.3:
+        non_striker: A Steyn
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 4.4:
+        non_striker: A Steyn
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 4.5:
+        non_striker: A Steyn
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 4.6:
+        non_striker: A Steyn
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 4.7:
+        non_striker: A Steyn
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 5.1:
+        non_striker: M du Preez
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Steyn
+    - 5.2:
+        non_striker: M du Preez
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Steyn
+    - 5.3:
+        non_striker: A Steyn
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 5.4:
+        non_striker: A Steyn
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 5.5:
+        non_striker: A Steyn
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 5.6:
+        non_striker: M du Preez
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Steyn
+        wicket:
+          player_out: A Steyn
+          kind: bowled
+    - 6.1:
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CL Tryon
+        batsman: M du Preez
+    - 6.2:
+        non_striker: M du Preez
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 6.3:
+        non_striker: M du Preez
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 6.4:
+        non_striker: M du Preez
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 6.5:
+        non_striker: M du Preez
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 6.6:
+        non_striker: M du Preez
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Tryon
+    - 7.1:
+        non_striker: CL Tryon
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 7.2:
+        non_striker: CL Tryon
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 7.3:
+        non_striker: CL Tryon
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+        wicket:
+          player_out: M du Preez
+          fielders:
+          - Nahida Khan
+          kind: caught
+    - 7.4:
+        non_striker: CL Tryon
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 7.5:
+        non_striker: CL Tryon
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 7.6:
+        non_striker: M Kapp
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 8.1:
+        non_striker: CL Tryon
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 8.2:
+        non_striker: CL Tryon
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 8.3:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 8.4:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 8.5:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 8.6:
+        non_striker: M Kapp
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 9.1:
+        non_striker: M Kapp
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 9.2:
+        non_striker: M Kapp
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 9.3:
+        non_striker: CL Tryon
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 9.4:
+        non_striker: CL Tryon
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 9.5:
+        non_striker: CL Tryon
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 9.6:
+        non_striker: CL Tryon
+        bowler: Sana Mir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M Kapp
+    - 9.7:
+        non_striker: CL Tryon
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 10.1:
+        non_striker: CL Tryon
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 10.2:
+        non_striker: CL Tryon
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 10.3:
+        non_striker: CL Tryon
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 10.4:
+        non_striker: CL Tryon
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 10.5:
+        non_striker: CL Tryon
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kapp
+    - 10.6:
+        non_striker: CL Tryon
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kapp
+    - 11.1:
+        non_striker: CL Tryon
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 11.2:
+        non_striker: CL Tryon
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 11.3:
+        non_striker: CL Tryon
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+    - 11.4:
+        non_striker: CL Tryon
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kapp
+        wicket:
+          player_out: M Kapp
+          fielders:
+          - Nahida Khan
+          kind: caught
+    - 11.5:
+        non_striker: CL Tryon
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 11.6:
+        non_striker: CL Tryon
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 12.1:
+        non_striker: S Jafta
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 12.2:
+        non_striker: S Jafta
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 12.3:
+        non_striker: S Jafta
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 12.4:
+        non_striker: CL Tryon
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 12.5:
+        non_striker: CL Tryon
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 12.6:
+        non_striker: CL Tryon
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 13.1:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 13.2:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Tryon
+    - 13.3:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 13.4:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 13.5:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 13.6:
+        non_striker: CL Tryon
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 14.1:
+        non_striker: S Jafta
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Tryon
+    - 14.2:
+        non_striker: S Jafta
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 14.3:
+        non_striker: S Jafta
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 14.4:
+        non_striker: S Jafta
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 14.5:
+        non_striker: S Jafta
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 14.6:
+        non_striker: S Jafta
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Tryon
+    - 15.1:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Tryon
+    - 15.2:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 15.3:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 15.4:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 15.5:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+    - 15.6:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Tryon
+        wicket:
+          player_out: CL Tryon
+          kind: lbw
+    - 16.1:
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Ismail
+        batsman: S Jafta
+    - 16.2:
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Ismail
+        batsman: S Jafta
+    - 16.3:
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Ismail
+        batsman: S Jafta
+    - 16.4:
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Ismail
+        batsman: S Jafta
+    - 16.5:
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Ismail
+        batsman: S Jafta
+    - 16.6:
+        non_striker: S Ismail
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 17.1:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ismail
+    - 17.2:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ismail
+    - 17.3:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ismail
+    - 17.4:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ismail
+    - 17.5:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ismail
+    - 17.6:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ismail
+    - 17.7:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ismail
+    - 18.1:
+        non_striker: S Ismail
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 18.2:
+        non_striker: S Ismail
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 18.3:
+        non_striker: S Ismail
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 18.4:
+        non_striker: S Ismail
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 18.5:
+        non_striker: S Ismail
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 18.6:
+        non_striker: S Ismail
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 19.1:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ismail
+    - 19.2:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ismail
+    - 19.3:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ismail
+    - 19.4:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ismail
+    - 19.5:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Ismail
+    - 19.6:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ismail
+    - 19.7:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ismail
+    - 19.8:
+        non_striker: S Jafta
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ismail
+    - 20.1:
+        non_striker: S Ismail
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 20.2:
+        non_striker: S Ismail
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+        wicket:
+          player_out: S Jafta
+          kind: run out
+    - 20.3:
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Klaas
+        batsman: S Ismail
+    - 20.4:
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Klaas
+        batsman: S Ismail
+    - 20.5:
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Klaas
+        batsman: S Ismail
+    - 20.6:
+        non_striker: M Klaas
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ismail
+    - 21.1:
+        non_striker: S Ismail
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 21.2:
+        non_striker: S Ismail
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 21.3:
+        non_striker: S Ismail
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 21.4:
+        non_striker: S Ismail
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 21.5:
+        non_striker: S Ismail
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 21.6:
+        non_striker: S Ismail
+        bowler: Sana Mir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 22.1:
+        non_striker: M Klaas
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ismail
+    - 22.2:
+        non_striker: M Klaas
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ismail
+    - 22.3:
+        non_striker: S Ismail
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 22.4:
+        non_striker: S Ismail
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+        wicket:
+          player_out: M Klaas
+          fielders:
+          - Nahida Khan
+          kind: caught
+    - 22.5:
+        non_striker: S Ismail
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Sekhukhune
+        wicket:
+          player_out: TS Sekhukhune
+          kind: bowled
+- 2nd innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Sidra Ameen
+        batsman: Nahida Khan
+    - 0.2:
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Sidra Ameen
+        batsman: Nahida Khan
+    - 0.3:
+        non_striker: Sidra Ameen
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Khan
+        wicket:
+          player_out: Nahida Khan
+          kind: bowled
+    - 0.4:
+        non_striker: Sidra Ameen
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 0.5:
+        non_striker: Sidra Ameen
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 0.6:
+        non_striker: Sidra Ameen
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 1.1:
+        non_striker: Javeria Khan
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 1.2:
+        non_striker: Javeria Khan
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 1.3:
+        non_striker: Javeria Khan
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 1.4:
+        non_striker: Javeria Khan
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 1.5:
+        non_striker: Javeria Khan
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 1.6:
+        non_striker: Javeria Khan
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 2.1:
+        non_striker: Sidra Ameen
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 2.2:
+        non_striker: Sidra Ameen
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javeria Khan
+    - 2.3:
+        non_striker: Javeria Khan
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sidra Ameen
+    - 2.4:
+        non_striker: Javeria Khan
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 2.5:
+        non_striker: Javeria Khan
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 2.6:
+        non_striker: Javeria Khan
+        bowler: S Ismail
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Sidra Ameen
+    - 3.1:
+        non_striker: Sidra Ameen
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 3.2:
+        non_striker: Sidra Ameen
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javeria Khan
+    - 3.3:
+        non_striker: Javeria Khan
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 3.4:
+        non_striker: Sidra Ameen
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 3.5:
+        non_striker: Sidra Ameen
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javeria Khan
+    - 3.6:
+        non_striker: Javeria Khan
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 4.1:
+        non_striker: Javeria Khan
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 4.2:
+        non_striker: Javeria Khan
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 4.3:
+        non_striker: Javeria Khan
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 4.4:
+        non_striker: Sidra Ameen
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javeria Khan
+    - 4.5:
+        non_striker: Javeria Khan
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 4.6:
+        non_striker: Javeria Khan
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 5.1:
+        non_striker: Sidra Ameen
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 5.2:
+        non_striker: Sidra Ameen
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 5.3:
+        non_striker: Sidra Ameen
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 5.4:
+        non_striker: Sidra Ameen
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 5.5:
+        non_striker: Sidra Ameen
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 5.6:
+        non_striker: Sidra Ameen
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 6.1:
+        non_striker: Javeria Khan
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 6.2:
+        non_striker: Sidra Ameen
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 6.3:
+        non_striker: Sidra Ameen
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Javeria Khan
+    - 6.4:
+        non_striker: Sidra Ameen
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 6.5:
+        non_striker: Sidra Ameen
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 6.6:
+        non_striker: Sidra Ameen
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javeria Khan
+    - 7.1:
+        non_striker: Sidra Ameen
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 7.2:
+        non_striker: Sidra Ameen
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 7.3:
+        non_striker: Sidra Ameen
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 7.4:
+        non_striker: Sidra Ameen
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Javeria Khan
+    - 7.5:
+        non_striker: Javeria Khan
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 7.6:
+        non_striker: Sidra Ameen
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 8.1:
+        non_striker: Javeria Khan
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 8.2:
+        non_striker: Javeria Khan
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 8.3:
+        non_striker: Javeria Khan
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 8.4:
+        non_striker: Javeria Khan
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 8.5:
+        non_striker: Javeria Khan
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 8.6:
+        non_striker: Sidra Ameen
+        bowler: S Ismail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 9.1:
+        non_striker: Javeria Khan
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+        wicket:
+          player_out: Sidra Ameen
+          kind: lbw
+    - 9.2:
+        non_striker: Javeria Khan
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 9.3:
+        non_striker: Javeria Khan
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bismah Maroof
+    - 9.4:
+        non_striker: Javeria Khan
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 9.5:
+        non_striker: Bismah Maroof
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 9.6:
+        non_striker: Bismah Maroof
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 10.1:
+        non_striker: Javeria Khan
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bismah Maroof
+    - 10.2:
+        non_striker: Javeria Khan
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 10.3:
+        non_striker: Javeria Khan
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 10.4:
+        non_striker: Javeria Khan
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 10.5:
+        non_striker: Javeria Khan
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 10.6:
+        non_striker: Javeria Khan
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 11.1:
+        non_striker: Bismah Maroof
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 11.2:
+        non_striker: Bismah Maroof
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 11.3:
+        non_striker: Bismah Maroof
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 11.4:
+        non_striker: Bismah Maroof
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 11.5:
+        non_striker: Bismah Maroof
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Javeria Khan
+    - 11.6:
+        non_striker: Bismah Maroof
+        bowler: M Kapp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Javeria Khan
+    - 12.1:
+        non_striker: Javeria Khan
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 12.2:
+        non_striker: Javeria Khan
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 12.3:
+        non_striker: Javeria Khan
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 12.4:
+        non_striker: Bismah Maroof
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 12.5:
+        non_striker: Bismah Maroof
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 12.6:
+        non_striker: Bismah Maroof
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Javeria Khan
+    - 13.1:
+        non_striker: Javeria Khan
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 13.2:
+        non_striker: Javeria Khan
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 13.3:
+        non_striker: Javeria Khan
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 13.4:
+        non_striker: Javeria Khan
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 13.5:
+        non_striker: Bismah Maroof
+        bowler: CL Tryon
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Javeria Khan
+    - 13.6:
+        non_striker: Bismah Maroof
+        bowler: CL Tryon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Javeria Khan
+    - 14.1:
+        non_striker: Javeria Khan
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 14.2:
+        non_striker: Bismah Maroof
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Javeria Khan
+    - 14.3:
+        non_striker: Bismah Maroof
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Javeria Khan
+    - 14.4:
+        non_striker: Bismah Maroof
+        bowler: S Luus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Javeria Khan

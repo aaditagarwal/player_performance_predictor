@@ -1,0 +1,4582 @@
+---
+meta:
+  data_version: 0.9
+  created: '2019-08-19'
+  revision: 1
+info:
+  city: Deventer
+  dates:
+  - '2019-06-19'
+  gender: male
+  match_type: ODI
+  match_type_number: 4164
+  outcome:
+    winner: Netherlands
+    by:
+      wickets: 7
+    method: D/L
+  overs: 50
+  teams:
+  - Netherlands
+  - Zimbabwe
+  toss:
+    decision: bat
+    winner: Zimbabwe
+  umpires:
+  - AT Holdstock
+  - HKG Jansen
+  venue: Sportpark Het Schootsveld
+innings:
+- 1st innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SF Mire
+        batsman: H Masakadza
+    - 0.2:
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SF Mire
+        batsman: H Masakadza
+    - 0.3:
+        non_striker: H Masakadza
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mire
+    - 0.4:
+        non_striker: H Masakadza
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mire
+    - 0.5:
+        non_striker: H Masakadza
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mire
+    - 0.6:
+        non_striker: H Masakadza
+        bowler: FJ Klaassen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SF Mire
+    - 0.7:
+        non_striker: H Masakadza
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SF Mire
+    - 1.1:
+        non_striker: SF Mire
+        bowler: VJ Kingma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Masakadza
+    - 1.2:
+        non_striker: SF Mire
+        bowler: VJ Kingma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Masakadza
+    - 1.3:
+        non_striker: SF Mire
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 1.4:
+        non_striker: SF Mire
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 1.5:
+        non_striker: SF Mire
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 1.6:
+        non_striker: SF Mire
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Masakadza
+    - 1.7:
+        non_striker: SF Mire
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 1.8:
+        non_striker: SF Mire
+        bowler: VJ Kingma
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: H Masakadza
+    - 1.9:
+        non_striker: SF Mire
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 2.1:
+        non_striker: H Masakadza
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mire
+    - 2.2:
+        non_striker: H Masakadza
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mire
+        wicket:
+          player_out: SF Mire
+          kind: lbw
+    - 2.3:
+        non_striker: H Masakadza
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 2.4:
+        non_striker: H Masakadza
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 2.5:
+        non_striker: CR Ervine
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 2.6:
+        non_striker: CR Ervine
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Masakadza
+    - 3.1:
+        non_striker: H Masakadza
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 3.2:
+        non_striker: H Masakadza
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 3.3:
+        non_striker: H Masakadza
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 3.4:
+        non_striker: H Masakadza
+        bowler: VJ Kingma
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: CR Ervine
+    - 3.5:
+        non_striker: H Masakadza
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 3.6:
+        non_striker: H Masakadza
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 4.1:
+        non_striker: CR Ervine
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 4.2:
+        non_striker: CR Ervine
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 4.3:
+        non_striker: CR Ervine
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 4.4:
+        non_striker: CR Ervine
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 4.5:
+        non_striker: CR Ervine
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 4.6:
+        non_striker: CR Ervine
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 5.1:
+        non_striker: H Masakadza
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Ervine
+    - 5.2:
+        non_striker: H Masakadza
+        bowler: VJ Kingma
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: CR Ervine
+    - 5.3:
+        non_striker: H Masakadza
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 5.4:
+        non_striker: H Masakadza
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 5.5:
+        non_striker: H Masakadza
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 5.6:
+        non_striker: H Masakadza
+        bowler: VJ Kingma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CR Ervine
+    - 5.7:
+        non_striker: H Masakadza
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 6.1:
+        non_striker: CR Ervine
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 6.2:
+        non_striker: CR Ervine
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 6.3:
+        non_striker: CR Ervine
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 6.4:
+        non_striker: CR Ervine
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+        wicket:
+          player_out: H Masakadza
+          fielders:
+          - VJ Kingma
+          kind: caught
+    - 6.5:
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BRM Taylor
+        batsman: CR Ervine
+    - 6.6:
+        non_striker: BRM Taylor
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 7.1:
+        non_striker: BRM Taylor
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 7.2:
+        non_striker: BRM Taylor
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 7.3:
+        non_striker: BRM Taylor
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 7.4:
+        non_striker: BRM Taylor
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 7.5:
+        non_striker: BRM Taylor
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+        wicket:
+          player_out: CR Ervine
+          fielders:
+          - MP O'Dowd
+          kind: caught
+    - 7.6:
+        non_striker: BRM Taylor
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 8.1:
+        non_striker: SC Williams
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 8.2:
+        non_striker: SC Williams
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 8.3:
+        non_striker: BRM Taylor
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 8.4:
+        non_striker: BRM Taylor
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 8.5:
+        non_striker: BRM Taylor
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 8.6:
+        non_striker: BRM Taylor
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 9.1:
+        non_striker: SC Williams
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 9.2:
+        non_striker: SC Williams
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BRM Taylor
+    - 9.3:
+        non_striker: SC Williams
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 9.4:
+        non_striker: SC Williams
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 9.5:
+        non_striker: SC Williams
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 9.6:
+        non_striker: BRM Taylor
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 10.1:
+        non_striker: SC Williams
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 10.2:
+        non_striker: SC Williams
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 10.3:
+        non_striker: SC Williams
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 10.4:
+        non_striker: SC Williams
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BRM Taylor
+    - 10.5:
+        non_striker: SC Williams
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 10.6:
+        non_striker: SC Williams
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 11.1:
+        non_striker: BRM Taylor
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 11.2:
+        non_striker: SC Williams
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 11.3:
+        non_striker: SC Williams
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 11.4:
+        non_striker: SC Williams
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 11.5:
+        non_striker: SC Williams
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BRM Taylor
+    - 11.6:
+        non_striker: SC Williams
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 12.1:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 12.2:
+        non_striker: SC Williams
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BRM Taylor
+    - 12.3:
+        non_striker: SC Williams
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 12.4:
+        non_striker: SC Williams
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 12.5:
+        non_striker: SC Williams
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 12.6:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 13.1:
+        non_striker: SC Williams
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BRM Taylor
+    - 13.2:
+        non_striker: SC Williams
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 13.3:
+        non_striker: SC Williams
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 13.4:
+        non_striker: BRM Taylor
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 13.5:
+        non_striker: BRM Taylor
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 13.6:
+        non_striker: BRM Taylor
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 14.1:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 14.2:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 14.3:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 14.4:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 14.5:
+        non_striker: SC Williams
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 14.6:
+        non_striker: SC Williams
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 15.1:
+        non_striker: SC Williams
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 15.2:
+        non_striker: SC Williams
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 15.3:
+        non_striker: BRM Taylor
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 15.4:
+        non_striker: SC Williams
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 15.5:
+        non_striker: SC Williams
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BRM Taylor
+    - 15.6:
+        non_striker: SC Williams
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BRM Taylor
+    - 16.1:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 16.2:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 16.3:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 16.4:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SC Williams
+    - 16.5:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 16.6:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SC Williams
+    - 16.7:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 16.8:
+        non_striker: SC Williams
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 17.1:
+        non_striker: BRM Taylor
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SC Williams
+    - 17.2:
+        non_striker: BRM Taylor
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+        wicket:
+          player_out: SC Williams
+          kind: bowled
+    - 17.3:
+        non_striker: BRM Taylor
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 17.4:
+        non_striker: Sikandar Raza
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 17.5:
+        non_striker: BRM Taylor
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 17.6:
+        non_striker: BRM Taylor
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 18.1:
+        non_striker: Sikandar Raza
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 18.2:
+        non_striker: Sikandar Raza
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 18.3:
+        non_striker: Sikandar Raza
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 18.4:
+        non_striker: Sikandar Raza
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 18.5:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 18.6:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 19.1:
+        non_striker: BRM Taylor
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 19.2:
+        non_striker: Sikandar Raza
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BRM Taylor
+    - 19.3:
+        non_striker: Sikandar Raza
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 19.4:
+        non_striker: Sikandar Raza
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 19.5:
+        non_striker: BRM Taylor
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 19.6:
+        non_striker: Sikandar Raza
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BRM Taylor
+    - 20.1:
+        non_striker: BRM Taylor
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 20.2:
+        non_striker: BRM Taylor
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 20.3:
+        non_striker: BRM Taylor
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 20.4:
+        non_striker: BRM Taylor
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 20.5:
+        non_striker: BRM Taylor
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 20.6:
+        non_striker: BRM Taylor
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 21.1:
+        non_striker: Sikandar Raza
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 21.2:
+        non_striker: Sikandar Raza
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 21.3:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 21.4:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 21.5:
+        non_striker: Sikandar Raza
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 21.6:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 22.1:
+        non_striker: BRM Taylor
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 22.2:
+        non_striker: BRM Taylor
+        bowler: VJ Kingma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sikandar Raza
+    - 22.3:
+        non_striker: BRM Taylor
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 22.4:
+        non_striker: BRM Taylor
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Sikandar Raza
+    - 22.5:
+        non_striker: Sikandar Raza
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 22.6:
+        non_striker: Sikandar Raza
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 22.7:
+        non_striker: Sikandar Raza
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 23.1:
+        non_striker: Sikandar Raza
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 23.2:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 23.3:
+        non_striker: Sikandar Raza
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 23.4:
+        non_striker: Sikandar Raza
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 23.5:
+        non_striker: Sikandar Raza
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 23.6:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 24.1:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 24.2:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          fielders:
+          - FJ Klaassen
+          kind: caught
+    - 24.3:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 24.4:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 24.5:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 24.6:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 25.1:
+        non_striker: PJ Moor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 25.2:
+        non_striker: PJ Moor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 25.3:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 25.4:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 25.5:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 25.6:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 26.1:
+        non_striker: PJ Moor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 26.2:
+        non_striker: PJ Moor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 26.3:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+    - 26.4:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: PJ Moor
+    - 26.5:
+        non_striker: PJ Moor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 26.6:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Moor
+    - 27.1:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Moor
+        wicket:
+          player_out: PJ Moor
+          fielders:
+          - FJ Klaassen
+          kind: caught
+    - 27.2:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 27.3:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 27.4:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 27.5:
+        non_striker: DT Tiripano
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 27.6:
+        non_striker: DT Tiripano
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 28.1:
+        non_striker: BRM Taylor
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 28.2:
+        non_striker: BRM Taylor
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 28.3:
+        non_striker: BRM Taylor
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 28.4:
+        non_striker: BRM Taylor
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 28.5:
+        non_striker: DT Tiripano
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 28.6:
+        non_striker: DT Tiripano
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 29.1:
+        non_striker: DT Tiripano
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 29.2:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 29.3:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 29.4:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 29.5:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 29.6:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 30.1:
+        non_striker: DT Tiripano
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 30.2:
+        non_striker: DT Tiripano
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 30.3:
+        non_striker: DT Tiripano
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 30.4:
+        non_striker: DT Tiripano
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 30.5:
+        non_striker: BRM Taylor
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 30.6:
+        non_striker: BRM Taylor
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 31.1:
+        non_striker: DT Tiripano
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BRM Taylor
+    - 31.2:
+        non_striker: DT Tiripano
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 31.3:
+        non_striker: DT Tiripano
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 31.4:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 31.5:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 31.6:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 32.1:
+        non_striker: DT Tiripano
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 32.2:
+        non_striker: DT Tiripano
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 32.3:
+        non_striker: DT Tiripano
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 32.4:
+        non_striker: BRM Taylor
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 32.5:
+        non_striker: BRM Taylor
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 32.6:
+        non_striker: DT Tiripano
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 33.1:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 33.2:
+        non_striker: DT Tiripano
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 33.3:
+        non_striker: DT Tiripano
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 33.4:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 33.5:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 33.6:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 34.1:
+        non_striker: BRM Taylor
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 34.2:
+        non_striker: BRM Taylor
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 34.3:
+        non_striker: BRM Taylor
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 34.4:
+        non_striker: BRM Taylor
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 34.5:
+        non_striker: BRM Taylor
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 34.6:
+        non_striker: BRM Taylor
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 35.1:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 35.2:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 35.3:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 35.4:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 35.5:
+        non_striker: DT Tiripano
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 35.6:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 36.1:
+        non_striker: DT Tiripano
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 36.2:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 36.3:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 36.4:
+        non_striker: DT Tiripano
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 36.5:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 36.6:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 37.1:
+        non_striker: DT Tiripano
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 37.2:
+        non_striker: DT Tiripano
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BRM Taylor
+    - 37.3:
+        non_striker: DT Tiripano
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 37.4:
+        non_striker: DT Tiripano
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 37.5:
+        non_striker: DT Tiripano
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 37.6:
+        non_striker: BRM Taylor
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 38.1:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DT Tiripano
+    - 38.2:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 38.3:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 38.4:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 38.5:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 38.6:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 38.7:
+        non_striker: BRM Taylor
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 39.1:
+        non_striker: DT Tiripano
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 39.2:
+        non_striker: DT Tiripano
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+        wicket:
+          player_out: BRM Taylor
+          kind: bowled
+    - 39.3:
+        non_striker: DT Tiripano
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 39.4:
+        non_striker: DT Tiripano
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 39.5:
+        non_striker: DT Tiripano
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jarvis
+    - 39.6:
+        non_striker: KM Jarvis
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 40.1:
+        non_striker: DT Tiripano
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 40.2:
+        non_striker: DT Tiripano
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 40.3:
+        non_striker: DT Tiripano
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KM Jarvis
+    - 40.4:
+        non_striker: DT Tiripano
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jarvis
+    - 40.5:
+        non_striker: KM Jarvis
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 40.6:
+        non_striker: DT Tiripano
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jarvis
+    - 41.1:
+        non_striker: DT Tiripano
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jarvis
+    - 41.2:
+        non_striker: KM Jarvis
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 41.3:
+        non_striker: DT Tiripano
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 41.4:
+        non_striker: DT Tiripano
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jarvis
+    - 41.5:
+        non_striker: KM Jarvis
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 41.6:
+        non_striker: DT Tiripano
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jarvis
+    - 42.1:
+        non_striker: DT Tiripano
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 42.2:
+        non_striker: DT Tiripano
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KM Jarvis
+    - 42.3:
+        non_striker: DT Tiripano
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 42.4:
+        non_striker: DT Tiripano
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 42.5:
+        non_striker: DT Tiripano
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 42.6:
+        non_striker: DT Tiripano
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KM Jarvis
+    - 43.1:
+        non_striker: KM Jarvis
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 43.2:
+        non_striker: KM Jarvis
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 43.3:
+        non_striker: DT Tiripano
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KM Jarvis
+    - 43.4:
+        non_striker: DT Tiripano
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jarvis
+    - 43.5:
+        non_striker: KM Jarvis
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 43.6:
+        non_striker: KM Jarvis
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 44.1:
+        non_striker: KM Jarvis
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+    - 44.2:
+        non_striker: KM Jarvis
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DT Tiripano
+    - 44.3:
+        non_striker: KM Jarvis
+        bowler: FJ Klaassen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DT Tiripano
+    - 44.4:
+        non_striker: DT Tiripano
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jarvis
+    - 44.5:
+        non_striker: KM Jarvis
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 44.6:
+        non_striker: DT Tiripano
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jarvis
+    - 45.1:
+        non_striker: DT Tiripano
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KM Jarvis
+    - 45.2:
+        non_striker: DT Tiripano
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jarvis
+    - 45.3:
+        non_striker: KM Jarvis
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 45.4:
+        non_striker: DT Tiripano
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KM Jarvis
+    - 45.5:
+        non_striker: DT Tiripano
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jarvis
+    - 45.6:
+        non_striker: KM Jarvis
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Tiripano
+    - 46.1:
+        non_striker: KM Jarvis
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Tiripano
+        wicket:
+          fielders:
+          - RE van der Merwe
+          player_out: DT Tiripano
+          kind: caught
+    - 46.2:
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TL Chatara
+        batsman: KM Jarvis
+    - 46.3:
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TL Chatara
+        batsman: KM Jarvis
+    - 46.4:
+        non_striker: KM Jarvis
+        bowler: PA van Meekeren
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: TL Chatara
+    - 46.5:
+        non_striker: TL Chatara
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KM Jarvis
+    - 46.6:
+        non_striker: TL Chatara
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+- 2nd innings:
+    team: Netherlands
+    deliveries:
+    - 0.1:
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: MP O'Dowd
+        batsman: TP Visee
+    - 0.2:
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MP O'Dowd
+        batsman: TP Visee
+    - 0.3:
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: MP O'Dowd
+        batsman: TP Visee
+    - 0.4:
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MP O'Dowd
+        batsman: TP Visee
+    - 0.5:
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MP O'Dowd
+        batsman: TP Visee
+    - 0.6:
+        non_striker: MP O'Dowd
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Visee
+    - 1.1:
+        non_striker: TP Visee
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 1.2:
+        non_striker: TP Visee
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 1.3:
+        non_striker: MP O'Dowd
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Visee
+    - 1.4:
+        non_striker: MP O'Dowd
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Visee
+    - 1.5:
+        non_striker: MP O'Dowd
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TP Visee
+    - 1.6:
+        non_striker: MP O'Dowd
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Visee
+    - 2.1:
+        non_striker: TP Visee
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 2.2:
+        non_striker: TP Visee
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP O'Dowd
+    - 2.3:
+        non_striker: TP Visee
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 2.4:
+        non_striker: TP Visee
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 2.5:
+        non_striker: TP Visee
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 2.6:
+        non_striker: TP Visee
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 3.1:
+        non_striker: MP O'Dowd
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Visee
+    - 3.2:
+        non_striker: TP Visee
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 3.3:
+        non_striker: MP O'Dowd
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Visee
+    - 3.4:
+        non_striker: MP O'Dowd
+        bowler: TL Chatara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TP Visee
+    - 3.5:
+        non_striker: TP Visee
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 3.6:
+        non_striker: TP Visee
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP O'Dowd
+    - 4.1:
+        non_striker: MP O'Dowd
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Visee
+    - 4.2:
+        non_striker: MP O'Dowd
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Visee
+    - 4.3:
+        non_striker: MP O'Dowd
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TP Visee
+    - 4.4:
+        non_striker: TP Visee
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 4.5:
+        non_striker: MP O'Dowd
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Visee
+    - 4.6:
+        non_striker: MP O'Dowd
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Visee
+    - 5.1:
+        non_striker: TP Visee
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 5.2:
+        non_striker: MP O'Dowd
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Visee
+    - 5.3:
+        non_striker: MP O'Dowd
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TP Visee
+    - 5.4:
+        non_striker: MP O'Dowd
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Visee
+    - 5.5:
+        non_striker: MP O'Dowd
+        bowler: TL Chatara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: TP Visee
+    - 5.6:
+        non_striker: TP Visee
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 6.1:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TP Visee
+        wicket:
+          player_out: TP Visee
+          kind: lbw
+    - 6.2:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 6.3:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 6.4:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 6.5:
+        non_striker: BN Cooper
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 6.6:
+        non_striker: BN Cooper
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 7.1:
+        non_striker: MP O'Dowd
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 7.2:
+        non_striker: MP O'Dowd
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BN Cooper
+    - 7.3:
+        non_striker: MP O'Dowd
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 7.4:
+        non_striker: BN Cooper
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 7.5:
+        non_striker: BN Cooper
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP O'Dowd
+    - 7.6:
+        non_striker: BN Cooper
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 8.1:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 8.2:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: BN Cooper
+    - 8.3:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 8.4:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 8.5:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 8.6:
+        non_striker: BN Cooper
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 8.7:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 9.1:
+        non_striker: BN Cooper
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 9.2:
+        non_striker: BN Cooper
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 9.3:
+        non_striker: BN Cooper
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 9.4:
+        non_striker: BN Cooper
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 9.5:
+        non_striker: BN Cooper
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 9.6:
+        non_striker: BN Cooper
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 10.1:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 10.2:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BN Cooper
+    - 10.3:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 10.4:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 10.5:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 10.6:
+        non_striker: BN Cooper
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 11.1:
+        non_striker: MP O'Dowd
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 11.2:
+        non_striker: MP O'Dowd
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 11.3:
+        non_striker: BN Cooper
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 11.4:
+        non_striker: BN Cooper
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 11.5:
+        non_striker: MP O'Dowd
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 11.6:
+        non_striker: BN Cooper
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 12.1:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 12.2:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 12.3:
+        non_striker: BN Cooper
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 12.4:
+        non_striker: BN Cooper
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 12.5:
+        non_striker: BN Cooper
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 12.6:
+        non_striker: BN Cooper
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP O'Dowd
+    - 13.1:
+        non_striker: MP O'Dowd
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 13.2:
+        non_striker: BN Cooper
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 13.3:
+        non_striker: BN Cooper
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 13.4:
+        non_striker: BN Cooper
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 13.5:
+        non_striker: BN Cooper
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 13.6:
+        non_striker: MP O'Dowd
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 14.1:
+        non_striker: BN Cooper
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 14.2:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 14.3:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 14.4:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 14.5:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 14.6:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 15.1:
+        non_striker: BN Cooper
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 15.2:
+        non_striker: BN Cooper
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 15.3:
+        non_striker: BN Cooper
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 15.4:
+        non_striker: BN Cooper
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 15.5:
+        non_striker: MP O'Dowd
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 15.6:
+        non_striker: MP O'Dowd
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BN Cooper
+    - 16.1:
+        non_striker: BN Cooper
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 16.2:
+        non_striker: BN Cooper
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 16.3:
+        non_striker: BN Cooper
+        bowler: A Ndlovu
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: MP O'Dowd
+    - 16.4:
+        non_striker: BN Cooper
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 16.5:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 16.6:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 17.1:
+        non_striker: BN Cooper
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 17.2:
+        non_striker: BN Cooper
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 17.3:
+        non_striker: MP O'Dowd
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 17.4:
+        non_striker: MP O'Dowd
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 17.5:
+        non_striker: MP O'Dowd
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 17.6:
+        non_striker: MP O'Dowd
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 18.1:
+        non_striker: BN Cooper
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 18.2:
+        non_striker: BN Cooper
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 18.3:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 18.4:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BN Cooper
+    - 18.5:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 18.6:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 19.1:
+        non_striker: BN Cooper
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 19.2:
+        non_striker: BN Cooper
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 19.3:
+        non_striker: MP O'Dowd
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 19.4:
+        non_striker: MP O'Dowd
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 19.5:
+        non_striker: MP O'Dowd
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BN Cooper
+    - 19.6:
+        non_striker: MP O'Dowd
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BN Cooper
+    - 20.1:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 20.2:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 20.3:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 20.4:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 20.5:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 20.6:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 21.1:
+        non_striker: BN Cooper
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 21.2:
+        non_striker: BN Cooper
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 21.3:
+        non_striker: BN Cooper
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 21.4:
+        non_striker: BN Cooper
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 21.5:
+        non_striker: MP O'Dowd
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 21.6:
+        non_striker: MP O'Dowd
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 22.1:
+        non_striker: BN Cooper
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 22.2:
+        non_striker: BN Cooper
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 22.3:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+    - 22.4:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BN Cooper
+    - 22.5:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BN Cooper
+        wicket:
+          player_out: BN Cooper
+          fielders:
+          - BRM Taylor
+          kind: caught
+    - 22.6:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 23.1:
+        non_striker: BFW de Leede
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 23.2:
+        non_striker: BFW de Leede
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 23.3:
+        non_striker: MP O'Dowd
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 23.4:
+        non_striker: MP O'Dowd
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 23.5:
+        non_striker: MP O'Dowd
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 23.6:
+        non_striker: MP O'Dowd
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 24.1:
+        non_striker: BFW de Leede
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 24.2:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 24.3:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 24.4:
+        non_striker: BFW de Leede
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 24.5:
+        non_striker: BFW de Leede
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 24.6:
+        non_striker: BFW de Leede
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 25.1:
+        non_striker: MP O'Dowd
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 25.2:
+        non_striker: MP O'Dowd
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 25.3:
+        non_striker: MP O'Dowd
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 25.4:
+        non_striker: MP O'Dowd
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 25.5:
+        non_striker: BFW de Leede
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP O'Dowd
+    - 25.6:
+        non_striker: BFW de Leede
+        bowler: DT Tiripano
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP O'Dowd
+    - 25.7:
+        non_striker: BFW de Leede
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 26.1:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 26.2:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+        wicket:
+          player_out: BFW de Leede
+          fielders:
+          - KM Jarvis
+          kind: caught
+    - 26.3:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 26.4:
+        non_striker: W Barresi
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 26.5:
+        non_striker: W Barresi
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 26.6:
+        non_striker: W Barresi
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 27.1:
+        non_striker: MP O'Dowd
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 27.2:
+        non_striker: MP O'Dowd
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 27.3:
+        non_striker: MP O'Dowd
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 27.4:
+        non_striker: W Barresi
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 27.5:
+        non_striker: MP O'Dowd
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Barresi
+    - 27.6:
+        non_striker: MP O'Dowd
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 28.1:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Barresi
+    - 28.2:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 28.3:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 28.4:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 28.5:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 28.6:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 28.7:
+        non_striker: W Barresi
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 29.1:
+        non_striker: W Barresi
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 29.2:
+        non_striker: W Barresi
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 29.3:
+        non_striker: MP O'Dowd
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 29.4:
+        non_striker: MP O'Dowd
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 29.5:
+        non_striker: MP O'Dowd
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 29.6:
+        non_striker: MP O'Dowd
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 30.1:
+        non_striker: W Barresi
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP O'Dowd
+    - 30.2:
+        non_striker: W Barresi
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 30.3:
+        non_striker: W Barresi
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 30.4:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 30.5:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Barresi
+    - 30.6:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 31.1:
+        non_striker: MP O'Dowd
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 31.2:
+        non_striker: W Barresi
+        bowler: DT Tiripano
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: MP O'Dowd
+    - 31.3:
+        non_striker: W Barresi
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 31.4:
+        non_striker: W Barresi
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 31.5:
+        non_striker: W Barresi
+        bowler: DT Tiripano
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MP O'Dowd
+    - 31.6:
+        non_striker: MP O'Dowd
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 31.7:
+        non_striker: MP O'Dowd
+        bowler: DT Tiripano
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Barresi
+    - 31.8:
+        non_striker: MP O'Dowd
+        bowler: DT Tiripano
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 32.1:
+        non_striker: W Barresi
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 32.2:
+        non_striker: W Barresi
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 32.3:
+        non_striker: W Barresi
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 32.4:
+        non_striker: W Barresi
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 32.5:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 32.6:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 33.1:
+        non_striker: W Barresi
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP O'Dowd
+    - 33.2:
+        non_striker: W Barresi
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 33.3:
+        non_striker: MP O'Dowd
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 33.4:
+        non_striker: MP O'Dowd
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 33.5:
+        non_striker: MP O'Dowd
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 33.6:
+        non_striker: W Barresi
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 34.1:
+        non_striker: W Barresi
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 34.2:
+        non_striker: W Barresi
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 34.3:
+        non_striker: W Barresi
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 34.4:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 34.5:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 34.6:
+        non_striker: MP O'Dowd
+        bowler: A Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 35.1:
+        non_striker: W Barresi
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 35.2:
+        non_striker: W Barresi
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 35.3:
+        non_striker: W Barresi
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 35.4:
+        non_striker: W Barresi
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 35.5:
+        non_striker: MP O'Dowd
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 35.6:
+        non_striker: MP O'Dowd
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 36.1:
+        non_striker: W Barresi
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 36.2:
+        non_striker: W Barresi
+        bowler: SC Williams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP O'Dowd
+    - 36.3:
+        non_striker: W Barresi
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 36.4:
+        non_striker: W Barresi
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 36.5:
+        non_striker: W Barresi
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 36.6:
+        non_striker: W Barresi
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 36.7:
+        non_striker: W Barresi
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 37.1:
+        non_striker: MP O'Dowd
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 37.2:
+        non_striker: MP O'Dowd
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 37.3:
+        non_striker: W Barresi
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 37.4:
+        non_striker: W Barresi
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 37.5:
+        non_striker: W Barresi
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 37.6:
+        non_striker: W Barresi
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 38.1:
+        non_striker: W Barresi
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 38.2:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 38.3:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Barresi
+    - 38.4:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Barresi
+    - 38.5:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 38.6:
+        non_striker: W Barresi
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 39.1:
+        non_striker: MP O'Dowd
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Barresi
+    - 39.2:
+        non_striker: MP O'Dowd
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 39.3:
+        non_striker: W Barresi
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 39.4:
+        non_striker: W Barresi
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 39.5:
+        non_striker: MP O'Dowd
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: W Barresi
+    - 39.6:
+        non_striker: MP O'Dowd
+        bowler: TL Chatara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Barresi
+    - 39.7:
+        non_striker: MP O'Dowd
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Barresi
+    - 40.1:
+        non_striker: W Barresi
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 40.2:
+        non_striker: MP O'Dowd
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 40.3:
+        non_striker: MP O'Dowd
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 40.4:
+        non_striker: W Barresi
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 40.5:
+        non_striker: W Barresi
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 40.6:
+        non_striker: W Barresi
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 41.1:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 41.2:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 41.3:
+        non_striker: W Barresi
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 41.4:
+        non_striker: W Barresi
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 41.5:
+        non_striker: W Barresi
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 41.6:
+        non_striker: MP O'Dowd
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 42.1:
+        non_striker: W Barresi
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 42.2:
+        non_striker: MP O'Dowd
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 42.3:
+        non_striker: W Barresi
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 42.4:
+        non_striker: W Barresi
+        bowler: KM Jarvis
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: MP O'Dowd
+    - 42.5:
+        non_striker: W Barresi
+        bowler: KM Jarvis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP O'Dowd
+    - 42.6:
+        non_striker: W Barresi
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd

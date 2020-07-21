@@ -1,0 +1,5055 @@
+---
+meta:
+  data_version: 0.9
+  created: '2019-12-21'
+  revision: 1
+info:
+  city: Dubai
+  dates:
+  - '2019-12-14'
+  gender: male
+  match_type: ODI
+  match_type_number: 4219
+  outcome:
+    winner: Scotland
+    by:
+      wickets: 4
+  overs: 50
+  player_of_match:
+  - JH Davey
+  teams:
+  - Scotland
+  - United States of America
+  toss:
+    decision: field
+    winner: Scotland
+  umpires:
+  - Iftikhar Ali
+  - Shiju Sam
+  venue: ICC Academy
+innings:
+- 1st innings:
+    team: United States of America
+    deliveries:
+    - 0.1:
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: MD Patel
+        batsman: XM Marshall
+    - 0.2:
+        non_striker: MD Patel
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 0.3:
+        non_striker: MD Patel
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 0.4:
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MD Patel
+        batsman: XM Marshall
+    - 0.5:
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MD Patel
+        batsman: XM Marshall
+    - 0.6:
+        non_striker: MD Patel
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: XM Marshall
+    - 1.1:
+        non_striker: XM Marshall
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 1.2:
+        non_striker: XM Marshall
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+        wicket:
+          player_out: MD Patel
+          fielders:
+          - CS MacLeod
+          kind: caught
+    - 1.3:
+        non_striker: XM Marshall
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 1.4:
+        non_striker: Steven Ryan Taylor
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XM Marshall
+    - 1.5:
+        non_striker: XM Marshall
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 1.6:
+        non_striker: Steven Ryan Taylor
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 2.1:
+        non_striker: XM Marshall
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 2.2:
+        non_striker: XM Marshall
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 2.3:
+        non_striker: Steven Ryan Taylor
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 2.4:
+        non_striker: Steven Ryan Taylor
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 2.5:
+        non_striker: Steven Ryan Taylor
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 2.6:
+        non_striker: Steven Ryan Taylor
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 3.1:
+        non_striker: XM Marshall
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 3.2:
+        non_striker: Steven Ryan Taylor
+        bowler: JH Davey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: XM Marshall
+    - 3.3:
+        non_striker: XM Marshall
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 3.4:
+        non_striker: XM Marshall
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 3.5:
+        non_striker: XM Marshall
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 3.6:
+        non_striker: XM Marshall
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 4.1:
+        non_striker: Steven Ryan Taylor
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 4.2:
+        non_striker: Steven Ryan Taylor
+        bowler: SM Sharif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: XM Marshall
+    - 4.3:
+        non_striker: Steven Ryan Taylor
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: XM Marshall
+    - 4.4:
+        non_striker: Steven Ryan Taylor
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 4.5:
+        non_striker: Steven Ryan Taylor
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 4.6:
+        non_striker: Steven Ryan Taylor
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 4.7:
+        non_striker: Steven Ryan Taylor
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 5.1:
+        non_striker: XM Marshall
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 5.2:
+        non_striker: Steven Ryan Taylor
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XM Marshall
+    - 5.3:
+        non_striker: XM Marshall
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 5.4:
+        non_striker: Steven Ryan Taylor
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 5.5:
+        non_striker: Steven Ryan Taylor
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: XM Marshall
+    - 5.6:
+        non_striker: Steven Ryan Taylor
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XM Marshall
+    - 6.1:
+        non_striker: Steven Ryan Taylor
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 6.2:
+        non_striker: Steven Ryan Taylor
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XM Marshall
+    - 6.3:
+        non_striker: XM Marshall
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 6.4:
+        non_striker: XM Marshall
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 6.5:
+        non_striker: Steven Ryan Taylor
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: XM Marshall
+    - 6.6:
+        non_striker: Steven Ryan Taylor
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 7.1:
+        non_striker: XM Marshall
+        bowler: AC Evans
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Steven Ryan Taylor
+    - 7.2:
+        non_striker: XM Marshall
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 7.3:
+        non_striker: XM Marshall
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Steven Ryan Taylor
+    - 7.4:
+        non_striker: XM Marshall
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 7.5:
+        non_striker: XM Marshall
+        bowler: AC Evans
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Steven Ryan Taylor
+    - 7.6:
+        non_striker: Steven Ryan Taylor
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 7.7:
+        non_striker: Steven Ryan Taylor
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: XM Marshall
+    - 8.1:
+        non_striker: XM Marshall
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 8.2:
+        non_striker: XM Marshall
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Steven Ryan Taylor
+    - 8.3:
+        non_striker: XM Marshall
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Steven Ryan Taylor
+    - 8.4:
+        non_striker: XM Marshall
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 8.5:
+        non_striker: Steven Ryan Taylor
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XM Marshall
+    - 8.6:
+        non_striker: XM Marshall
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 9.1:
+        non_striker: XM Marshall
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 9.2:
+        non_striker: XM Marshall
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 9.3:
+        non_striker: Steven Ryan Taylor
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 9.4:
+        non_striker: Steven Ryan Taylor
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 9.5:
+        non_striker: Steven Ryan Taylor
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: XM Marshall
+    - 9.6:
+        non_striker: Steven Ryan Taylor
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: XM Marshall
+    - 10.1:
+        non_striker: XM Marshall
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 10.2:
+        non_striker: Steven Ryan Taylor
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 10.3:
+        non_striker: Steven Ryan Taylor
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 10.4:
+        non_striker: Steven Ryan Taylor
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 10.5:
+        non_striker: Steven Ryan Taylor
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 10.6:
+        non_striker: Steven Ryan Taylor
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: XM Marshall
+    - 11.1:
+        non_striker: XM Marshall
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 11.2:
+        non_striker: XM Marshall
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 11.3:
+        non_striker: XM Marshall
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 11.4:
+        non_striker: Steven Ryan Taylor
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: XM Marshall
+    - 11.5:
+        non_striker: XM Marshall
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 11.6:
+        non_striker: XM Marshall
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Steven Ryan Taylor
+    - 12.1:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 12.2:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 12.3:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 12.4:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XM Marshall
+    - 12.5:
+        non_striker: XM Marshall
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 12.6:
+        non_striker: XM Marshall
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 13.1:
+        non_striker: Steven Ryan Taylor
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 13.2:
+        non_striker: Steven Ryan Taylor
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 13.3:
+        non_striker: Steven Ryan Taylor
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XM Marshall
+    - 13.4:
+        non_striker: XM Marshall
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 13.5:
+        non_striker: XM Marshall
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 13.6:
+        non_striker: XM Marshall
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 14.1:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: XM Marshall
+    - 14.2:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XM Marshall
+    - 14.3:
+        non_striker: XM Marshall
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 14.4:
+        non_striker: XM Marshall
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 14.5:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 14.6:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 15.1:
+        non_striker: XM Marshall
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 15.2:
+        non_striker: XM Marshall
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 15.3:
+        non_striker: XM Marshall
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 15.4:
+        non_striker: XM Marshall
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 15.5:
+        non_striker: XM Marshall
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Steven Ryan Taylor
+    - 15.6:
+        non_striker: XM Marshall
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 16.1:
+        non_striker: XM Marshall
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 16.2:
+        non_striker: XM Marshall
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 16.3:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 16.4:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 16.5:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 16.6:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 17.1:
+        non_striker: XM Marshall
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 17.2:
+        non_striker: Steven Ryan Taylor
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 17.3:
+        non_striker: Steven Ryan Taylor
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XM Marshall
+    - 17.4:
+        non_striker: XM Marshall
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 17.5:
+        non_striker: XM Marshall
+        bowler: Hamza Tahir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Steven Ryan Taylor
+    - 17.6:
+        non_striker: XM Marshall
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 17.7:
+        non_striker: Steven Ryan Taylor
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XM Marshall
+    - 18.1:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XM Marshall
+    - 18.2:
+        non_striker: XM Marshall
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 18.3:
+        non_striker: XM Marshall
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 18.4:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 18.5:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 18.6:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 19.1:
+        non_striker: XM Marshall
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 19.2:
+        non_striker: XM Marshall
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Steven Ryan Taylor
+    - 19.3:
+        non_striker: XM Marshall
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 19.4:
+        non_striker: Steven Ryan Taylor
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XM Marshall
+    - 19.5:
+        non_striker: XM Marshall
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 19.6:
+        non_striker: Steven Ryan Taylor
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: XM Marshall
+    - 20.1:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+    - 20.2:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: XM Marshall
+        wicket:
+          player_out: XM Marshall
+          fielders:
+          - CS MacLeod
+          kind: caught
+    - 20.3:
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aaron Jones
+        batsman: Steven Ryan Taylor
+    - 20.4:
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aaron Jones
+        batsman: Steven Ryan Taylor
+    - 20.5:
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aaron Jones
+        batsman: Steven Ryan Taylor
+    - 20.6:
+        non_striker: Aaron Jones
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 21.1:
+        non_striker: Steven Ryan Taylor
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 21.2:
+        non_striker: Steven Ryan Taylor
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 21.3:
+        non_striker: Steven Ryan Taylor
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 21.4:
+        non_striker: Steven Ryan Taylor
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 21.5:
+        non_striker: Steven Ryan Taylor
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 21.6:
+        non_striker: Steven Ryan Taylor
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+        wicket:
+          player_out: Aaron Jones
+          fielders:
+          - KJ Coetzer
+          kind: caught
+    - 22.1:
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: IG Holland
+        batsman: Steven Ryan Taylor
+    - 22.2:
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: IG Holland
+        batsman: Steven Ryan Taylor
+    - 22.3:
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: IG Holland
+        batsman: Steven Ryan Taylor
+    - 22.4:
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: IG Holland
+        batsman: Steven Ryan Taylor
+    - 22.5:
+        non_striker: Steven Ryan Taylor
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IG Holland
+    - 22.6:
+        non_striker: IG Holland
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 23.1:
+        non_striker: IG Holland
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 23.2:
+        non_striker: Steven Ryan Taylor
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IG Holland
+    - 23.3:
+        non_striker: IG Holland
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 23.4:
+        non_striker: Steven Ryan Taylor
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IG Holland
+    - 23.5:
+        non_striker: IG Holland
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 23.6:
+        non_striker: Steven Ryan Taylor
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Holland
+    - 24.1:
+        non_striker: IG Holland
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 24.2:
+        non_striker: IG Holland
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 24.3:
+        non_striker: IG Holland
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 24.4:
+        non_striker: Steven Ryan Taylor
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IG Holland
+    - 24.5:
+        non_striker: Steven Ryan Taylor
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Holland
+    - 24.6:
+        non_striker: Steven Ryan Taylor
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Holland
+    - 25.1:
+        non_striker: IG Holland
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 25.2:
+        non_striker: Steven Ryan Taylor
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IG Holland
+    - 25.3:
+        non_striker: IG Holland
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Steven Ryan Taylor
+    - 25.4:
+        non_striker: IG Holland
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 25.5:
+        non_striker: IG Holland
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 25.6:
+        non_striker: IG Holland
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 26.1:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Holland
+    - 26.2:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IG Holland
+        wicket:
+          player_out: IG Holland
+          kind: bowled
+    - 26.3:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akshay Homraj
+    - 26.4:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akshay Homraj
+    - 26.5:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akshay Homraj
+    - 26.6:
+        non_striker: Akshay Homraj
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 27.1:
+        non_striker: Steven Ryan Taylor
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akshay Homraj
+    - 27.2:
+        non_striker: Akshay Homraj
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 27.3:
+        non_striker: Steven Ryan Taylor
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akshay Homraj
+    - 27.4:
+        non_striker: Steven Ryan Taylor
+        bowler: AC Evans
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Akshay Homraj
+    - 27.5:
+        non_striker: Steven Ryan Taylor
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akshay Homraj
+    - 27.6:
+        non_striker: Steven Ryan Taylor
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akshay Homraj
+    - 27.7:
+        non_striker: Steven Ryan Taylor
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akshay Homraj
+    - 28.1:
+        non_striker: Akshay Homraj
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 28.2:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akshay Homraj
+    - 28.3:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akshay Homraj
+    - 28.4:
+        non_striker: Akshay Homraj
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+    - 28.5:
+        non_striker: Akshay Homraj
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Steven Ryan Taylor
+    - 28.6:
+        non_striker: Steven Ryan Taylor
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akshay Homraj
+    - 29.1:
+        non_striker: Akshay Homraj
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Steven Ryan Taylor
+    - 29.2:
+        non_striker: Akshay Homraj
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Steven Ryan Taylor
+        wicket:
+          player_out: Steven Ryan Taylor
+          fielders:
+          - RD Berrington
+          kind: caught
+    - 29.3:
+        non_striker: Akshay Homraj
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 29.4:
+        non_striker: NK Patel
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akshay Homraj
+    - 29.5:
+        non_striker: NK Patel
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akshay Homraj
+    - 29.6:
+        non_striker: NK Patel
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Akshay Homraj
+    - 30.1:
+        non_striker: Akshay Homraj
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 30.2:
+        non_striker: Akshay Homraj
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 30.3:
+        non_striker: NK Patel
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akshay Homraj
+    - 30.4:
+        non_striker: Akshay Homraj
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 30.5:
+        non_striker: Akshay Homraj
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 30.6:
+        non_striker: NK Patel
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Akshay Homraj
+    - 31.1:
+        non_striker: Akshay Homraj
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NK Patel
+    - 31.2:
+        non_striker: Akshay Homraj
+        bowler: AC Evans
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NK Patel
+    - 31.3:
+        non_striker: NK Patel
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akshay Homraj
+    - 31.4:
+        non_striker: NK Patel
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akshay Homraj
+    - 31.5:
+        non_striker: NK Patel
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akshay Homraj
+    - 31.6:
+        non_striker: Akshay Homraj
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 32.1:
+        non_striker: Akshay Homraj
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 32.2:
+        non_striker: NK Patel
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akshay Homraj
+    - 32.3:
+        non_striker: NK Patel
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akshay Homraj
+    - 32.4:
+        non_striker: Akshay Homraj
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 32.5:
+        non_striker: Akshay Homraj
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 32.6:
+        non_striker: Akshay Homraj
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 33.1:
+        non_striker: Akshay Homraj
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 33.2:
+        non_striker: NK Patel
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akshay Homraj
+    - 33.3:
+        non_striker: Akshay Homraj
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 33.4:
+        non_striker: Akshay Homraj
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 33.5:
+        non_striker: NK Patel
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akshay Homraj
+    - 33.6:
+        non_striker: NK Patel
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akshay Homraj
+    - 34.1:
+        non_striker: Akshay Homraj
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 34.2:
+        non_striker: Akshay Homraj
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 34.3:
+        non_striker: Akshay Homraj
+        bowler: JH Davey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NK Patel
+    - 34.4:
+        non_striker: NK Patel
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akshay Homraj
+    - 34.5:
+        non_striker: Akshay Homraj
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 34.6:
+        non_striker: NK Patel
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Akshay Homraj
+    - 35.1:
+        non_striker: Akshay Homraj
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 35.2:
+        non_striker: Akshay Homraj
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 35.3:
+        non_striker: Akshay Homraj
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 35.4:
+        non_striker: Akshay Homraj
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 35.5:
+        non_striker: Akshay Homraj
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NK Patel
+    - 35.6:
+        non_striker: Akshay Homraj
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 36.1:
+        non_striker: Akshay Homraj
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 36.2:
+        non_striker: NK Patel
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akshay Homraj
+    - 36.3:
+        non_striker: NK Patel
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Akshay Homraj
+    - 36.4:
+        non_striker: NK Patel
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akshay Homraj
+    - 36.5:
+        non_striker: Akshay Homraj
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 36.6:
+        non_striker: Akshay Homraj
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 37.1:
+        non_striker: NK Patel
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akshay Homraj
+    - 37.2:
+        non_striker: NK Patel
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akshay Homraj
+    - 37.3:
+        non_striker: Akshay Homraj
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 37.4:
+        non_striker: Akshay Homraj
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NK Patel
+    - 37.5:
+        non_striker: Akshay Homraj
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 37.6:
+        non_striker: Akshay Homraj
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NK Patel
+    - 38.1:
+        non_striker: NK Patel
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akshay Homraj
+    - 38.2:
+        non_striker: Akshay Homraj
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 38.3:
+        non_striker: Akshay Homraj
+        bowler: AC Evans
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NK Patel
+    - 38.4:
+        non_striker: Akshay Homraj
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NK Patel
+    - 38.5:
+        non_striker: Akshay Homraj
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 38.6:
+        non_striker: Akshay Homraj
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 38.7:
+        non_striker: Akshay Homraj
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 39.1:
+        non_striker: Akshay Homraj
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 39.2:
+        non_striker: NK Patel
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akshay Homraj
+    - 39.3:
+        non_striker: NK Patel
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Akshay Homraj
+    - 39.4:
+        non_striker: NK Patel
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akshay Homraj
+        wicket:
+          player_out: Akshay Homraj
+          fielders:
+          - RD Berrington
+          kind: caught
+    - 39.5:
+        non_striker: NK Patel
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAH Stevenson
+    - 39.6:
+        non_striker: NK Patel
+        bowler: Hamza Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAH Stevenson
+    - 40.1:
+        non_striker: CAH Stevenson
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 40.2:
+        non_striker: NK Patel
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAH Stevenson
+    - 40.3:
+        non_striker: NK Patel
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAH Stevenson
+    - 40.4:
+        non_striker: NK Patel
+        bowler: MRJ Watt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CAH Stevenson
+    - 40.5:
+        non_striker: NK Patel
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAH Stevenson
+    - 40.6:
+        non_striker: CAH Stevenson
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 40.7:
+        non_striker: CAH Stevenson
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 41.1:
+        non_striker: CAH Stevenson
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 41.2:
+        non_striker: CAH Stevenson
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 41.3:
+        non_striker: NK Patel
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAH Stevenson
+    - 41.4:
+        non_striker: NK Patel
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAH Stevenson
+    - 41.5:
+        non_striker: CAH Stevenson
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 41.6:
+        non_striker: NK Patel
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAH Stevenson
+    - 42.1:
+        non_striker: NK Patel
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAH Stevenson
+    - 42.2:
+        non_striker: NK Patel
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAH Stevenson
+    - 42.3:
+        non_striker: CAH Stevenson
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 42.4:
+        non_striker: NK Patel
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAH Stevenson
+    - 42.5:
+        non_striker: CAH Stevenson
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 42.6:
+        non_striker: CAH Stevenson
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 43.1:
+        non_striker: CAH Stevenson
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 43.2:
+        non_striker: CAH Stevenson
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 43.3:
+        non_striker: NK Patel
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAH Stevenson
+    - 43.4:
+        non_striker: CAH Stevenson
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 43.5:
+        non_striker: NK Patel
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAH Stevenson
+    - 43.6:
+        non_striker: NK Patel
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAH Stevenson
+    - 44.1:
+        non_striker: NK Patel
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAH Stevenson
+    - 44.2:
+        non_striker: CAH Stevenson
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 44.3:
+        non_striker: NK Patel
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CAH Stevenson
+    - 44.4:
+        non_striker: NK Patel
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAH Stevenson
+    - 44.5:
+        non_striker: CAH Stevenson
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+        wicket:
+          player_out: NK Patel
+          kind: lbw
+    - 44.6:
+        non_striker: CAH Stevenson
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Theron
+    - 45.1:
+        non_striker: J Theron
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAH Stevenson
+    - 45.2:
+        non_striker: CAH Stevenson
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Theron
+    - 45.3:
+        non_striker: CAH Stevenson
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Theron
+    - 45.4:
+        non_striker: CAH Stevenson
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Theron
+    - 45.5:
+        non_striker: CAH Stevenson
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Theron
+    - 45.6:
+        non_striker: J Theron
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CAH Stevenson
+    - 46.1:
+        non_striker: CAH Stevenson
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Theron
+    - 46.2:
+        non_striker: J Theron
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAH Stevenson
+    - 46.3:
+        non_striker: J Theron
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAH Stevenson
+    - 46.4:
+        non_striker: CAH Stevenson
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Theron
+    - 46.5:
+        non_striker: J Theron
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAH Stevenson
+    - 46.6:
+        non_striker: CAH Stevenson
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Theron
+    - 47.1:
+        non_striker: J Theron
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAH Stevenson
+    - 47.2:
+        non_striker: J Theron
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CAH Stevenson
+    - 47.3:
+        non_striker: J Theron
+        bowler: SM Sharif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CAH Stevenson
+    - 47.4:
+        non_striker: CAH Stevenson
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Theron
+    - 47.5:
+        non_striker: J Theron
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CAH Stevenson
+    - 47.6:
+        non_striker: J Theron
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CAH Stevenson
+    - 48.1:
+        non_striker: CAH Stevenson
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Theron
+        wicket:
+          player_out: J Theron
+          fielders:
+          - AC Evans
+          kind: caught
+    - 48.2:
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SN Netravalkar
+        batsman: CAH Stevenson
+    - 48.3:
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SN Netravalkar
+        batsman: CAH Stevenson
+    - 48.4:
+        non_striker: CAH Stevenson
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SN Netravalkar
+    - 48.5:
+        non_striker: CAH Stevenson
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Netravalkar
+    - 48.6:
+        non_striker: SN Netravalkar
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAH Stevenson
+    - 49.1:
+        non_striker: CAH Stevenson
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SN Netravalkar
+    - 49.2:
+        non_striker: CAH Stevenson
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Netravalkar
+        wicket:
+          player_out: SN Netravalkar
+          fielders:
+          - MH Cross
+          kind: caught
+    - 49.3:
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NP Kenjige
+        batsman: CAH Stevenson
+    - 49.4:
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NP Kenjige
+        batsman: CAH Stevenson
+    - 49.5:
+        non_striker: CAH Stevenson
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: NP Kenjige
+    - 49.6:
+        non_striker: NP Kenjige
+        bowler: AC Evans
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: CAH Stevenson
+    - 49.7:
+        non_striker: CAH Stevenson
+        bowler: AC Evans
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: NP Kenjige
+- 2nd innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KJ Coetzer
+        batsman: MH Cross
+    - 0.2:
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KJ Coetzer
+        batsman: MH Cross
+    - 0.3:
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KJ Coetzer
+        batsman: MH Cross
+    - 0.4:
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KJ Coetzer
+        batsman: MH Cross
+    - 0.5:
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: KJ Coetzer
+        batsman: MH Cross
+    - 0.6:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 1.1:
+        non_striker: MH Cross
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 1.2:
+        non_striker: MH Cross
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 1.3:
+        non_striker: MH Cross
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 1.4:
+        non_striker: MH Cross
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 1.5:
+        non_striker: MH Cross
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 1.6:
+        non_striker: MH Cross
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 2.1:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 2.2:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 2.3:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 2.4:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 2.5:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MH Cross
+    - 2.6:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 3.1:
+        non_striker: MH Cross
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Coetzer
+    - 3.2:
+        non_striker: KJ Coetzer
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 3.3:
+        non_striker: KJ Coetzer
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 3.4:
+        non_striker: MH Cross
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 3.5:
+        non_striker: MH Cross
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 3.6:
+        non_striker: MH Cross
+        bowler: J Theron
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KJ Coetzer
+    - 3.7:
+        non_striker: MH Cross
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 4.1:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 4.2:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 4.3:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MH Cross
+    - 4.4:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 4.5:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 4.6:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MH Cross
+    - 5.1:
+        non_striker: MH Cross
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Coetzer
+    - 5.2:
+        non_striker: MH Cross
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Coetzer
+    - 5.3:
+        non_striker: KJ Coetzer
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MH Cross
+    - 5.4:
+        non_striker: MH Cross
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 5.5:
+        non_striker: MH Cross
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 5.6:
+        non_striker: MH Cross
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 6.1:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 6.2:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 6.3:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 6.4:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: MH Cross
+    - 6.5:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 6.6:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 6.7:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 7.1:
+        non_striker: MH Cross
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 7.2:
+        non_striker: MH Cross
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 7.3:
+        non_striker: MH Cross
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 7.4:
+        non_striker: MH Cross
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 7.5:
+        non_striker: MH Cross
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 7.6:
+        non_striker: MH Cross
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 8.1:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 8.2:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+        wicket:
+          player_out: MH Cross
+          fielders:
+          - Akshay Homraj
+          kind: caught
+    - 8.3:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 8.4:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 8.5:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 8.6:
+        non_striker: MA Jones
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 9.1:
+        non_striker: KJ Coetzer
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 9.2:
+        non_striker: MA Jones
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Coetzer
+    - 9.3:
+        non_striker: KJ Coetzer
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 9.4:
+        non_striker: MA Jones
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 9.5:
+        non_striker: MA Jones
+        bowler: J Theron
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KJ Coetzer
+    - 9.6:
+        non_striker: MA Jones
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 9.7:
+        non_striker: MA Jones
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 10.1:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 10.2:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 10.3:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Jones
+    - 10.4:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 10.5:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 10.6:
+        non_striker: KJ Coetzer
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 11.1:
+        non_striker: MA Jones
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 11.2:
+        non_striker: MA Jones
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ Coetzer
+    - 11.3:
+        non_striker: MA Jones
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Coetzer
+    - 11.4:
+        non_striker: MA Jones
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 11.5:
+        non_striker: MA Jones
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+    - 11.6:
+        non_striker: MA Jones
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Coetzer
+        wicket:
+          player_out: KJ Coetzer
+          fielders:
+          - Steven Ryan Taylor
+          kind: caught
+    - 12.1:
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CS MacLeod
+        batsman: MA Jones
+    - 12.2:
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CS MacLeod
+        batsman: MA Jones
+    - 12.3:
+        non_striker: MA Jones
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 12.4:
+        non_striker: MA Jones
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 12.5:
+        non_striker: CS MacLeod
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 12.6:
+        non_striker: CS MacLeod
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 13.1:
+        non_striker: MA Jones
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 13.2:
+        non_striker: MA Jones
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 13.3:
+        non_striker: MA Jones
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 13.4:
+        non_striker: MA Jones
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 13.5:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 13.6:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MA Jones
+    - 14.1:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 14.2:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 14.3:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 14.4:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MA Jones
+    - 14.5:
+        non_striker: MA Jones
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 14.6:
+        non_striker: MA Jones
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 15.1:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 15.2:
+        non_striker: MA Jones
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS MacLeod
+    - 15.3:
+        non_striker: MA Jones
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 15.4:
+        non_striker: MA Jones
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS MacLeod
+    - 15.5:
+        non_striker: MA Jones
+        bowler: CAH Stevenson
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: CS MacLeod
+    - 15.6:
+        non_striker: MA Jones
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 15.7:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 16.1:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 16.2:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 16.3:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 16.4:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 16.5:
+        non_striker: MA Jones
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 16.6:
+        non_striker: MA Jones
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 17.1:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 17.2:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 17.3:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 17.4:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 17.5:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MA Jones
+    - 17.6:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 18.1:
+        non_striker: MA Jones
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 18.2:
+        non_striker: MA Jones
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS MacLeod
+    - 18.3:
+        non_striker: MA Jones
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 18.4:
+        non_striker: MA Jones
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 18.5:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 18.6:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 19.1:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+        wicket:
+          player_out: MA Jones
+          kind: lbw
+    - 19.2:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 19.3:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Berrington
+    - 19.4:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 19.5:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 19.6:
+        non_striker: RD Berrington
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 19.7:
+        non_striker: RD Berrington
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS MacLeod
+    - 20.1:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 20.2:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 20.3:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 20.4:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 20.5:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 20.6:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 21.1:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 21.2:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Berrington
+    - 21.3:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 21.4:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: RD Berrington
+    - 21.5:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RD Berrington
+    - 21.6:
+        non_striker: RD Berrington
+        bowler: CAH Stevenson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CS MacLeod
+    - 21.7:
+        non_striker: RD Berrington
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 22.1:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 22.2:
+        non_striker: RD Berrington
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 22.3:
+        non_striker: RD Berrington
+        bowler: IG Holland
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: CS MacLeod
+    - 22.4:
+        non_striker: RD Berrington
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 22.5:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 22.6:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 23.1:
+        non_striker: CS MacLeod
+        bowler: NP Kenjige
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Berrington
+    - 23.2:
+        non_striker: CS MacLeod
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 23.3:
+        non_striker: CS MacLeod
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 23.4:
+        non_striker: CS MacLeod
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 23.5:
+        non_striker: RD Berrington
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 23.6:
+        non_striker: CS MacLeod
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 23.7:
+        non_striker: RD Berrington
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 24.1:
+        non_striker: RD Berrington
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 24.2:
+        non_striker: CS MacLeod
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 24.3:
+        non_striker: CS MacLeod
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 24.4:
+        non_striker: RD Berrington
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 24.5:
+        non_striker: RD Berrington
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS MacLeod
+    - 24.6:
+        non_striker: RD Berrington
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS MacLeod
+    - 25.1:
+        non_striker: CS MacLeod
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 25.2:
+        non_striker: CS MacLeod
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 25.3:
+        non_striker: RD Berrington
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 25.4:
+        non_striker: CS MacLeod
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 25.5:
+        non_striker: RD Berrington
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 25.6:
+        non_striker: CS MacLeod
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 26.1:
+        non_striker: RD Berrington
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 26.2:
+        non_striker: RD Berrington
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 26.3:
+        non_striker: RD Berrington
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 26.4:
+        non_striker: RD Berrington
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 26.5:
+        non_striker: RD Berrington
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 26.6:
+        non_striker: CS MacLeod
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 27.1:
+        non_striker: RD Berrington
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 27.2:
+        non_striker: RD Berrington
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 27.3:
+        non_striker: CS MacLeod
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 27.4:
+        non_striker: CS MacLeod
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 27.5:
+        non_striker: CS MacLeod
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 27.6:
+        non_striker: RD Berrington
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS MacLeod
+    - 28.1:
+        non_striker: CS MacLeod
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 28.2:
+        non_striker: RD Berrington
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS MacLeod
+    - 28.3:
+        non_striker: RD Berrington
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 28.4:
+        non_striker: RD Berrington
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 28.5:
+        non_striker: CS MacLeod
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 28.6:
+        non_striker: CS MacLeod
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 29.1:
+        non_striker: RD Berrington
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS MacLeod
+    - 29.2:
+        non_striker: RD Berrington
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 29.3:
+        non_striker: RD Berrington
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 29.4:
+        non_striker: RD Berrington
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 29.5:
+        non_striker: CS MacLeod
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 29.6:
+        non_striker: CS MacLeod
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 30.1:
+        non_striker: RD Berrington
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 30.2:
+        non_striker: RD Berrington
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 30.3:
+        non_striker: CS MacLeod
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 30.4:
+        non_striker: CS MacLeod
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 30.5:
+        non_striker: CS MacLeod
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 30.6:
+        non_striker: RD Berrington
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 31.1:
+        non_striker: RD Berrington
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 31.2:
+        non_striker: RD Berrington
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 31.3:
+        non_striker: CS MacLeod
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 31.4:
+        non_striker: RD Berrington
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 31.5:
+        non_striker: RD Berrington
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 31.6:
+        non_striker: RD Berrington
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 32.1:
+        non_striker: CS MacLeod
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 32.2:
+        non_striker: CS MacLeod
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 32.3:
+        non_striker: CS MacLeod
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+        wicket:
+          player_out: RD Berrington
+          kind: lbw
+    - 32.4:
+        non_striker: CS MacLeod
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 32.5:
+        non_striker: CS MacLeod
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 32.6:
+        non_striker: CS MacLeod
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 33.1:
+        non_striker: HG Munsey
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 33.2:
+        non_striker: CS MacLeod
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 33.3:
+        non_striker: CS MacLeod
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 33.4:
+        non_striker: CS MacLeod
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 33.5:
+        non_striker: HG Munsey
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 33.6:
+        non_striker: CS MacLeod
+        bowler: J Theron
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Munsey
+    - 33.7:
+        non_striker: CS MacLeod
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 34.1:
+        non_striker: HG Munsey
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS MacLeod
+    - 34.2:
+        non_striker: HG Munsey
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 34.3:
+        non_striker: HG Munsey
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 34.4:
+        non_striker: HG Munsey
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 34.5:
+        non_striker: HG Munsey
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 34.6:
+        non_striker: CS MacLeod
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 35.1:
+        non_striker: HG Munsey
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 35.2:
+        non_striker: CS MacLeod
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 35.3:
+        non_striker: CS MacLeod
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 35.4:
+        non_striker: HG Munsey
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 35.5:
+        non_striker: CS MacLeod
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 35.6:
+        non_striker: HG Munsey
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 36.1:
+        non_striker: CS MacLeod
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 36.2:
+        non_striker: CS MacLeod
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 36.3:
+        non_striker: HG Munsey
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 36.4:
+        non_striker: HG Munsey
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 36.5:
+        non_striker: CS MacLeod
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 36.6:
+        non_striker: CS MacLeod
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 37.1:
+        non_striker: HG Munsey
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 37.2:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 37.3:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 37.4:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 37.5:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 37.6:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 38.1:
+        non_striker: HG Munsey
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 38.2:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 38.3:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 38.4:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 38.5:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 38.6:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 39.1:
+        non_striker: HG Munsey
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS MacLeod
+    - 39.2:
+        non_striker: HG Munsey
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 39.3:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 39.4:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+        wicket:
+          player_out: HG Munsey
+          fielders:
+          - MD Patel
+          kind: caught
+    - 39.5:
+        non_striker: CS MacLeod
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Sharif
+    - 39.6:
+        non_striker: SM Sharif
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 40.1:
+        non_striker: SM Sharif
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 40.2:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 40.3:
+        non_striker: CS MacLeod
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+        wicket:
+          player_out: CS MacLeod
+          kind: run out
+    - 40.4:
+        non_striker: SM Sharif
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Davey
+    - 40.5:
+        non_striker: SM Sharif
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JH Davey
+    - 40.6:
+        non_striker: JH Davey
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 41.1:
+        non_striker: SM Sharif
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Davey
+    - 41.2:
+        non_striker: SM Sharif
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JH Davey
+    - 41.3:
+        non_striker: JH Davey
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Sharif
+    - 41.4:
+        non_striker: SM Sharif
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Davey
+    - 41.5:
+        non_striker: SM Sharif
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Davey
+    - 41.6:
+        non_striker: SM Sharif
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Davey
+    - 42.1:
+        non_striker: JH Davey
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Sharif
+    - 42.2:
+        non_striker: SM Sharif
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Davey
+    - 42.3:
+        non_striker: SM Sharif
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Davey
+    - 42.4:
+        non_striker: SM Sharif
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Davey
+    - 42.5:
+        non_striker: SM Sharif
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JH Davey
+    - 42.6:
+        non_striker: JH Davey
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 43.1:
+        non_striker: SM Sharif
+        bowler: CAH Stevenson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JH Davey
+    - 43.2:
+        non_striker: SM Sharif
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JH Davey
+    - 43.3:
+        non_striker: SM Sharif
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JH Davey
+    - 43.4:
+        non_striker: JH Davey
+        bowler: CAH Stevenson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Sharif
+    - 43.5:
+        non_striker: JH Davey
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 43.6:
+        non_striker: JH Davey
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 43.7:
+        non_striker: JH Davey
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 43.8:
+        non_striker: JH Davey
+        bowler: CAH Stevenson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 44.1:
+        non_striker: SM Sharif
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Davey
+    - 44.2:
+        non_striker: SM Sharif
+        bowler: IG Holland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JH Davey
+    - 44.3:
+        non_striker: JH Davey
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Sharif
+    - 44.4:
+        non_striker: SM Sharif
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JH Davey
+    - 44.5:
+        non_striker: JH Davey
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 44.6:
+        non_striker: JH Davey
+        bowler: IG Holland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SM Sharif
+    - 45.1:
+        non_striker: JH Davey
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Sharif
+    - 45.2:
+        non_striker: SM Sharif
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JH Davey
+    - 45.3:
+        non_striker: SM Sharif
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JH Davey
+    - 45.4:
+        non_striker: SM Sharif
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JH Davey
+    - 45.5:
+        non_striker: JH Davey
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Sharif
+    - 45.6:
+        non_striker: JH Davey
+        bowler: J Theron
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: SM Sharif
+    - 46.1:
+        non_striker: JH Davey
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 46.2:
+        non_striker: JH Davey
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Sharif
+    - 46.3:
+        non_striker: SM Sharif
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JH Davey
+    - 46.4:
+        non_striker: SM Sharif
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JH Davey
+    - 46.5:
+        non_striker: JH Davey
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Sharif
+    - 46.6:
+        non_striker: JH Davey
+        bowler: IG Holland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 47.1:
+        non_striker: SM Sharif
+        bowler: J Theron
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JH Davey
+    - 47.2:
+        non_striker: SM Sharif
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JH Davey
+    - 47.3:
+        non_striker: JH Davey
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Sharif
+    - 47.4:
+        non_striker: JH Davey
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 47.5:
+        non_striker: JH Davey
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Sharif
+    - 47.6:
+        non_striker: JH Davey
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Sharif
+    - 47.7:
+        non_striker: JH Davey
+        bowler: J Theron
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Sharif
+    - 47.8:
+        non_striker: JH Davey
+        bowler: J Theron
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Sharif
+    - 48.1:
+        non_striker: SM Sharif
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JH Davey
+    - 48.2:
+        non_striker: JH Davey
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Sharif
+    - 48.3:
+        non_striker: SM Sharif
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JH Davey
+    - 48.4:
+        non_striker: SM Sharif
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JH Davey
+    - 48.5:
+        non_striker: JH Davey
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Sharif

@@ -1,0 +1,4394 @@
+---
+meta:
+  data_version: 0.9
+  created: '2019-07-12'
+  revision: 1
+info:
+  city: Belfast
+  dates:
+  - '2019-07-07'
+  gender: male
+  match_type: ODI
+  match_type_number: 4189
+  outcome:
+    winner: Ireland
+    by:
+      wickets: 6
+  overs: 50
+  teams:
+  - Ireland
+  - Zimbabwe
+  toss:
+    decision: bat
+    winner: Zimbabwe
+  umpires:
+  - R Black
+  - S George
+  venue: Civil Service Cricket Club, Stormont
+innings:
+- 1st innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RP Burl
+        batsman: H Masakadza
+    - 0.2:
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RP Burl
+        batsman: H Masakadza
+    - 0.3:
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RP Burl
+        batsman: H Masakadza
+    - 0.4:
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RP Burl
+        batsman: H Masakadza
+    - 0.5:
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RP Burl
+        batsman: H Masakadza
+    - 0.6:
+        non_striker: RP Burl
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 1.1:
+        non_striker: H Masakadza
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RP Burl
+    - 1.2:
+        non_striker: H Masakadza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 1.3:
+        non_striker: H Masakadza
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RP Burl
+    - 1.4:
+        non_striker: H Masakadza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 1.5:
+        non_striker: RP Burl
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 1.6:
+        non_striker: RP Burl
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 1.7:
+        non_striker: RP Burl
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 1.8:
+        non_striker: RP Burl
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 2.1:
+        non_striker: H Masakadza
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 2.2:
+        non_striker: H Masakadza
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 2.3:
+        non_striker: H Masakadza
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+        wicket:
+          player_out: RP Burl
+          fielders:
+          - L Tucker
+          kind: caught
+    - 2.4:
+        non_striker: H Masakadza
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 2.5:
+        non_striker: H Masakadza
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 2.6:
+        non_striker: H Masakadza
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 3.1:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 3.2:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 3.3:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 3.4:
+        non_striker: H Masakadza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 3.5:
+        non_striker: H Masakadza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 3.6:
+        non_striker: H Masakadza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 4.1:
+        non_striker: CR Ervine
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 4.2:
+        non_striker: CR Ervine
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Masakadza
+    - 4.3:
+        non_striker: CR Ervine
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 4.4:
+        non_striker: H Masakadza
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 4.5:
+        non_striker: H Masakadza
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 4.6:
+        non_striker: H Masakadza
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 5.1:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Masakadza
+    - 5.2:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 5.3:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 5.4:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 5.5:
+        non_striker: H Masakadza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+        wicket:
+          player_out: CR Ervine
+          kind: bowled
+    - 5.6:
+        non_striker: H Masakadza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 6.1:
+        non_striker: BRM Taylor
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 6.2:
+        non_striker: BRM Taylor
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 6.3:
+        non_striker: H Masakadza
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BRM Taylor
+    - 6.4:
+        non_striker: BRM Taylor
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Masakadza
+    - 6.5:
+        non_striker: BRM Taylor
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 6.6:
+        non_striker: BRM Taylor
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 7.1:
+        non_striker: H Masakadza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 7.2:
+        non_striker: H Masakadza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 7.3:
+        non_striker: H Masakadza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 7.4:
+        non_striker: H Masakadza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 7.5:
+        non_striker: H Masakadza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BRM Taylor
+    - 7.6:
+        non_striker: H Masakadza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 8.1:
+        non_striker: BRM Taylor
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 8.2:
+        non_striker: BRM Taylor
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 8.3:
+        non_striker: H Masakadza
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+    - 8.4:
+        non_striker: H Masakadza
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BRM Taylor
+        wicket:
+          player_out: BRM Taylor
+          fielders:
+          - WTS Porterfield
+          kind: caught
+    - 8.5:
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SC Williams
+        batsman: H Masakadza
+    - 8.6:
+        non_striker: SC Williams
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 9.1:
+        non_striker: H Masakadza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 9.2:
+        non_striker: H Masakadza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 9.3:
+        non_striker: H Masakadza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 9.4:
+        non_striker: H Masakadza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 9.5:
+        non_striker: H Masakadza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 9.6:
+        non_striker: H Masakadza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 10.1:
+        non_striker: SC Williams
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 10.2:
+        non_striker: H Masakadza
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 10.3:
+        non_striker: H Masakadza
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 10.4:
+        non_striker: H Masakadza
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 10.5:
+        non_striker: H Masakadza
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 10.6:
+        non_striker: H Masakadza
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 11.1:
+        non_striker: SC Williams
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 11.2:
+        non_striker: SC Williams
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 11.3:
+        non_striker: SC Williams
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 11.4:
+        non_striker: H Masakadza
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 11.5:
+        non_striker: SC Williams
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 11.6:
+        non_striker: SC Williams
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 12.1:
+        non_striker: H Masakadza
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 12.2:
+        non_striker: H Masakadza
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 12.3:
+        non_striker: H Masakadza
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 12.4:
+        non_striker: H Masakadza
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 12.5:
+        non_striker: H Masakadza
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 12.6:
+        non_striker: H Masakadza
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 13.1:
+        non_striker: SC Williams
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 13.2:
+        non_striker: SC Williams
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 13.3:
+        non_striker: H Masakadza
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 13.4:
+        non_striker: H Masakadza
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 13.5:
+        non_striker: H Masakadza
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 13.6:
+        non_striker: H Masakadza
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 14.1:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 14.2:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 14.3:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 14.4:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+    - 14.5:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 14.6:
+        non_striker: H Masakadza
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 15.1:
+        non_striker: SC Williams
+        bowler: WB Rankin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: H Masakadza
+    - 15.2:
+        non_striker: H Masakadza
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 15.3:
+        non_striker: H Masakadza
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 15.4:
+        non_striker: H Masakadza
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 15.5:
+        non_striker: SC Williams
+        bowler: WB Rankin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Masakadza
+    - 15.6:
+        non_striker: SC Williams
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 15.7:
+        non_striker: H Masakadza
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 16.1:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Masakadza
+    - 16.2:
+        non_striker: H Masakadza
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 16.3:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Masakadza
+        wicket:
+          player_out: H Masakadza
+          kind: bowled
+    - 16.4:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 16.5:
+        non_striker: Sikandar Raza
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 16.6:
+        non_striker: Sikandar Raza
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 17.1:
+        non_striker: SC Williams
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 17.2:
+        non_striker: SC Williams
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 17.3:
+        non_striker: Sikandar Raza
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 17.4:
+        non_striker: Sikandar Raza
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 17.5:
+        non_striker: Sikandar Raza
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 17.6:
+        non_striker: Sikandar Raza
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 18.1:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          kind: lbw
+    - 18.2:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SF Mire
+    - 18.3:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Mire
+    - 18.4:
+        non_striker: SF Mire
+        bowler: SC Getkate
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SC Williams
+    - 18.5:
+        non_striker: SF Mire
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 18.6:
+        non_striker: SF Mire
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 18.7:
+        non_striker: SF Mire
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 18.8:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mire
+    - 19.1:
+        non_striker: SF Mire
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 19.2:
+        non_striker: SF Mire
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 19.3:
+        non_striker: SF Mire
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 19.4:
+        non_striker: SF Mire
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 19.5:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mire
+    - 19.6:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Mire
+    - 20.1:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mire
+    - 20.2:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mire
+    - 20.3:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mire
+    - 20.4:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mire
+    - 20.5:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Mire
+    - 20.6:
+        non_striker: SF Mire
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 21.1:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mire
+    - 21.2:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Mire
+    - 21.3:
+        non_striker: SF Mire
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 21.4:
+        non_striker: SF Mire
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 21.5:
+        non_striker: SF Mire
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 21.6:
+        non_striker: SF Mire
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 22.1:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mire
+    - 22.2:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mire
+    - 22.3:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mire
+    - 22.4:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mire
+    - 22.5:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Mire
+    - 22.6:
+        non_striker: SF Mire
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 23.1:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mire
+    - 23.2:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mire
+    - 23.3:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mire
+    - 23.4:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SF Mire
+    - 23.5:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mire
+    - 23.6:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Mire
+    - 24.1:
+        non_striker: SC Williams
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mire
+    - 24.2:
+        non_striker: SC Williams
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SF Mire
+    - 24.3:
+        non_striker: SC Williams
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mire
+    - 24.4:
+        non_striker: SC Williams
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SF Mire
+    - 24.5:
+        non_striker: SC Williams
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mire
+        wicket:
+          player_out: SF Mire
+          kind: bowled
+    - 24.6:
+        non_striker: SC Williams
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Mutumbami
+    - 25.1:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mutumbami
+    - 25.2:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mutumbami
+    - 25.3:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mutumbami
+    - 25.4:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Mutumbami
+    - 25.5:
+        non_striker: R Mutumbami
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 25.6:
+        non_striker: R Mutumbami
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 26.1:
+        non_striker: SC Williams
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: R Mutumbami
+    - 26.2:
+        non_striker: R Mutumbami
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 26.3:
+        non_striker: SC Williams
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mutumbami
+    - 26.4:
+        non_striker: SC Williams
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mutumbami
+    - 26.5:
+        non_striker: SC Williams
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Mutumbami
+    - 26.6:
+        non_striker: SC Williams
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Mutumbami
+    - 27.1:
+        non_striker: R Mutumbami
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 27.2:
+        non_striker: R Mutumbami
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 27.3:
+        non_striker: R Mutumbami
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 27.4:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mutumbami
+    - 27.5:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mutumbami
+    - 27.6:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mutumbami
+    - 28.1:
+        non_striker: R Mutumbami
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 28.2:
+        non_striker: R Mutumbami
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 28.3:
+        non_striker: R Mutumbami
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 28.4:
+        non_striker: R Mutumbami
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 28.5:
+        non_striker: R Mutumbami
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 28.6:
+        non_striker: SC Williams
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mutumbami
+    - 29.1:
+        non_striker: R Mutumbami
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 29.2:
+        non_striker: R Mutumbami
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 29.3:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mutumbami
+    - 29.4:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mutumbami
+    - 29.5:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mutumbami
+    - 29.6:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Mutumbami
+    - 30.1:
+        non_striker: SC Williams
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Mutumbami
+    - 30.2:
+        non_striker: SC Williams
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Mutumbami
+    - 30.3:
+        non_striker: R Mutumbami
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 30.4:
+        non_striker: R Mutumbami
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 30.5:
+        non_striker: R Mutumbami
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 30.6:
+        non_striker: SC Williams
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Mutumbami
+    - 31.1:
+        non_striker: SC Williams
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Mutumbami
+    - 31.2:
+        non_striker: R Mutumbami
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 31.3:
+        non_striker: SC Williams
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mutumbami
+    - 31.4:
+        non_striker: SC Williams
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Mutumbami
+    - 31.5:
+        non_striker: R Mutumbami
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 31.6:
+        non_striker: R Mutumbami
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 32.1:
+        non_striker: R Mutumbami
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 32.2:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Mutumbami
+    - 32.3:
+        non_striker: R Mutumbami
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 32.4:
+        non_striker: R Mutumbami
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 32.5:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mutumbami
+    - 32.6:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mutumbami
+    - 33.1:
+        non_striker: R Mutumbami
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 33.2:
+        non_striker: R Mutumbami
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 33.3:
+        non_striker: R Mutumbami
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 33.4:
+        non_striker: SC Williams
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mutumbami
+    - 33.5:
+        non_striker: SC Williams
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mutumbami
+    - 33.6:
+        non_striker: SC Williams
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mutumbami
+    - 34.1:
+        non_striker: R Mutumbami
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 34.2:
+        non_striker: R Mutumbami
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 34.3:
+        non_striker: R Mutumbami
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 34.4:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Mutumbami
+    - 34.5:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Mutumbami
+    - 34.6:
+        non_striker: R Mutumbami
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 35.1:
+        non_striker: SC Williams
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Mutumbami
+        wicket:
+          player_out: R Mutumbami
+          fielders:
+          - L Tucker
+          kind: caught
+    - 35.2:
+        non_striker: SC Williams
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 35.3:
+        non_striker: SC Williams
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jarvis
+    - 35.4:
+        non_striker: KM Jarvis
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 35.5:
+        non_striker: KM Jarvis
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 35.6:
+        non_striker: KM Jarvis
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 36.1:
+        non_striker: SC Williams
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 36.2:
+        non_striker: SC Williams
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jarvis
+    - 36.3:
+        non_striker: KM Jarvis
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 36.4:
+        non_striker: KM Jarvis
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 36.5:
+        non_striker: SC Williams
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 36.6:
+        non_striker: SC Williams
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 37.1:
+        non_striker: KM Jarvis
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 37.2:
+        non_striker: KM Jarvis
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 37.3:
+        non_striker: KM Jarvis
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 37.4:
+        non_striker: KM Jarvis
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 37.5:
+        non_striker: KM Jarvis
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 37.6:
+        non_striker: KM Jarvis
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 38.1:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 38.2:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 38.3:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 38.4:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 38.5:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 38.6:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KM Jarvis
+    - 39.1:
+        non_striker: KM Jarvis
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 39.2:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 39.3:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 39.4:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jarvis
+    - 39.5:
+        non_striker: KM Jarvis
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 39.6:
+        non_striker: KM Jarvis
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 40.1:
+        non_striker: KM Jarvis
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 40.2:
+        non_striker: KM Jarvis
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 40.3:
+        non_striker: KM Jarvis
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 40.4:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 40.5:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 40.6:
+        non_striker: SC Williams
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 41.1:
+        non_striker: KM Jarvis
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 41.2:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 41.3:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jarvis
+    - 41.4:
+        non_striker: KM Jarvis
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 41.5:
+        non_striker: KM Jarvis
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 41.6:
+        non_striker: SC Williams
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jarvis
+    - 42.1:
+        non_striker: SC Williams
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jarvis
+    - 42.2:
+        non_striker: KM Jarvis
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 42.3:
+        non_striker: KM Jarvis
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 42.4:
+        non_striker: KM Jarvis
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 42.5:
+        non_striker: SC Williams
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 42.6:
+        non_striker: SC Williams
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jarvis
+    - 43.1:
+        non_striker: SC Williams
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 43.2:
+        non_striker: SC Williams
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+    - 43.3:
+        non_striker: SC Williams
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KM Jarvis
+    - 43.4:
+        non_striker: KM Jarvis
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 43.5:
+        non_striker: KM Jarvis
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 43.6:
+        non_striker: KM Jarvis
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 44.1:
+        non_striker: KM Jarvis
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 44.2:
+        non_striker: SC Williams
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KM Jarvis
+    - 44.3:
+        non_striker: SC Williams
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+        wicket:
+          player_out: SC Williams
+          kind: run out
+    - 44.4:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: CB Mpofu
+        batsman: KM Jarvis
+    - 44.5:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: CB Mpofu
+        batsman: KM Jarvis
+    - 44.6:
+        non_striker: CB Mpofu
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KM Jarvis
+    - 45.1:
+        non_striker: KM Jarvis
+        bowler: WB Rankin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CB Mpofu
+    - 45.2:
+        non_striker: CB Mpofu
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KM Jarvis
+        wicket:
+          player_out: KM Jarvis
+          fielders:
+          - TE Kane (sub)
+          kind: caught
+    - 45.3:
+        non_striker: CB Mpofu
+        bowler: WB Rankin
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: TL Chatara
+    - 45.4:
+        non_striker: CB Mpofu
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Chatara
+    - 45.5:
+        non_striker: TL Chatara
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CB Mpofu
+    - 45.6:
+        non_striker: CB Mpofu
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Chatara
+    - 46.1:
+        non_striker: TL Chatara
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Mpofu
+    - 46.2:
+        non_striker: TL Chatara
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CB Mpofu
+    - 46.3:
+        non_striker: CB Mpofu
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Chatara
+    - 46.4:
+        non_striker: CB Mpofu
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Chatara
+    - 46.5:
+        non_striker: CB Mpofu
+        bowler: TJ Murtagh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Chatara
+        wicket:
+          player_out: TL Chatara
+          kind: bowled
+- 2nd innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JA McCollum
+        batsman: PR Stirling
+    - 0.2:
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: JA McCollum
+        batsman: PR Stirling
+    - 0.3:
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JA McCollum
+        batsman: PR Stirling
+    - 0.4:
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: JA McCollum
+        batsman: PR Stirling
+    - 0.5:
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JA McCollum
+        batsman: PR Stirling
+    - 0.6:
+        non_striker: JA McCollum
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 1.1:
+        non_striker: PR Stirling
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 1.2:
+        non_striker: PR Stirling
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 1.3:
+        non_striker: PR Stirling
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 1.4:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 1.5:
+        non_striker: PR Stirling
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 1.6:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 2.1:
+        non_striker: PR Stirling
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 2.2:
+        non_striker: PR Stirling
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 2.3:
+        non_striker: PR Stirling
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 2.4:
+        non_striker: PR Stirling
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 2.5:
+        non_striker: JA McCollum
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PR Stirling
+    - 2.6:
+        non_striker: JA McCollum
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 3.1:
+        non_striker: PR Stirling
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA McCollum
+    - 3.2:
+        non_striker: PR Stirling
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 3.3:
+        non_striker: PR Stirling
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 3.4:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 3.5:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 3.6:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 4.1:
+        non_striker: PR Stirling
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 4.2:
+        non_striker: PR Stirling
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 4.3:
+        non_striker: JA McCollum
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 4.4:
+        non_striker: PR Stirling
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 4.5:
+        non_striker: PR Stirling
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 4.6:
+        non_striker: PR Stirling
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 5.1:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 5.2:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 5.3:
+        non_striker: PR Stirling
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 5.4:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PR Stirling
+    - 5.5:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 5.6:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 6.1:
+        non_striker: JA McCollum
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 6.2:
+        non_striker: JA McCollum
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 6.3:
+        non_striker: JA McCollum
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 6.4:
+        non_striker: JA McCollum
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 6.5:
+        non_striker: JA McCollum
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 6.6:
+        non_striker: JA McCollum
+        bowler: KM Jarvis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PR Stirling
+    - 7.1:
+        non_striker: JA McCollum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 7.2:
+        non_striker: JA McCollum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 7.3:
+        non_striker: PR Stirling
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 7.4:
+        non_striker: PR Stirling
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 7.5:
+        non_striker: PR Stirling
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA McCollum
+    - 7.6:
+        non_striker: PR Stirling
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 8.1:
+        non_striker: PR Stirling
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 8.2:
+        non_striker: PR Stirling
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 8.3:
+        non_striker: JA McCollum
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 8.4:
+        non_striker: JA McCollum
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 8.5:
+        non_striker: JA McCollum
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 8.6:
+        non_striker: JA McCollum
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 9.1:
+        non_striker: PR Stirling
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA McCollum
+    - 9.2:
+        non_striker: PR Stirling
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA McCollum
+    - 9.3:
+        non_striker: PR Stirling
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 9.4:
+        non_striker: JA McCollum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 9.5:
+        non_striker: JA McCollum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 9.6:
+        non_striker: JA McCollum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 10.1:
+        non_striker: PR Stirling
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 10.2:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 10.3:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 10.4:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 10.5:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 10.6:
+        non_striker: PR Stirling
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 11.1:
+        non_striker: JA McCollum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 11.2:
+        non_striker: PR Stirling
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 11.3:
+        non_striker: PR Stirling
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 11.4:
+        non_striker: JA McCollum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 11.5:
+        non_striker: JA McCollum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 11.6:
+        non_striker: PR Stirling
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 12.1:
+        non_striker: PR Stirling
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 12.2:
+        non_striker: PR Stirling
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 12.3:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 12.4:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 12.5:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          fielders:
+          - BRM Taylor
+          kind: caught
+    - 12.6:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 13.1:
+        non_striker: A Balbirnie
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 13.2:
+        non_striker: A Balbirnie
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 13.3:
+        non_striker: JA McCollum
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 13.4:
+        non_striker: A Balbirnie
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 13.5:
+        non_striker: A Balbirnie
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 13.6:
+        non_striker: A Balbirnie
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 14.1:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 14.2:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 14.3:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 14.4:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 14.5:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 14.6:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 15.1:
+        non_striker: A Balbirnie
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 15.2:
+        non_striker: JA McCollum
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+        wicket:
+          player_out: A Balbirnie
+          fielders:
+          - R Mutumbami
+          kind: caught
+    - 15.3:
+        non_striker: JA McCollum
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 15.4:
+        non_striker: JA McCollum
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 15.5:
+        non_striker: JA McCollum
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 15.6:
+        non_striker: JA McCollum
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 16.1:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 16.2:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 16.3:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 16.4:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 16.5:
+        non_striker: WTS Porterfield
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 16.6:
+        non_striker: WTS Porterfield
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 17.1:
+        non_striker: WTS Porterfield
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 17.2:
+        non_striker: WTS Porterfield
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 17.3:
+        non_striker: WTS Porterfield
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 17.4:
+        non_striker: WTS Porterfield
+        bowler: SC Williams
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: JA McCollum
+    - 17.5:
+        non_striker: WTS Porterfield
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 17.6:
+        non_striker: WTS Porterfield
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA McCollum
+    - 18.1:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 18.2:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 18.3:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 18.4:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 18.5:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 18.6:
+        non_striker: JA McCollum
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 19.1:
+        non_striker: WTS Porterfield
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 19.2:
+        non_striker: JA McCollum
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 19.3:
+        non_striker: JA McCollum
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 19.4:
+        non_striker: JA McCollum
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: WTS Porterfield
+    - 19.5:
+        non_striker: WTS Porterfield
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 19.6:
+        non_striker: WTS Porterfield
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 20.1:
+        non_striker: JA McCollum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WTS Porterfield
+    - 20.2:
+        non_striker: JA McCollum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WTS Porterfield
+    - 20.3:
+        non_striker: JA McCollum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 20.4:
+        non_striker: JA McCollum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 20.5:
+        non_striker: JA McCollum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 20.6:
+        non_striker: JA McCollum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 21.1:
+        non_striker: WTS Porterfield
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 21.2:
+        non_striker: WTS Porterfield
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA McCollum
+    - 21.3:
+        non_striker: WTS Porterfield
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 21.4:
+        non_striker: JA McCollum
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 21.5:
+        non_striker: JA McCollum
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 21.6:
+        non_striker: JA McCollum
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 22.1:
+        non_striker: WTS Porterfield
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 22.2:
+        non_striker: WTS Porterfield
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 22.3:
+        non_striker: JA McCollum
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 22.4:
+        non_striker: WTS Porterfield
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA McCollum
+    - 22.5:
+        non_striker: WTS Porterfield
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 22.6:
+        non_striker: WTS Porterfield
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 23.1:
+        non_striker: WTS Porterfield
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 23.2:
+        non_striker: WTS Porterfield
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 23.3:
+        non_striker: WTS Porterfield
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA McCollum
+    - 23.4:
+        non_striker: WTS Porterfield
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 23.5:
+        non_striker: JA McCollum
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 23.6:
+        non_striker: JA McCollum
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WTS Porterfield
+    - 24.1:
+        non_striker: WTS Porterfield
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 24.2:
+        non_striker: WTS Porterfield
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 24.3:
+        non_striker: WTS Porterfield
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 24.4:
+        non_striker: WTS Porterfield
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 24.5:
+        non_striker: WTS Porterfield
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 24.6:
+        non_striker: WTS Porterfield
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 25.1:
+        non_striker: WTS Porterfield
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+        wicket:
+          player_out: JA McCollum
+          fielders:
+          - RP Burl
+          kind: caught
+    - 25.2:
+        non_striker: WTS Porterfield
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 25.3:
+        non_striker: KJ O'Brien
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 25.4:
+        non_striker: KJ O'Brien
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 25.5:
+        non_striker: WTS Porterfield
+        bowler: SF Mire
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KJ O'Brien
+    - 25.6:
+        non_striker: WTS Porterfield
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 25.7:
+        non_striker: WTS Porterfield
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ O'Brien
+    - 26.1:
+        non_striker: KJ O'Brien
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 26.2:
+        non_striker: KJ O'Brien
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 26.3:
+        non_striker: KJ O'Brien
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WTS Porterfield
+    - 26.4:
+        non_striker: KJ O'Brien
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 26.5:
+        non_striker: KJ O'Brien
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 26.6:
+        non_striker: KJ O'Brien
+        bowler: CB Mpofu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 27.1:
+        non_striker: KJ O'Brien
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 27.2:
+        non_striker: KJ O'Brien
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 27.3:
+        non_striker: KJ O'Brien
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 27.4:
+        non_striker: WTS Porterfield
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 27.5:
+        non_striker: WTS Porterfield
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 27.6:
+        non_striker: WTS Porterfield
+        bowler: SF Mire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ O'Brien
+    - 28.1:
+        non_striker: KJ O'Brien
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 28.2:
+        non_striker: WTS Porterfield
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 28.3:
+        non_striker: KJ O'Brien
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 28.4:
+        non_striker: WTS Porterfield
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 28.5:
+        non_striker: KJ O'Brien
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 28.6:
+        non_striker: WTS Porterfield
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 29.1:
+        non_striker: KJ O'Brien
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 29.2:
+        non_striker: KJ O'Brien
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WTS Porterfield
+    - 29.3:
+        non_striker: KJ O'Brien
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 29.4:
+        non_striker: KJ O'Brien
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WTS Porterfield
+    - 29.5:
+        non_striker: KJ O'Brien
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 29.6:
+        non_striker: KJ O'Brien
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 30.1:
+        non_striker: WTS Porterfield
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 30.2:
+        non_striker: WTS Porterfield
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 30.3:
+        non_striker: KJ O'Brien
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 30.4:
+        non_striker: WTS Porterfield
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 30.5:
+        non_striker: KJ O'Brien
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 30.6:
+        non_striker: WTS Porterfield
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 31.1:
+        non_striker: KJ O'Brien
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WTS Porterfield
+    - 31.2:
+        non_striker: KJ O'Brien
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WTS Porterfield
+    - 31.3:
+        non_striker: KJ O'Brien
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 31.4:
+        non_striker: KJ O'Brien
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 31.5:
+        non_striker: KJ O'Brien
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 31.6:
+        non_striker: KJ O'Brien
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 32.1:
+        non_striker: WTS Porterfield
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 32.2:
+        non_striker: WTS Porterfield
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 32.3:
+        non_striker: WTS Porterfield
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 32.4:
+        non_striker: KJ O'Brien
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 32.5:
+        non_striker: KJ O'Brien
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 32.6:
+        non_striker: WTS Porterfield
+        bowler: KM Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 33.1:
+        non_striker: KJ O'Brien
+        bowler: H Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 33.2:
+        non_striker: KJ O'Brien
+        bowler: H Masakadza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WTS Porterfield
+    - 33.3:
+        non_striker: KJ O'Brien
+        bowler: H Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 33.4:
+        non_striker: WTS Porterfield
+        bowler: H Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 33.5:
+        non_striker: WTS Porterfield
+        bowler: H Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 33.6:
+        non_striker: KJ O'Brien
+        bowler: H Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 34.1:
+        non_striker: WTS Porterfield
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 34.2:
+        non_striker: WTS Porterfield
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 34.3:
+        non_striker: WTS Porterfield
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 34.4:
+        non_striker: WTS Porterfield
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 34.5:
+        non_striker: WTS Porterfield
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 34.6:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 35.1:
+        non_striker: WTS Porterfield
+        bowler: H Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 35.2:
+        non_striker: KJ O'Brien
+        bowler: H Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 35.3:
+        non_striker: WTS Porterfield
+        bowler: H Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 35.4:
+        non_striker: KJ O'Brien
+        bowler: H Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 35.5:
+        non_striker: KJ O'Brien
+        bowler: H Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 35.6:
+        non_striker: KJ O'Brien
+        bowler: H Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 36.1:
+        non_striker: WTS Porterfield
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 36.2:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+        wicket:
+          player_out: WTS Porterfield
+          kind: bowled
+    - 36.3:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 36.4:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 36.5:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 36.6:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 37.1:
+        non_striker: L Tucker
+        bowler: H Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 37.2:
+        non_striker: L Tucker
+        bowler: H Masakadza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ O'Brien
+    - 37.3:
+        non_striker: L Tucker
+        bowler: H Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 37.4:
+        non_striker: L Tucker
+        bowler: H Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 37.5:
+        non_striker: L Tucker
+        bowler: H Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 37.6:
+        non_striker: KJ O'Brien
+        bowler: H Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 38.1:
+        non_striker: L Tucker
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ O'Brien
+    - 38.2:
+        non_striker: L Tucker
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 38.3:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 38.4:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 38.5:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 38.6:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 39.1:
+        non_striker: L Tucker
+        bowler: TL Chatara
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: KJ O'Brien
+    - 39.2:
+        non_striker: L Tucker
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 39.3:
+        non_striker: L Tucker
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 39.4:
+        non_striker: L Tucker
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 39.5:
+        non_striker: L Tucker
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 39.6:
+        non_striker: KJ O'Brien
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 40.1:
+        non_striker: L Tucker
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ O'Brien
+    - 40.2:
+        non_striker: L Tucker
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 40.3:
+        non_striker: L Tucker
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 40.4:
+        non_striker: KJ O'Brien
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 40.5:
+        non_striker: L Tucker
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 40.6:
+        non_striker: L Tucker
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ O'Brien
+    - 41.1:
+        non_striker: KJ O'Brien
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 41.2:
+        non_striker: KJ O'Brien
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker

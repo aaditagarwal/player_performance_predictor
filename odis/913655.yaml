@@ -1,0 +1,4855 @@
+---
+meta:
+  data_version: 0.9
+  created: 2016-08-31
+  revision: 1
+info:
+  city: London
+  dates:
+    - 2016-08-27
+  gender: male
+  match_type: ODI
+  outcome:
+    by:
+      wickets: 4
+    winner: England
+  overs: 50
+  player_of_match:
+    - JE Root
+  teams:
+    - England
+    - Pakistan
+  toss:
+    decision: bat
+    winner: Pakistan
+  umpires:
+    - M Erasmus
+    - RT Robinson
+  venue: Lord's
+innings:
+  - 1st innings:
+      team: Pakistan
+      deliveries:
+        - 0.1:
+            batsman: Sami Aslam
+            bowler: MA Wood
+            non_striker: Sharjeel Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: Sami Aslam
+            bowler: MA Wood
+            extras:
+              wides: 1
+            non_striker: Sharjeel Khan
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.3:
+            batsman: Sami Aslam
+            bowler: MA Wood
+            non_striker: Sharjeel Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: Sami Aslam
+            bowler: MA Wood
+            non_striker: Sharjeel Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: Sami Aslam
+            bowler: MA Wood
+            non_striker: Sharjeel Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: Sami Aslam
+            bowler: MA Wood
+            non_striker: Sharjeel Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.7:
+            batsman: Sami Aslam
+            bowler: MA Wood
+            non_striker: Sharjeel Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.1:
+            batsman: Sami Aslam
+            bowler: CR Woakes
+            non_striker: Sharjeel Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: Sami Aslam
+            bowler: CR Woakes
+            non_striker: Sharjeel Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: Sami Aslam
+            bowler: CR Woakes
+            non_striker: Sharjeel Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: Sami Aslam
+            bowler: CR Woakes
+            non_striker: Sharjeel Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - JC Buttler
+              kind: caught
+              player_out: Sami Aslam
+        - 1.5:
+            batsman: Azhar Ali
+            bowler: CR Woakes
+            non_striker: Sharjeel Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: Azhar Ali
+            bowler: CR Woakes
+            non_striker: Sharjeel Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: Sharjeel Khan
+            bowler: MA Wood
+            non_striker: Azhar Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: Sharjeel Khan
+            bowler: MA Wood
+            non_striker: Azhar Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: Sharjeel Khan
+        - 2.3:
+            batsman: Babar Azam
+            bowler: MA Wood
+            non_striker: Azhar Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: Babar Azam
+            bowler: MA Wood
+            non_striker: Azhar Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: Babar Azam
+            bowler: MA Wood
+            non_striker: Azhar Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: Babar Azam
+            bowler: MA Wood
+            non_striker: Azhar Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: Azhar Ali
+            bowler: CR Woakes
+            non_striker: Babar Azam
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - JC Buttler
+              kind: caught
+              player_out: Azhar Ali
+        - 3.2:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Babar Azam
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Babar Azam
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Babar Azam
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Babar Azam
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.6:
+            batsman: Babar Azam
+            bowler: CR Woakes
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: Sarfraz Ahmed
+            bowler: MA Wood
+            non_striker: Babar Azam
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: Sarfraz Ahmed
+            bowler: MA Wood
+            non_striker: Babar Azam
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.3:
+            batsman: Sarfraz Ahmed
+            bowler: MA Wood
+            non_striker: Babar Azam
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.4:
+            batsman: Babar Azam
+            bowler: MA Wood
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.5:
+            batsman: Babar Azam
+            bowler: MA Wood
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: Babar Azam
+            bowler: MA Wood
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Babar Azam
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Babar Azam
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Babar Azam
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Babar Azam
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Babar Azam
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Babar Azam
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: Babar Azam
+            bowler: MA Wood
+            extras:
+              byes: 4
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 6.2:
+            batsman: Babar Azam
+            bowler: MA Wood
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: Babar Azam
+            bowler: MA Wood
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.4:
+            batsman: Sarfraz Ahmed
+            bowler: MA Wood
+            non_striker: Babar Azam
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.5:
+            batsman: Babar Azam
+            bowler: MA Wood
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.6:
+            batsman: Babar Azam
+            bowler: MA Wood
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.1:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Babar Azam
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            extras:
+              wides: 1
+            non_striker: Babar Azam
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 7.3:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Babar Azam
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Babar Azam
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Babar Azam
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: Babar Azam
+            bowler: CR Woakes
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.7:
+            batsman: Babar Azam
+            bowler: CR Woakes
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.1:
+            batsman: Sarfraz Ahmed
+            bowler: MA Wood
+            non_striker: Babar Azam
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.2:
+            batsman: Babar Azam
+            bowler: MA Wood
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: Babar Azam
+            bowler: MA Wood
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 8.4:
+            batsman: Sarfraz Ahmed
+            bowler: MA Wood
+            non_striker: Babar Azam
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.5:
+            batsman: Sarfraz Ahmed
+            bowler: MA Wood
+            non_striker: Babar Azam
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.6:
+            batsman: Sarfraz Ahmed
+            bowler: MA Wood
+            non_striker: Babar Azam
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: Babar Azam
+            bowler: CR Woakes
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.2:
+            batsman: Babar Azam
+            bowler: CR Woakes
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.3:
+            batsman: Babar Azam
+            bowler: CR Woakes
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.4:
+            batsman: Babar Azam
+            bowler: CR Woakes
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: Babar Azam
+            bowler: CR Woakes
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.6:
+            batsman: Babar Azam
+            bowler: CR Woakes
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Babar Azam
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: Babar Azam
+            bowler: AU Rashid
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: Babar Azam
+            bowler: AU Rashid
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: Babar Azam
+            bowler: AU Rashid
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.5:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Babar Azam
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 10.6:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Babar Azam
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Babar Azam
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 11.2:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Babar Azam
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.3:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Babar Azam
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 11.4:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Babar Azam
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 11.5:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Babar Azam
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Babar Azam
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.1:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Babar Azam
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.2:
+            batsman: Babar Azam
+            bowler: AU Rashid
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.3:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Babar Azam
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.4:
+            batsman: Babar Azam
+            bowler: AU Rashid
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 12.5:
+            batsman: Babar Azam
+            bowler: AU Rashid
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.6:
+            batsman: Babar Azam
+            bowler: AU Rashid
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.1:
+            batsman: Babar Azam
+            bowler: LE Plunkett
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.2:
+            batsman: Babar Azam
+            bowler: LE Plunkett
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.3:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Babar Azam
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.4:
+            batsman: Babar Azam
+            bowler: LE Plunkett
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: Babar Azam
+        - 13.5:
+            batsman: Shoaib Malik
+            bowler: LE Plunkett
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: Shoaib Malik
+            bowler: LE Plunkett
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 14.2:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: Shoaib Malik
+            bowler: AU Rashid
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: Shoaib Malik
+            bowler: AU Rashid
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.5:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.6:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.2:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            extras:
+              legbyes: 1
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 15.3:
+            batsman: Shoaib Malik
+            bowler: LE Plunkett
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.4:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.6:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.1:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.2:
+            batsman: Shoaib Malik
+            bowler: AU Rashid
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.3:
+            batsman: Shoaib Malik
+            bowler: AU Rashid
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.4:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.5:
+            batsman: Shoaib Malik
+            bowler: AU Rashid
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.6:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 17.2:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.3:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.4:
+            batsman: Shoaib Malik
+            bowler: LE Plunkett
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.5:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.6:
+            batsman: Shoaib Malik
+            bowler: LE Plunkett
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.1:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.2:
+            batsman: Shoaib Malik
+            bowler: AU Rashid
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.3:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.5:
+            batsman: Shoaib Malik
+            bowler: AU Rashid
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 18.6:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.1:
+            batsman: Shoaib Malik
+            bowler: LE Plunkett
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.2:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.3:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.4:
+            batsman: Shoaib Malik
+            bowler: LE Plunkett
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.5:
+            batsman: Shoaib Malik
+            bowler: LE Plunkett
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.6:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.1:
+            batsman: Shoaib Malik
+            bowler: AU Rashid
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.2:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.3:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.4:
+            batsman: Shoaib Malik
+            bowler: AU Rashid
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.5:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 20.6:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.1:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.2:
+            batsman: Shoaib Malik
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 21.3:
+            batsman: Shoaib Malik
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.4:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.5:
+            batsman: Shoaib Malik
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.6:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.1:
+            batsman: Shoaib Malik
+            bowler: AU Rashid
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.2:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.3:
+            batsman: Shoaib Malik
+            bowler: AU Rashid
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.4:
+            batsman: Shoaib Malik
+            bowler: AU Rashid
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.5:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.6:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 23.1:
+            batsman: Shoaib Malik
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.2:
+            batsman: Shoaib Malik
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.3:
+            batsman: Shoaib Malik
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 23.4:
+            batsman: Shoaib Malik
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.5:
+            batsman: Shoaib Malik
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.6:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.1:
+            batsman: Sarfraz Ahmed
+            bowler: MA Wood
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.2:
+            batsman: Sarfraz Ahmed
+            bowler: MA Wood
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.3:
+            batsman: Shoaib Malik
+            bowler: MA Wood
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.4:
+            batsman: Shoaib Malik
+            bowler: MA Wood
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.5:
+            batsman: Shoaib Malik
+            bowler: MA Wood
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.6:
+            batsman: Shoaib Malik
+            bowler: MA Wood
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.1:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.2:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.3:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.4:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.5:
+            batsman: Shoaib Malik
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.6:
+            batsman: Shoaib Malik
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.1:
+            batsman: Sarfraz Ahmed
+            bowler: MA Wood
+            non_striker: Shoaib Malik
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.2:
+            batsman: Shoaib Malik
+            bowler: MA Wood
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - JC Buttler
+              kind: caught
+              player_out: Shoaib Malik
+        - 26.3:
+            batsman: Imad Wasim
+            bowler: MA Wood
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.4:
+            batsman: Sarfraz Ahmed
+            bowler: MA Wood
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.5:
+            batsman: Sarfraz Ahmed
+            bowler: MA Wood
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.6:
+            batsman: Sarfraz Ahmed
+            bowler: MA Wood
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.1:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.2:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.3:
+            batsman: Imad Wasim
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.4:
+            batsman: Imad Wasim
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.5:
+            batsman: Imad Wasim
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.6:
+            batsman: Imad Wasim
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.1:
+            batsman: Sarfraz Ahmed
+            bowler: MA Wood
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.2:
+            batsman: Sarfraz Ahmed
+            bowler: MA Wood
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.3:
+            batsman: Imad Wasim
+            bowler: MA Wood
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.4:
+            batsman: Imad Wasim
+            bowler: MA Wood
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.5:
+            batsman: Imad Wasim
+            bowler: MA Wood
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.6:
+            batsman: Imad Wasim
+            bowler: MA Wood
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.1:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.2:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.3:
+            batsman: Imad Wasim
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.4:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.5:
+            batsman: Imad Wasim
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.6:
+            batsman: Imad Wasim
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.1:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.2:
+            batsman: Imad Wasim
+            bowler: LE Plunkett
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.3:
+            batsman: Imad Wasim
+            bowler: LE Plunkett
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.4:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.5:
+            batsman: Imad Wasim
+            bowler: LE Plunkett
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.6:
+            batsman: Imad Wasim
+            bowler: LE Plunkett
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.1:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Imad Wasim
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 31.2:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.3:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.4:
+            batsman: Imad Wasim
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.5:
+            batsman: Imad Wasim
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.6:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.1:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.2:
+            batsman: Imad Wasim
+            bowler: LE Plunkett
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.3:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.4:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.5:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.6:
+            batsman: Imad Wasim
+            bowler: LE Plunkett
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.1:
+            batsman: Imad Wasim
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.2:
+            batsman: Imad Wasim
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.3:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.4:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Imad Wasim
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 33.5:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.6:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.1:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.2:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.3:
+            batsman: Imad Wasim
+            bowler: CR Woakes
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.4:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Imad Wasim
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 34.5:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.6:
+            batsman: Imad Wasim
+            bowler: CR Woakes
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.1:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.2:
+            batsman: Imad Wasim
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.3:
+            batsman: Imad Wasim
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.4:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Imad Wasim
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 35.5:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.6:
+            batsman: Imad Wasim
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.1:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.2:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.3:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.4:
+            batsman: Imad Wasim
+            bowler: CR Woakes
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.5:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.6:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.1:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.2:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.3:
+            batsman: Imad Wasim
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 37.4:
+            batsman: Imad Wasim
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.5:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.6:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.1:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.2:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.3:
+            batsman: Imad Wasim
+            bowler: CR Woakes
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.4:
+            batsman: Imad Wasim
+            bowler: CR Woakes
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.5:
+            batsman: Sarfraz Ahmed
+            bowler: CR Woakes
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.6:
+            batsman: Imad Wasim
+            bowler: CR Woakes
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 39.1:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.2:
+            batsman: Imad Wasim
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.3:
+            batsman: Imad Wasim
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.4:
+            batsman: Sarfraz Ahmed
+            bowler: MM Ali
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.5:
+            batsman: Imad Wasim
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 39.6:
+            batsman: Imad Wasim
+            bowler: MM Ali
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 40.1:
+            batsman: Imad Wasim
+            bowler: AU Rashid
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.2:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.3:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.4:
+            batsman: Imad Wasim
+            bowler: AU Rashid
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.5:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.6:
+            batsman: Imad Wasim
+            bowler: AU Rashid
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.1:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Imad Wasim
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 41.2:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.3:
+            batsman: Imad Wasim
+            bowler: LE Plunkett
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.4:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.5:
+            batsman: Sarfraz Ahmed
+            bowler: LE Plunkett
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.6:
+            batsman: Imad Wasim
+            bowler: LE Plunkett
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.1:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.2:
+            batsman: Imad Wasim
+            bowler: AU Rashid
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.3:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.4:
+            batsman: Imad Wasim
+            bowler: AU Rashid
+            non_striker: Sarfraz Ahmed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.5:
+            batsman: Sarfraz Ahmed
+            bowler: AU Rashid
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - AD Hales
+              kind: caught
+              player_out: Sarfraz Ahmed
+        - 42.6:
+            batsman: Hasan Ali
+            bowler: AU Rashid
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.1:
+            batsman: Imad Wasim
+            bowler: LE Plunkett
+            non_striker: Hasan Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.2:
+            batsman: Imad Wasim
+            bowler: LE Plunkett
+            non_striker: Hasan Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.3:
+            batsman: Imad Wasim
+            bowler: LE Plunkett
+            non_striker: Hasan Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.4:
+            batsman: Imad Wasim
+            bowler: LE Plunkett
+            non_striker: Hasan Ali
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.5:
+            batsman: Hasan Ali
+            bowler: LE Plunkett
+            extras:
+              legbyes: 1
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 43.6:
+            batsman: Imad Wasim
+            bowler: LE Plunkett
+            non_striker: Hasan Ali
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.1:
+            batsman: Imad Wasim
+            bowler: AU Rashid
+            non_striker: Hasan Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.2:
+            batsman: Imad Wasim
+            bowler: AU Rashid
+            non_striker: Hasan Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.3:
+            batsman: Imad Wasim
+            bowler: AU Rashid
+            non_striker: Hasan Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.4:
+            batsman: Imad Wasim
+            bowler: AU Rashid
+            non_striker: Hasan Ali
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 44.5:
+            batsman: Imad Wasim
+            bowler: AU Rashid
+            non_striker: Hasan Ali
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.6:
+            batsman: Hasan Ali
+            bowler: AU Rashid
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.1:
+            batsman: Imad Wasim
+            bowler: LE Plunkett
+            non_striker: Hasan Ali
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 45.2:
+            batsman: Imad Wasim
+            bowler: LE Plunkett
+            non_striker: Hasan Ali
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 45.3:
+            batsman: Imad Wasim
+            bowler: LE Plunkett
+            non_striker: Hasan Ali
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 45.4:
+            batsman: Imad Wasim
+            bowler: LE Plunkett
+            non_striker: Hasan Ali
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.5:
+            batsman: Hasan Ali
+            bowler: LE Plunkett
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.6:
+            batsman: Hasan Ali
+            bowler: LE Plunkett
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - JE Root
+              kind: caught
+              player_out: Hasan Ali
+        - 46.1:
+            batsman: Wahab Riaz
+            bowler: MA Wood
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.2:
+            batsman: Imad Wasim
+            bowler: MA Wood
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.3:
+            batsman: Imad Wasim
+            bowler: MA Wood
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 46.4:
+            batsman: Imad Wasim
+            bowler: MA Wood
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.5:
+            batsman: Wahab Riaz
+            bowler: MA Wood
+            extras:
+              legbyes: 1
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 46.6:
+            batsman: Imad Wasim
+            bowler: MA Wood
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 47.1:
+            batsman: Imad Wasim
+            bowler: CR Woakes
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.2:
+            batsman: Imad Wasim
+            bowler: CR Woakes
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 47.3:
+            batsman: Wahab Riaz
+            bowler: CR Woakes
+            non_striker: Imad Wasim
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 47.4:
+            batsman: Wahab Riaz
+            bowler: CR Woakes
+            non_striker: Imad Wasim
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 47.5:
+            batsman: Imad Wasim
+            bowler: CR Woakes
+            extras:
+              legbyes: 1
+            non_striker: Wahab Riaz
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 47.6:
+            batsman: Wahab Riaz
+            bowler: CR Woakes
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - LE Plunkett
+              kind: caught
+              player_out: Wahab Riaz
+        - 48.1:
+            batsman: Imad Wasim
+            bowler: MA Wood
+            non_striker: Yasir Shah
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 48.2:
+            batsman: Imad Wasim
+            bowler: MA Wood
+            non_striker: Yasir Shah
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.3:
+            batsman: Yasir Shah
+            bowler: MA Wood
+            extras:
+              wides: 1
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 48.4:
+            batsman: Yasir Shah
+            bowler: MA Wood
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - JJ Roy
+              kind: caught
+              player_out: Yasir Shah
+        - 48.5:
+            batsman: Imad Wasim
+            bowler: MA Wood
+            non_striker: Mohammad Amir
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 48.6:
+            batsman: Imad Wasim
+            bowler: MA Wood
+            non_striker: Mohammad Amir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.7:
+            batsman: Mohammad Amir
+            bowler: MA Wood
+            non_striker: Imad Wasim
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 49.1:
+            batsman: Imad Wasim
+            bowler: CR Woakes
+            non_striker: Mohammad Amir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 49.2:
+            batsman: Mohammad Amir
+            bowler: CR Woakes
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 49.3:
+            batsman: Mohammad Amir
+            bowler: CR Woakes
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 49.4:
+            batsman: Mohammad Amir
+            bowler: CR Woakes
+            non_striker: Imad Wasim
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 49.5:
+            batsman: Mohammad Amir
+            bowler: CR Woakes
+            extras:
+              wides: 1
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 49.6:
+            batsman: Mohammad Amir
+            bowler: CR Woakes
+            non_striker: Imad Wasim
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - CR Woakes
+              kind: run out
+              player_out: Mohammad Amir
+  - 2nd innings:
+      team: England
+      deliveries:
+        - 0.1:
+            batsman: JJ Roy
+            bowler: Mohammad Amir
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: JJ Roy
+            bowler: Mohammad Amir
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: JJ Roy
+        - 0.3:
+            batsman: JE Root
+            bowler: Mohammad Amir
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: JE Root
+            bowler: Mohammad Amir
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: JE Root
+            bowler: Mohammad Amir
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.6:
+            batsman: AD Hales
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 1.1:
+            batsman: JE Root
+            bowler: Hasan Ali
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: JE Root
+            bowler: Hasan Ali
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: JE Root
+            bowler: Hasan Ali
+            non_striker: AD Hales
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.4:
+            batsman: JE Root
+            bowler: Hasan Ali
+            non_striker: AD Hales
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.5:
+            batsman: JE Root
+            bowler: Hasan Ali
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: JE Root
+            bowler: Hasan Ali
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: AD Hales
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.2:
+            batsman: JE Root
+            bowler: Mohammad Amir
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: JE Root
+            bowler: Mohammad Amir
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: JE Root
+            bowler: Mohammad Amir
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: JE Root
+            bowler: Mohammad Amir
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.6:
+            batsman: AD Hales
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: JE Root
+            bowler: Hasan Ali
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: JE Root
+            bowler: Hasan Ali
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: JE Root
+            bowler: Hasan Ali
+            non_striker: AD Hales
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.4:
+            batsman: JE Root
+            bowler: Hasan Ali
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.5:
+            batsman: JE Root
+            bowler: Hasan Ali
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.6:
+            batsman: AD Hales
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: JE Root
+            bowler: Mohammad Amir
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: JE Root
+            bowler: Mohammad Amir
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.3:
+            batsman: AD Hales
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: AD Hales
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: AD Hales
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.6:
+            batsman: AD Hales
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: JE Root
+            bowler: Hasan Ali
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.2:
+            batsman: AD Hales
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: AD Hales
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: AD Hales
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: AD Hales
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: AD Hales
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: JE Root
+            bowler: Mohammad Amir
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: JE Root
+            bowler: Mohammad Amir
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: JE Root
+            bowler: Mohammad Amir
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.4:
+            batsman: AD Hales
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.5:
+            batsman: AD Hales
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: AD Hales
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: AD Hales
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: AD Hales
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: AD Hales
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: AD Hales
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: AD Hales
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: JE Root
+            bowler: Hasan Ali
+            non_striker: AD Hales
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.1:
+            batsman: AD Hales
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.2:
+            batsman: JE Root
+            bowler: Imad Wasim
+            non_striker: AD Hales
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: JE Root
+            bowler: Imad Wasim
+            non_striker: AD Hales
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.4:
+            batsman: AD Hales
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: AD Hales
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: AD Hales
+        - 8.6:
+            batsman: EJG Morgan
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: JE Root
+            bowler: Hasan Ali
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.2:
+            batsman: EJG Morgan
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: EJG Morgan
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 9.4:
+            batsman: EJG Morgan
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.5:
+            batsman: EJG Morgan
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.6:
+            batsman: EJG Morgan
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.1:
+            batsman: EJG Morgan
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.2:
+            batsman: EJG Morgan
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.3:
+            batsman: JE Root
+            bowler: Imad Wasim
+            non_striker: EJG Morgan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: JE Root
+            bowler: Imad Wasim
+            non_striker: EJG Morgan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: JE Root
+            bowler: Imad Wasim
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.6:
+            batsman: EJG Morgan
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.1:
+            batsman: JE Root
+            bowler: Wahab Riaz
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: EJG Morgan
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.3:
+            batsman: JE Root
+            bowler: Wahab Riaz
+            non_striker: EJG Morgan
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 11.4:
+            batsman: JE Root
+            bowler: Wahab Riaz
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.5:
+            batsman: EJG Morgan
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: EJG Morgan
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.1:
+            batsman: EJG Morgan
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.2:
+            batsman: EJG Morgan
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.3:
+            batsman: JE Root
+            bowler: Imad Wasim
+            non_striker: EJG Morgan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.4:
+            batsman: JE Root
+            bowler: Imad Wasim
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: EJG Morgan
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.6:
+            batsman: EJG Morgan
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.1:
+            batsman: JE Root
+            bowler: Wahab Riaz
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.2:
+            batsman: EJG Morgan
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 13.3:
+            batsman: EJG Morgan
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.4:
+            batsman: EJG Morgan
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.5:
+            batsman: EJG Morgan
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: EJG Morgan
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: JE Root
+            bowler: Imad Wasim
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.2:
+            batsman: EJG Morgan
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: EJG Morgan
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 14.4:
+            batsman: EJG Morgan
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.5:
+            batsman: EJG Morgan
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.6:
+            batsman: EJG Morgan
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: EJG Morgan
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.2:
+            batsman: EJG Morgan
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.3:
+            batsman: EJG Morgan
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.4:
+            batsman: EJG Morgan
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.5:
+            batsman: JE Root
+            bowler: Wahab Riaz
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.6:
+            batsman: EJG Morgan
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.1:
+            batsman: JE Root
+            bowler: Yasir Shah
+            non_striker: EJG Morgan
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 16.2:
+            batsman: EJG Morgan
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.3:
+            batsman: JE Root
+            bowler: Yasir Shah
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.4:
+            batsman: EJG Morgan
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.5:
+            batsman: EJG Morgan
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.6:
+            batsman: EJG Morgan
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.1:
+            batsman: JE Root
+            bowler: Wahab Riaz
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.2:
+            batsman: EJG Morgan
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.3:
+            batsman: EJG Morgan
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.4:
+            batsman: EJG Morgan
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.5:
+            batsman: JE Root
+            bowler: Wahab Riaz
+            non_striker: EJG Morgan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.6:
+            batsman: JE Root
+            bowler: Wahab Riaz
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.1:
+            batsman: JE Root
+            bowler: Yasir Shah
+            non_striker: EJG Morgan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.2:
+            batsman: JE Root
+            bowler: Yasir Shah
+            non_striker: EJG Morgan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.3:
+            batsman: JE Root
+            bowler: Yasir Shah
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.4:
+            batsman: EJG Morgan
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.5:
+            batsman: EJG Morgan
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.6:
+            batsman: EJG Morgan
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.1:
+            batsman: JE Root
+            bowler: Shoaib Malik
+            non_striker: EJG Morgan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.2:
+            batsman: JE Root
+            bowler: Shoaib Malik
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.3:
+            batsman: EJG Morgan
+            bowler: Shoaib Malik
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.4:
+            batsman: EJG Morgan
+            bowler: Shoaib Malik
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.5:
+            batsman: EJG Morgan
+            bowler: Shoaib Malik
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.6:
+            batsman: EJG Morgan
+            bowler: Shoaib Malik
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.1:
+            batsman: JE Root
+            bowler: Yasir Shah
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.2:
+            batsman: EJG Morgan
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.3:
+            batsman: JE Root
+            bowler: Yasir Shah
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.4:
+            batsman: EJG Morgan
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.5:
+            batsman: JE Root
+            bowler: Yasir Shah
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.6:
+            batsman: EJG Morgan
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.1:
+            batsman: JE Root
+            bowler: Shoaib Malik
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.2:
+            batsman: EJG Morgan
+            bowler: Shoaib Malik
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.3:
+            batsman: JE Root
+            bowler: Shoaib Malik
+            non_striker: EJG Morgan
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 21.4:
+            batsman: JE Root
+            bowler: Shoaib Malik
+            non_striker: EJG Morgan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.5:
+            batsman: JE Root
+            bowler: Shoaib Malik
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.6:
+            batsman: EJG Morgan
+            bowler: Shoaib Malik
+            non_striker: JE Root
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 22.1:
+            batsman: JE Root
+            bowler: Yasir Shah
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.2:
+            batsman: EJG Morgan
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.3:
+            batsman: JE Root
+            bowler: Yasir Shah
+            extras:
+              legbyes: 1
+            non_striker: EJG Morgan
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 22.4:
+            batsman: EJG Morgan
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.5:
+            batsman: JE Root
+            bowler: Yasir Shah
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.6:
+            batsman: EJG Morgan
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 23.1:
+            batsman: JE Root
+            bowler: Mohammad Amir
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.2:
+            batsman: EJG Morgan
+            bowler: Mohammad Amir
+            extras:
+              legbyes: 1
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 23.3:
+            batsman: JE Root
+            bowler: Mohammad Amir
+            non_striker: EJG Morgan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.4:
+            batsman: JE Root
+            bowler: Mohammad Amir
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.5:
+            batsman: EJG Morgan
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.6:
+            batsman: EJG Morgan
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.1:
+            batsman: EJG Morgan
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.2:
+            batsman: JE Root
+            bowler: Yasir Shah
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.3:
+            batsman: EJG Morgan
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.4:
+            batsman: EJG Morgan
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 24.5:
+            batsman: EJG Morgan
+            bowler: Yasir Shah
+            extras:
+              legbyes: 1
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 24.6:
+            batsman: JE Root
+            bowler: Yasir Shah
+            non_striker: EJG Morgan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.1:
+            batsman: EJG Morgan
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.2:
+            batsman: EJG Morgan
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.3:
+            batsman: JE Root
+            bowler: Mohammad Amir
+            non_striker: EJG Morgan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.4:
+            batsman: JE Root
+            bowler: Mohammad Amir
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.5:
+            batsman: EJG Morgan
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 25.6:
+            batsman: EJG Morgan
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 26.1:
+            batsman: JE Root
+            bowler: Yasir Shah
+            non_striker: EJG Morgan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.2:
+            batsman: JE Root
+            bowler: Yasir Shah
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.3:
+            batsman: EJG Morgan
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 26.4:
+            batsman: EJG Morgan
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.5:
+            batsman: EJG Morgan
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.6:
+            batsman: EJG Morgan
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.1:
+            batsman: EJG Morgan
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.2:
+            batsman: EJG Morgan
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.3:
+            batsman: EJG Morgan
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.4:
+            batsman: EJG Morgan
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.5:
+            batsman: EJG Morgan
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.6:
+            batsman: EJG Morgan
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.1:
+            batsman: JE Root
+            bowler: Imad Wasim
+            non_striker: EJG Morgan
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 28.2:
+            batsman: JE Root
+            bowler: Imad Wasim
+            non_striker: EJG Morgan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.3:
+            batsman: JE Root
+            bowler: Imad Wasim
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.4:
+            batsman: EJG Morgan
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 28.5:
+            batsman: EJG Morgan
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 28.6:
+            batsman: EJG Morgan
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.1:
+            batsman: EJG Morgan
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.2:
+            batsman: EJG Morgan
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.3:
+            batsman: JE Root
+            bowler: Wahab Riaz
+            non_striker: EJG Morgan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.4:
+            batsman: JE Root
+            bowler: Wahab Riaz
+            non_striker: EJG Morgan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.5:
+            batsman: JE Root
+            bowler: Wahab Riaz
+            non_striker: EJG Morgan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.6:
+            batsman: JE Root
+            bowler: Wahab Riaz
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.1:
+            batsman: JE Root
+            bowler: Imad Wasim
+            non_striker: EJG Morgan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.2:
+            batsman: EJG Morgan
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: EJG Morgan
+        - 30.3:
+            batsman: BA Stokes
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.4:
+            batsman: BA Stokes
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.5:
+            batsman: JE Root
+            bowler: Imad Wasim
+            non_striker: BA Stokes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.6:
+            batsman: JE Root
+            bowler: Imad Wasim
+            non_striker: BA Stokes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.1:
+            batsman: BA Stokes
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.2:
+            batsman: BA Stokes
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.3:
+            batsman: BA Stokes
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.4:
+            batsman: JE Root
+            bowler: Wahab Riaz
+            non_striker: BA Stokes
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 31.5:
+            batsman: BA Stokes
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.6:
+            batsman: BA Stokes
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.1:
+            batsman: BA Stokes
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.2:
+            batsman: BA Stokes
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 32.3:
+            batsman: BA Stokes
+            bowler: Imad Wasim
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.4:
+            batsman: JE Root
+            bowler: Imad Wasim
+            non_striker: BA Stokes
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 32.5:
+            batsman: JE Root
+            bowler: Imad Wasim
+            non_striker: BA Stokes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.6:
+            batsman: JE Root
+            bowler: Imad Wasim
+            non_striker: BA Stokes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.1:
+            batsman: JE Root
+            bowler: Wahab Riaz
+            non_striker: BA Stokes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.2:
+            batsman: JE Root
+            bowler: Wahab Riaz
+            non_striker: BA Stokes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.3:
+            batsman: BA Stokes
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.4:
+            batsman: JE Root
+            bowler: Wahab Riaz
+            non_striker: BA Stokes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.5:
+            batsman: BA Stokes
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 33.6:
+            batsman: BA Stokes
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 34.1:
+            batsman: JE Root
+            bowler: Yasir Shah
+            non_striker: BA Stokes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.2:
+            batsman: BA Stokes
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.3:
+            batsman: BA Stokes
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.4:
+            batsman: JE Root
+            bowler: Yasir Shah
+            non_striker: BA Stokes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.5:
+            batsman: JE Root
+            bowler: Yasir Shah
+            non_striker: BA Stokes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.6:
+            batsman: BA Stokes
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.1:
+            batsman: BA Stokes
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 35.2:
+            batsman: BA Stokes
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.3:
+            batsman: BA Stokes
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.4:
+            batsman: BA Stokes
+            bowler: Hasan Ali
+            extras:
+              noballs: 1
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 35.5:
+            batsman: BA Stokes
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.6:
+            batsman: BA Stokes
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 35.7:
+            batsman: BA Stokes
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.1:
+            batsman: BA Stokes
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.2:
+            batsman: JE Root
+            bowler: Yasir Shah
+            non_striker: BA Stokes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.3:
+            batsman: BA Stokes
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 36.4:
+            batsman: BA Stokes
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.5:
+            batsman: JE Root
+            bowler: Yasir Shah
+            non_striker: BA Stokes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.6:
+            batsman: BA Stokes
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.1:
+            batsman: JE Root
+            bowler: Hasan Ali
+            non_striker: BA Stokes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.2:
+            batsman: JE Root
+            bowler: Hasan Ali
+            non_striker: BA Stokes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.3:
+            batsman: BA Stokes
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 37.4:
+            batsman: BA Stokes
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 37.5:
+            batsman: BA Stokes
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: BA Stokes
+        - 37.6:
+            batsman: JC Buttler
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.1:
+            batsman: JC Buttler
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.2:
+            batsman: JE Root
+            bowler: Yasir Shah
+            non_striker: JC Buttler
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.3:
+            batsman: JE Root
+            bowler: Yasir Shah
+            non_striker: JC Buttler
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 38.4:
+            batsman: JE Root
+            bowler: Yasir Shah
+            non_striker: JC Buttler
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.5:
+            batsman: JC Buttler
+            bowler: Yasir Shah
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.6:
+            batsman: JE Root
+            bowler: Yasir Shah
+            non_striker: JC Buttler
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.1:
+            batsman: JE Root
+            bowler: Hasan Ali
+            extras:
+              legbyes: 4
+            non_striker: JC Buttler
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 39.2:
+            batsman: JE Root
+            bowler: Hasan Ali
+            non_striker: JC Buttler
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.3:
+            batsman: JE Root
+            bowler: Hasan Ali
+            non_striker: JC Buttler
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.4:
+            batsman: JC Buttler
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.5:
+            batsman: JC Buttler
+            bowler: Hasan Ali
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.6:
+            batsman: JE Root
+            bowler: Hasan Ali
+            non_striker: JC Buttler
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.1:
+            batsman: JE Root
+            bowler: Wahab Riaz
+            non_striker: JC Buttler
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Yasir Shah
+              kind: run out
+              player_out: JC Buttler
+        - 40.2:
+            batsman: MM Ali
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.3:
+            batsman: MM Ali
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.4:
+            batsman: MM Ali
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 40.5:
+            batsman: MM Ali
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.6:
+            batsman: JE Root
+            bowler: Wahab Riaz
+            non_striker: MM Ali
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.1:
+            batsman: JE Root
+            bowler: Mohammad Amir
+            non_striker: MM Ali
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.2:
+            batsman: MM Ali
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.3:
+            batsman: JE Root
+            bowler: Mohammad Amir
+            non_striker: MM Ali
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.4:
+            batsman: MM Ali
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.5:
+            batsman: MM Ali
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.6:
+            batsman: MM Ali
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 42.1:
+            batsman: JE Root
+            bowler: Wahab Riaz
+            non_striker: MM Ali
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.2:
+            batsman: MM Ali
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.3:
+            batsman: MM Ali
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.4:
+            batsman: MM Ali
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.5:
+            batsman: MM Ali
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.6:
+            batsman: MM Ali
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.1:
+            batsman: JE Root
+            bowler: Mohammad Amir
+            non_striker: MM Ali
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.2:
+            batsman: MM Ali
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 43.3:
+            batsman: MM Ali
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.4:
+            batsman: MM Ali
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.5:
+            batsman: MM Ali
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.6:
+            batsman: MM Ali
+            bowler: Mohammad Amir
+            non_striker: JE Root
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.1:
+            batsman: JE Root
+            bowler: Wahab Riaz
+            non_striker: MM Ali
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.2:
+            batsman: MM Ali
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 44.3:
+            batsman: MM Ali
+            bowler: Wahab Riaz
+            non_striker: JE Root
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.4:
+            batsman: JE Root
+            bowler: Wahab Riaz
+            non_striker: MM Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Shoaib Malik
+              kind: caught
+              player_out: JE Root
+        - 44.5:
+            batsman: MM Ali
+            bowler: Wahab Riaz
+            non_striker: CR Woakes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.6:
+            batsman: CR Woakes
+            bowler: Wahab Riaz
+            non_striker: MM Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.1:
+            batsman: MM Ali
+            bowler: Mohammad Amir
+            extras:
+              legbyes: 1
+            non_striker: CR Woakes
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 45.2:
+            batsman: CR Woakes
+            bowler: Mohammad Amir
+            non_striker: MM Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.3:
+            batsman: CR Woakes
+            bowler: Mohammad Amir
+            non_striker: MM Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.4:
+            batsman: CR Woakes
+            bowler: Mohammad Amir
+            non_striker: MM Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.5:
+            batsman: CR Woakes
+            bowler: Mohammad Amir
+            non_striker: MM Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.6:
+            batsman: CR Woakes
+            bowler: Mohammad Amir
+            non_striker: MM Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.1:
+            batsman: MM Ali
+            bowler: Hasan Ali
+            non_striker: CR Woakes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.2:
+            batsman: CR Woakes
+            bowler: Hasan Ali
+            non_striker: MM Ali
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 46.3:
+            batsman: MM Ali
+            bowler: Hasan Ali
+            non_striker: CR Woakes
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 46.4:
+            batsman: MM Ali
+            bowler: Hasan Ali
+            extras:
+              noballs: 1
+            non_striker: CR Woakes
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 46.5:
+            batsman: MM Ali
+            bowler: Hasan Ali
+            non_striker: CR Woakes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.6:
+            batsman: MM Ali
+            bowler: Hasan Ali
+            non_striker: CR Woakes
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.7:
+            batsman: MM Ali
+            bowler: Hasan Ali
+            non_striker: CR Woakes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 47.1:
+            batsman: MM Ali
+            bowler: Yasir Shah
+            non_striker: CR Woakes
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 47.2:
+            batsman: CR Woakes
+            bowler: Yasir Shah
+            non_striker: MM Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.3:
+            batsman: CR Woakes
+            bowler: Yasir Shah
+            non_striker: MM Ali
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4

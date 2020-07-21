@@ -1,0 +1,5004 @@
+---
+meta:
+  data_version: 0.9
+  created: 2015-03-15
+  revision: 2
+info:
+  city: Wellington
+  dates:
+    - 2015-03-12
+  gender: male
+  match_type: ODI
+  neutral_venue: 1
+  outcome:
+    by:
+      runs: 146
+    winner: South Africa
+  overs: 50
+  player_of_match:
+    - AB de Villiers
+  teams:
+    - South Africa
+    - United Arab Emirates
+  toss:
+    decision: field
+    winner: United Arab Emirates
+  umpires:
+    - SJ Davis
+    - RJ Tucker
+  venue: Westpac Stadium
+innings:
+  - 1st innings:
+      team: South Africa
+      deliveries:
+        - 0.1:
+            batsman: HM Amla
+            bowler: Mohammad Naveed
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: HM Amla
+            bowler: Mohammad Naveed
+            non_striker: Q de Kock
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.3:
+            batsman: HM Amla
+            bowler: Mohammad Naveed
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: HM Amla
+            bowler: Mohammad Naveed
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.5:
+            batsman: HM Amla
+            bowler: Mohammad Naveed
+            non_striker: Q de Kock
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.6:
+            batsman: HM Amla
+            bowler: Mohammad Naveed
+            extras:
+              noballs: 1
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.7:
+            batsman: HM Amla
+            bowler: Mohammad Naveed
+            extras:
+              noballs: 1
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 0.8:
+            batsman: HM Amla
+            bowler: Mohammad Naveed
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: Q de Kock
+            bowler: Kamran Shazad
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.2:
+            batsman: HM Amla
+            bowler: Kamran Shazad
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: HM Amla
+            bowler: Kamran Shazad
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: HM Amla
+            bowler: Kamran Shazad
+            non_striker: Q de Kock
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.5:
+            batsman: HM Amla
+            bowler: Kamran Shazad
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: HM Amla
+            bowler: Kamran Shazad
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: Q de Kock
+            bowler: Mohammad Naveed
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: Q de Kock
+            bowler: Mohammad Naveed
+            extras:
+              noballs: 1
+            non_striker: HM Amla
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.3:
+            batsman: Q de Kock
+            bowler: Mohammad Naveed
+            non_striker: HM Amla
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.4:
+            batsman: HM Amla
+            bowler: Mohammad Naveed
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: HM Amla
+            bowler: Mohammad Naveed
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: HM Amla
+            bowler: Mohammad Naveed
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Amjad Ali
+              kind: caught
+              player_out: HM Amla
+        - 2.7:
+            batsman: Q de Kock
+            bowler: Mohammad Naveed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: RR Rossouw
+            bowler: Kamran Shazad
+            non_striker: Q de Kock
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.2:
+            batsman: Q de Kock
+            bowler: Kamran Shazad
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: Q de Kock
+            bowler: Kamran Shazad
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.4:
+            batsman: Q de Kock
+            bowler: Kamran Shazad
+            non_striker: RR Rossouw
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.5:
+            batsman: RR Rossouw
+            bowler: Kamran Shazad
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: RR Rossouw
+            bowler: Kamran Shazad
+            non_striker: Q de Kock
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.1:
+            batsman: Q de Kock
+            bowler: Mohammad Naveed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: Q de Kock
+            bowler: Mohammad Naveed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 4.3:
+            batsman: Q de Kock
+            bowler: Mohammad Naveed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.4:
+            batsman: RR Rossouw
+            bowler: Mohammad Naveed
+            non_striker: Q de Kock
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.5:
+            batsman: RR Rossouw
+            bowler: Mohammad Naveed
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: RR Rossouw
+            bowler: Mohammad Naveed
+            non_striker: Q de Kock
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.1:
+            batsman: RR Rossouw
+            bowler: Kamran Shazad
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.2:
+            batsman: RR Rossouw
+            bowler: Kamran Shazad
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.3:
+            batsman: RR Rossouw
+            bowler: Kamran Shazad
+            non_striker: Q de Kock
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.4:
+            batsman: RR Rossouw
+            bowler: Kamran Shazad
+            non_striker: Q de Kock
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.5:
+            batsman: RR Rossouw
+            bowler: Kamran Shazad
+            non_striker: Q de Kock
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.6:
+            batsman: RR Rossouw
+            bowler: Kamran Shazad
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: Q de Kock
+            bowler: Mohammad Naveed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.2:
+            batsman: Q de Kock
+            bowler: Mohammad Naveed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: Q de Kock
+            bowler: Mohammad Naveed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.4:
+            batsman: Q de Kock
+            bowler: Mohammad Naveed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.5:
+            batsman: RR Rossouw
+            bowler: Mohammad Naveed
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: RR Rossouw
+            bowler: Mohammad Naveed
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.1:
+            batsman: Q de Kock
+            bowler: Kamran Shazad
+            non_striker: RR Rossouw
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: RR Rossouw
+            bowler: Kamran Shazad
+            non_striker: Q de Kock
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.3:
+            batsman: RR Rossouw
+            bowler: Kamran Shazad
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: RR Rossouw
+            bowler: Kamran Shazad
+            non_striker: Q de Kock
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 7.5:
+            batsman: RR Rossouw
+            bowler: Kamran Shazad
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: RR Rossouw
+            bowler: Kamran Shazad
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.1:
+            batsman: Q de Kock
+            bowler: Mohammad Naveed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: Q de Kock
+            bowler: Mohammad Naveed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: Q de Kock
+            bowler: Mohammad Naveed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: Q de Kock
+            bowler: Mohammad Naveed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: Q de Kock
+            bowler: Mohammad Naveed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.6:
+            batsman: RR Rossouw
+            bowler: Mohammad Naveed
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: Q de Kock
+            bowler: Kamran Shazad
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.2:
+            batsman: Q de Kock
+            bowler: Kamran Shazad
+            non_striker: RR Rossouw
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.3:
+            batsman: Q de Kock
+            bowler: Kamran Shazad
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: Q de Kock
+            bowler: Kamran Shazad
+            extras:
+              noballs: 1
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 9.5:
+            batsman: Q de Kock
+            bowler: Kamran Shazad
+            non_striker: RR Rossouw
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.6:
+            batsman: Q de Kock
+            bowler: Kamran Shazad
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.7:
+            batsman: Q de Kock
+            bowler: Kamran Shazad
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: RR Rossouw
+            bowler: Mohammad Naveed
+            non_striker: Q de Kock
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: Q de Kock
+            bowler: Mohammad Naveed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: Q de Kock
+            bowler: Mohammad Naveed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 10.4:
+            batsman: Q de Kock
+            bowler: Mohammad Naveed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: Q de Kock
+            bowler: Mohammad Naveed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.6:
+            batsman: Q de Kock
+            bowler: Mohammad Naveed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: Q de Kock
+            bowler: Amjad Javed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: Q de Kock
+            bowler: Amjad Javed
+            extras:
+              wides: 1
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 11.3:
+            batsman: Q de Kock
+            bowler: Amjad Javed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.4:
+            batsman: Q de Kock
+            bowler: Amjad Javed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.5:
+            batsman: RR Rossouw
+            bowler: Amjad Javed
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: RR Rossouw
+            bowler: Amjad Javed
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.7:
+            batsman: RR Rossouw
+            bowler: Amjad Javed
+            extras:
+              legbyes: 1
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 12.1:
+            batsman: RR Rossouw
+            bowler: Mohammad Tauqir
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.2:
+            batsman: RR Rossouw
+            bowler: Mohammad Tauqir
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.3:
+            batsman: RR Rossouw
+            bowler: Mohammad Tauqir
+            extras:
+              wides: 1
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 12.4:
+            batsman: RR Rossouw
+            bowler: Mohammad Tauqir
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.5:
+            batsman: RR Rossouw
+            bowler: Mohammad Tauqir
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.6:
+            batsman: RR Rossouw
+            bowler: Mohammad Tauqir
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.7:
+            batsman: RR Rossouw
+            bowler: Mohammad Tauqir
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.1:
+            batsman: Q de Kock
+            bowler: Amjad Javed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.2:
+            batsman: RR Rossouw
+            bowler: Amjad Javed
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: RR Rossouw
+            bowler: Amjad Javed
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.4:
+            batsman: RR Rossouw
+            bowler: Amjad Javed
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.5:
+            batsman: RR Rossouw
+            bowler: Amjad Javed
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: RR Rossouw
+            bowler: Amjad Javed
+            non_striker: Q de Kock
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.1:
+            batsman: Q de Kock
+            bowler: Mohammad Tauqir
+            extras:
+              byes: 4
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 14.2:
+            batsman: Q de Kock
+            bowler: Mohammad Tauqir
+            non_striker: RR Rossouw
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: RR Rossouw
+            bowler: Mohammad Tauqir
+            non_striker: Q de Kock
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: RR Rossouw
+            bowler: Mohammad Tauqir
+            non_striker: Q de Kock
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.5:
+            batsman: Q de Kock
+            bowler: Mohammad Tauqir
+            non_striker: RR Rossouw
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 14.6:
+            batsman: Q de Kock
+            bowler: Mohammad Tauqir
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.1:
+            batsman: RR Rossouw
+            bowler: Amjad Javed
+            non_striker: Q de Kock
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.2:
+            batsman: Q de Kock
+            bowler: Amjad Javed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.3:
+            batsman: Q de Kock
+            bowler: Amjad Javed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.4:
+            batsman: RR Rossouw
+            bowler: Amjad Javed
+            non_striker: Q de Kock
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.5:
+            batsman: Q de Kock
+            bowler: Amjad Javed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.6:
+            batsman: Q de Kock
+            bowler: Amjad Javed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Saqlain Haider
+              kind: caught
+              player_out: Q de Kock
+        - 16.1:
+            batsman: RR Rossouw
+            bowler: Mohammad Tauqir
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.2:
+            batsman: RR Rossouw
+            bowler: Mohammad Tauqir
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.3:
+            batsman: RR Rossouw
+            bowler: Mohammad Tauqir
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.4:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: RR Rossouw
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.5:
+            batsman: RR Rossouw
+            bowler: Mohammad Tauqir
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.6:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: RR Rossouw
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.1:
+            batsman: RR Rossouw
+            bowler: Amjad Javed
+            non_striker: AB de Villiers
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.2:
+            batsman: RR Rossouw
+            bowler: Amjad Javed
+            extras:
+              wides: 1
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 17.3:
+            batsman: RR Rossouw
+            bowler: Amjad Javed
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.4:
+            batsman: RR Rossouw
+            bowler: Amjad Javed
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.5:
+            batsman: RR Rossouw
+            bowler: Amjad Javed
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.6:
+            batsman: AB de Villiers
+            bowler: Amjad Javed
+            non_striker: RR Rossouw
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.7:
+            batsman: RR Rossouw
+            bowler: Amjad Javed
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.1:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: RR Rossouw
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.2:
+            batsman: RR Rossouw
+            bowler: Mohammad Tauqir
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: caught and bowled
+              player_out: RR Rossouw
+        - 18.3:
+            batsman: DA Miller
+            bowler: Mohammad Tauqir
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: DA Miller
+            bowler: Mohammad Tauqir
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.5:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: DA Miller
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.6:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.1:
+            batsman: DA Miller
+            bowler: Amjad Javed
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.2:
+            batsman: AB de Villiers
+            bowler: Amjad Javed
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.3:
+            batsman: AB de Villiers
+            bowler: Amjad Javed
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.4:
+            batsman: DA Miller
+            bowler: Amjad Javed
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.5:
+            batsman: DA Miller
+            bowler: Amjad Javed
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.6:
+            batsman: DA Miller
+            bowler: Amjad Javed
+            non_striker: AB de Villiers
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 20.1:
+            batsman: DA Miller
+            bowler: Mohammad Tauqir
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.2:
+            batsman: DA Miller
+            bowler: Mohammad Tauqir
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.3:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.4:
+            batsman: DA Miller
+            bowler: Mohammad Tauqir
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.5:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.6:
+            batsman: DA Miller
+            bowler: Mohammad Tauqir
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.1:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 21.2:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.3:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.4:
+            batsman: DA Miller
+            bowler: Fahad Alhashmi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.5:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.6:
+            batsman: DA Miller
+            bowler: Fahad Alhashmi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 22.1:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: DA Miller
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 22.2:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.3:
+            batsman: DA Miller
+            bowler: Mohammad Tauqir
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.4:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.5:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.6:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.1:
+            batsman: DA Miller
+            bowler: Fahad Alhashmi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.2:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.3:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 23.4:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.5:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.6:
+            batsman: DA Miller
+            bowler: Fahad Alhashmi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.1:
+            batsman: DA Miller
+            bowler: Mohammad Tauqir
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.2:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: DA Miller
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 24.3:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.4:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.5:
+            batsman: DA Miller
+            bowler: Mohammad Tauqir
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.6:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.1:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.2:
+            batsman: DA Miller
+            bowler: Fahad Alhashmi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.3:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.4:
+            batsman: DA Miller
+            bowler: Fahad Alhashmi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 25.5:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.6:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.1:
+            batsman: DA Miller
+            bowler: Mohammad Tauqir
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.2:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.3:
+            batsman: DA Miller
+            bowler: Mohammad Tauqir
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.4:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.5:
+            batsman: DA Miller
+            bowler: Mohammad Tauqir
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.6:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.1:
+            batsman: DA Miller
+            bowler: Fahad Alhashmi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 27.2:
+            batsman: DA Miller
+            bowler: Fahad Alhashmi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.3:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.4:
+            batsman: DA Miller
+            bowler: Fahad Alhashmi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 27.5:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.6:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.1:
+            batsman: DA Miller
+            bowler: Mohammad Tauqir
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.2:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.3:
+            batsman: DA Miller
+            bowler: Mohammad Tauqir
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.4:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.5:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.6:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.1:
+            batsman: DA Miller
+            bowler: Fahad Alhashmi
+            extras:
+              wides: 1
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 29.2:
+            batsman: DA Miller
+            bowler: Fahad Alhashmi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.3:
+            batsman: DA Miller
+            bowler: Fahad Alhashmi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.4:
+            batsman: DA Miller
+            bowler: Fahad Alhashmi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.5:
+            batsman: DA Miller
+            bowler: Fahad Alhashmi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.6:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.7:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 30.1:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.2:
+            batsman: DA Miller
+            bowler: Mohammad Tauqir
+            non_striker: AB de Villiers
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 30.3:
+            batsman: DA Miller
+            bowler: Mohammad Tauqir
+            non_striker: AB de Villiers
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 30.4:
+            batsman: DA Miller
+            bowler: Mohammad Tauqir
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.5:
+            batsman: DA Miller
+            bowler: Mohammad Tauqir
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.6:
+            batsman: AB de Villiers
+            bowler: Mohammad Tauqir
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.1:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 31.2:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.3:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.4:
+            batsman: DA Miller
+            bowler: Fahad Alhashmi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.5:
+            batsman: DA Miller
+            bowler: Fahad Alhashmi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.6:
+            batsman: DA Miller
+            bowler: Fahad Alhashmi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 32.1:
+            batsman: AB de Villiers
+            bowler: Khurram Khan
+            non_striker: DA Miller
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 32.2:
+            batsman: AB de Villiers
+            bowler: Khurram Khan
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.3:
+            batsman: DA Miller
+            bowler: Khurram Khan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.4:
+            batsman: AB de Villiers
+            bowler: Khurram Khan
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.5:
+            batsman: DA Miller
+            bowler: Khurram Khan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.6:
+            batsman: AB de Villiers
+            bowler: Khurram Khan
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.1:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.2:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 33.3:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.4:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.5:
+            batsman: DA Miller
+            bowler: Fahad Alhashmi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.6:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.1:
+            batsman: AB de Villiers
+            bowler: Khurram Khan
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.2:
+            batsman: DA Miller
+            bowler: Khurram Khan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.3:
+            batsman: AB de Villiers
+            bowler: Khurram Khan
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.4:
+            batsman: DA Miller
+            bowler: Khurram Khan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.5:
+            batsman: AB de Villiers
+            bowler: Khurram Khan
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.6:
+            batsman: DA Miller
+            bowler: Khurram Khan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.1:
+            batsman: DA Miller
+            bowler: Fahad Alhashmi
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.2:
+            batsman: AB de Villiers
+            bowler: Fahad Alhashmi
+            non_striker: DA Miller
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.3:
+            batsman: AB de Villiers
+            bowler: Shaiman Anwar
+            non_striker: DA Miller
+            replacements:
+              role:
+                - in: Shaiman Anwar
+                  reason: injury
+                  role: bowler
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.4:
+            batsman: DA Miller
+            bowler: Shaiman Anwar
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.5:
+            batsman: AB de Villiers
+            bowler: Shaiman Anwar
+            non_striker: DA Miller
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.6:
+            batsman: DA Miller
+            bowler: Shaiman Anwar
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.1:
+            batsman: DA Miller
+            bowler: Mohammad Naveed
+            extras:
+              wides: 1
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 36.2:
+            batsman: DA Miller
+            bowler: Mohammad Naveed
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: DA Miller
+        - 36.3:
+            batsman: JP Duminy
+            bowler: Mohammad Naveed
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.4:
+            batsman: JP Duminy
+            bowler: Mohammad Naveed
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.5:
+            batsman: JP Duminy
+            bowler: Mohammad Naveed
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.6:
+            batsman: AB de Villiers
+            bowler: Mohammad Naveed
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.7:
+            batsman: JP Duminy
+            bowler: Mohammad Naveed
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.1:
+            batsman: AB de Villiers
+            bowler: Amjad Javed
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.2:
+            batsman: JP Duminy
+            bowler: Amjad Javed
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.3:
+            batsman: AB de Villiers
+            bowler: Amjad Javed
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.4:
+            batsman: JP Duminy
+            bowler: Amjad Javed
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.5:
+            batsman: AB de Villiers
+            bowler: Amjad Javed
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.6:
+            batsman: AB de Villiers
+            bowler: Amjad Javed
+            non_striker: JP Duminy
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 38.1:
+            batsman: JP Duminy
+            bowler: Mohammad Naveed
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.2:
+            batsman: JP Duminy
+            bowler: Mohammad Naveed
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.3:
+            batsman: JP Duminy
+            bowler: Mohammad Naveed
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.4:
+            batsman: AB de Villiers
+            bowler: Mohammad Naveed
+            non_striker: JP Duminy
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 38.5:
+            batsman: AB de Villiers
+            bowler: Mohammad Naveed
+            non_striker: JP Duminy
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 38.6:
+            batsman: AB de Villiers
+            bowler: Mohammad Naveed
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.1:
+            batsman: AB de Villiers
+            bowler: Amjad Javed
+            non_striker: JP Duminy
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 39.2:
+            batsman: AB de Villiers
+            bowler: Amjad Javed
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.3:
+            batsman: JP Duminy
+            bowler: Amjad Javed
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.4:
+            batsman: AB de Villiers
+            bowler: Amjad Javed
+            non_striker: JP Duminy
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 39.5:
+            batsman: AB de Villiers
+            bowler: Amjad Javed
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.6:
+            batsman: JP Duminy
+            bowler: Amjad Javed
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.1:
+            batsman: JP Duminy
+            bowler: Kamran Shazad
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.2:
+            batsman: JP Duminy
+            bowler: Kamran Shazad
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.3:
+            batsman: AB de Villiers
+            bowler: Kamran Shazad
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.4:
+            batsman: AB de Villiers
+            bowler: Kamran Shazad
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.5:
+            batsman: JP Duminy
+            bowler: Kamran Shazad
+            non_striker: AB de Villiers
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.6:
+            batsman: JP Duminy
+            bowler: Kamran Shazad
+            non_striker: AB de Villiers
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 41.1:
+            batsman: AB de Villiers
+            bowler: Khurram Khan
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.2:
+            batsman: JP Duminy
+            bowler: Khurram Khan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.3:
+            batsman: AB de Villiers
+            bowler: Khurram Khan
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.4:
+            batsman: JP Duminy
+            bowler: Khurram Khan
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.5:
+            batsman: AB de Villiers
+            bowler: Khurram Khan
+            non_striker: JP Duminy
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 41.6:
+            batsman: AB de Villiers
+            bowler: Khurram Khan
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.1:
+            batsman: JP Duminy
+            bowler: Kamran Shazad
+            non_striker: AB de Villiers
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.2:
+            batsman: AB de Villiers
+            bowler: Kamran Shazad
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Amjad Javed
+              kind: caught
+              player_out: AB de Villiers
+        - 42.3:
+            batsman: F Behardien
+            bowler: Kamran Shazad
+            non_striker: JP Duminy
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 42.4:
+            batsman: JP Duminy
+            bowler: Kamran Shazad
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.5:
+            batsman: F Behardien
+            bowler: Kamran Shazad
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.6:
+            batsman: F Behardien
+            bowler: Kamran Shazad
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.1:
+            batsman: F Behardien
+            bowler: Khurram Khan
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.2:
+            batsman: JP Duminy
+            bowler: Khurram Khan
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.3:
+            batsman: F Behardien
+            bowler: Khurram Khan
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.4:
+            batsman: JP Duminy
+            bowler: Khurram Khan
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.5:
+            batsman: F Behardien
+            bowler: Khurram Khan
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.6:
+            batsman: JP Duminy
+            bowler: Khurram Khan
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.1:
+            batsman: JP Duminy
+            bowler: Kamran Shazad
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.2:
+            batsman: F Behardien
+            bowler: Kamran Shazad
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.3:
+            batsman: JP Duminy
+            bowler: Kamran Shazad
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.4:
+            batsman: F Behardien
+            bowler: Kamran Shazad
+            non_striker: JP Duminy
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 44.5:
+            batsman: F Behardien
+            bowler: Kamran Shazad
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.6:
+            batsman: JP Duminy
+            bowler: Kamran Shazad
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.1:
+            batsman: F Behardien
+            bowler: Amjad Javed
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.2:
+            batsman: F Behardien
+            bowler: Amjad Javed
+            non_striker: JP Duminy
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 45.3:
+            batsman: F Behardien
+            bowler: Amjad Javed
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.4:
+            batsman: JP Duminy
+            bowler: Amjad Javed
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.5:
+            batsman: F Behardien
+            bowler: Amjad Javed
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.6:
+            batsman: JP Duminy
+            bowler: Amjad Javed
+            non_striker: F Behardien
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 46.1:
+            batsman: F Behardien
+            bowler: Mohammad Naveed
+            non_striker: JP Duminy
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.2:
+            batsman: F Behardien
+            bowler: Mohammad Naveed
+            non_striker: JP Duminy
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 46.3:
+            batsman: F Behardien
+            bowler: Mohammad Naveed
+            non_striker: JP Duminy
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 46.4:
+            batsman: F Behardien
+            bowler: Mohammad Naveed
+            non_striker: JP Duminy
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 46.5:
+            batsman: F Behardien
+            bowler: Mohammad Naveed
+            non_striker: JP Duminy
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 46.6:
+            batsman: JP Duminy
+            bowler: Mohammad Naveed
+            non_striker: F Behardien
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: lbw
+              player_out: JP Duminy
+        - 47.1:
+            batsman: F Behardien
+            bowler: Amjad Javed
+            non_striker: VD Philander
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 47.2:
+            batsman: VD Philander
+            bowler: Amjad Javed
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 47.3:
+            batsman: F Behardien
+            bowler: Amjad Javed
+            non_striker: VD Philander
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 47.4:
+            batsman: F Behardien
+            bowler: Amjad Javed
+            non_striker: VD Philander
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 47.5:
+            batsman: VD Philander
+            bowler: Amjad Javed
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 47.6:
+            batsman: F Behardien
+            bowler: Amjad Javed
+            non_striker: VD Philander
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.1:
+            batsman: F Behardien
+            bowler: Mohammad Naveed
+            non_striker: VD Philander
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.2:
+            batsman: VD Philander
+            bowler: Mohammad Naveed
+            non_striker: F Behardien
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 48.3:
+            batsman: VD Philander
+            bowler: Mohammad Naveed
+            non_striker: F Behardien
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 48.4:
+            batsman: VD Philander
+            bowler: Mohammad Naveed
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 48.5:
+            batsman: F Behardien
+            bowler: Mohammad Naveed
+            non_striker: VD Philander
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 48.6:
+            batsman: F Behardien
+            bowler: Mohammad Naveed
+            non_striker: VD Philander
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 49.1:
+            batsman: F Behardien
+            bowler: Amjad Javed
+            non_striker: VD Philander
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 49.2:
+            batsman: VD Philander
+            bowler: Amjad Javed
+            non_striker: F Behardien
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 49.3:
+            batsman: F Behardien
+            bowler: Amjad Javed
+            extras:
+              noballs: 1
+            non_striker: VD Philander
+            runs:
+              batsman: 6
+              extras: 1
+              total: 7
+        - 49.4:
+            batsman: F Behardien
+            bowler: Amjad Javed
+            non_striker: VD Philander
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 49.5:
+            batsman: F Behardien
+            bowler: Amjad Javed
+            non_striker: VD Philander
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 49.6:
+            batsman: F Behardien
+            bowler: Amjad Javed
+            non_striker: VD Philander
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 49.7:
+            batsman: F Behardien
+            bowler: Amjad Javed
+            non_striker: VD Philander
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+  - 2nd innings:
+      team: United Arab Emirates
+      deliveries:
+        - 0.1:
+            batsman: Amjad Ali
+            bowler: DW Steyn
+            non_striker: AR Berenger
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: Amjad Ali
+            bowler: DW Steyn
+            non_striker: AR Berenger
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: Amjad Ali
+            bowler: DW Steyn
+            non_striker: AR Berenger
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.4:
+            batsman: Amjad Ali
+            bowler: DW Steyn
+            non_striker: AR Berenger
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.5:
+            batsman: Amjad Ali
+            bowler: DW Steyn
+            non_striker: AR Berenger
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: Amjad Ali
+            bowler: DW Steyn
+            non_striker: AR Berenger
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: AR Berenger
+            bowler: VD Philander
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: AR Berenger
+            bowler: VD Philander
+            non_striker: Amjad Ali
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.3:
+            batsman: Amjad Ali
+            bowler: VD Philander
+            non_striker: AR Berenger
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.4:
+            batsman: Amjad Ali
+            bowler: VD Philander
+            non_striker: AR Berenger
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: Amjad Ali
+            bowler: VD Philander
+            non_striker: AR Berenger
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: Amjad Ali
+            bowler: VD Philander
+            extras:
+              legbyes: 2
+            non_striker: AR Berenger
+            runs:
+              batsman: 0
+              extras: 2
+              total: 2
+        - 2.1:
+            batsman: AR Berenger
+            bowler: DW Steyn
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: AR Berenger
+            bowler: DW Steyn
+            non_striker: Amjad Ali
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.3:
+            batsman: AR Berenger
+            bowler: DW Steyn
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.4:
+            batsman: AR Berenger
+            bowler: DW Steyn
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: AR Berenger
+            bowler: DW Steyn
+            extras:
+              legbyes: 1
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 2.6:
+            batsman: Amjad Ali
+            bowler: DW Steyn
+            non_striker: AR Berenger
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.1:
+            batsman: AR Berenger
+            bowler: VD Philander
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: AR Berenger
+            bowler: VD Philander
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: AR Berenger
+            bowler: VD Philander
+            extras:
+              legbyes: 1
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 3.4:
+            batsman: Amjad Ali
+            bowler: VD Philander
+            extras:
+              legbyes: 1
+            non_striker: AR Berenger
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 3.5:
+            batsman: AR Berenger
+            bowler: VD Philander
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: AR Berenger
+            bowler: VD Philander
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.1:
+            batsman: Amjad Ali
+            bowler: DW Steyn
+            non_striker: AR Berenger
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 4.2:
+            batsman: Amjad Ali
+            bowler: DW Steyn
+            non_striker: AR Berenger
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: Amjad Ali
+            bowler: DW Steyn
+            non_striker: AR Berenger
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: Amjad Ali
+            bowler: DW Steyn
+            non_striker: AR Berenger
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: Amjad Ali
+            bowler: DW Steyn
+            non_striker: AR Berenger
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.6:
+            batsman: AR Berenger
+            bowler: DW Steyn
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: Amjad Ali
+            bowler: VD Philander
+            non_striker: AR Berenger
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.2:
+            batsman: Amjad Ali
+            bowler: VD Philander
+            non_striker: AR Berenger
+            runs:
+              batsman: 3
+              extras: 0
+              total: 3
+        - 5.3:
+            batsman: AR Berenger
+            bowler: VD Philander
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: AR Berenger
+            bowler: VD Philander
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: AR Berenger
+            bowler: VD Philander
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: AR Berenger
+            bowler: VD Philander
+            extras:
+              noballs: 1
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.7:
+            batsman: AR Berenger
+            bowler: VD Philander
+            extras:
+              wides: 1
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 5.8:
+            batsman: AR Berenger
+            bowler: VD Philander
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.1:
+            batsman: Amjad Ali
+            bowler: M Morkel
+            non_striker: AR Berenger
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: AR Berenger
+            bowler: M Morkel
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.3:
+            batsman: AR Berenger
+            bowler: M Morkel
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.4:
+            batsman: AR Berenger
+            bowler: M Morkel
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - RR Rossouw
+              kind: caught
+              player_out: AR Berenger
+        - 6.5:
+            batsman: Khurram Khan
+            bowler: M Morkel
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.6:
+            batsman: Khurram Khan
+            bowler: M Morkel
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.1:
+            batsman: Amjad Ali
+            bowler: VD Philander
+            non_striker: Khurram Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.2:
+            batsman: Khurram Khan
+            bowler: VD Philander
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: Khurram Khan
+            bowler: VD Philander
+            non_striker: Amjad Ali
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.4:
+            batsman: Amjad Ali
+            bowler: VD Philander
+            non_striker: Khurram Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: Amjad Ali
+            bowler: VD Philander
+            non_striker: Khurram Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.6:
+            batsman: Amjad Ali
+            bowler: VD Philander
+            non_striker: Khurram Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: Amjad Ali
+            bowler: M Morkel
+            non_striker: Khurram Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.2:
+            batsman: Amjad Ali
+            bowler: M Morkel
+            non_striker: Khurram Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.3:
+            batsman: Amjad Ali
+            bowler: M Morkel
+            non_striker: Khurram Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: Amjad Ali
+            bowler: M Morkel
+            non_striker: Khurram Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.5:
+            batsman: Amjad Ali
+            bowler: M Morkel
+            non_striker: Khurram Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.6:
+            batsman: Amjad Ali
+            bowler: M Morkel
+            non_striker: Khurram Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.1:
+            batsman: Khurram Khan
+            bowler: JP Duminy
+            non_striker: Amjad Ali
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.2:
+            batsman: Khurram Khan
+            bowler: JP Duminy
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.3:
+            batsman: Khurram Khan
+            bowler: JP Duminy
+            non_striker: Amjad Ali
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 9.4:
+            batsman: Khurram Khan
+            bowler: JP Duminy
+            non_striker: Amjad Ali
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 9.5:
+            batsman: Khurram Khan
+            bowler: JP Duminy
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.6:
+            batsman: Khurram Khan
+            bowler: JP Duminy
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: Amjad Ali
+            bowler: M Morkel
+            non_striker: Khurram Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: Khurram Khan
+            bowler: M Morkel
+            non_striker: Amjad Ali
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.3:
+            batsman: Amjad Ali
+            bowler: M Morkel
+            non_striker: Khurram Khan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.4:
+            batsman: Khurram Khan
+            bowler: M Morkel
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: Khurram Khan
+            bowler: M Morkel
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.6:
+            batsman: Khurram Khan
+            bowler: M Morkel
+            non_striker: Amjad Ali
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.1:
+            batsman: Amjad Ali
+            bowler: JP Duminy
+            non_striker: Khurram Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: Amjad Ali
+            bowler: JP Duminy
+            non_striker: Khurram Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.3:
+            batsman: Amjad Ali
+            bowler: JP Duminy
+            non_striker: Khurram Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.4:
+            batsman: Amjad Ali
+            bowler: JP Duminy
+            non_striker: Khurram Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - F Behardien
+              kind: caught
+              player_out: Amjad Ali
+        - 11.5:
+            batsman: Shaiman Anwar
+            bowler: JP Duminy
+            non_striker: Khurram Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: Shaiman Anwar
+            bowler: JP Duminy
+            non_striker: Khurram Khan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: Khurram Khan
+            bowler: M Morkel
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.2:
+            batsman: Khurram Khan
+            bowler: M Morkel
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.3:
+            batsman: Khurram Khan
+            bowler: M Morkel
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - Q de Kock
+              kind: caught
+              player_out: Khurram Khan
+        - 12.4:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.5:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.6:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.1:
+            batsman: Shaiman Anwar
+            bowler: JP Duminy
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.2:
+            batsman: SP Patil
+            bowler: JP Duminy
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: SP Patil
+            bowler: JP Duminy
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.4:
+            batsman: SP Patil
+            bowler: JP Duminy
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.5:
+            batsman: SP Patil
+            bowler: JP Duminy
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.6:
+            batsman: Shaiman Anwar
+            bowler: JP Duminy
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.1:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.2:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.3:
+            batsman: Shaiman Anwar
+            bowler: M Morkel
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.4:
+            batsman: Shaiman Anwar
+            bowler: M Morkel
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.5:
+            batsman: Shaiman Anwar
+            bowler: M Morkel
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.6:
+            batsman: Shaiman Anwar
+            bowler: M Morkel
+            non_striker: SP Patil
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 15.1:
+            batsman: SP Patil
+            bowler: F Behardien
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.2:
+            batsman: Shaiman Anwar
+            bowler: F Behardien
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.3:
+            batsman: Shaiman Anwar
+            bowler: F Behardien
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.4:
+            batsman: Shaiman Anwar
+            bowler: F Behardien
+            extras:
+              wides: 1
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 15.5:
+            batsman: Shaiman Anwar
+            bowler: F Behardien
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.6:
+            batsman: Shaiman Anwar
+            bowler: F Behardien
+            extras:
+              wides: 1
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 15.7:
+            batsman: Shaiman Anwar
+            bowler: F Behardien
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.8:
+            batsman: Shaiman Anwar
+            bowler: F Behardien
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.1:
+            batsman: Shaiman Anwar
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.2:
+            batsman: Shaiman Anwar
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.3:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.4:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.5:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.6:
+            batsman: Shaiman Anwar
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.1:
+            batsman: SP Patil
+            bowler: F Behardien
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.2:
+            batsman: SP Patil
+            bowler: F Behardien
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.3:
+            batsman: SP Patil
+            bowler: F Behardien
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.4:
+            batsman: SP Patil
+            bowler: F Behardien
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.5:
+            batsman: SP Patil
+            bowler: F Behardien
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.6:
+            batsman: SP Patil
+            bowler: F Behardien
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.1:
+            batsman: Shaiman Anwar
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.2:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.3:
+            batsman: Shaiman Anwar
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: Shaiman Anwar
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.5:
+            batsman: Shaiman Anwar
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.6:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.1:
+            batsman: Shaiman Anwar
+            bowler: F Behardien
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.2:
+            batsman: SP Patil
+            bowler: F Behardien
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.3:
+            batsman: SP Patil
+            bowler: F Behardien
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.4:
+            batsman: Shaiman Anwar
+            bowler: F Behardien
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.5:
+            batsman: Shaiman Anwar
+            bowler: F Behardien
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.6:
+            batsman: Shaiman Anwar
+            bowler: F Behardien
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.1:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.2:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.3:
+            batsman: Shaiman Anwar
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 20.4:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.5:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 20.6:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 21.1:
+            batsman: Shaiman Anwar
+            bowler: F Behardien
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.2:
+            batsman: Shaiman Anwar
+            bowler: F Behardien
+            non_striker: SP Patil
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 21.3:
+            batsman: Shaiman Anwar
+            bowler: F Behardien
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 21.4:
+            batsman: Shaiman Anwar
+            bowler: F Behardien
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.5:
+            batsman: SP Patil
+            bowler: F Behardien
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 21.6:
+            batsman: Shaiman Anwar
+            bowler: F Behardien
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 22.1:
+            batsman: Shaiman Anwar
+            bowler: DW Steyn
+            non_striker: SP Patil
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 22.2:
+            batsman: Shaiman Anwar
+            bowler: DW Steyn
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.3:
+            batsman: Shaiman Anwar
+            bowler: DW Steyn
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.4:
+            batsman: Shaiman Anwar
+            bowler: DW Steyn
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.5:
+            batsman: Shaiman Anwar
+            bowler: DW Steyn
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 22.6:
+            batsman: Shaiman Anwar
+            bowler: DW Steyn
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.1:
+            batsman: SP Patil
+            bowler: VD Philander
+            extras:
+              legbyes: 1
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 23.2:
+            batsman: Shaiman Anwar
+            bowler: VD Philander
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.3:
+            batsman: Shaiman Anwar
+            bowler: VD Philander
+            non_striker: SP Patil
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 23.4:
+            batsman: Shaiman Anwar
+            bowler: VD Philander
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 23.5:
+            batsman: SP Patil
+            bowler: VD Philander
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 23.6:
+            batsman: SP Patil
+            bowler: VD Philander
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.1:
+            batsman: Shaiman Anwar
+            bowler: DW Steyn
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.2:
+            batsman: Shaiman Anwar
+            bowler: DW Steyn
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.3:
+            batsman: Shaiman Anwar
+            bowler: DW Steyn
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.4:
+            batsman: Shaiman Anwar
+            bowler: DW Steyn
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 24.5:
+            batsman: SP Patil
+            bowler: DW Steyn
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 24.6:
+            batsman: SP Patil
+            bowler: DW Steyn
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.1:
+            batsman: Shaiman Anwar
+            bowler: VD Philander
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.2:
+            batsman: Shaiman Anwar
+            bowler: VD Philander
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.3:
+            batsman: Shaiman Anwar
+            bowler: VD Philander
+            non_striker: SP Patil
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 25.4:
+            batsman: Shaiman Anwar
+            bowler: VD Philander
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 25.5:
+            batsman: Shaiman Anwar
+            bowler: VD Philander
+            non_striker: SP Patil
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 25.6:
+            batsman: Shaiman Anwar
+            bowler: VD Philander
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.1:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.2:
+            batsman: Shaiman Anwar
+            bowler: M Morkel
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.3:
+            batsman: Shaiman Anwar
+            bowler: M Morkel
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 26.4:
+            batsman: Shaiman Anwar
+            bowler: M Morkel
+            extras:
+              byes: 4
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 26.5:
+            batsman: Shaiman Anwar
+            bowler: M Morkel
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 26.6:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.1:
+            batsman: Shaiman Anwar
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.2:
+            batsman: Shaiman Anwar
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 27.3:
+            batsman: Shaiman Anwar
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.4:
+            batsman: Shaiman Anwar
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 27.5:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 27.6:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.1:
+            batsman: Shaiman Anwar
+            bowler: M Morkel
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.2:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.3:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.4:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 28.5:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 28.6:
+            batsman: Shaiman Anwar
+            bowler: M Morkel
+            extras:
+              noballs: 1
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 28.7:
+            batsman: Shaiman Anwar
+            bowler: M Morkel
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.1:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.2:
+            batsman: Shaiman Anwar
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.3:
+            batsman: Shaiman Anwar
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 29.4:
+            batsman: Shaiman Anwar
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.5:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Shaiman Anwar
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 29.6:
+            batsman: Shaiman Anwar
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - RR Rossouw
+              kind: caught
+              player_out: Shaiman Anwar
+        - 30.1:
+            batsman: SP Patil
+            bowler: AB de Villiers
+            non_striker: Saqlain Haider
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 30.2:
+            batsman: Saqlain Haider
+            bowler: AB de Villiers
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.3:
+            batsman: Saqlain Haider
+            bowler: AB de Villiers
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.4:
+            batsman: Saqlain Haider
+            bowler: AB de Villiers
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.5:
+            batsman: Saqlain Haider
+            bowler: AB de Villiers
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 30.6:
+            batsman: Saqlain Haider
+            bowler: AB de Villiers
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.1:
+            batsman: Saqlain Haider
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.2:
+            batsman: Saqlain Haider
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.3:
+            batsman: Saqlain Haider
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 31.4:
+            batsman: Saqlain Haider
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 31.5:
+            batsman: Saqlain Haider
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 31.6:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Saqlain Haider
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.1:
+            batsman: Saqlain Haider
+            bowler: AB de Villiers
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.2:
+            batsman: SP Patil
+            bowler: AB de Villiers
+            non_striker: Saqlain Haider
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 32.3:
+            batsman: SP Patil
+            bowler: AB de Villiers
+            extras:
+              wides: 1
+            non_striker: Saqlain Haider
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 32.4:
+            batsman: SP Patil
+            bowler: AB de Villiers
+            non_striker: Saqlain Haider
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.5:
+            batsman: Saqlain Haider
+            bowler: AB de Villiers
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - RR Rossouw
+              kind: caught
+              player_out: Saqlain Haider
+        - 32.6:
+            batsman: SP Patil
+            bowler: AB de Villiers
+            non_striker: Amjad Javed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 32.7:
+            batsman: Amjad Javed
+            bowler: AB de Villiers
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.1:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Amjad Javed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.2:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Amjad Javed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.3:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Amjad Javed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.4:
+            batsman: Amjad Javed
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 33.5:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Amjad Javed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 33.6:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Amjad Javed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.1:
+            batsman: Amjad Javed
+            bowler: AB de Villiers
+            non_striker: SP Patil
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 34.2:
+            batsman: Amjad Javed
+            bowler: AB de Villiers
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - WD Parnell (sub)
+              kind: caught
+              player_out: Amjad Javed
+        - 34.3:
+            batsman: SP Patil
+            bowler: AB de Villiers
+            non_striker: Mohammad Naveed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 34.4:
+            batsman: SP Patil
+            bowler: AB de Villiers
+            non_striker: Mohammad Naveed
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 34.5:
+            batsman: SP Patil
+            bowler: AB de Villiers
+            non_striker: Mohammad Naveed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 34.6:
+            batsman: Mohammad Naveed
+            bowler: AB de Villiers
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.1:
+            batsman: SP Patil
+            bowler: VD Philander
+            non_striker: Mohammad Naveed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 35.2:
+            batsman: Mohammad Naveed
+            bowler: VD Philander
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.3:
+            batsman: Mohammad Naveed
+            bowler: VD Philander
+            extras:
+              legbyes: 4
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 35.4:
+            batsman: Mohammad Naveed
+            bowler: VD Philander
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.5:
+            batsman: Mohammad Naveed
+            bowler: VD Philander
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 35.6:
+            batsman: Mohammad Naveed
+            bowler: VD Philander
+            non_striker: SP Patil
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 36.1:
+            batsman: SP Patil
+            bowler: DW Steyn
+            non_striker: Mohammad Naveed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 36.2:
+            batsman: SP Patil
+            bowler: DW Steyn
+            non_striker: Mohammad Naveed
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 36.3:
+            batsman: SP Patil
+            bowler: DW Steyn
+            non_striker: Mohammad Naveed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 36.4:
+            batsman: Mohammad Naveed
+            bowler: DW Steyn
+            non_striker: SP Patil
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 36.5:
+            batsman: Mohammad Naveed
+            bowler: DW Steyn
+            non_striker: SP Patil
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 36.6:
+            batsman: Mohammad Naveed
+            bowler: DW Steyn
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.1:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Mohammad Naveed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.2:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Mohammad Naveed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.3:
+            batsman: Mohammad Naveed
+            bowler: M Morkel
+            extras:
+              noballs: 1
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 37.4:
+            batsman: Mohammad Naveed
+            bowler: M Morkel
+            extras:
+              wides: 1
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 37.5:
+            batsman: Mohammad Naveed
+            bowler: M Morkel
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 37.6:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Mohammad Naveed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.7:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Mohammad Naveed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 37.8:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Mohammad Naveed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.1:
+            batsman: Mohammad Naveed
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.2:
+            batsman: Mohammad Naveed
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.3:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            extras:
+              legbyes: 1
+            non_striker: Mohammad Naveed
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 38.4:
+            batsman: Mohammad Naveed
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 38.5:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Mohammad Naveed
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 38.6:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Mohammad Naveed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.1:
+            batsman: SP Patil
+            bowler: VD Philander
+            non_striker: Mohammad Naveed
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.2:
+            batsman: Mohammad Naveed
+            bowler: VD Philander
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - AB de Villiers
+              kind: caught
+              player_out: Mohammad Naveed
+        - 39.3:
+            batsman: SP Patil
+            bowler: VD Philander
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 39.4:
+            batsman: SP Patil
+            bowler: VD Philander
+            extras:
+              legbyes: 1
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 39.5:
+            batsman: Mohammad Tauqir
+            bowler: VD Philander
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 39.6:
+            batsman: SP Patil
+            bowler: VD Philander
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 40.1:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 40.2:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.3:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.4:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 40.5:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 40.6:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            extras:
+              wides: 1
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 40.7:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.1:
+            batsman: Mohammad Tauqir
+            bowler: DW Steyn
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.2:
+            batsman: Mohammad Tauqir
+            bowler: DW Steyn
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.3:
+            batsman: SP Patil
+            bowler: DW Steyn
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 41.4:
+            batsman: SP Patil
+            bowler: DW Steyn
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 41.5:
+            batsman: Mohammad Tauqir
+            bowler: DW Steyn
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 41.6:
+            batsman: Mohammad Tauqir
+            bowler: DW Steyn
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.1:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.2:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 42.3:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.4:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 42.5:
+            batsman: SP Patil
+            bowler: Imran Tahir
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 42.6:
+            batsman: Mohammad Tauqir
+            bowler: Imran Tahir
+            non_striker: SP Patil
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 43.1:
+            batsman: Mohammad Tauqir
+            bowler: DW Steyn
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.2:
+            batsman: Mohammad Tauqir
+            bowler: DW Steyn
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.3:
+            batsman: Mohammad Tauqir
+            bowler: DW Steyn
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.4:
+            batsman: Mohammad Tauqir
+            bowler: DW Steyn
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.5:
+            batsman: Mohammad Tauqir
+            bowler: DW Steyn
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 43.6:
+            batsman: Mohammad Tauqir
+            bowler: DW Steyn
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.1:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.2:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.3:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 44.4:
+            batsman: Mohammad Tauqir
+            bowler: M Morkel
+            extras:
+              legbyes: 4
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 44.5:
+            batsman: Mohammad Tauqir
+            bowler: M Morkel
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 44.6:
+            batsman: Mohammad Tauqir
+            bowler: M Morkel
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.1:
+            batsman: SP Patil
+            bowler: DW Steyn
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.2:
+            batsman: SP Patil
+            bowler: DW Steyn
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.3:
+            batsman: SP Patil
+            bowler: DW Steyn
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 45.4:
+            batsman: SP Patil
+            bowler: DW Steyn
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 45.5:
+            batsman: SP Patil
+            bowler: DW Steyn
+            non_striker: Mohammad Tauqir
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 45.6:
+            batsman: Mohammad Tauqir
+            bowler: DW Steyn
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: Mohammad Tauqir
+        - 46.1:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Kamran Shazad
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 46.2:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Kamran Shazad
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.3:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Kamran Shazad
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.4:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Kamran Shazad
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 46.5:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Kamran Shazad
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 46.6:
+            batsman: SP Patil
+            bowler: M Morkel
+            non_striker: Kamran Shazad
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.1:
+            batsman: Kamran Shazad
+            bowler: VD Philander
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.2:
+            batsman: Kamran Shazad
+            bowler: VD Philander
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 47.3:
+            batsman: Kamran Shazad
+            bowler: VD Philander
+            non_striker: SP Patil
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - DW Steyn
+              kind: caught
+              player_out: Kamran Shazad
+      absent_hurt:
+        - Fahad Alhashmi
