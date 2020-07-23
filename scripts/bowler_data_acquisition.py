@@ -34,7 +34,7 @@ def extract_details(filename):
     print(match_details)
 
 
-    player_details = pd.DataFrame(columns=['date','team', 'runs', 'balls', 'wickets', 'extras','opposition','venue','bat_innnings','outcome'])
+    player_details = pd.DataFrame(columns=['date','team', 'runs', 'balls', 'wickets', 'extras','opposition','venue','bat_innings','outcome'])
 
     innings1 = dict['innings'][0]['1st innings']['deliveries']
     for ball in innings1:
@@ -50,7 +50,7 @@ def extract_details(filename):
             player_details.loc[ball[delivery]['bowler'], 'date'] = match_details['date']
             player_details.loc[ball[delivery]['bowler'], 'team'] = match_details['bat_first'][1]
             player_details.loc[ball[delivery]['bowler'], 'opposition'] = match_details['bat_first'][0]
-            player_details.loc[ball[delivery]['bowler'], 'bat_innnings'] = 1
+            player_details.loc[ball[delivery]['bowler'], 'bat_innings'] = 1
             player_details.loc[ball[delivery]['bowler'], 'venue'] = match_details['venue']
             if match_details['winner'] == player_details.loc[ball[delivery]['bowler'], 'team']:
                 player_details.loc[ball[delivery]['bowler'], 'outcome'] = 1
@@ -82,7 +82,7 @@ def extract_details(filename):
                 player_details.loc[ball[delivery]['bowler'], 'date'] = match_details['date']
                 player_details.loc[ball[delivery]['bowler'], 'team'] = match_details['bat_first'][0]
                 player_details.loc[ball[delivery]['bowler'], 'opposition'] = match_details['bat_first'][1]
-                player_details.loc[ball[delivery]['bowler'], 'bat_innnings'] = 2
+                player_details.loc[ball[delivery]['bowler'], 'bat_innings'] = 2
                 player_details.loc[ball[delivery]['bowler'], 'venue'] = match_details['venue']
                 if match_details['winner'] == player_details.loc[ball[delivery]['bowler'], 'team']:
                     player_details.loc[ball[delivery]['bowler'], 'outcome'] = 1
@@ -99,13 +99,14 @@ def extract_details(filename):
     return player_details
 
 overall_bowler_details = pd.DataFrame(columns=['team','innings','runs','balls','wickets','extras','average','strike_rate','economy','wicket_hauls'])
-match_bowler_details = pd.DataFrame(columns=['date','name','team','opposition','runs','balls','wickets','extras','venue','bat_innnings','outcome','average','strike_rate','economy'])
+match_bowler_details = pd.DataFrame(columns=['date','name','team','opposition','venue','bat_innings','innings_played','previous_average','previous_strike_rate','previous_economy','previous_wicket_hauls','wickets'])
 
 count = -1
 
-for filename in os.listdir('odis'):
+for filename in os.listdir('./../odis'):
     if filename.endswith('.yaml'):
-        player_details = extract_details('./odis/'+filename)
+        
+        player_details = extract_details('./../odis/'+filename)
         for player in player_details.index:
 
             count += 1
@@ -113,48 +114,43 @@ for filename in os.listdir('odis'):
             try:
                 overall_bowler_details.index.get_loc(player)
             except:
+                overall_bowler_details.loc[player,'team'] = player_details.loc[player, 'team']
                 overall_bowler_details.loc[player, 'innings'] = 0
-                overall_bowler_details.loc[player, 'balls'] = 0
                 overall_bowler_details.loc[player, 'runs'] = 0
+                overall_bowler_details.loc[player, 'balls'] = 0
                 overall_bowler_details.loc[player, 'wickets'] = 0
                 overall_bowler_details.loc[player, 'extras'] = 0
+                overall_bowler_details.loc[player, 'average'] = 0
+                overall_bowler_details.loc[player, 'strike_rate'] = 0
+                overall_bowler_details.loc[player, 'economy'] = 0
                 overall_bowler_details.loc[player, 'wicket_hauls'] = 0
-                overall_bowler_details.loc[player,'team'] = player_details.loc[player, 'team']
+
+            match_bowler_details.loc[count,'date'] = player_details.loc[player,'date']
+            match_bowler_details.loc[count,'name'] = player
+            match_bowler_details.loc[count,'team'] = player_details.loc[player,'team']
+            match_bowler_details.loc[count,'opposition'] = player_details.loc[player,'opposition']
+            match_bowler_details.loc[count,'venue'] = player_details.loc[player,'venue']
+            match_bowler_details.loc[count,'bat_innings'] = player_details.loc[player,'bat_innings']
+            match_bowler_details.loc[count,'innings_played'] = overall_bowler_details.loc[player,'innings']
+            match_bowler_details.loc[count,'previous_average'] = overall_bowler_details.loc[player, 'average']
+            match_bowler_details.loc[count,'previous_strike_rate'] = overall_bowler_details.loc[player, 'strike_rate']
+            match_bowler_details.loc[count,'previous_economy'] = overall_bowler_details.loc[player, 'economy']
+            match_bowler_details.loc[count,'previous_wicket_hauls'] = overall_bowler_details.loc[player, 'wicket_hauls']
+            match_bowler_details.loc[count,'wickets'] = player_details.loc[player,'wickets']
 
             overall_bowler_details.loc[player,'innings'] += 1
             overall_bowler_details.loc[player,'runs'] += player_details.loc[player, 'runs']
             overall_bowler_details.loc[player,'balls'] += player_details.loc[player, 'balls']
             overall_bowler_details.loc[player,'wickets'] += player_details.loc[player,'wickets']
             overall_bowler_details.loc[player,'extras'] += player_details.loc[player,'extras']
+            if player_details.loc[player,'wickets'] != 0:
+                overall_bowler_details.loc[player,'average'] = ((player_details.loc[player,'runs']/player_details.loc[player,'wickets'])+(overall_bowler_details.loc[player,'average']*(overall_bowler_details.loc[player,'innings']-1)))/overall_bowler_details.loc[player,'innings']
+                overall_bowler_details.loc[player,'strike_rate'] = ((player_details.loc[player,'balls']/player_details.loc[player,'wickets'])+(overall_bowler_details.loc[player,'strike_rate']*(overall_bowler_details.loc[player,'innings']-1)))/overall_bowler_details.loc[player,'innings']
+            overall_bowler_details.loc[player,'economy'] = ((player_details.loc[player,'runs']*6/player_details.loc[player,'balls'])+(overall_bowler_details.loc[player,'economy']*(overall_bowler_details.loc[player,'innings']-1)))/overall_bowler_details.loc[player,'innings']
             if player_details.loc[player,'wickets'] >= 4:
                 overall_bowler_details.loc[player,'wicket_hauls'] += 1
-
-            match_bowler_details.loc[count,'date'] = player_details.loc[player,'date']
-            match_bowler_details.loc[count,'name'] = player
-            match_bowler_details.loc[count,'team'] = player_details.loc[player,'team']
-            match_bowler_details.loc[count,'opposition'] = player_details.loc[player,'opposition']
-            match_bowler_details.loc[count,'runs'] = player_details.loc[player,'runs']
-            match_bowler_details.loc[count,'balls'] = player_details.loc[player,'balls']
-            match_bowler_details.loc[count,'wickets'] = player_details.loc[player,'wickets']
-            match_bowler_details.loc[count,'extras'] = player_details.loc[player,'extras']
-            match_bowler_details.loc[count,'venue'] = player_details.loc[player,'venue']
-            match_bowler_details.loc[count,'bat_innnings'] = player_details.loc[player,'bat_innnings']
-            match_bowler_details.loc[count,'outcome'] = player_details.loc[player,'outcome']
-            if match_bowler_details.loc[count,'wickets'] != 0:
-                match_bowler_details.loc[count,'average'] = player_details.loc[player,'runs']/player_details.loc[player,'wickets']
-                match_bowler_details.loc[count,'strike_rate'] = player_details.loc[player,'balls']/player_details.loc[player,'wickets']
-            else:
-                match_bowler_details.loc[count, 'average'] = 0
-                match_bowler_details.loc[count, 'strike_rate'] = 0
-            match_bowler_details.loc[count,'economy'] = player_details.loc[player,'runs']*6/player_details.loc[player,'balls']
-            
-overall_bowler_details.loc[:,['average','strike_rate','economy']] = 0
-index = overall_bowler_details[overall_bowler_details.loc[:,'wickets']>0].index
-overall_bowler_details.loc[index.tolist(), 'average'] = overall_bowler_details.loc[index.tolist(), 'runs']//overall_bowler_details.loc[index.tolist(), 'wickets']
-overall_bowler_details.loc[index.tolist(),'strike_rate'] = overall_bowler_details.loc[index.tolist(),'balls']//overall_bowler_details.loc[index.tolist(),'wickets']
-overall_bowler_details.loc[:,'economy'] = overall_bowler_details.loc[:,'runs']*6/overall_bowler_details.loc[:,'balls']
-
+           
 match_bowler_details.set_index(keys=['date','name'],drop=True,inplace=True)
 
-overall_bowler_details.to_excel('./player_details/overall_bowler_details.xlsx')
-match_bowler_details.to_excel('./player_details/match_bowler_details.xlsx')
+overall_bowler_details.to_excel('./../player_details/overall_bowler_details.xlsx')
+match_bowler_details.to_excel('./../player_details/match_bowler_details.xlsx')
