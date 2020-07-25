@@ -1,26 +1,33 @@
 #Importing Libraries
 import pandas as pd
 import numpy as np
-import scripts.player_performance
-import scripts.team_performance
+# import scripts.player_performance
+# import scripts.team_performance
 
 #Input Function
-def input_values(input_column, input_value):
-    print(*match_batsman_details[input_column].unique(), sep='\n')
+def input_values(input_value, check_list_1=None, check_list_2=None):
+    if check_list_1:
+        print(f'Available {input_value} : \n',*check_list_1, sep='\t')
+    if check_list_2:
+        print(f'Available {input_value} : \n',*check_list_2, sep='\t')
     while True:
+        flag = 0
         res = input(f'Enter the desired {input_value}: ')
-        if input_column == 'index':
-            if res in match_batsman_details.index:
+        if check_list_1:
+            if res in check_list_1:
                 return res
+                flag += 1
             else:
-                print('Invalid input.')
-                continue
-        else:
-            if res in match_batsman_details[input_column].unique():
+                flag -= 1
+        if check_list_2:
+            if res in check_list_2:
                 return res
+                flag += 1
             else:
-                print('Invalid input.')
-                continue
+                flag -= 1
+        if flag < 0:
+            print('Invalid input.')
+            continue
 
 if __name__ == '__main__':
     
@@ -30,13 +37,11 @@ if __name__ == '__main__':
     overall_bowler_details = pd.read_excel('./player_details/overall_bowler_details.xlsx',header=0,index_col=0)
     match_bowler_details = pd.read_excel('./player_details/match_bowler_details.xlsx',header=0)
 
-    #Data Cleaning
-    #match_batsman_details
+    #Filiing Missing Values
+        #match_batsman_details
     match_batsman_details.loc[:, 'date'].ffill(inplace=True)
-    match_batsman_details.set_index(['date', 'name'], inplace=True, drop=True)
-    #match_bowler_details
+        #match_bowler_details
     match_bowler_details.loc[:, 'date'].ffill(inplace=True)
-    match_bowler_details.set_index(['date', 'name'], inplace=True, drop=True)
 
     #Input's
     print('Available Services:\n1. Specific Player Performance\n2. Team Selection')
@@ -49,25 +54,30 @@ if __name__ == '__main__':
             print('invalid input.')
             continue
         else:
+            
             if choice == 1:
-                player_name = input_values('index','player name')
-                opposition = input_values('team', 'opposition')
-                option = input('For specified venue\n yes or no:')
-                if option.lower != 'yes' or 'no':
-                    option = 'no'
+                team = input_values('team', match_batsman_details['team'].unique().tolist())
+                player_name = input_values('player name', match_batsman_details[match_batsman_details['team'] == team]['name'].unique().tolist(), match_bowler_details[match_bowler_details['team'] == team]['name'].unique().tolist())
+                flag = (input('Specific opposition:\n"yes" or "no": ')).lower()
+                if flag == 'yes':
+                    opposition = input_values('opposition', match_batsman_details[match_batsman_details['name']==player_name]['opposition'].unique().tolist(), match_bowler_details[match_bowler_details['name'] == player_name]['opposition'].unique().tolist())
+                option = (input('Specified venue:\n"yes" or "no": ')).lower()
                 if option =='yes':
-                    venue = input_values('venue', 'venue')
-                    res = player_performance(player_name,opposition,venue)
+                    venue = input_values('venue', match_batsman_details[match_batsman_details['name']==player_name]['venue'].unique().tolist(), match_bowler_details[match_bowler_details['name']==player_name]['venue'].unique().tolist())
+                if flag=='no': 
+                    if option=='no':
+                        res = player_performance(player_name,team)
+                    else:
+                        res = player_performance(player_name,team,None,venue)
                 else:
-                    res = player_performance(player_name,opposition)
+                    if option=='no':
+                        res = player_performance(player_name,team,opposition)
+                    else:
+                        res = player_performance(player_name,team,opposition,venue)
+                exit()
+    
             elif choice == 2:
-                team1 = input_values('team','team')
-                team2 = input_values('team','team')
-                option = input('For specified venue\n yes or no:')
-                if option.lower != 'yes' or 'no':
-                    option = 'no'
-                if option == 'yes':
-                    venue = input_values('venue', 'venue')
-                    res = team_performance(player_name,opposition,venue)
-                else:
-                    res = team_performance(player_name,opposition)
+                team1 = input_values('team1', match_batsman_details['team'].unique().tolist(), match_bowler_details['team'].unique().tolist())
+                team2 = input_values('team2', match_batsman_details[match_batsman_details['team']==team1]['opposition'].unique().tolist(), match_bowler_details[match_bowler_details['team']==team1]['opposition'].unique().tolist())
+                res = team_performance(team1,team2)
+                exit()
