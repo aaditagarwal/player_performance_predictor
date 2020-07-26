@@ -15,17 +15,20 @@ def input_values(input_value, check_list_1=None, check_list_2=None):
         res = input(f'Enter the desired {input_value}: ')
         if check_list_1:
             if res in check_list_1:
-                return res
                 flag += 1
             else:
                 flag -= 1
         if check_list_2:
             if res in check_list_2:
-                return res
-                flag += 1
+                flag += 2
             else:
                 flag -= 1
-        if flag < 0:
+        if flag > 0:
+            if input_value == 'player_name':
+                return flag,res
+            else:
+                return res
+        elif flag < 0:
             print('Invalid input.')
             continue
 
@@ -57,27 +60,15 @@ if __name__ == '__main__':
             
             if choice == 1:
                 team = input_values('team', match_batsman_details['team'].unique().tolist())
-                player_name = input_values('player name', match_batsman_details[match_batsman_details['team'] == team]['name'].unique().tolist(), match_bowler_details[match_bowler_details['team'] == team]['name'].unique().tolist())
-                flag = (input('Specific opposition:\n"yes" or "no": ')).lower()
-                if flag == 'yes':
-                    opposition = input_values('opposition', match_batsman_details[match_batsman_details['name']==player_name]['opposition'].unique().tolist(), match_bowler_details[match_bowler_details['name'] == player_name]['opposition'].unique().tolist())
-                option = (input('Specified venue:\n"yes" or "no": ')).lower()
-                if option =='yes':
-                    venue = input_values('venue', match_batsman_details[match_batsman_details['name']==player_name]['venue'].unique().tolist(), match_bowler_details[match_bowler_details['name']==player_name]['venue'].unique().tolist())
-                if flag=='no': 
-                    if option=='no':
-                        res = player_performance(player_name,team)
-                    else:
-                        res = player_performance(player_name,team,None,venue)
-                else:
-                    if option=='no':
-                        res = player_performance(player_name,team,opposition)
-                    else:
-                        res = player_performance(player_name,team,opposition,venue)
+                param, player_name = input_values('player name', match_batsman_details[match_batsman_details['team'] == team]['name'].unique().tolist(), match_bowler_details[match_bowler_details['team'] == team]['name'].unique().tolist())
+                opposition = input_values('opposition', match_batsman_details[match_batsman_details['name']==player_name]['opposition'].unique().tolist(), match_bowler_details[match_bowler_details['name'] == player_name]['opposition'].unique().tolist())
+                venue = input_values('venue', match_batsman_details[match_batsman_details['name']==player_name]['venue'].unique().tolist(), match_bowler_details[match_bowler_details['name']==player_name]['venue'].unique().tolist())
+                res = player_performance(param,player_name,team,opposition,venue)
                 exit()
     
             elif choice == 2:
                 team1 = input_values('team1', match_batsman_details['team'].unique().tolist(), match_bowler_details['team'].unique().tolist())
                 team2 = input_values('team2', match_batsman_details[match_batsman_details['team']==team1]['opposition'].unique().tolist(), match_bowler_details[match_bowler_details['team']==team1]['opposition'].unique().tolist())
-                res = team_performance(team1,team2)
+                venue = input_values('venue', match_batsman_details[match_batsman_details['team']==team1 and match_batsman_details['opposition']==team2]['venue'].unique().tolist())
+                res = team_performance(team1,team2,venue)
                 exit()
