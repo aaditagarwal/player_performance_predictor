@@ -130,7 +130,6 @@ for filename in os.listdir('./../odis'):
             match_bowler_details.loc[count,'team'] = player_details.loc[player,'team']
             match_bowler_details.loc[count,'opposition'] = player_details.loc[player,'opposition']
             match_bowler_details.loc[count,'venue'] = player_details.loc[player,'venue']
-            match_bowler_details.loc[count,'bat_innings'] = player_details.loc[player,'bat_innings']
             match_bowler_details.loc[count,'innings_played'] = overall_bowler_details.loc[player,'innings']
             match_bowler_details.loc[count,'previous_average'] = overall_bowler_details.loc[player, 'average']
             match_bowler_details.loc[count,'previous_strike_rate'] = overall_bowler_details.loc[player, 'strike_rate']

@@ -125,7 +125,6 @@ for filename in os.listdir('./../odis'):
             match_batsman_details.loc[count,'team'] = player_details.loc[player,'team']
             match_batsman_details.loc[count,'opposition'] = player_details.loc[player,'opposition']
             match_batsman_details.loc[count,'venue'] = player_details.loc[player,'venue']
-            match_batsman_details.loc[count,'batting_innings'] = player_details.loc[player,'batting_innings']
             match_batsman_details.loc[count,'innings_played'] = overall_batsman_details.loc[player,'innings']
             match_batsman_details.loc[count,'previous_average'] = overall_batsman_details.loc[player, 'average']
             match_batsman_details.loc[count,'previous_strike_rate'] = overall_batsman_details.loc[player, 'strike_rate']
@@ -133,7 +132,6 @@ for filename in os.listdir('./../odis'):
             match_batsman_details.loc[count,'previous_fifties'] = overall_batsman_details.loc[player,'fifties']
             match_batsman_details.loc[count,'previous_zeros'] = overall_batsman_details.loc[player,'zeros']
             match_batsman_details.loc[count,'runs'] = player_details.loc[player,'runs']
-            match_batsman_details.loc[count,'balls'] = player_details.loc[player,'balls']
             
             overall_batsman_details.loc[player,'innings'] += 1
             overall_batsman_details.loc[player,'runs'] += player_details.loc[player,'runs']
