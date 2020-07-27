@@ -1,7 +1,7 @@
 #Importing Libraries
 import pandas as pd
 import numpy as np
-# import scripts.player_performance
+from scripts.player_performance.py import player_performance
 # import scripts.team_performance
 
 #Input Function
@@ -13,22 +13,15 @@ def input_values(input_value, check_list_1=None, check_list_2=None):
     while True:
         flag = 0
         res = input(f'Enter the desired {input_value}: ')
-        if check_list_1:
+        if check_list_1 != None:
             if res in check_list_1:
                 flag += 1
-            else:
-                flag -= 1
-        if check_list_2:
+        if check_list_2 != None:
             if res in check_list_2:
                 flag += 2
-            else:
-                flag -= 1
         if flag > 0:
-            if input_value == 'player_name':
-                return flag,res
-            else:
-                return res
-        elif flag < 0:
+            return flag,res
+        else:
             print('Invalid input.')
             continue
 
@@ -47,28 +40,16 @@ if __name__ == '__main__':
     match_bowler_details.loc[:, 'date'].ffill(inplace=True)
 
     #Input's
-    print('Available Services:\n1. Specific Player Performance\n2. Team Selection')
-    choice = input('Enter desired service:')
-    while True:
-        try:
-            choice = int(choice)
-            choice == 1 | choice == 2
-        except:
-            print('invalid input.')
-            continue
-        else:
-            
-            if choice == 1:
-                team = input_values('team', match_batsman_details['team'].unique().tolist())
-                param, player_name = input_values('player name', match_batsman_details[match_batsman_details['team'] == team]['name'].unique().tolist(), match_bowler_details[match_bowler_details['team'] == team]['name'].unique().tolist())
-                opposition = input_values('opposition', match_batsman_details[match_batsman_details['name']==player_name]['opposition'].unique().tolist(), match_bowler_details[match_bowler_details['name'] == player_name]['opposition'].unique().tolist())
-                venue = input_values('venue', match_batsman_details[match_batsman_details['name']==player_name]['venue'].unique().tolist(), match_bowler_details[match_bowler_details['name']==player_name]['venue'].unique().tolist())
-                res = player_performance(param,player_name,team,opposition,venue)
-                exit()
-    
-            elif choice == 2:
-                team1 = input_values('team1', match_batsman_details['team'].unique().tolist(), match_bowler_details['team'].unique().tolist())
-                team2 = input_values('team2', match_batsman_details[match_batsman_details['team']==team1]['opposition'].unique().tolist(), match_bowler_details[match_bowler_details['team']==team1]['opposition'].unique().tolist())
-                venue = input_values('venue', match_batsman_details[match_batsman_details['team']==team1 and match_batsman_details['opposition']==team2]['venue'].unique().tolist())
-                res = team_performance(team1,team2,venue)
-                exit()
+    print('Available Services:\nSpecific Player Performance\n')
+    team,dump = input_values('team', match_batsman_details['team'].unique().tolist())
+    player_name, param_player = input_values('player_name', match_batsman_details[match_batsman_details['team'] == team]['name'].unique().tolist(), match_bowler_details[match_bowler_details['team'] == team]['name'].unique().tolist())
+    opposition, param_opp = input_values('opposition', match_batsman_details[match_batsman_details['name']==player_name]['opposition'].unique().tolist(), match_bowler_details[match_bowler_details['name'] == player_name]['opposition'].unique().tolist())
+    venue, param_ven = input_values('venue', match_batsman_details[match_batsman_details['name']==player_name]['venue'].unique().tolist(), match_bowler_details[match_bowler_details['name']==player_name]['venue'].unique().tolist())
+    param = param_player
+    if param > param_opp:
+        param = param_opp
+    if param > param_ven:
+        param = param_ven
+    res = player_performance(param,player_name,team,opposition,venue)
+    print(res)
+    exit()
