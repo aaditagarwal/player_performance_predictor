@@ -8,6 +8,13 @@ from xgboost import XGBClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
 
+#Ignoring XGBoost warnings
+def warn(*args, **kwargs):
+    pass
+import warnings
+warnings.warn = warn
+
+#Ignoring SciKit-Learn warnings
 import warnings
 from sklearn.exceptions import DataConversionWarning
 warnings.filterwarnings("ignore", category=DeprecationWarning)
@@ -91,15 +98,16 @@ def player_performance(param,player_name,opposition=None,venue=None):
         bat_targets.values
         predict_bat_features = np.array(predict_bat).reshape(-1,1)
         predict_bat_features = predict_bat_features.T
+        predict_bat_features = np.nan_to_num(predict_bat_features)
 
-        print('Batting Parameters Tuning begins...')
+        print('\nBatting Parameters Tuning begins...')
         
         # Initializing Models
         #XGBoost
         if classes > 2:
-            xgb = XGBClassifier(objective='multi:softmax')
+            xgb = XGBClassifier(objective='multi:softmax',verbosity=0,silent=True)
         else:
-            xgb = XGBClassifier(objective='binary:logistic')
+            xgb = XGBClassifier(objective='binary:logistic',verbosity=0, silent=True)
         parameters_xgb = {'n_estimators':[75,100,125],'learning_rate':[0.1,0.01],'booster':['gbtree','dart']}
         #RandomForestClassifier
         if classes > 2:
@@ -137,26 +145,26 @@ def player_performance(param,player_name,opposition=None,venue=None):
             best_params = gridresult_svc.best_params_
             best_score = [svc_best_score,'svc']
 
-        print(f'Batting Prediction Accuracy={best_score[0]} with classifier={best_score[1]}')
+        print(f'Batting Prediction accuracy={best_score[0]} with classifier={best_score[1]}')
         
         print('Batting Prediction begins...')
         
         #FinalModeling
             #XGBoost
         if best_score[1] == 'xgb':
-            classifier = XGBclassifier(objective='multi:softmax',n_estimators=best_params['n_estimators'],learning_rate=best_params['learning_rate'],booster=best_params['booster'])
+            classifier = XGBclassifier(objective='multi:softmax',n_estimators=best_params['n_estimators'],learning_rate=best_params['learning_rate'],booster=best_params['booster'],verbosity=0,silent=True)
             classifier = classifier.fit(bat_features,bat_targets)
-            res = {'bat_prediction':classifier.predict(predict_bat_features)}
+            res['bat_prediction'] = classifier.predict(predict_bat_features)
             #RandomForestClassifier
         elif best_score[1] == 'rfc':
             classifier = RandomForestClassifier(n_estimators=best_params['n_estimators'],criterion=best_params['criterion'],random_state=42,min_samples_leaf=best_params['min_samples_leaf'])
             classifier = classifier.fit(bat_features,bat_targets)
-            res = {'bat_prediction':classifier.predict(predict_bat_features)}
+            res['bat_prediction'] = classifier.predict(predict_bat_features)
             #SupportVectorMachine
         elif best_score[1] == 'svc':
             classifier = SVC(C=best_params['C'],kernel=best_params['kernel'],gamma=best_params['gamma'])
             classifier = classifier.fit(bat_features,bat_targets)
-            res = {'bat_prediction':classifier.predict(predict_bat_features)}
+            res['bat_prediction'] = classifier.predict(predict_bat_features)
  
         print('Batting Prediction Ends!')
 
@@ -195,15 +203,16 @@ def player_performance(param,player_name,opposition=None,venue=None):
         bowl_targets.values
         predict_bowl_features = np.array(predict_bowl).reshape(-1,1)
         predict_bowl_features = predict_bowl_features.T
+        predict_bowl_features = np.nan_to_num(predict_bowl_features)
 
-        print('Bowling Parameter Tuning begins...')
+        print('\nBowling Parameter Tuning begins...')
 
         # Initializing Models
             #XGBoost
         if classes>2:
-            xgb = XGBClassifier(objective='multi:softmax')
+            xgb = XGBClassifier(objective='multi:softmax',verbosity=0,silent=True)
         else:
-            xgb = XGBClassifier(objective='binary:logistic',min_leaf_samples=1)
+            xgb = XGBClassifier(objective='binary:logistic',min_leaf_samples=1,verbosity=0,silent=True)
         parameters_xgb = {'n_estimators':[75,100,125],'learning_rate':[0.1,0.01],'booster':['gbtree','dart']}
             #RandomForestClassifier
         if classes > 2:
@@ -249,20 +258,20 @@ def player_performance(param,player_name,opposition=None,venue=None):
             
             #XGBoost
         if best_score[1] == 'xgb':
-            classifier = XGBclassifier(objective='multi:softmax',n_estimators=best_params['n_estimators'],learning_rate=best_params['learning_rate'],booster=best_params['booster'])
+            classifier = XGBclassifier(objective='multi:softmax',n_estimators=best_params['n_estimators'],learning_rate=best_params['learning_rate'],booster=best_params['booster'],verbosity=0,silent=True)
             classifier = classifier.fit(bowl_features,bowl_targets)
-            res = {'bowl_prediction':classifier.predict(predict_bowl_features)}
+            res['bowl_prediction'] = classifier.predict(predict_bowl_features)
             #RandomForestClassifier
         elif best_score[1] == 'rfc':
             classifier = RandomForestClassifier(n_estimators=best_params['n_estiamtors'],criterion=best_params['criterion'],random_state=42,min_samples_leaf=best_params['min_leaf_samples'])
             classifier = classifier.fit(bowl_features,bowl_targets)
-            res = {'bowl_prediction':classifier.predict(predict_bowl_features)}
+            res['bowl_prediction'] = classifier.predict(predict_bowl_features)
             #SupportVectorMachine
         elif best_score[1] == 'svc':
             classifier = SVC(C=best_params['C'],kernel=best_params['kernel'],gamma=best_params['gamma'])
             classifier = classifier.fit(bowl_features,bowl_targets)
-            res = {'bowl_prediction':classifier.predict(predict_bowl_features)}
-
+            res['bowl_prediction'] = classifier.predict(predict_bowl_features)
+        
         print('Bowling Prediction Ends!')
 
     return res

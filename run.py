@@ -4,6 +4,13 @@ import numpy as np
 from scripts.player_performance import player_performance
 #from scripts.team_performance import team_performance
 
+#Ignoring XGBoost warnings
+def warn(*args, **kwargs):
+    pass
+import warnings
+warnings.warn = warn
+
+#Ignoring SciKit-Learn warnings
 import warnings
 from sklearn.exceptions import DataConversionWarning
 warnings.filterwarnings("ignore", category=DeprecationWarning)
@@ -56,8 +63,9 @@ if __name__ == '__main__':
     if param > param_ven:
         param = param_ven
     res = player_performance(param,player_name,opposition,venue)
-    if param == 1 or param == 3:
-        print(f'Number of predicted runs:{res["bat_prediction"]}')
-    elif param == 2 or param == 3:
-        print(f'Number of predicted wickets:{res["bowl_prediction"]}')
+    print('\n')
+    if 'bat_prediction' in res:
+        print(f'Number of predicted runs:{res["bat_prediction"][0]}')
+    if "bowl_prediction" in res:
+        print(f'Number of predicted wickets:{res["bowl_prediction"][0]}')
     exit()
