@@ -19,6 +19,19 @@ import warnings
 from sklearn.exceptions import DataConversionWarning
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
+def gridsearchcv_results(results):
+    arg, params, flag = None, None, None
+    split0 = results['split0_test_score'].max()
+    split1 = results['split1_test_score'].max()
+    if split0 >= split1:
+        arg = results['split0_test_score'].argmax()
+        flag = 0
+    else:
+        arg = results['split1_test_score'].argmax()
+        flag = 1
+    params = results['params'][arg]
+    return split+str(flag), params
+
 def player_performance(param,player_name,opposition=None,venue=None):
 
     res = {}
@@ -72,7 +85,7 @@ def player_performance(param,player_name,opposition=None,venue=None):
         bat_targets = pd.cut(bat_targets['runs'],bins,labels=labels,include_lowest=True)
         
         #Classification classes
-        classes = len(bat_targets.unique())
+        classes_bat = len(bat_targets.unique())
 
         #Categorizing Opposition and Venue
         le.fit(bat_features.loc[:,'opposition'])
@@ -94,8 +107,8 @@ def player_performance(param,player_name,opposition=None,venue=None):
         predict_bat.insert(0,opp_bat[0])
 
         #Array
-        bat_features.values
-        bat_targets.values
+        bat_features = bat_features.values
+        bat_targets = bat_targets.values
         predict_bat_features = np.array(predict_bat).reshape(-1,1)
         predict_bat_features = predict_bat_features.T
         predict_bat_features = np.nan_to_num(predict_bat_features)
@@ -104,67 +117,62 @@ def player_performance(param,player_name,opposition=None,venue=None):
         
         # Initializing Models
         #XGBoost
-        if classes > 2:
-            xgb = XGBClassifier(objective='multi:softmax',verbosity=0,silent=True)
+        if classes_bat > 2:
+            bat_xgb = XGBClassifier(objective='multi:softmax',verbosity=0,silent=True)
         else:
-            xgb = XGBClassifier(objective='binary:logistic',verbosity=0, silent=True)
-        parameters_xgb = {'n_estimators':[75,100,125],'learning_rate':[0.1,0.01],'booster':['gbtree','dart']}
+            bat_xgb = XGBClassifier(objective='binary:logistic',verbosity=0, silent=True)
+        bat_parameters_xgb = {'n_estimators':[75,100,125],'learning_rate':[0.1,0.01],'booster':['gbtree','dart']}
         #RandomForestClassifier
-        if classes > 2:
-            rfc = RandomForestClassifier(random_state=42)
-            parameters_rfc = {'n_estimators':[75,100,125],'criterion':['gini','entropy'],'min_samples_leaf':[1,2,3]}
+        if classes_bat > 2:
+            bat_rfc = RandomForestClassifier(random_state=42)
+            bat_parameters_rfc = {'n_estimators':[75,100,125],'criterion':['gini','entropy'],'min_samples_leaf':[1,2,3]}
         else:
-            rfc = RandomForestClassifier(random_state=42,min_samples_leaf=1)
-            parameters_rfc = {'n_estimators':[75,100,125],'criterion':['gini','entropy']}
+            bat_rfc = RandomForestClassifier(random_state=42,min_samples_leaf=1)
+            bat_parameters_rfc = {'n_estimators':[75,100,125],'criterion':['gini','entropy']}
         #SupportVectorMachine
-        svc = SVC()
-        parameters_svc = {'C':[1,5,10],'kernel':['rbf','linear','sigmoid'],'gamma':['auto','scale']}
+        bat_svc = SVC()
+        bat_parameters_svc = {'C':[1,5,10],'kernel':['rbf','linear','sigmoid'],'gamma':['auto','scale']}
 
         #ParameterTuningformodels
-        best_score = None
-        best_params = None
+        bat_best_score, bat_best_params = None, None
             #XGBoost
-        gridsearch_xgb = GridSearchCV(estimator=xgb,param_grid=parameters_xgb,scoring='accuracy',cv=2)
-        gridresult_xgb = gridsearch_xgb.fit(bat_features,bat_targets)
-        xgb_best_score = gridresult_xgb.best_score_
-        xgb_best_params = gridresult_xgb.best_params_
-        best_score = [xgb_best_score,'xgb']
-        best_params = xgb_best_params
+        bat_gridsearch_xgb = GridSearchCV(estimator=bat_xgb,param_grid=bat_parameters_xgb,scoring='accuracy',cv=2)
+        bat_gridresult_xgb = bat_gridsearch_xgb.fit(bat_features,bat_targets)
+        bat_score, bat_params = gridsearchcv_results(bat_gridresult_xgb.cv_results_)
+        bat_best_score, bat_best_params = [bat_score,'xgb'],bat_params
             #RandomForestClassifier
-        gridsearch_rfc = GridSearchCV(estimator=rfc,param_grid=parameters_rfc,scoring='accuracy',cv=2)
-        gridresult_rfc = gridsearch_rfc.fit(bat_features,bat_targets)
-        rfc_best_score = gridresult_rfc.best_score_
-        if best_score[0] < rfc_best_score:
-            best_score = [rfc_best_score,'rfc']
-            best_params = gridresult_rfc.best_params_
+        bat_gridsearch_rfc = GridSearchCV(estimator=bat_rfc,param_grid=bat_parameters_rfc,scoring='accuracy',cv=2)
+        bat_gridresult_rfc = bat_gridsearch_rfc.fit(bat_features,bat_targets)
+        bat_score, bat_params = gridsearchcv_results(bat_gridresult_rfc.cv_results_)
+        if bat_score > bat_best_score[0]:
+            bat_best_score, bat_best_params = [bat_score,'rfc'],bat_params
             #SupportVectorMachine
-        gridsearch_svc = GridSearchCV(estimator=svc,param_grid=parameters_svc,scoring='accuracy',cv=5)
-        gridresult_svc = gridsearch_svc.fit(bat_features,bat_targets)
-        svc_best_score = gridresult_svc.best_score_
-        if best_score[0] < svc_best_score:
-            best_params = gridresult_svc.best_params_
-            best_score = [svc_best_score,'svc']
+        bat_gridsearch_svc = GridSearchCV(estimator=bat_svc,param_grid=bat_parameters_svc,scoring='accuracy',cv=5)
+        bat_gridresult_svc = bat_gridsearch_svc.fit(bat_features,bat_targets)
+        bat_score, bat_params = gridsearchcv_results(bat_gridresult_svc.cv_results_)
+        if bat_score > bat_best_score[0]:
+            bat_best_score, bat_best_params = [bat_score, 'svc'], bat_params
 
-        print(f'Batting Prediction accuracy={best_score[0]} with classifier={best_score[1]}')
+        print(f'Batting Prediction accuracy={bat_best_score[0]} with classifier={bat_best_score[1].upper()}')
         
         print('Batting Prediction begins...')
         
         #FinalModeling
             #XGBoost
-        if best_score[1] == 'xgb':
-            classifier = XGBclassifier(objective='multi:softmax',n_estimators=best_params['n_estimators'],learning_rate=best_params['learning_rate'],booster=best_params['booster'],verbosity=0,silent=True)
-            classifier = classifier.fit(bat_features,bat_targets)
-            res['bat_prediction'] = classifier.predict(predict_bat_features)
+        if bat_best_score[1] == 'xgb':
+            bat_classifier = XGBclassifier(objective='multi:softmax',n_estimators=bat_best_params['n_estimators'],learning_rate=bat_best_params['learning_rate'],booster=bat_best_params['booster'],verbosity=0,silent=True)
+            bat_classifier = bat_classifier.fit(bat_features,bat_targets)
+            res['bat_prediction'] = bat_classifier.predict(predict_bat_features)
             #RandomForestClassifier
-        elif best_score[1] == 'rfc':
-            classifier = RandomForestClassifier(n_estimators=best_params['n_estimators'],criterion=best_params['criterion'],random_state=42,min_samples_leaf=best_params['min_samples_leaf'])
-            classifier = classifier.fit(bat_features,bat_targets)
-            res['bat_prediction'] = classifier.predict(predict_bat_features)
+        elif bat_best_score[1] == 'rfc':
+            bat_classifier = RandomForestClassifier(n_estimators=bat_best_params['n_estimators'],criterion=bat_best_params['criterion'],random_state=42,min_samples_leaf=bat_best_params['min_samples_leaf'])
+            bat_classifier = bat_classifier.fit(bat_features,bat_targets)
+            res['bat_prediction'] = bat_classifier.predict(predict_bat_features)
             #SupportVectorMachine
-        elif best_score[1] == 'svc':
-            classifier = SVC(C=best_params['C'],kernel=best_params['kernel'],gamma=best_params['gamma'])
-            classifier = classifier.fit(bat_features,bat_targets)
-            res['bat_prediction'] = classifier.predict(predict_bat_features)
+        elif bat_best_score[1] == 'svc':
+            bat_classifier = SVC(C=bat_best_params['C'],kernel=bat_best_params['kernel'],gamma=bat_best_params['gamma'])
+            bat_classifier = bat_classifier.fit(bat_features,bat_targets)
+            res['bat_prediction'] = bat_classifier.predict(predict_bat_features)
  
         print('Batting Prediction Ends!')
 
@@ -177,7 +185,7 @@ def player_performance(param,player_name,opposition=None,venue=None):
         bowl_targets = pd.cut(bowl_targets['wickets'],bins,right=False,labels=labels,include_lowest=True)
 
         #Classification classes
-        classes = len(bowl_targets.unique())
+        classes_bowl = len(bowl_targets.unique())
         
         #Categorizing Opposition and Venue
         le.fit(bowl_features['opposition'])
@@ -199,8 +207,8 @@ def player_performance(param,player_name,opposition=None,venue=None):
         predict_bowl.insert(0, opp_bowl[0])
 
         #Array 
-        bowl_features.values
-        bowl_targets.values
+        bowl_features = bowl_features.values
+        bowl_targets = bowl_targets.values
         predict_bowl_features = np.array(predict_bowl).reshape(-1,1)
         predict_bowl_features = predict_bowl_features.T
         predict_bowl_features = np.nan_to_num(predict_bowl_features)
@@ -209,48 +217,43 @@ def player_performance(param,player_name,opposition=None,venue=None):
 
         # Initializing Models
             #XGBoost
-        if classes>2:
-            xgb = XGBClassifier(objective='multi:softmax',verbosity=0,silent=True)
+        if classes_bowl  > 2:
+            bowl_xgb = XGBClassifier(objective='multi:softmax',verbosity=0,silent=True)
         else:
-            xgb = XGBClassifier(objective='binary:logistic',min_leaf_samples=1,verbosity=0,silent=True)
-        parameters_xgb = {'n_estimators':[75,100,125],'learning_rate':[0.1,0.01],'booster':['gbtree','dart']}
+            bowl_xgb = XGBClassifier(objective='binary:logistic',min_leaf_samples=1,verbosity=0,silent=True)
+        bowl_parameters_xgb = {'n_estimators':[75,100,125],'learning_rate':[0.1,0.01],'booster':['gbtree','dart']}
             #RandomForestClassifier
-        if classes > 2:
-            rfc = RandomForestClassifier(random_state=42)
-            parameters_rfc = {'n_estimators':[75,100,125],'criterion':['gini','entropy'],'min_samples_leaf':[1,2,3]}
+        if classes_bowl > 2:
+            bowl_rfc = RandomForestClassifier(random_state=42)
+            bowl_parameters_rfc = {'n_estimators':[75,100,125],'criterion':['gini','entropy'],'min_samples_leaf':[1,2,3]}
         else:
-            rfc = RandomForestClassifier(random_state=42,min_samples_leaf=1)
-            parameters_rfc = {'n_estimators':[75,100,125],'criterion':['gini','entropy']}
+            bowl_rfc = RandomForestClassifier(random_state=42,min_samples_leaf=1)
+            bowl_parameters_rfc = {'n_estimators':[75,100,125],'criterion':['gini','entropy']}
             #SupportVectorMachine
-        svc = SVC()
-        parameters_svc = {'C':[1,5,10],'kernel':['rbf','linear','sigmoid'],'gamma':['auto','scale']}
+        bowl_svc = SVC()
+        bowl_parameters_svc = {'C':[1,5,10],'kernel':['rbf','linear','sigmoid'],'gamma':['auto','scale']}
 
         #ParameterTuningformodels
-        best_score = None
-        best_params = None
+        bowl_best_score, bowl_best_params = None, None
             #XGBoost
-        gridsearch_xgb = GridSearchCV(estimator=xgb,param_grid=parameters_xgb,scoring='accuracy',cv=2)
-        gridresult_xgb = gridsearch_xgb.fit(bowl_features,bowl_targets)
-        xgb_best_score = gridresult_xgb.best_score_
-        xgb_best_params = gridresult_xgb.best_params_
-        best_score = [xgb_best_score,'xgb']
-        best_params = xgb_best_params
+        bowl_gridsearch_xgb = GridSearchCV(estimator=bowl_xgb,param_grid=bowl_parameters_xgb,scoring='accuracy',cv=2)
+        bowl_gridresult_xgb = bowl_gridsearch_xgb.fit(bowl_features,bowl_targets)
+        bowl_score, bowl_params = gridsearchcv_results(bowl_gridresult_xgb.cv_results_)
+        bowl_best_score, bowl_best_params = [bowl_score, 'xgb'], bowl_params
             #RandomForestClassifier
-        gridsearch_rfc = GridSearchCV(estimator=rfc,param_grid=parameters_rfc,scoring='accuracy',cv=2)
-        gridresult_rfc = gridsearch_rfc.fit(bowl_features,bowl_targets)
-        rfc_best_score = gridresult_rfc.best_score_
-        if best_score[0] < rfc_best_score:
-            best_score = [rfc_best_score,'rfc']
-            best_params = gridresult_rfc.best_params_
+        bowl_gridsearch_rfc = GridSearchCV(estimator=bowl_rfc,param_grid=bowl_parameters_rfc,scoring='accuracy',cv=2)
+        bowl_gridresult_rfc = bowl_gridsearch_rfc.fit(bowl_features,bowl_targets)
+        bowl_score, bowl_params = gridsearchcv_results(bat_gridresult_rfc.cv_results_)
+        if bowl_score > bowl_best_score[0]:
+            bowl_best_score, bowl_best_params = [bowl_score, 'rfc'], bowl_params
             #SupportVectorMachine
-        gridsearch_svc = GridSearchCV(estimator=svc,param_grid=parameters_svc,scoring='accuracy',cv=2)
-        gridresult_svc = gridsearch_svc.fit(bowl_features,bowl_targets)
-        svc_best_score = gridresult_svc.best_score_
-        if best_score[0] < svc_best_score:
-            best_params = gridresult_svc.best_params_
-            best_score = [svc_best_score,'svc']
+        bowl_gridsearch_svc = GridSearchCV(estimator=bowl_svc,param_grid=bowl_parameters_svc,scoring='accuracy',cv=2)
+        bowl_gridresult_svc = bowl_gridsearch_svc.fit(bowl_features,bowl_targets)
+        bowl_score, bowl_params = gridsearchcv_results(bat_gridresult_svc.cv_results_)
+        if bowl_score > bowl__best_score[0]:
+            bowl__best_score, bowl__best_params = [bowl_score, 'svc'], bowl_params
 
-        print(f'The bowling prediction accuracy={best_score[0]} with classifier={best_score[1]}')
+        print(f'The bowling prediction accuracy={bowl_best_score[0]} with classifier={bowl_best_score[1]}')
         
         print('Bowling Prediction begins...')
         
