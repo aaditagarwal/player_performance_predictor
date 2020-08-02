@@ -165,9 +165,9 @@ def player_performance(param,player_name,opposition=None,venue=None):
             #XGBoost
         if bat_best_score[1] == 'xgb':
             if classes_bat > 2:
-                bat_classifier = XGBclassifier(objective='multi:softmax',n_estimators=bat_best_params['n_estimators'],learning_rate=bat_best_params['learning_rate'],booster=bat_best_params['booster'],verbosity=0,silent=True)
+                bat_classifier = XGBClassifier(objective='multi:softmax',n_estimators=bat_best_params['n_estimators'],learning_rate=bat_best_params['learning_rate'],booster=bat_best_params['booster'],verbosity=0,silent=True)
             else:
-                bat_classifier = XGBclassifier(objective='binary:logistic',min_leaf_samples=1,n_estimators=bat_best_params['n_estimators'], learning_rate=bat_best_params['learning_rate'], booster=bat_best_params['booster'], verbosity=0, silent=True)
+                bat_classifier = XGBClassifier(objective='binary:logistic',min_leaf_samples=1,n_estimators=bat_best_params['n_estimators'], learning_rate=bat_best_params['learning_rate'], booster=bat_best_params['booster'], verbosity=0, silent=True)
             bat_classifier = bat_classifier.fit(bat_features,bat_targets)
             res['bat_prediction'] = bat_classifier.predict(predict_bat_features)
             #RandomForestClassifier
