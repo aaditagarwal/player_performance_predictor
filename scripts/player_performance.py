@@ -192,7 +192,10 @@ def player_performance(param,player_name,opposition=None,venue=None):
             print('Batting Prediction Ends!')
 
         else:
-            pass
+            print('NO Batting Prediction')
+
+    else:
+        print('NO Batting Prediction')
 
     #BowlerPrediciton 
     if (param == 2 or param == 3):
@@ -306,6 +309,9 @@ def player_performance(param,player_name,opposition=None,venue=None):
             print('Bowling Prediction Ends!')
 
         else:
-            pass
+            print('NO bwoling prediction')
+    
+    else:
+        print('NO bwoling prediction')
 
     return res
