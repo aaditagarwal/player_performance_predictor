@@ -54,10 +54,10 @@ if __name__ == '__main__':
     print('Available Services:\n1. Specific Player Performance\n')
     team,dump = input_values('team', match_batsman_details['team'].unique().tolist())
     print(dump,team)
-    player_name, param_player = input_values('player_name', match_batsman_details[match_batsman_details['team'] == team]['name'].unique().tolist(), match_bowler_details[match_bowler_details['team'] == team]['name'].unique().tolist())
-    opposition, param_opp = input_values('opposition', match_batsman_details[match_batsman_details['name']==player_name]['opposition'].unique().tolist(), match_bowler_details[match_bowler_details['name'] == player_name]['opposition'].unique().tolist())
-    venue, param_ven = input_values('venue', match_batsman_details[match_batsman_details['opposition'] == opposition]['venue'][match_batsman_details[match_batsman_details['opposition'] == opposition]['venue'].isin(
-        match_batsman_details[match_batsman_details['name'] == player_name]['venue'])].unique().tolist(), match_bowler_details[match_bowler_details['opposition'] == opposition]['venue'][match_bowler_details[match_bowler_details['opposition'] == opposition]['venue'].isin(match_bowler_details[match_bowler_details['name'] == player_name]['venue'])].unique().tolist())
+    player_name, param_player = input_values('player_name', sorted(match_batsman_details[match_batsman_details['team'] == team]['name'].unique().tolist()), sorted(match_bowler_details[match_bowler_details['team'] == team]['name'].unique().tolist()))
+    opposition, param_opp = input_values('opposition', sorted(match_batsman_details[match_batsman_details['name']==player_name]['opposition'].unique().tolist()), sorted(match_bowler_details[match_bowler_details['name'] == player_name]['opposition'].unique().tolist()))
+    venue, param_ven = input_values('venue', sorted(match_batsman_details[match_batsman_details['opposition'] == opposition]['venue'][match_batsman_details[match_batsman_details['opposition'] == opposition]['venue'].isin(
+        match_batsman_details[match_batsman_details['name'] == player_name]['venue'])].unique().tolist()), sorted(match_bowler_details[match_bowler_details['opposition'] == opposition]['venue'][match_bowler_details[match_bowler_details['opposition'] == opposition]['venue'].isin(match_bowler_details[match_bowler_details['name'] == player_name]['venue'])].unique().tolist()))
     param = param_player
     if param > param_opp:
         param = param_opp
