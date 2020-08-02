@@ -66,7 +66,7 @@ if __name__ == '__main__':
     res = player_performance(param,player_name,opposition,venue)
     print('\n')
     if 'bat_prediction' in res:
-        print(f'Number of predicted runs:{res["bat_prediction"][0]}')
+        print(f'Number of predicted runs:{res["bat_prediction"]}')
     if "bowl_prediction" in res:
-        print(f'Number of predicted wickets:{res["bowl_prediction"][0]}')
+        print(f'Number of predicted wickets:{res["bowl_prediction"]}')
     exit()
