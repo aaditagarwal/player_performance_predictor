@@ -42,7 +42,8 @@ def player_performance(param,player_name,opposition=None,venue=None):
         match_batsman_details = pd.read_excel('./player_details/match_batsman_details.xlsx',header=0)
         match_batsman_details.loc[:, 'date'].ffill(inplace=True)
         bat_match_details = match_batsman_details[match_batsman_details['name']==player_name]
-        bat_overall_details = overall_batsman_details[overall_batsman_details['player_name']==player_name]
+        bat_match_details = bat_match_details[bat_match_details['opposition']==opposition]
+        bat_overall_details = overall_batsman_details[overall_batsman_details['player_name'] == player_name][['player_name', 'team', 'innings', 'runs', 'average', 'strike_rate', 'centuries', 'fifties', 'zeros']]
         bat_features = bat_match_details.loc[:,['opposition', 'venue', 'innings_played','previous_average', 'previous_strike_rate', 'previous_centuries','previous_fifties', 'previous_zeros']]
         bat_targets = bat_match_details.loc[:,['runs']]
             
@@ -51,7 +52,8 @@ def player_performance(param,player_name,opposition=None,venue=None):
         match_bowler_details = pd.read_excel('./player_details/match_bowler_details.xlsx',header=0)
         match_bowler_details.loc[:, 'date'].ffill(inplace=True)
         bowl_match_details = match_bowler_details[match_bowler_details['name']==player_name]
-        bowl_overall_details = overall_bowler_details[overall_bowler_details['player_name']==player_name]
+        bowl_match_details = bowl_match_details[bowl_match_details['opposition'] == opposition]
+        bowl_overall_details = overall_bowler_details[overall_bowler_details['player_name']==player_name][['player_name','team','innings','wickets','average','strike_rate','economy','wicket_hauls']]
         bowl_features = bowl_match_details.loc[:,['opposition', 'venue', 'innings_played','previous_average', 'previous_strike_rate', 'previous_economy','previous_wicket_hauls']]
         bowl_targets = bowl_match_details.loc[:,['wickets']]
 
@@ -60,6 +62,7 @@ def player_performance(param,player_name,opposition=None,venue=None):
         match_batsman_details = pd.read_excel('./player_details/match_batsman_details.xlsx',header=0)
         match_batsman_details.loc[:, 'date'].ffill(inplace=True)
         bat_match_details = match_batsman_details[match_batsman_details['name']==player_name]
+        bat_match_details = bat_match_details[bat_match_details['opposition'] == opposition]
         bat_overall_details = overall_batsman_details[overall_batsman_details['player_name']==player_name][['player_name','team','innings','runs','average','strike_rate','centuries','fifties','zeros']]
         bat_features = bat_match_details.loc[:,['opposition', 'venue', 'innings_played','previous_average', 'previous_strike_rate', 'previous_centuries','previous_fifties', 'previous_zeros']]
         bat_targets = bat_match_details.loc[:,['runs']]
@@ -68,6 +71,7 @@ def player_performance(param,player_name,opposition=None,venue=None):
         match_bowler_details = pd.read_excel('./player_details/match_bowler_details.xlsx',header=0)
         match_bowler_details.loc[:, 'date'].ffill(inplace=True)
         bowl_match_details = match_bowler_details[match_bowler_details['name'] == player_name]
+        bowl_match_details = bowl_match_details[bowl_match_details['opposition'] == opposition]
         bowl_overall_details = overall_bowler_details[overall_bowler_details['player_name']==player_name][['player_name','team','innings','wickets','average','strike_rate','economy','wicket_hauls']]
         bowl_features = bowl_match_details.loc[:,['opposition', 'venue', 'innings_played','previous_average', 'previous_strike_rate', 'previous_economy','previous_wicket_hauls']]
         bowl_targets = bowl_match_details.loc[:,['wickets']]
@@ -80,8 +84,8 @@ def player_performance(param,player_name,opposition=None,venue=None):
     if (param == 1 or param == 3):
         
         #Categorizing Runs
-        bins = [0,30,60,100,250]
-        labels = ["0","1","2","3"]
+        bins = [0,10,30,50,80,120,250]
+        labels = ["0","1","2","3","4","5"]
         bat_targets = pd.cut(bat_targets['runs'],bins,labels=labels,include_lowest=True)
         
         #Classification classes
@@ -180,14 +184,18 @@ def player_performance(param,player_name,opposition=None,venue=None):
             bat_classifier = bat_classifier.fit(bat_features,bat_targets)
             res['bat_prediction'] = bat_classifier.predict(predict_bat_features)
  
+        bat_runs = {'0':'0-10','1':'11-30','2':'31-50','3':'51-80','4':'81-120','5':'121-250'}
+        [0,10,30,50,80,120,250]
+        res['bat_prediction'] = bat_runs[res['bat_prediction'][0]]
+
         print('Batting Prediction Ends!')
 
     #BowlerPrediciton 
     if (param == 2 or param == 3):
         
         #Categorizing Runs
-        bins = [0,1,3,6,10]
-        labels = ['0','1','2','3']
+        bins = [0,1,3,5,7,10,11]
+        labels = ['0','1','2','3','4','5']
         bowl_targets = pd.cut(bowl_targets['wickets'],bins,right=False,labels=labels,include_lowest=True)
 
         #Classification classes
@@ -267,9 +275,9 @@ def player_performance(param,player_name,opposition=None,venue=None):
             #XGBoost
         if bowl_best_score[1] == 'xgb':
             if classes_bowl > 2:
-                classifier = XGBclassifier(objective='multi:softmax',n_estimators=bowl_best_params['n_estimators'],learning_rate=bowl_best_params['learning_rate'],booster=bowl_best_params['booster'],verbosity=0,silent=True)
+                classifier = XGBClassifier(objective='multi:softmax',n_estimators=bowl_best_params['n_estimators'],learning_rate=bowl_best_params['learning_rate'],booster=bowl_best_params['booster'],verbosity=0,silent=True)
             else:
-                classifier = XGBclassifier(objective='binary:logistic',min_leaf_samples=1,n_estimators=bowl_best_params['n_estimators'],learning_rate=bowl_best_params['learning_rate'],booster=bowl_best_params['booster'],verbosity=0,silent=True)
+                classifier = XGBClassifier(objective='binary:logistic',min_leaf_samples=1,n_estimators=bowl_best_params['n_estimators'],learning_rate=bowl_best_params['learning_rate'],booster=bowl_best_params['booster'],verbosity=0,silent=True)
             classifier = classifier.fit(bowl_features,bowl_targets)
             res['bowl_prediction'] = classifier.predict(predict_bowl_features)
             #RandomForestClassifier
@@ -286,6 +294,9 @@ def player_performance(param,player_name,opposition=None,venue=None):
             classifier = classifier.fit(bowl_features,bowl_targets)
             res['bowl_prediction'] = classifier.predict(predict_bowl_features)
         
+        bowl_wickets = {'0':'0','1':'1-2','2':'3-4','3':'5-6','4':'7-9','5':'10'}
+        res['bowl_prediction'] = bowl_wickets[res['bowl_prediction'][0]]
+
         print('Bowling Prediction Ends!')
 
     return res
