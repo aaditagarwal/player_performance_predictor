@@ -263,17 +263,17 @@ def player_performance(param,player_name,opposition=None,venue=None):
                 #RandomForestClassifier
             bowl_gridsearch_rfc = GridSearchCV(estimator=bowl_rfc,param_grid=bowl_parameters_rfc,scoring='accuracy',cv=2)
             bowl_gridresult_rfc = bowl_gridsearch_rfc.fit(bowl_features,bowl_targets)
-            bowl_score, bowl_params = gridsearchcv_results(bat_gridresult_rfc.cv_results_)
+            bowl_score, bowl_params = gridsearchcv_results(bowl_gridresult_rfc.cv_results_)
             if bowl_score > bowl_best_score[0]:
                 bowl_best_score, bowl_best_params = [bowl_score, 'rfc'], bowl_params
                 #SupportVectorMachine
             bowl_gridsearch_svc = GridSearchCV(estimator=bowl_svc,param_grid=bowl_parameters_svc,scoring='accuracy',cv=2)
             bowl_gridresult_svc = bowl_gridsearch_svc.fit(bowl_features,bowl_targets)
-            bowl_score, bowl_params = gridsearchcv_results(bat_gridresult_svc.cv_results_)
+            bowl_score, bowl_params = gridsearchcv_results(bowl_gridresult_rfc.cv_results_)
             if bowl_score > bowl_best_score[0]:
                 bowl_best_score, bowl_best_params = [bowl_score, 'svc'], bowl_params
 
-            print(f'The bowling prediction accuracy={bowl_best_score[0]} with classifier={bowl_best_score[1]}')
+            print(f'The bowling prediction accuracy={bowl_best_score[0]} with classifier={bowl_best_score[1].upper()}')
 
             print('Bowling Prediction begins...')
 
