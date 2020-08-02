@@ -184,11 +184,8 @@ def player_performance(param,player_name,opposition=None,venue=None):
             bat_classifier = bat_classifier.fit(bat_features,bat_targets)
             res['bat_prediction'] = bat_classifier.predict(predict_bat_features)
     
-        print(res['bat_prediction'])
         bat_runs = {'0':'0-10','1':'11-30','2':'31-50','3':'51-80','4':'81-120','5':'121-250'}
-        [0,10,30,50,80,120,250]
         res['bat_prediction'] = bat_runs[res['bat_prediction'][0]]
-        print(bat_runs[res['bat_prediction'][0]])
 
         print('Batting Prediction Ends!')
 
@@ -296,10 +293,8 @@ def player_performance(param,player_name,opposition=None,venue=None):
             classifier = classifier.fit(bowl_features,bowl_targets)
             res['bowl_prediction'] = classifier.predict(predict_bowl_features)
         
-        print(res['bowl_prediction'])
         bowl_wickets = {'0':'0','1':'1-2','2':'3-4','3':'5-6','4':'7-9','5':'10'}
         res['bowl_prediction'] = bowl_wickets[res['bowl_prediction'][0]]
-        print(bowl_wickets[res['bowl_prediction'][0]])
 
         print('Bowling Prediction Ends!')
 
