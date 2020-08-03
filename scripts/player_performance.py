@@ -195,7 +195,7 @@ def player_performance(param,player_name,opposition=None,venue=None):
             print('NO Batting Prediction')
 
     else:
-        print('NO Batting Prediction')
+        print('No Batting Prediction')
 
     #BowlerPrediciton 
     if (param == 2 or param == 3):
@@ -312,6 +312,6 @@ def player_performance(param,player_name,opposition=None,venue=None):
             print('NO bwoling prediction')
     
     else:
-        print('NO bwoling prediction')
+        print('No bowling prediction')
 
     return res
